@@ -1,1 +1,1037 @@
-window.COURSE={"modules": [{"id": 1, "pages": [{"title": "Module 1 Understanding behaviour and your response", "blocks": [{"type": "p", "text": "Time: 9 minutes total. Read and reflect for 5 minutes; complete the activity for 4 minutes. Outcome: anticipate difficulty and obtain support before handling becomes unsafe."}, {"type": "h", "text": "Read or listen"}, {"type": "p", "text": "Young children may cry, bite, kick, run away or refuse an instruction. Their behaviour may communicate tiredness, pain, fear, sensory overload or a need they cannot explain. A child’s distress does not give an adult permission to hurt or frighten them."}, {"type": "p", "text": "Notice your own warning signs: a raised voice, clenched hands, repeated commands or the thought “I will make you”. Pause. Keep the child and the group safely supervised. Ask a colleague to take over and confirm that they have done so before stepping away."}, {"type": "p", "text": "If you are alone, call for assistance while maintaining supervision. Do not leave children unattended to calm yourself. If someone is in immediate danger, obtain help and take the necessary protective action described in Module 3."}, {"type": "h", "text": "Words and actions to use"}, {"type": "li", "text": "Get to a comfortable level without crowding the child. Use a calm voice and short sentences."}, {"type": "li", "text": "Acknowledge the feeling: “You wanted more time outside.”"}, {"type": "li", "text": "Give a clear, manageable next step: “We are going inside. Would you like to walk beside me or beside Sam?”"}, {"type": "li", "text": "Allow time to respond. Reduce noise or the audience where possible."}, {"type": "li", "text": "Ask a colleague: “I need you to take over. I am becoming frustrated.”"}, {"type": "p", "text": "Adapt your language and expectations to the child’s development, communication and support needs. A child who does not understand an instruction needs support, not a stronger grip. Use agreed visual cues or the child’s support plan where appropriate."}, {"type": "h", "text": "Practice scenario"}, {"type": "p", "text": "A four-year-old lies on the playground and refuses to come inside. There is no immediate danger. You have asked three times and feel angry. What is the best next action?"}, {"type": "li", "text": "A. Pull the child upright and insist they walk."}, {"type": "li", "text": "B. Keep supervision, use a calm next step and ask for support."}, {"type": "li", "text": "C. Leave the child outside to teach them a lesson."}, {"type": "h", "text": "Feedback after selection"}, {"type": "p", "text": "B is correct. Frustration is a signal to change the adult response. Pulling the child or leaving them alone creates further risk. A supervised pause, simple choices and support are appropriate alternatives."}, {"type": "p", "text": "Before continuing, identify how you would summon help in your classroom or outdoor area."}, {"type": "p", "text": "Policy basis: Behaviour Policy, section 10, Junior School behaviour strategies; Health Safety Safeguarding Policy Framework, section 3.2."}]}, {"title": "Module 1 Applying a calmer approach", "blocks": [{"type": "h", "text": "Look at what happened before the behaviour"}, {"type": "p", "text": "Developmentally appropriate expectations matter. A young child may need help managing a transition or expressing disappointment, even when they could manage the same situation yesterday. Consider the environment, the instruction and the support available. Do not label a child as manipulative or assume a diagnosis from one incident."}, {"type": "p", "text": "Ask yourself: Was the instruction understood? Was the activity too long? Was there a sudden change, a noisy space or an uncomfortable task? What has helped this child before? Observation should guide support; it must never become a reason to delay reporting suspected harm."}, {"type": "p", "text": "Prevent avoidable conflict by preparing transitions, using a short visual or verbal cue, reducing unnecessary waiting and planning who supports a child who needs more time. When a pattern recurs, seek a reviewed support plan with the relevant school staff and family. Do not create an informal routine of physically moving the child every day."}, {"type": "h", "text": "Activity 1 Rework the response"}, {"type": "p", "text": "Spend four minutes on this fictional case. A three-year-old covers their ears during tidy-up music and pushes a box away. The adult says, “You know what to do. Stop being silly.” The child retreats under a table. The adult begins reaching in to pull them out. Nobody is in immediate danger."}, {"type": "li", "text": "Identify two possible features of the situation that the adult should consider without diagnosing the child."}, {"type": "li", "text": "Write one calm sentence the adult could use and two actions that could reduce escalation."}, {"type": "li", "text": "Explain how supervision will be maintained if the adult needs a colleague to take over."}, {"type": "li", "text": "Name one change to the next tidy-up routine that could prevent a repeat."}, {"type": "p", "text": "Write brief responses before opening the feedback. Use only the fictional facts. These responses are completion evidence and support discussion, rather than a scored diagnostic test."}, {"type": "h", "text": "Model feedback after responding"}, {"type": "p", "text": "The music and the transition are possible contributors. A suitable response might be: “The music is off. I am here. We can tidy one thing together when you are ready.” Keep a safe distance, reduce the noise and allow time. Ask for support while maintaining supervision. Confirm who has taken over before stepping away."}, {"type": "p", "text": "For the next transition, use advance notice and an agreed visual cue, with a colleague available if needed. The key change is to make participation manageable, not to overpower the child. A different safe response may also be appropriate; staff should explain how it addresses this situation."}, {"type": "h", "text": "Personal practice commitment"}, {"type": "p", "text": "Complete: “When I notice __________ in myself, I will __________ while ensuring __________ remains supervised.” Ask your leader to clarify the help or handover process if you cannot answer this."}, {"type": "p", "text": "Policy basis: Behaviour Policy, section 10; Framework, section 3.2. The case study and reflective activity are new training material."}]}]}, {"id": 2, "pages": [{"title": "Module 2 Appropriate physical contact", "blocks": [{"type": "p", "text": "Time: 8 minutes total. Read for 4 minutes; complete the activity for 4 minutes. Outcome: distinguish supportive care from restrictive, punitive or unnecessary contact."}, {"type": "h", "text": "Read or listen"}, {"type": "p", "text": "Young children may need comfort, help dressing, toileting support, first aid or assistance with equipment. Appropriate physical contact can be a valuable part of care. Explain what you are doing, attend to the child’s response and use only the contact needed for that purpose."}, {"type": "p", "text": "Where a child can express a preference, offer a choice and respect reluctance. A child who does not want a cuddle may prefer you to sit nearby. Silence or lack of resistance does not automatically mean a child is comfortable."}, {"type": "h", "text": "Appropriate when the circumstances support it"}, {"type": "li", "text": "Offering a hand to a child who wants support walking."}, {"type": "li", "text": "Providing reassurance that the child welcomes."}, {"type": "li", "text": "Helping with clothing or equipment while encouraging independence."}, {"type": "li", "text": "Providing necessary first aid or agreed personal care within your training."}, {"type": "h", "text": "Pause and reassess"}, {"type": "p", "text": "Picking up a resisting child, holding an arm to prevent movement or physically separating children can become restrictive. Ask what risk exists, whether contact is necessary, and whether a safer alternative is available. Convenience, adult frustration or a timetable alone are not sufficient reasons for restrictive handling under this proposed Early Years standard."}, {"type": "h", "text": "Unacceptable handling"}, {"type": "li", "text": "Hitting, smacking, shaking, pinching or deliberately causing pain."}, {"type": "li", "text": "Dragging or yanking a child to obtain compliance."}, {"type": "li", "text": "Pushing a child into a chair, roughly lifting or putting them down."}, {"type": "li", "text": "Holding a child down as punishment or threatening physical punishment."}, {"type": "li", "text": "Using physical contact to frighten, humiliate or express anger."}, {"type": "p", "text": "An absence of visible marks does not make rough handling acceptable. A colleague’s seniority, a parent’s agreement or “we have always done it this way” does not excuse punitive treatment."}, {"type": "h", "text": "Practice scenario and feedback"}, {"type": "p", "text": "A distressed child turns away when you offer a cuddle. Should you A: hold them tightly until they settle, B: insist that they stop crying, or C: stay nearby and offer another form of reassurance?"}, {"type": "p", "text": "C is correct. Respond to the child’s cues and offer calm support. Comfort must not become unwanted restraint. Reassess and seek help if a safety risk develops."}, {"type": "p", "text": "Policy basis: Restraint Policy, sections 2, 4 and 6; Intimate Care and Nappy Policy, introduction and section 3; Behaviour Policy, section 10."}]}, {"title": "Module 2 Judging the purpose of contact", "blocks": [{"type": "h", "text": "Ask what the contact is doing"}, {"type": "p", "text": "The same description, such as “holding an arm”, may hide very different actions. Consider the purpose, the force used, the child’s response, the duration and the alternatives. Support that the child accepts can become restraint if the adult tightens their grip to prevent the child moving away."}, {"type": "p", "text": "Do not rely on the adult’s stated intention alone. “I was helping” is not enough if the action was rough or unnecessary. Equally, appropriate care should not be withheld because staff fear all physical contact. Explain, notice the child’s cues and adjust. If the child uses gestures, pictures or other communication, attend to those signals too."}, {"type": "h", "text": "Professional boundaries in everyday routines"}, {"type": "p", "text": "Provide comfort in the usual supervised setting. Do not ask a child to keep physical contact secret, offer special privileges in exchange for affection or insist on hugs. Follow the school’s boundaries and care arrangements. A familiar relationship does not remove the child’s right to dignity."}, {"type": "p", "text": "In routine lifting and movement, work within training and agreed care arrangements. Do not lift, swing or move a child by pulling an arm or clothing. If moving a resisting child seems necessary, reassess the actual safety need and obtain support. This course does not provide lifting or restraint instruction."}, {"type": "h", "text": "Activity 2 Classify and explain"}, {"type": "p", "text": "Spend four minutes assigning each example one of three responses: supportive contact; pause and reassess; or unacceptable conduct that must be addressed and reported. Give a reason and a safe next action. The explanation matters more than the label."}, {"type": "li", "text": "1. A crying child asks a familiar adult to hold their hand. The adult does so in the supervised classroom and lets go when the child is ready."}, {"type": "li", "text": "2. An adult holds a child on their lap after the child wriggles away, saying, “You will stay until you stop crying.”"}, {"type": "li", "text": "3. A child has fallen on equipment. An adult considers helping them down but is unsure whether moving them could worsen an injury."}, {"type": "li", "text": "4. An adult pulls a child by their clothing into the lunch line because the group is late."}, {"type": "h", "text": "Feedback after responding"}, {"type": "p", "text": "1: Supportive, provided the contact remains welcome and appropriate. 2: Unacceptable coercive contact in the circumstances described; stop safely, support the child and report. 3: Pause, assess the immediate risk and obtain appropriate first-aid assistance; do not improvise a movement technique. 4: Unacceptable handling for convenience; address the child’s welfare and report the concern."}, {"type": "p", "text": "When facts are incomplete, name the information you need. Uncertainty is a reason to obtain help, not to dismiss a concern or assume permission to use force."}, {"type": "p", "text": "Policy basis: Restraint Policy, sections 2, 4 and 6; Intimate Care policy, introduction and section 3. Boundary examples are additional training guidance for review."}]}]}, {"id": 3, "pages": [{"title": "Module 3 Responding to danger", "blocks": [{"type": "p", "text": "Time: 10 minutes total. Read for 5 minutes; complete reflection A for 5 minutes. Outcome: explain a protective response and its limits."}, {"type": "h", "text": "The proposed Early Years threshold"}, {"type": "p", "text": "Refusal alone does not justify restraint. For this course, restrictive physical intervention is a last resort where necessary to prevent harm, using the least force necessary for the shortest time. The policy owner must approve this stricter course standard before launch because the 2019 policy also refers to property damage and disorder."}, {"type": "h", "text": "Before intervening"}, {"type": "p", "text": "Where time permits, use calm words, allow space, reduce triggers, move other children away and summon help. Explain or warn the child before contact where practicable. In an immediate emergency, do not delay necessary protection to complete a sequence of verbal steps."}, {"type": "p", "text": "For example, if a child runs towards traffic, act to prevent them entering danger. If a child refuses to sit for story time and nobody is at risk of harm, adjust the approach and obtain support rather than force them into place."}, {"type": "h", "text": "During an intervention"}, {"type": "li", "text": "Keep the response necessary and proportionate to the actual risk. Reduce and end contact as soon as it is safe."}, {"type": "li", "text": "Never restrain by the head or neck. Never use a method that compromises breathing."}, {"type": "li", "text": "Do not improvise holds, pin a child down or practise restraint techniques from this online course."}, {"type": "li", "text": "The supplied policy bans the double seated embrace, double basket hold and nose distraction technique. These are named as prohibitions, not taught here."}, {"type": "li", "text": "Use approved practical training and individual support arrangements where relevant. A support plan never authorises punishment."}, {"type": "h", "text": "After any use of force"}, {"type": "p", "text": "Check the child’s wellbeing, obtain first aid or urgent medical assistance as needed, and provide calm support. Report immediately to the Designated Safeguarding Lead, who reports to the Principal under the supplied policy. Complete the factual record promptly. If the handling itself was concerning, also use the staff-concern reporting route in Module 5."}, {"type": "p", "text": "The school must arrange parent communication. The supplied policy says Early Years parents are informed the same day or as soon as reasonably practicable. The responsible safeguarding leader coordinates any safeguarding-related restrictions or agency advice. Staff must not agree to conceal an incident."}, {"type": "h", "text": "Practice scenario and feedback"}, {"type": "p", "text": "A child suddenly runs towards an open gate leading to a road. A: wait for three warnings, B: take necessary protective action and call for help, or C: use force afterwards to teach a lesson?"}, {"type": "p", "text": "B is correct. Prevent the immediate harm, end restrictive contact once safe, check wellbeing, report and record. The emergency does not justify punishment afterwards."}, {"type": "p", "text": "Policy basis: Restraint Policy, sections 1 to 5 and 7. The harm-prevention threshold and emergency clarification above are proposed course rules for approval, not verbatim policy."}]}, {"title": "Module 3 Making and explaining a decision", "blocks": [{"type": "h", "text": "Prevention is part of the response"}, {"type": "p", "text": "Before busy transitions, check the environment and agree staff positions, supervision and the method for calling assistance. An unsafe gate or predictable conflict should prompt action before a crisis. Repeated incidents require review of arrangements, not acceptance that restraint is part of the routine."}, {"type": "p", "text": "If a child is distressed near other children, consider whether the others can be moved safely. If an object creates a risk, consider whether access can be reduced without creating a greater danger. Do not approach so closely or issue so many commands that the interaction itself becomes a struggle."}, {"type": "h", "text": "Reflection A Protective decision"}, {"type": "p", "text": "Allow five minutes. All names and events are fictional. During tidy-up, Alex refuses to put down a hard wooden block. Alex is not threatening anyone. An adult says, “Give it to me now or I will make you.” Another child reaches towards the block. Alex then raises it above that child’s head. A colleague is nearby and an open space is available. Nobody has yet been struck."}, {"type": "p", "text": "Write five to eight sentences explaining: (1) your response before the block is raised; (2) what changes when another child is at immediate risk; (3) what limits apply if physical intervention is necessary; and (4) the follow-up. Do not describe a restraint hold. State what you would do, why, and who you would contact."}, {"type": "p", "text": "Save your response before viewing the model. In this automated pilot, written responses are required reflections and are not graded. Compare your reasoning with the feedback and discuss any uncertainty with your school safeguarding lead."}, {"type": "h", "text": "Model feedback released after submission"}, {"type": "p", "text": "Before the threat, reduce confrontation, use calm language and allow time; refusal alone does not justify force. When the block is raised, protect the other child and summon the colleague. Move others to safety if that can be done in time. If physical intervention is necessary to prevent harm, it must be proportionate, use no more force than needed and end as soon as safe. Do not improvise a hold or use punishment."}, {"type": "p", "text": "Check the children’s wellbeing, obtain first aid if needed and reassure them. Report any force immediately to the DSL and complete a factual record. Report concerning adult conduct through the staff-concern route. The school coordinates parent communication. Review the transition and support arrangements afterwards."}, {"type": "h", "text": "Afterwards do not seek compliance through an apology"}, {"type": "p", "text": "A child may remain upset once the immediate danger has passed. Provide calm, supervised recovery time. Do not continue restriction until the child apologises, promise to keep the incident quiet, or tell witnesses what to write. Later teaching about safer behaviour should happen when the child can participate meaningfully."}, {"type": "p", "text": "Policy basis: Restraint Policy, sections 1 to 5; Behaviour Policy, section 10. The case applies the proposed stricter Early Years threshold described in the review notes."}]}]}, {"id": 4, "pages": [{"title": "Module 4 Dignity during intimate care", "blocks": [{"type": "p", "text": "Time: 9 minutes total. Read for 5 minutes; complete the activity for 4 minutes. Outcome: protect dignity, respond to distress and arrange necessary care."}, {"type": "h", "text": "Read or listen"}, {"type": "p", "text": "Toileting, nappy changing and changing soiled clothing are care tasks. They are never punishments. Explain each step in simple language, encourage the child to do what they can independently and use the minimum contact needed."}, {"type": "p", "text": "Follow the agreed care plan, hygiene procedures and training. Prepare supplies so care is not rushed. Do not leave a child unattended on a changing surface. If you need assistance, summon it safely."}, {"type": "h", "text": "Privacy with appropriate oversight"}, {"type": "p", "text": "The supplied Intimate Care policy requires another member of staff to know that care is taking place and prohibits changing or cleaning a child behind a closed door. Use the designated care area and protect the child from being exposed to other children or passers-by. Leaders must ensure that the layout supports both privacy and this oversight requirement."}, {"type": "p", "text": "Do not take intimate photographs or use personal devices to record care. Report any concern through the approved safeguarding process. Do not show the child to unnecessary observers."}, {"type": "h", "text": "When a child says no or becomes distressed"}, {"type": "p", "text": "Pause the task where safe, reassure the child and find out what support is needed without pressing for an explanation. Offer a simple choice, such as doing a manageable step themselves or having their familiar key person assist. Seek help and follow the care plan. Do not turn care into a physical struggle."}, {"type": "p", "text": "A pause does not mean abandoning necessary care or leaving a child soiled indefinitely. A responsible colleague should help plan prompt, respectful care. If there is an urgent health or safety concern, obtain appropriate medical or safeguarding advice and act on the immediate need."}, {"type": "h", "text": "Practice scenario"}, {"type": "p", "text": "A child needs changing after a toileting accident and says “No, don’t.” What should you do?"}, {"type": "li", "text": "A. Hold them still so you can finish quickly."}, {"type": "li", "text": "B. Pause safely, reassure them, offer choices and obtain appropriate support."}, {"type": "li", "text": "C. Tell the whole class what happened so the child cooperates."}, {"type": "h", "text": "Feedback after selection"}, {"type": "p", "text": "B is correct. Distress must be addressed. Neither force for convenience nor public embarrassment is acceptable. Record and report unusual incidents or concerns promptly, including who was present and the action taken."}, {"type": "p", "text": "Policy basis: Intimate Care and Nappy Policy, introduction and sections 2 to 5. Personal-device and urgent-care wording is additional course guidance for approval."}]}, {"title": "Module 4 Planning care around the child", "blocks": [{"type": "h", "text": "Know the care arrangements before starting"}, {"type": "p", "text": "Staff providing intimate care need the relevant induction, practical training and access to the current care plan. Temporary staff should be shown the procedure and appropriately monitored. Do not assume a new assistant knows a child’s routine or that a colleague has already explained it."}, {"type": "p", "text": "Agree language and support with the key person and family where appropriate. Consider communication, cultural and individual needs without making assumptions. Encourage manageable independence, such as a child lowering their own clothing, while keeping necessary support available. A care plan should be reviewed when care repeatedly causes distress."}, {"type": "p", "text": "Follow hygiene and medication procedures. The supplied template requires consent for nappy cream and specific arrangements for prescribed cream. Do not substitute an unfamiliar product or apply medication outside the authorised procedure. The detailed changing procedure remains in the source policy and requires practical induction."}, {"type": "h", "text": "Activity 3 Care without coercion"}, {"type": "p", "text": "Spend four minutes on this fictional case. A newly appointed assistant is asked to change a distressed child. The child’s key person is elsewhere on site. The assistant has not seen the care plan. The designated area can be screened from passers-by while its door remains open. Another adult says, “Hold their hands; we cannot waste time.”"}, {"type": "li", "text": "Identify what needs to be checked before care starts and who can assist."}, {"type": "li", "text": "Write the words you would use with the child."}, {"type": "li", "text": "Describe how you will preserve privacy and appropriate staff awareness."}, {"type": "li", "text": "Explain what you will do if distress continues and how you will address the colleague’s suggestion."}, {"type": "h", "text": "Feedback after responding"}, {"type": "p", "text": "Obtain the current care plan and support from a trained, familiar colleague or the key person. Do not leave the child unsupervised while looking for them. Explain the next step simply, offer manageable choices and avoid rushing. Use the designated screening and ensure a colleague knows care is happening, without closing the door contrary to the supplied policy."}, {"type": "p", "text": "If the child remains distressed, pause safely and seek a supported plan for timely care. Do not restrain the child for convenience or leave them soiled indefinitely. The suggestion of coercive handling must be addressed through the appropriate reporting route, rather than accepted as normal practice. Record unusual incidents and concerns."}, {"type": "h", "text": "Notice concerns without investigating"}, {"type": "p", "text": "Report unexpected pain, marks, fear of a particular adult or a child’s concerning words. These observations do not establish the cause. Record what you saw or heard, obtain appropriate care and report promptly. Do not question the child repeatedly or photograph intimate areas as your own evidence-gathering exercise."}, {"type": "p", "text": "Policy basis: Intimate Care and Nappy Policy, introduction and sections 2 to 5; Global Safeguarding Policy, section 5."}]}]}, {"id": 5, "pages": [{"title": "Module 5 Reporting and recording concerns", "blocks": [{"type": "p", "text": "Time: 11 minutes total. Read for 6 minutes; complete reflection B for 5 minutes. Outcome: record facts and use an effective reporting route."}, {"type": "h", "text": "When you witness concerning handling"}, {"type": "p", "text": "If safe, interrupt calmly and obtain assistance: “I will take over here. Please call for support.” Protect and reassure the child. Do not place yourself or others at further risk. Report immediately even if there is no visible injury, the adult apologises or someone says that the child is difficult."}, {"type": "p", "text": "You do not need to establish whether abuse occurred before reporting. Do not conduct your own investigation, confront the colleague to obtain a confession or agree a shared account with witnesses."}, {"type": "h", "text": "Use the correct route"}, {"type": "li", "text": "A concern about a child: contact the DSL or designated deputy promptly through the school’s procedure."}, {"type": "li", "text": "A concern about a staff member’s handling: the supplied Safeguarding Policy directs immediate reporting to the Principal. Use the approved local staff-allegation route and obtain DSL support for the child."}, {"type": "li", "text": "A concern about the Principal: use the independent escalation contact. The supplied policy names the Chair of Governors. Do not send it only to the person implicated."}, {"type": "li", "text": "If the normal recipient is unavailable or no protective action follows: escalate through the approved alternative route. An unacknowledged message is not enough when a child remains at risk."}, {"type": "li", "text": "Immediate danger or serious injury: obtain urgent assistance through the school’s emergency arrangements."}, {"type": "p", "text": "Before launch, the school must replace these role descriptions with current names, contact details and the applicable local external reporting route. Do not assume UK roles in the source policy apply in every country."}, {"type": "h", "text": "If a child tells you about harm"}, {"type": "p", "text": "Listen calmly. Say: “Thank you for telling me. I will get help.” Do not promise secrecy or ask leading questions such as “Did she hurt you because you were naughty?” Ask only what is needed to understand an immediate safety need, then report. Do not ask the child to repeat the account to several adults."}, {"type": "h", "text": "Make a factual record"}, {"type": "p", "text": "Record the date, time, place, people present, what you saw or heard, the child’s exact words, the contact used and its duration if known, visible effects, actions taken and who received the report and when. Sign and date it. Distinguish observation from inference. Use the secure school record, not a staff group chat or the training quiz."}, {"type": "h", "text": "Practice scenario and feedback"}, {"type": "p", "text": "A colleague pulls a child sharply by the arm. They say the child is fine and ask you not to report. Report or leave it? Report immediately, protect the child and record your own observations. A colleague’s reassurance does not remove your responsibility."}, {"type": "p", "text": "Policy basis: Global Safeguarding Policy, section 5 and staff-concern procedures; Global Code of Conduct, printed page 5; Framework, section 3.2."}]}, {"title": "Module 5 Evidence and professional responsibility", "blocks": [{"type": "h", "text": "Reporting your own conduct"}, {"type": "p", "text": "If you handled a child roughly or used more force than intended, stop as soon as safe, obtain support for the child and report your own actions promptly. Give a full and factual account. Do not minimise the contact, ask the child to reassure you or pressure witnesses. The school will decide the protective and employment steps through the appropriate process."}, {"type": "p", "text": "If a colleague says “telling will get someone into trouble”, return to the child’s safety and your reporting duty. Respectful reporting and fair treatment of staff can coexist. You report observations; the authorised process determines what happened. Keep information within the safeguarding route rather than discussing the allegation socially."}, {"type": "h", "text": "Reflection B Record and escalate"}, {"type": "p", "text": "Allow five minutes. This scenario is fictional. At 10:15 on 1 October 2026, in the indoor play area, you see an assistant take Mia’s left upper arm and pull her from a seated position to standing. Mia says, “That hurts,” and begins crying. You hear the assistant say, “She is fine. Do not make a fuss.” You offer support and ask a colleague to call the safeguarding lead. You do not know whether Mia is injured. The Principal is away from site."}, {"type": "p", "text": "Write a factual record of approximately 80 to 120 words, then add who you would contact and what you would do if your first report was not acknowledged. Include your name as a placeholder and distinguish actions described in the scenario from actions you would take next. Do not invent a bruise, duration of contact, motive or outcome."}, {"type": "p", "text": "Save before opening the model. Use your school’s existing staff-concern route. If you do not know the contact, obtain it from your school. This course is not a route for reporting real incidents. Written reflections are completed but not assessed in the pilot."}, {"type": "h", "text": "Model record and next steps"}, {"type": "p", "text": "“At 10:15 on 1 October 2026, in the indoor play area, I saw the assistant take Mia’s left upper arm and pull her from sitting to standing. Mia said, ‘That hurts,’ and began crying. I heard the assistant say, ‘She is fine. Do not make a fuss.’ I offered support and asked a colleague to call the safeguarding lead. I do not know whether Mia is injured. Recorded by [name] at [actual recording time].”"}, {"type": "p", "text": "Next steps: arrange a wellbeing check and appropriate first aid, report promptly through the approved staff-concern route and obtain DSL support. Record the actual recipient, reporting time and response when known. With the Principal away, use the confirmed alternative; if the concern is unacknowledged and safety remains at risk, escalate without waiting for the Principal’s return."}, {"type": "h", "text": "Make the route usable"}, {"type": "p", "text": "Before completing the course, locate the DSL and deputy contact, staff-allegation contact, independent escalation contact, emergency procedure and secure recording method. Practise finding them on the device or noticeboard you would actually use at work. This check is part of the module’s reading and application time."}, {"type": "p", "text": "Policy basis: Global Safeguarding Policy, section 5 and staff-allegation procedures; Global Code of Conduct, printed page 5; Framework, section 3.2."}]}]}], "questions": [{"q": "A child refuses to sit for story time. Nobody is in danger. What should you do?", "options": ["Force the child into a chair.", "Use a calm alternative, allow time and seek support.", "Hold the child until they agree."], "answer": 1, "critical": false, "why": "Refusal alone is not a reason for restrictive handling under the proposed course standard."}, {"q": "You feel close to losing your temper. What should you do?", "options": ["Leave the group immediately without a handover.", "Grip the child more firmly.", "Maintain supervision and request a colleague to take over."], "answer": 2, "critical": false, "why": "Keep children supervised and confirm a safe handover before stepping away."}, {"q": "A colleague says a small smack will teach a child not to bite. What is the correct response?", "options": ["Physical punishment is unacceptable; protect the child and report the concern.", "It is acceptable if it leaves no mark.", "It is acceptable with parental permission."], "answer": 0, "critical": true, "why": "Force must never be used as punishment."}, {"q": "A child turns away when you offer a cuddle. What is the best response?", "options": ["Hold the child tightly until calm.", "Offer another form of reassurance and respect their cues.", "Ignore the child for the rest of the morning."], "answer": 1, "critical": false, "why": "Supportive contact should respond to the child’s needs and cues."}, {"q": "A child runs towards an open gate leading to traffic. What should you do?", "options": ["Wait for three warnings before acting.", "Physically punish the child after stopping them.", "Take necessary protective action, end restriction once safe, then check, report and record."], "answer": 2, "critical": false, "why": "Immediate danger calls for necessary protection and proper follow-up, never punishment."}, {"q": "During protective intervention, which statement is correct?", "options": ["You may restrain by the neck if it is brief.", "Never restrain by the head or neck or compromise breathing.", "Pain is an acceptable way to obtain cooperation."], "answer": 1, "critical": true, "why": "The policy prohibits head or neck restraint. Protect breathing and do not use pain for compliance."}, {"q": "The immediate danger has ended. What should happen to restrictive contact?", "options": ["Continue until the child apologises.", "Continue for a fixed period.", "Reduce and end it as soon as it is safe."], "answer": 2, "critical": false, "why": "Duration must be tied to necessity, not to an apology or punishment."}, {"q": "A child becomes distressed and says no during changing. What should you do?", "options": ["Pause safely, reassure, offer choices and obtain support for necessary care.", "Hold the child down to finish quickly.", "Leave the child soiled for the rest of the day."], "answer": 0, "critical": true, "why": "Address distress while arranging prompt and dignified care."}, {"q": "Which arrangement matches the supplied intimate care policy?", "options": ["Close the door and tell nobody.", "Let other children watch.", "Use the designated area, alert a colleague, keep the door unclosed and protect privacy."], "answer": 2, "critical": false, "why": "The source requires colleague awareness and no closed door, alongside privacy and dignity."}, {"q": "You witness rough pulling but see no injury. What should you do?", "options": ["Wait for a parent to complain.", "Report immediately and record your observations.", "Let it go if the colleague apologises."], "answer": 1, "critical": true, "why": "Visible injury is not a prerequisite for reporting concerning handling."}, {"q": "A child says an adult hurt them and asks you to keep it secret. What should you say?", "options": ["I promise not to tell anyone.", "Are you sure you were not being naughty?", "Thank you for telling me. I need to get help to keep you safe."], "answer": 2, "critical": true, "why": "Listen, do not promise secrecy, avoid leading questions and report."}, {"q": "The concern is about the Principal. What is the appropriate reporting route?", "options": ["The approved independent escalation contact.", "Only the Principal.", "A parent social media group."], "answer": 0, "critical": false, "why": "The supplied policy names the Chair of Governors; the local independent contact must be confirmed."}, {"q": "Which is the best factual record?", "options": ["The adult was obviously evil.", "At 10:15 I saw the adult pull the child by the right arm. The child said “That hurts”.", "The child always exaggerates."], "answer": 1, "critical": false, "why": "Record what you observed and the exact words, with relevant context and action taken."}, {"q": "You used force to prevent injury. The child now appears well. What next?", "options": ["No record is needed.", "Ask a colleague to keep it informal.", "Check wellbeing, report immediately to the DSL and complete the factual record."], "answer": 2, "critical": false, "why": "All uses of force must be reported and recorded; the school arranges parent communication."}, {"q": "Does passing this online course qualify you to perform restraint techniques?", "options": ["No. It confirms course completion, not practical restraint competence.", "Yes, every technique is now authorised.", "Yes, if the child is difficult."], "answer": 0, "critical": false, "why": "Practical skills require appropriate approved training and local arrangements."}, {"q": "A child manages a transition on Monday but becomes distressed on Tuesday. What is the best interpretation?", "options": ["Yesterday proves that the child is deliberately defiant today.", "Consider today’s demands and support needs without assuming the cause.", "The child now requires routine restraint."], "answer": 1, "critical": false, "why": "Observe the context and adapt support; one successful day does not justify coercion on another."}, {"q": "After an incident, a colleague offers to write one account for all witnesses to sign. What should you do?", "options": ["Sign it to show consistency.", "Wait to see whether the parent complains.", "Record your own observations independently through the approved route."], "answer": 2, "critical": false, "why": "Independent factual accounts preserve what each person actually observed."}, {"q": "You realise that you gripped a child more roughly than intended. What should you do?", "options": ["Protect and support the child, obtain help and report your own actions factually.", "Wait to see whether anyone noticed.", "Ask the child to say that you did not hurt them."], "answer": 0, "critical": false, "why": "Prompt self-reporting and child protection are required; intention does not remove the concern."}, {"q": "The Principal is off site and your message about rough handling is unacknowledged. What next?", "options": ["Wait for the next staff meeting.", "Use the approved alternative and escalate according to the immediate risk.", "Send the allegation to all parents."], "answer": 1, "critical": false, "why": "An unacknowledged report does not resolve an ongoing safety concern."}, {"q": "Staff physically move the same resisting child at every transition. What is the appropriate response?", "options": ["Accept it as the routine because it saves time.", "Ask parents to approve the routine instead of reviewing it.", "Report concerns and review the environment, support plan and adult practice."], "answer": 2, "critical": false, "why": "Repeated restrictive handling requires scrutiny and prevention planning; it must not become normal through repetition."}], "reference": [{"title": "Automated pilot completion standard", "blocks": [{"type": "p", "text": "The pilot requires participant details, all five modules, correct quick checks, all written reflections, at least 16/20 on the final quiz, all five critical questions correct and the acknowledgement. Written reflections are ungraded. A PDF certificate is generated locally when all conditions are met."}, {"type": "p", "text": "Pilot certificates confirm online course completion. They do not verify identity independently or certify practical restraint competence. There is no central verification register or automatic email delivery in this edition. Staff can download their full report and a prepared email for the Head."}]}, {"title": "Policy sources and review notes", "blocks": [{"type": "p", "text": "Version 2 expands the initial pack with longer case studies, three applied activities, two assessed written tasks and a 20-question quiz. Sources are the six files supplied for this task. References below identify the sections used; they do not confirm that a document is the latest approved policy. Scenario wording, assessment questions and implementation rules are newly drafted."}, {"type": "h", "text": "Source register"}, {"type": "p", "text": "1. Inspired Global Child Protection and Safeguarding Policy, April 2020. Section 5, Procedures for Dealing with Concerns About a Child; staff-concern reporting paragraph; Arrangements for Dealing with Allegations of Abuse Against Teachers and Other Staff. Supports listening, confidentiality limits, factual recording and escalation. Contains UK-specific agency references."}, {"type": "p", "text": "2. Template Intimate Care and Nappy Policy, July 2020. Introduction and sections 2 to 5. Supports dignity, independence, care plans, colleague awareness, no closed-door care and immediate reporting of unusual incidents."}, {"type": "p", "text": "3. Inspired Behaviour Policy, July 2019. Introduction, physical restraint follow-up and section 10, Junior School Section of the Behaviour Policy. Supports positive strategies, developmentally appropriate expectations and prohibition of corporal punishment and humiliation."}, {"type": "p", "text": "4. Health Safety Safeguarding Policy Framework, September 2019. Sections 3.2 and 3.3 and monitoring provisions. Supports stopping, seeking help, raising concerns and escalation."}, {"type": "p", "text": "5. Inspired Education Holdings Ltd Global Employee Code of Conduct, supplied file titled 19th August(2). The document itself is marked Updated August 2025. Printed page 5 requires immediate reporting of colleague concerns and notes that failure to report could be gross misconduct."}, {"type": "p", "text": "6. Inspired Restraint Policy, July 2019. Sections 1 to 7. Covers exceptional force, proportionality, prohibited methods, permitted circumstances, reporting, parent communication and appropriate ordinary physical contact."}, {"type": "h", "text": "Material editorial decisions"}, {"type": "p", "text": "The course intentionally proposes a narrower Early Years intervention threshold than the broader examples in the 2019 Restraint Policy. It must not be represented as an exact summary of that policy until the policy owner reconciles the difference."}, {"type": "p", "text": "The source says staff should always warn before force. The draft qualifies this where immediate protection cannot safely wait. This is a proposed emergency clarification requiring approval. No restraint manoeuvres are taught."}, {"type": "p", "text": "The course does not repeat section 8’s statement that the complainant must prove an allegation or its assertions about legal defences. These statements need jurisdiction-specific review and must not discourage reporting or imply that staff should determine the truth before raising a concern."}, {"type": "p", "text": "No country-specific legal advice, staffing ratios or statutory reporting deadlines have been established in this pack. Localisation and review are required before use in South Africa, Mauritius or other jurisdictions."}]}]};
+window.COURSE={
+  "modules": [
+    {
+      "id": 1,
+      "pages": [
+        {
+          "title": "Module 1 Understanding behaviour and your response",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Time: 9 minutes total. Read and reflect for 5 minutes; complete the activity for 4 minutes. Outcome: anticipate difficulty and obtain support before handling becomes unsafe."
+            },
+            {
+              "type": "h",
+              "text": "Read or listen"
+            },
+            {
+              "type": "p",
+              "text": "Young children may cry, bite, kick, run away or refuse an instruction. Their behaviour may communicate tiredness, pain, fear, sensory overload or a need they cannot explain. A child’s distress does not give an adult permission to hurt or frighten them."
+            },
+            {
+              "type": "p",
+              "text": "Notice your own warning signs: a raised voice, clenched hands, repeated commands or the thought “I will make you”. Pause. Keep the child and the group safely supervised. Ask a colleague to take over and confirm that they have done so before stepping away."
+            },
+            {
+              "type": "p",
+              "text": "If you are alone, call for assistance while maintaining supervision. Do not leave children unattended to calm yourself. If someone is in immediate danger, obtain help and take the necessary protective action described in Module 3."
+            },
+            {
+              "type": "h",
+              "text": "Words and actions to use"
+            },
+            {
+              "type": "li",
+              "text": "Get to a comfortable level without crowding the child. Use a calm voice and short sentences."
+            },
+            {
+              "type": "li",
+              "text": "Acknowledge the feeling: “You wanted more time outside.”"
+            },
+            {
+              "type": "li",
+              "text": "Give a clear, manageable next step: “We are going inside. Would you like to walk beside me or beside Sam?”"
+            },
+            {
+              "type": "li",
+              "text": "Allow time to respond. Reduce noise or the audience where possible."
+            },
+            {
+              "type": "li",
+              "text": "Ask a colleague: “I need you to take over. I am becoming frustrated.”"
+            },
+            {
+              "type": "p",
+              "text": "Adapt your language and expectations to the child’s development, communication and support needs. A child who does not understand an instruction needs support, not a stronger grip. Use agreed visual cues or the child’s support plan where appropriate."
+            },
+            {
+              "type": "h",
+              "text": "Practice scenario"
+            },
+            {
+              "type": "p",
+              "text": "A four-year-old lies on the playground and refuses to come inside. There is no immediate danger. You have asked three times and feel angry. What is the best next action?"
+            },
+            {
+              "type": "li",
+              "text": "A. Pull the child upright and insist they walk."
+            },
+            {
+              "type": "li",
+              "text": "B. Keep supervision, use a calm next step and ask for support."
+            },
+            {
+              "type": "li",
+              "text": "C. Leave the child outside to teach them a lesson."
+            },
+            {
+              "type": "h",
+              "text": "Feedback after selection"
+            },
+            {
+              "type": "p",
+              "text": "B is correct. Frustration is a signal to change the adult response. Pulling the child or leaving them alone creates further risk. A supervised pause, simple choices and support are appropriate alternatives."
+            },
+            {
+              "type": "p",
+              "text": "Before continuing, identify how you would summon help in your classroom or outdoor area."
+            },
+            {
+              "type": "p",
+              "text": "Policy basis: Behaviour Policy, section 10, Junior School behaviour strategies; Health Safety Safeguarding Policy Framework, section 3.2."
+            }
+          ]
+        },
+        {
+          "title": "Module 1 Applying a calmer approach",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Look at what happened before the behaviour"
+            },
+            {
+              "type": "p",
+              "text": "Developmentally appropriate expectations matter. A young child may need help managing a transition or expressing disappointment, even when they could manage the same situation yesterday. Consider the environment, the instruction and the support available. Do not label a child as manipulative or assume a diagnosis from one incident."
+            },
+            {
+              "type": "p",
+              "text": "Ask yourself: Was the instruction understood? Was the activity too long? Was there a sudden change, a noisy space or an uncomfortable task? What has helped this child before? Observation should guide support; it must never become a reason to delay reporting suspected harm."
+            },
+            {
+              "type": "p",
+              "text": "Prevent avoidable conflict by preparing transitions, using a short visual or verbal cue, reducing unnecessary waiting and planning who supports a child who needs more time. When a pattern recurs, seek a reviewed support plan with the relevant school staff and family. Do not create an informal routine of physically moving the child every day."
+            },
+            {
+              "type": "h",
+              "text": "Activity 1 Rework the response"
+            },
+            {
+              "type": "p",
+              "text": "Spend four minutes on this fictional case. A three-year-old covers their ears during tidy-up music and pushes a box away. The adult says, “You know what to do. Stop being silly.” The child retreats under a table. The adult begins reaching in to pull them out. Nobody is in immediate danger."
+            },
+            {
+              "type": "li",
+              "text": "Identify two possible features of the situation that the adult should consider without diagnosing the child."
+            },
+            {
+              "type": "li",
+              "text": "Write one calm sentence the adult could use and two actions that could reduce escalation."
+            },
+            {
+              "type": "li",
+              "text": "Explain how supervision will be maintained if the adult needs a colleague to take over."
+            },
+            {
+              "type": "li",
+              "text": "Name one change to the next tidy-up routine that could prevent a repeat."
+            },
+            {
+              "type": "p",
+              "text": "Write brief responses before opening the feedback. Use only the fictional facts. These responses are completion evidence and support discussion, rather than a scored diagnostic test."
+            },
+            {
+              "type": "h",
+              "text": "Model feedback after responding"
+            },
+            {
+              "type": "p",
+              "text": "The music and the transition are possible contributors. A suitable response might be: “The music is off. I am here. We can tidy one thing together when you are ready.” Keep a safe distance, reduce the noise and allow time. Ask for support while maintaining supervision. Confirm who has taken over before stepping away."
+            },
+            {
+              "type": "p",
+              "text": "For the next transition, use advance notice and an agreed visual cue, with a colleague available if needed. The key change is to make participation manageable, not to overpower the child. A different safe response may also be appropriate; staff should explain how it addresses this situation."
+            },
+            {
+              "type": "h",
+              "text": "Personal practice commitment"
+            },
+            {
+              "type": "p",
+              "text": "Complete: “When I notice __________ in myself, I will __________ while ensuring __________ remains supervised.” Ask your leader to clarify the help or handover process if you cannot answer this."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pages": [
+        {
+          "title": "Module 2 Appropriate physical contact",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Time: 8 minutes total. Read for 4 minutes; complete the activity for 4 minutes. Outcome: distinguish supportive care from restrictive, punitive or unnecessary contact."
+            },
+            {
+              "type": "h",
+              "text": "Read or listen"
+            },
+            {
+              "type": "p",
+              "text": "Young children may need comfort, help dressing, toileting support, first aid or assistance with equipment. Appropriate physical contact can be a valuable part of care. Explain what you are doing, attend to the child’s response and use only the contact needed for that purpose."
+            },
+            {
+              "type": "p",
+              "text": "Where a child can express a preference, offer a choice and respect reluctance. A child who does not want a cuddle may prefer you to sit nearby. Silence or lack of resistance does not automatically mean a child is comfortable."
+            },
+            {
+              "type": "h",
+              "text": "Appropriate when the circumstances support it"
+            },
+            {
+              "type": "li",
+              "text": "Offering a hand to a child who wants support walking."
+            },
+            {
+              "type": "li",
+              "text": "Providing reassurance that the child welcomes."
+            },
+            {
+              "type": "li",
+              "text": "Helping with clothing or equipment while encouraging independence."
+            },
+            {
+              "type": "li",
+              "text": "Providing necessary first aid or agreed personal care within your training."
+            },
+            {
+              "type": "h",
+              "text": "Pause and reassess"
+            },
+            {
+              "type": "p",
+              "text": "Picking up a resisting child, holding an arm to prevent movement or physically separating children can become restrictive. Ask what risk exists, whether contact is necessary, and whether a safer alternative is available. Convenience, adult frustration or a timetable alone are not sufficient reasons for restrictive handling under this proposed Early Years standard."
+            },
+            {
+              "type": "h",
+              "text": "Unacceptable handling"
+            },
+            {
+              "type": "li",
+              "text": "Hitting, smacking, shaking, pinching or deliberately causing pain."
+            },
+            {
+              "type": "li",
+              "text": "Dragging or yanking a child to obtain compliance."
+            },
+            {
+              "type": "li",
+              "text": "Pushing a child into a chair, roughly lifting or putting them down."
+            },
+            {
+              "type": "li",
+              "text": "Holding a child down as punishment or threatening physical punishment."
+            },
+            {
+              "type": "li",
+              "text": "Using physical contact to frighten, humiliate or express anger."
+            },
+            {
+              "type": "p",
+              "text": "An absence of visible marks does not make rough handling acceptable. A colleague’s seniority, a parent’s agreement or “we have always done it this way” does not excuse punitive treatment."
+            },
+            {
+              "type": "h",
+              "text": "Practice scenario and feedback"
+            },
+            {
+              "type": "p",
+              "text": "A distressed child turns away when you offer a cuddle. Should you A: hold them tightly until they settle, B: insist that they stop crying, or C: stay nearby and offer another form of reassurance?"
+            },
+            {
+              "type": "p",
+              "text": "C is correct. Respond to the child’s cues and offer calm support. Comfort must not become unwanted restraint. Reassess and seek help if a safety risk develops."
+            },
+            {
+              "type": "p",
+              "text": "Policy basis: Restraint Policy, sections 2, 4 and 6; Intimate Care and Nappy Policy, introduction and section 3; Behaviour Policy, section 10."
+            }
+          ]
+        },
+        {
+          "title": "Module 2 Judging the purpose of contact",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Ask what the contact is doing"
+            },
+            {
+              "type": "p",
+              "text": "The same description, such as “holding an arm”, may hide very different actions. Consider the purpose, the force used, the child’s response, the duration and the alternatives. Support that the child accepts can become restraint if the adult tightens their grip to prevent the child moving away."
+            },
+            {
+              "type": "p",
+              "text": "Do not rely on the adult’s stated intention alone. “I was helping” is not enough if the action was rough or unnecessary. Equally, appropriate care should not be withheld because staff fear all physical contact. Explain, notice the child’s cues and adjust. If the child uses gestures, pictures or other communication, attend to those signals too."
+            },
+            {
+              "type": "h",
+              "text": "Professional boundaries in everyday routines"
+            },
+            {
+              "type": "p",
+              "text": "Provide comfort in the usual supervised setting. Do not ask a child to keep physical contact secret, offer special privileges in exchange for affection or insist on hugs. Follow the school’s boundaries and care arrangements. A familiar relationship does not remove the child’s right to dignity."
+            },
+            {
+              "type": "p",
+              "text": "In routine lifting and movement, work within training and agreed care arrangements. Do not lift, swing or move a child by pulling an arm or clothing. If moving a resisting child seems necessary, reassess the actual safety need and obtain support. This course does not provide lifting or restraint instruction."
+            },
+            {
+              "type": "h",
+              "text": "Activity 2 Classify and explain"
+            },
+            {
+              "type": "p",
+              "text": "Spend four minutes assigning each example one of three responses: supportive contact; pause and reassess; or unacceptable conduct that must be addressed and reported. Give a reason and a safe next action. The explanation matters more than the label."
+            },
+            {
+              "type": "li",
+              "text": "1. A crying child asks a familiar adult to hold their hand. The adult does so in the supervised classroom and lets go when the child is ready."
+            },
+            {
+              "type": "li",
+              "text": "2. An adult holds a child on their lap after the child wriggles away, saying, “You will stay until you stop crying.”"
+            },
+            {
+              "type": "li",
+              "text": "3. A child has fallen on equipment. An adult considers helping them down but is unsure whether moving them could worsen an injury."
+            },
+            {
+              "type": "li",
+              "text": "4. An adult pulls a child by their clothing into the lunch line because the group is late."
+            },
+            {
+              "type": "h",
+              "text": "Feedback after responding"
+            },
+            {
+              "type": "p",
+              "text": "1: Supportive, provided the contact remains welcome and appropriate. 2: Unacceptable coercive contact in the circumstances described; stop safely, support the child and report. 3: Pause, assess the immediate risk and obtain appropriate first-aid assistance; do not improvise a movement technique. 4: Unacceptable handling for convenience; address the child’s welfare and report the concern."
+            },
+            {
+              "type": "p",
+              "text": "When facts are incomplete, name the information you need. Uncertainty is a reason to obtain help, not to dismiss a concern or assume permission to use force."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pages": [
+        {
+          "title": "Module 3 Responding to danger",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Time: 10 minutes total. Read for 5 minutes; complete reflection A for 5 minutes. Outcome: explain a protective response and its limits."
+            },
+            {
+              "type": "h",
+              "text": "The proposed Early Years threshold"
+            },
+            {
+              "type": "p",
+              "text": "Refusal alone does not justify restraint. For this course, restrictive physical intervention is a last resort where necessary to prevent harm, using the least force necessary for the shortest time."
+            },
+            {
+              "type": "h",
+              "text": "Before intervening"
+            },
+            {
+              "type": "p",
+              "text": "Where time permits, use calm words, allow space, reduce triggers, move other children away and summon help. Explain or warn the child before contact where practicable. In an immediate emergency, do not delay necessary protection to complete a sequence of verbal steps."
+            },
+            {
+              "type": "p",
+              "text": "For example, if a child runs towards traffic, act to prevent them entering danger. If a child refuses to sit for story time and nobody is at risk of harm, adjust the approach and obtain support rather than force them into place."
+            },
+            {
+              "type": "h",
+              "text": "During an intervention"
+            },
+            {
+              "type": "li",
+              "text": "Keep the response necessary and proportionate to the actual risk. Reduce and end contact as soon as it is safe."
+            },
+            {
+              "type": "li",
+              "text": "Never restrain by the head or neck. Never use a method that compromises breathing."
+            },
+            {
+              "type": "li",
+              "text": "Do not improvise holds, pin a child down or practise restraint techniques from this online course."
+            },
+            {
+              "type": "li",
+              "text": "The supplied policy bans the double seated embrace, double basket hold and nose distraction technique. These are named as prohibitions, not taught here."
+            },
+            {
+              "type": "li",
+              "text": "Use approved practical training and individual support arrangements where relevant. A support plan never authorises punishment."
+            },
+            {
+              "type": "h",
+              "text": "After any use of force"
+            },
+            {
+              "type": "p",
+              "text": "Check the child’s wellbeing, obtain first aid or urgent medical assistance as needed, and provide calm support. Report immediately to the Designated Safeguarding Lead, who reports to the Principal under the supplied policy. Complete the factual record promptly. If the handling itself was concerning, also use the staff-concern reporting route in Module 5."
+            },
+            {
+              "type": "p",
+              "text": "The school must arrange parent communication. The supplied policy says Early Years parents are informed the same day or as soon as reasonably practicable. The responsible safeguarding leader coordinates any safeguarding-related restrictions or agency advice. Staff must not agree to conceal an incident."
+            },
+            {
+              "type": "h",
+              "text": "Practice scenario and feedback"
+            },
+            {
+              "type": "p",
+              "text": "A child suddenly runs towards an open gate leading to a road. A: wait for three warnings, B: take necessary protective action and call for help, or C: use force afterwards to teach a lesson?"
+            },
+            {
+              "type": "p",
+              "text": "B is correct. Prevent the immediate harm, end restrictive contact once safe, check wellbeing, report and record. The emergency does not justify punishment afterwards."
+            },
+            {
+              "type": "p",
+              "text": "Policy basis: Restraint Policy, sections 1 to 5 and 7. The harm-prevention threshold and emergency clarification above are proposed course rules for approval, not verbatim policy."
+            }
+          ]
+        },
+        {
+          "title": "Module 3 Making and explaining a decision",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Prevention is part of the response"
+            },
+            {
+              "type": "p",
+              "text": "Before busy transitions, check the environment and agree staff positions, supervision and the method for calling assistance. An unsafe gate or predictable conflict should prompt action before a crisis. Repeated incidents require review of arrangements, not acceptance that restraint is part of the routine."
+            },
+            {
+              "type": "p",
+              "text": "If a child is distressed near other children, consider whether the others can be moved safely. If an object creates a risk, consider whether access can be reduced without creating a greater danger. Do not approach so closely or issue so many commands that the interaction itself becomes a struggle."
+            },
+            {
+              "type": "h",
+              "text": "Reflection A Protective decision"
+            },
+            {
+              "type": "p",
+              "text": "Allow five minutes. All names and events are fictional. During tidy-up, Alex refuses to put down a hard wooden block. Alex is not threatening anyone. An adult says, “Give it to me now or I will make you.” Another child reaches towards the block. Alex then raises it above that child’s head. A colleague is nearby and an open space is available. Nobody has yet been struck."
+            },
+            {
+              "type": "p",
+              "text": "Write five to eight sentences explaining: (1) your response before the block is raised; (2) what changes when another child is at immediate risk; (3) what limits apply if physical intervention is necessary; and (4) the follow-up. Do not describe a restraint hold. State what you would do, why, and who you would contact."
+            },
+            {
+              "type": "p",
+              "text": "Save your response before viewing the model. In this automated pilot, written responses are required reflections and are not graded. Compare your reasoning with the feedback and discuss any uncertainty with your school safeguarding lead."
+            },
+            {
+              "type": "h",
+              "text": "Model feedback released after submission"
+            },
+            {
+              "type": "p",
+              "text": "Before the threat, reduce confrontation, use calm language and allow time; refusal alone does not justify force. When the block is raised, protect the other child and summon the colleague. Move others to safety if that can be done in time. If physical intervention is necessary to prevent harm, it must be proportionate, use no more force than needed and end as soon as safe. Do not improvise a hold or use punishment."
+            },
+            {
+              "type": "p",
+              "text": "Check the children’s wellbeing, obtain first aid if needed and reassure them. Report any force immediately to the DSL and complete a factual record. Report concerning adult conduct through the staff-concern route. The school coordinates parent communication. Review the transition and support arrangements afterwards."
+            },
+            {
+              "type": "h",
+              "text": "Afterwards do not seek compliance through an apology"
+            },
+            {
+              "type": "p",
+              "text": "A child may remain upset once the immediate danger has passed. Provide calm, supervised recovery time. Do not continue restriction until the child apologises, promise to keep the incident quiet, or tell witnesses what to write. Later teaching about safer behaviour should happen when the child can participate meaningfully."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pages": [
+        {
+          "title": "Module 4 Dignity during intimate care",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Time: 9 minutes total. Read for 5 minutes; complete the activity for 4 minutes. Outcome: protect dignity, respond to distress and arrange necessary care."
+            },
+            {
+              "type": "h",
+              "text": "Read or listen"
+            },
+            {
+              "type": "p",
+              "text": "Toileting, nappy changing and changing soiled clothing are care tasks. They are never punishments. Explain each step in simple language, encourage the child to do what they can independently and use the minimum contact needed."
+            },
+            {
+              "type": "p",
+              "text": "Follow the agreed care plan, hygiene procedures and training. Prepare supplies so care is not rushed. Do not leave a child unattended on a changing surface. If you need assistance, summon it safely."
+            },
+            {
+              "type": "h",
+              "text": "Privacy with appropriate oversight"
+            },
+            {
+              "type": "p",
+              "text": "The supplied Intimate Care policy requires another member of staff to know that care is taking place and prohibits changing or cleaning a child behind a closed door. Use the designated care area and protect the child from being exposed to other children or passers-by. Leaders must ensure that the layout supports both privacy and this oversight requirement."
+            },
+            {
+              "type": "p",
+              "text": "Do not take intimate photographs or use personal devices to record care. Report any concern through the approved safeguarding process. Do not show the child to unnecessary observers."
+            },
+            {
+              "type": "h",
+              "text": "When a child says no or becomes distressed"
+            },
+            {
+              "type": "p",
+              "text": "Pause the task where safe, reassure the child and find out what support is needed without pressing for an explanation. Offer a simple choice, such as doing a manageable step themselves or having their familiar key person assist. Seek help and follow the care plan. Do not turn care into a physical struggle."
+            },
+            {
+              "type": "p",
+              "text": "A pause does not mean abandoning necessary care or leaving a child soiled indefinitely. A responsible colleague should help plan prompt, respectful care. If there is an urgent health or safety concern, obtain appropriate medical or safeguarding advice and act on the immediate need."
+            },
+            {
+              "type": "h",
+              "text": "Practice scenario"
+            },
+            {
+              "type": "p",
+              "text": "A child needs changing after a toileting accident and says “No, don’t.” What should you do?"
+            },
+            {
+              "type": "li",
+              "text": "A. Hold them still so you can finish quickly."
+            },
+            {
+              "type": "li",
+              "text": "B. Pause safely, reassure them, offer choices and obtain appropriate support."
+            },
+            {
+              "type": "li",
+              "text": "C. Tell the whole class what happened so the child cooperates."
+            },
+            {
+              "type": "h",
+              "text": "Feedback after selection"
+            },
+            {
+              "type": "p",
+              "text": "B is correct. Distress must be addressed. Neither force for convenience nor public embarrassment is acceptable. Record and report unusual incidents or concerns promptly, including who was present and the action taken."
+            },
+            {
+              "type": "p",
+              "text": "Policy basis: Intimate Care and Nappy Policy, introduction and sections 2 to 5. Personal-device and urgent-care wording is additional course guidance for approval."
+            }
+          ]
+        },
+        {
+          "title": "Module 4 Planning care around the child",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Know the care arrangements before starting"
+            },
+            {
+              "type": "p",
+              "text": "Staff providing intimate care need the relevant induction, practical training and access to the current care plan. Temporary staff should be shown the procedure and appropriately monitored. Do not assume a new assistant knows a child’s routine or that a colleague has already explained it."
+            },
+            {
+              "type": "p",
+              "text": "Agree language and support with the key person and family where appropriate. Consider communication, cultural and individual needs without making assumptions. Encourage manageable independence, such as a child lowering their own clothing, while keeping necessary support available. A care plan should be reviewed when care repeatedly causes distress."
+            },
+            {
+              "type": "p",
+              "text": "Follow hygiene and medication procedures. The supplied template requires consent for nappy cream and specific arrangements for prescribed cream. Do not substitute an unfamiliar product or apply medication outside the authorised procedure. The detailed changing procedure remains in the source policy and requires practical induction."
+            },
+            {
+              "type": "h",
+              "text": "Activity 3 Care without coercion"
+            },
+            {
+              "type": "p",
+              "text": "Spend four minutes on this fictional case. A newly appointed assistant is asked to change a distressed child. The child’s key person is elsewhere on site. The assistant has not seen the care plan. The designated area can be screened from passers-by while its door remains open. Another adult says, “Hold their hands; we cannot waste time.”"
+            },
+            {
+              "type": "li",
+              "text": "Identify what needs to be checked before care starts and who can assist."
+            },
+            {
+              "type": "li",
+              "text": "Write the words you would use with the child."
+            },
+            {
+              "type": "li",
+              "text": "Describe how you will preserve privacy and appropriate staff awareness."
+            },
+            {
+              "type": "li",
+              "text": "Explain what you will do if distress continues and how you will address the colleague’s suggestion."
+            },
+            {
+              "type": "h",
+              "text": "Feedback after responding"
+            },
+            {
+              "type": "p",
+              "text": "Obtain the current care plan and support from a trained, familiar colleague or the key person. Do not leave the child unsupervised while looking for them. Explain the next step simply, offer manageable choices and avoid rushing. Use the designated screening and ensure a colleague knows care is happening, without closing the door contrary to the supplied policy."
+            },
+            {
+              "type": "p",
+              "text": "If the child remains distressed, pause safely and seek a supported plan for timely care. Do not restrain the child for convenience or leave them soiled indefinitely. The suggestion of coercive handling must be addressed through the appropriate reporting route, rather than accepted as normal practice. Record unusual incidents and concerns."
+            },
+            {
+              "type": "h",
+              "text": "Notice concerns without investigating"
+            },
+            {
+              "type": "p",
+              "text": "Report unexpected pain, marks, fear of a particular adult or a child’s concerning words. These observations do not establish the cause. Record what you saw or heard, obtain appropriate care and report promptly. Do not question the child repeatedly or photograph intimate areas as your own evidence-gathering exercise."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "pages": [
+        {
+          "title": "Module 5 Reporting and recording concerns",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Time: 11 minutes total. Read for 6 minutes; complete reflection B for 5 minutes. Outcome: record facts and use an effective reporting route."
+            },
+            {
+              "type": "h",
+              "text": "When you witness concerning handling"
+            },
+            {
+              "type": "p",
+              "text": "If safe, interrupt calmly and obtain assistance: “I will take over here. Please call for support.” Protect and reassure the child. Do not place yourself or others at further risk. Report immediately even if there is no visible injury, the adult apologises or someone says that the child is difficult."
+            },
+            {
+              "type": "p",
+              "text": "You do not need to establish whether abuse occurred before reporting. Do not conduct your own investigation, confront the colleague to obtain a confession or agree a shared account with witnesses."
+            },
+            {
+              "type": "h",
+              "text": "Use the correct route"
+            },
+            {
+              "type": "li",
+              "text": "A concern about a child: contact the DSL or designated deputy promptly through the school’s procedure."
+            },
+            {
+              "type": "li",
+              "text": "A concern about a staff member’s handling: the supplied Safeguarding Policy directs immediate reporting to the Principal. Use the approved local staff-allegation route and obtain DSL support for the child."
+            },
+            {
+              "type": "li",
+              "text": "A concern about the Principal: use the independent escalation contact. The supplied policy names the Chair of Governors. Do not send it only to the person implicated."
+            },
+            {
+              "type": "li",
+              "text": "If the normal recipient is unavailable or no protective action follows: escalate through the approved alternative route. An unacknowledged message is not enough when a child remains at risk."
+            },
+            {
+              "type": "li",
+              "text": "Immediate danger or serious injury: obtain urgent assistance through the school’s emergency arrangements."
+            },
+            {
+              "type": "p",
+              "text": "Before launch, the school must replace these role descriptions with current names, contact details and the applicable local external reporting route. Do not assume UK roles in the source policy apply in every country."
+            },
+            {
+              "type": "h",
+              "text": "If a child tells you about harm"
+            },
+            {
+              "type": "p",
+              "text": "Listen calmly. Say: “Thank you for telling me. I will get help.” Do not promise secrecy or ask leading questions such as “Did she hurt you because you were naughty?” Ask only what is needed to understand an immediate safety need, then report. Do not ask the child to repeat the account to several adults."
+            },
+            {
+              "type": "h",
+              "text": "Make a factual record"
+            },
+            {
+              "type": "p",
+              "text": "Record the date, time, place, people present, what you saw or heard, the child’s exact words, the contact used and its duration if known, visible effects, actions taken and who received the report and when. Sign and date it. Distinguish observation from inference. Use the secure school record, not a staff group chat or the training quiz."
+            },
+            {
+              "type": "h",
+              "text": "Practice scenario and feedback"
+            },
+            {
+              "type": "p",
+              "text": "A colleague pulls a child sharply by the arm. They say the child is fine and ask you not to report. Report or leave it? Report immediately, protect the child and record your own observations. A colleague’s reassurance does not remove your responsibility."
+            },
+            {
+              "type": "p",
+              "text": "Policy basis: Global Safeguarding Policy, section 5 and staff-concern procedures; Global Code of Conduct, printed page 5; Framework, section 3.2."
+            }
+          ]
+        },
+        {
+          "title": "Module 5 Evidence and professional responsibility",
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Reporting your own conduct"
+            },
+            {
+              "type": "p",
+              "text": "If you handled a child roughly or used more force than intended, stop as soon as safe, obtain support for the child and report your own actions promptly. Give a full and factual account. Do not minimise the contact, ask the child to reassure you or pressure witnesses. The school will decide the protective and employment steps through the appropriate process."
+            },
+            {
+              "type": "p",
+              "text": "If a colleague says “telling will get someone into trouble”, return to the child’s safety and your reporting duty. Respectful reporting and fair treatment of staff can coexist. You report observations; the authorised process determines what happened. Keep information within the safeguarding route rather than discussing the allegation socially."
+            },
+            {
+              "type": "h",
+              "text": "Reflection B Record and escalate"
+            },
+            {
+              "type": "p",
+              "text": "Allow five minutes. This scenario is fictional. At 10:15 on 1 October 2026, in the indoor play area, you see an assistant take Mia’s left upper arm and pull her from a seated position to standing. Mia says, “That hurts,” and begins crying. You hear the assistant say, “She is fine. Do not make a fuss.” You offer support and ask a colleague to call the safeguarding lead. You do not know whether Mia is injured. The Principal is away from site."
+            },
+            {
+              "type": "p",
+              "text": "Write a factual record of approximately 80 to 120 words, then add who you would contact and what you would do if your first report was not acknowledged. Include your name as a placeholder and distinguish actions described in the scenario from actions you would take next. Do not invent a bruise, duration of contact, motive or outcome."
+            },
+            {
+              "type": "p",
+              "text": "Save before opening the model. Use your school’s existing staff-concern route. If you do not know the contact, obtain it from your school. This course is not a route for reporting real incidents. Written reflections are completed but not assessed in the pilot."
+            },
+            {
+              "type": "h",
+              "text": "Model record and next steps"
+            },
+            {
+              "type": "p",
+              "text": "“At 10:15 on 1 October 2026, in the indoor play area, I saw the assistant take Mia’s left upper arm and pull her from sitting to standing. Mia said, ‘That hurts,’ and began crying. I heard the assistant say, ‘She is fine. Do not make a fuss.’ I offered support and asked a colleague to call the safeguarding lead. I do not know whether Mia is injured. Recorded by [name] at [actual recording time].”"
+            },
+            {
+              "type": "p",
+              "text": "Next steps: arrange a wellbeing check and appropriate first aid, report promptly through the approved staff-concern route and obtain DSL support. Record the actual recipient, reporting time and response when known. With the Principal away, use the confirmed alternative; if the concern is unacknowledged and safety remains at risk, escalate without waiting for the Principal’s return."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "A child refuses to sit for story time. Nobody is in danger. What should you do?",
+      "options": [
+        "Force the child into a chair.",
+        "Use a calm alternative, allow time and seek support.",
+        "Hold the child until they agree."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Refusal alone is not a reason for restrictive handling under the proposed course standard."
+    },
+    {
+      "q": "You feel close to losing your temper. What should you do?",
+      "options": [
+        "Leave the group immediately without a handover.",
+        "Grip the child more firmly.",
+        "Maintain supervision and request a colleague to take over."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Keep children supervised and confirm a safe handover before stepping away."
+    },
+    {
+      "q": "A colleague says a small smack will teach a child not to bite. What is the correct response?",
+      "options": [
+        "Physical punishment is unacceptable; protect the child and report the concern.",
+        "It is acceptable if it leaves no mark.",
+        "It is acceptable with parental permission."
+      ],
+      "answer": 0,
+      "critical": true,
+      "why": "Force must never be used as punishment."
+    },
+    {
+      "q": "A child turns away when you offer a cuddle. What is the best response?",
+      "options": [
+        "Hold the child tightly until calm.",
+        "Offer another form of reassurance and respect their cues.",
+        "Ignore the child for the rest of the morning."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Supportive contact should respond to the child’s needs and cues."
+    },
+    {
+      "q": "A child runs towards an open gate leading to traffic. What should you do?",
+      "options": [
+        "Wait for three warnings before acting.",
+        "Physically punish the child after stopping them.",
+        "Take necessary protective action, end restriction once safe, then check, report and record."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Immediate danger calls for necessary protection and proper follow-up, never punishment."
+    },
+    {
+      "q": "During protective intervention, which statement is correct?",
+      "options": [
+        "You may restrain by the neck if it is brief.",
+        "Never restrain by the head or neck or compromise breathing.",
+        "Pain is an acceptable way to obtain cooperation."
+      ],
+      "answer": 1,
+      "critical": true,
+      "why": "The policy prohibits head or neck restraint. Protect breathing and do not use pain for compliance."
+    },
+    {
+      "q": "The immediate danger has ended. What should happen to restrictive contact?",
+      "options": [
+        "Continue until the child apologises.",
+        "Continue for a fixed period.",
+        "Reduce and end it as soon as it is safe."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Duration must be tied to necessity, not to an apology or punishment."
+    },
+    {
+      "q": "A child becomes distressed and says no during changing. What should you do?",
+      "options": [
+        "Pause safely, reassure, offer choices and obtain support for necessary care.",
+        "Hold the child down to finish quickly.",
+        "Leave the child soiled for the rest of the day."
+      ],
+      "answer": 0,
+      "critical": true,
+      "why": "Address distress while arranging prompt and dignified care."
+    },
+    {
+      "q": "Which arrangement matches the supplied intimate care policy?",
+      "options": [
+        "Close the door and tell nobody.",
+        "Let other children watch.",
+        "Use the designated area, alert a colleague, keep the door unclosed and protect privacy."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "The source requires colleague awareness and no closed door, alongside privacy and dignity."
+    },
+    {
+      "q": "You witness rough pulling but see no injury. What should you do?",
+      "options": [
+        "Wait for a parent to complain.",
+        "Report immediately and record your observations.",
+        "Let it go if the colleague apologises."
+      ],
+      "answer": 1,
+      "critical": true,
+      "why": "Visible injury is not a prerequisite for reporting concerning handling."
+    },
+    {
+      "q": "A child says an adult hurt them and asks you to keep it secret. What should you say?",
+      "options": [
+        "I promise not to tell anyone.",
+        "Are you sure you were not being naughty?",
+        "Thank you for telling me. I need to get help to keep you safe."
+      ],
+      "answer": 2,
+      "critical": true,
+      "why": "Listen, do not promise secrecy, avoid leading questions and report."
+    },
+    {
+      "q": "The concern is about the Principal. What is the appropriate reporting route?",
+      "options": [
+        "The approved independent escalation contact.",
+        "Only the Principal.",
+        "A parent social media group."
+      ],
+      "answer": 0,
+      "critical": false,
+      "why": "The supplied policy names the Chair of Governors; the local independent contact must be confirmed."
+    },
+    {
+      "q": "Which is the best factual record?",
+      "options": [
+        "The adult was obviously evil.",
+        "At 10:15 I saw the adult pull the child by the right arm. The child said “That hurts”.",
+        "The child always exaggerates."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Record what you observed and the exact words, with relevant context and action taken."
+    },
+    {
+      "q": "You used force to prevent injury. The child now appears well. What next?",
+      "options": [
+        "No record is needed.",
+        "Ask a colleague to keep it informal.",
+        "Check wellbeing, report immediately to the DSL and complete the factual record."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "All uses of force must be reported and recorded; the school arranges parent communication."
+    },
+    {
+      "q": "Does passing this online course qualify you to perform restraint techniques?",
+      "options": [
+        "No. It confirms course completion, not practical restraint competence.",
+        "Yes, every technique is now authorised.",
+        "Yes, if the child is difficult."
+      ],
+      "answer": 0,
+      "critical": false,
+      "why": "Practical skills require appropriate approved training and local arrangements."
+    },
+    {
+      "q": "A child manages a transition on Monday but becomes distressed on Tuesday. What is the best interpretation?",
+      "options": [
+        "Yesterday proves that the child is deliberately defiant today.",
+        "Consider today’s demands and support needs without assuming the cause.",
+        "The child now requires routine restraint."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Observe the context and adapt support; one successful day does not justify coercion on another."
+    },
+    {
+      "q": "After an incident, a colleague offers to write one account for all witnesses to sign. What should you do?",
+      "options": [
+        "Sign it to show consistency.",
+        "Wait to see whether the parent complains.",
+        "Record your own observations independently through the approved route."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Independent factual accounts preserve what each person actually observed."
+    },
+    {
+      "q": "You realise that you gripped a child more roughly than intended. What should you do?",
+      "options": [
+        "Protect and support the child, obtain help and report your own actions factually.",
+        "Wait to see whether anyone noticed.",
+        "Ask the child to say that you did not hurt them."
+      ],
+      "answer": 0,
+      "critical": false,
+      "why": "Prompt self-reporting and child protection are required; intention does not remove the concern."
+    },
+    {
+      "q": "The Principal is off site and your message about rough handling is unacknowledged. What next?",
+      "options": [
+        "Wait for the next staff meeting.",
+        "Use the approved alternative and escalate according to the immediate risk.",
+        "Send the allegation to all parents."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "An unacknowledged report does not resolve an ongoing safety concern."
+    },
+    {
+      "q": "Staff physically move the same resisting child at every transition. What is the appropriate response?",
+      "options": [
+        "Accept it as the routine because it saves time.",
+        "Ask parents to approve the routine instead of reviewing it.",
+        "Report concerns and review the environment, support plan and adult practice."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Repeated restrictive handling requires scrutiny and prevention planning; it must not become normal through repetition."
+    }
+  ],
+  "reference": [
+    {
+      "title": "Automated pilot completion standard",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "The pilot requires participant details, all five modules, correct quick checks, all written reflections, at least 16/20 on the final quiz, all five critical questions correct and the acknowledgement. Written reflections are ungraded. A PDF certificate is generated locally when all conditions are met."
+        },
+        {
+          "type": "p",
+          "text": "Pilot certificates confirm online course completion. They do not verify identity independently or certify practical restraint competence. There is no central verification register or automatic email delivery in this edition. Staff can download their full report and a prepared email for the Head."
+        }
+      ]
+    },
+    {
+      "title": "Policy sources and review notes",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Version 2 expands the initial pack with longer case studies, three applied activities, two assessed written tasks and a 20-question quiz. Sources are the six files supplied for this task. References below identify the sections used; they do not confirm that a document is the latest approved policy. Scenario wording, assessment questions and implementation rules are newly drafted."
+        },
+        {
+          "type": "h",
+          "text": "Source register"
+        },
+        {
+          "type": "p",
+          "text": "1. Inspired Global Child Protection and Safeguarding Policy, April 2020. Section 5, Procedures for Dealing with Concerns About a Child; staff-concern reporting paragraph; Arrangements for Dealing with Allegations of Abuse Against Teachers and Other Staff. Supports listening, confidentiality limits, factual recording and escalation. Contains UK-specific agency references."
+        },
+        {
+          "type": "p",
+          "text": "2. Template Intimate Care and Nappy Policy, July 2020. Introduction and sections 2 to 5. Supports dignity, independence, care plans, colleague awareness, no closed-door care and immediate reporting of unusual incidents."
+        },
+        {
+          "type": "p",
+          "text": "3. Inspired Behaviour Policy, July 2019. Introduction, physical restraint follow-up and section 10, Junior School Section of the Behaviour Policy. Supports positive strategies, developmentally appropriate expectations and prohibition of corporal punishment and humiliation."
+        },
+        {
+          "type": "p",
+          "text": "4. Health Safety Safeguarding Policy Framework, September 2019. Sections 3.2 and 3.3 and monitoring provisions. Supports stopping, seeking help, raising concerns and escalation."
+        },
+        {
+          "type": "p",
+          "text": "5. Inspired Education Holdings Ltd Global Employee Code of Conduct, supplied file titled 19th August(2). The document itself is marked Updated August 2025. Printed page 5 requires immediate reporting of colleague concerns and notes that failure to report could be gross misconduct."
+        },
+        {
+          "type": "p",
+          "text": "6. Inspired Restraint Policy, July 2019. Sections 1 to 7. Covers exceptional force, proportionality, prohibited methods, permitted circumstances, reporting, parent communication and appropriate ordinary physical contact."
+        },
+        {
+          "type": "h",
+          "text": "Material editorial decisions"
+        },
+        {
+          "type": "p",
+          "text": "The course intentionally proposes a narrower Early Years intervention threshold than the broader examples in the 2019 Restraint Policy. It must not be represented as an exact summary of that policy until the policy owner reconciles the difference."
+        },
+        {
+          "type": "p",
+          "text": "The source says staff should always warn before force. The draft qualifies this where immediate protection cannot safely wait. This is a proposed emergency clarification requiring approval. No restraint manoeuvres are taught."
+        },
+        {
+          "type": "p",
+          "text": "The course does not repeat section 8’s statement that the complainant must prove an allegation or its assertions about legal defences. These statements need jurisdiction-specific review and must not discourage reporting or imply that staff should determine the truth before raising a concern."
+        },
+        {
+          "type": "p",
+          "text": "No country-specific legal advice, staffing ratios or statutory reporting deadlines have been established in this pack. Localisation and review are required before use in South Africa, Mauritius or other jurisdictions."
+        }
+      ]
+    }
+  ]
+};

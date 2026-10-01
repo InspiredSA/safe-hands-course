@@ -1,6 +1,8 @@
-# Safe Hands Safe Children
+# Safe Hands Safe Children – Level 1
 
-A one-hour Early Years safeguarding pilot course for Inspired Education teachers and teaching assistants.
+A one-hour bilingual English/French Early Years safeguarding pilot course for Inspired Education teachers and teaching assistants.
+
+Live course: https://inspiredsa.github.io/safe-hands-course/ (existing project site).
 
 ## What is included
 
@@ -38,13 +40,13 @@ Confirm current approved policy versions, resolve the flagged restraint-policy d
 
 ## Files
 
-The site uses relative asset paths and requires no build step. `index.html`, `style.css`, `app.js`, `certificate.js`, `course-data.js` and `vendor/pdf-lib.min.js` make up the course. The bundled PDF library licence is included in `vendor`.
+The site uses relative asset paths and requires no build step. `index.html`, `style.css`, `app.js`, `certificate.js`, `i18n.js`, `course-data.js`, `course-data-fr.js`, `assets/brand/` and `vendor/pdf-lib.min.js` make up the course. The bundled PDF library licence is included in `vendor`.
 
 ## Validation completed
 
-On 1 October 2026, 41 automated source and logic checks passed against this edition. Coverage included participant validation, module and reflection requirements, acknowledgements, the 80% threshold, each critical-question failure at 19/20, stable certificate references, browser-storage save/restore with a test double, HTML escaping, complete results, PDF container generation and prepared-email contents. PDF generation used the actual bundled PDF library with a stubbed drawing canvas; this does not establish visual rendering or browser download behavior.
+On 1 October 2026, the bilingual edition passed the existing 47-check regression suite and 60 independent bilingual/source/logic checks. Coverage included exact requested content removals; English/French schema and answer-index parity; every learner route; language switching and browser-storage migration; unsubmitted profile, reflection and checkbox drafts; translated validation; participant validation; module and reflection requirements; acknowledgements; the 80% threshold and each critical-question failure; stable certificate references; HTML escaping; full results; French PDF metadata; UTF-8 prepared-email contents; async output language capture; and file-save fallback links.
 
-JavaScript syntax checks also passed. Interactive browser testing of the final hosted URL remains required, including a phone-sized layout, refresh and back/forward navigation, certificate/results downloads and the prepared email. No emails were sent during testing.
+PDF container generation used the actual bundled library with a stubbed drawing canvas. JavaScript syntax checks passed. A local headless-browser run was attempted but this execution environment prevented Chromium from opening local sockets, so it did not run. These automated checks do not establish visual rendering or browser download behavior. Final hosted-browser QA remains required, including French accented text in the PDF, phone-sized layout, refresh and back/forward navigation, certificate/results downloads and prepared email. No emails were sent during testing.
 
 The learner navigation no longer exposes owner review notes, the old review-storage footer or the reset control. Safeguarding contacts remain available on narrow screens. Data-handling information remains in the participant form and results workflow.
 
@@ -58,3 +60,13 @@ The application has no external submission, analytics or email endpoint, and all
 
 - https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
 - https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
+## Bilingual implementation (version 2.2)
+
+The persistent English / Français selector changes the document language, navigation, lessons, activities, assessment, feedback, acknowledgements, participant form, validation, contacts, dates and downloadable results/certificate/email. Participant-entered text is preserved verbatim. Existing learner storage uses the same key, so deploying this edition on the same origin preserves prior records. Language, profile drafts, responses, quiz answers and activity-tab state survive a refresh. Certificate identity is independent of display language.
+
+`i18n.js` holds keyed interface strings in matching English/French dictionaries. `course-data-fr.js` mirrors the English content structure, IDs and correct-answer indexes. Section roles use the canonical English structure rather than matching French display words. Download generation captures the chosen language at the start so switching language cannot mix an in-progress PDF or email. The certificate is rasterized on a canvas using locally bundled fonts, preserving French accents without PDF standard-font encoding limitations.
+
+The course uses the official Inspired logo, Roboto/Open Sans typefaces and the navy/blue palette verified from Inspired’s website. Font licences and sources are in `assets/brand/README.md`. No external font or analytics requests are needed. The header’s “Pilot edition” badge has been removed as requested; the existing pilot completion and competence caveats remain elsewhere.
+
+The course is titled “Safe Hands Safe Children – Level 1” in English and “Des mains bienveillantes, des enfants en sécurité – Niveau 1” in French. This display-name change does not alter the project URL, local-storage key, learner progress or certificate references.
