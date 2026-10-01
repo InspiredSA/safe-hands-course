@@ -1,6 +1,6 @@
 # Safe Hands Safe Children – Level 1
 
-A one-hour bilingual English/French Early Years safeguarding pilot course for Inspired Education teachers and teaching assistants.
+A one-hour English/French/Kreol Morisien Early Years safeguarding pilot course for Inspired Education teachers and teaching assistants.
 
 Live course: https://inspiredsa.github.io/safe-hands-course/ (existing project site).
 
@@ -40,7 +40,7 @@ Confirm current approved policy versions, resolve the flagged restraint-policy d
 
 ## Files
 
-The site uses relative asset paths and requires no build step. `index.html`, `style.css`, `app.js`, `certificate.js`, `i18n.js`, `course-data.js`, `course-data-fr.js`, `assets/brand/` and `vendor/pdf-lib.min.js` make up the course. The bundled PDF library licence is included in `vendor`.
+The site uses relative asset paths and requires no build step. `index.html`, `style.css`, `app.js`, `certificate.js`, `i18n.js`, `course-data.js`, `course-data-fr.js`, `course-data-mfe.js`, `assets/brand/` and `vendor/pdf-lib.min.js` make up the course. The bundled PDF library licence is included in `vendor`.
 
 ## Validation completed
 
@@ -61,12 +61,24 @@ The application has no external submission, analytics or email endpoint, and all
 - https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
 - https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
-## Bilingual implementation (version 2.2)
+## Multilingual implementation (version 2.3)
 
-The persistent English / Français selector changes the document language, navigation, lessons, activities, assessment, feedback, acknowledgements, participant form, validation, contacts, dates and downloadable results/certificate/email. Participant-entered text is preserved verbatim. Existing participant storage uses the same key, so deploying this edition on the same origin preserves prior records. Language, profile drafts, responses, quiz answers and activity-tab state survive a refresh. Certificate identity is independent of display language.
+The persistent English / Français / Kreol Morisien selector changes the document language, navigation, lessons, activities, assessment, feedback, acknowledgements, participant form, validation, contacts, dates and downloadable results/certificate/email. Participant-entered text is preserved verbatim. Existing participant storage uses the same key, so deploying this edition on the same origin preserves prior records. Language, profile drafts, responses, quiz answers and activity-tab state survive a refresh. Certificate identity is independent of display language.
 
-`i18n.js` holds keyed interface strings in matching English/French dictionaries. `course-data-fr.js` mirrors the English content structure, IDs and correct-answer indexes. Section roles use the canonical English structure rather than matching French display words. Download generation captures the chosen language at the start so switching language cannot mix an in-progress PDF or email. The certificate is rasterized on a canvas using locally bundled fonts, preserving French accents without PDF standard-font encoding limitations.
+`i18n.js` holds keyed interface strings in matching English/French/Kreol Morisien dictionaries. `course-data-fr.js` and `course-data-mfe.js` mirror the English content structure, IDs and correct-answer indexes. The language code for Kreol Morisien is `mfe`; its dates use explicit translated month names and a 24-hour time format because browsers do not consistently support that locale. Section roles use the canonical English structure rather than matching translated display words. Download generation captures the chosen language at the start so switching language cannot mix an in-progress PDF or email. The certificate is rasterized on a canvas using locally bundled fonts, preserving accented characters without PDF standard-font encoding limitations.
 
 The course uses the official Inspired logo, Roboto/Open Sans typefaces and the navy/blue palette verified from Inspired’s website. Font licences and sources are in `assets/brand/README.md`. No external font or analytics requests are needed. The header’s “Pilot edition” badge has been removed as requested; the existing pilot completion and competence caveats remain elsewhere.
 
 The course is titled “Safe Hands Safe Children – Level 1” in English and “Des mains bienveillantes, des enfants en sécurité – Niveau 1” in French. This display-name change does not alter the project URL, local-storage key, participant progress or certificate references.
+
+## Kreol Morisien translation review
+
+Kreol Morisien is available as a complete third course-language option, including lessons, activities, assessment, feedback, interface, participant validation, contacts and downloadable records. This translation is a draft awaiting review by a fluent Kreol Morisien speaker familiar with safeguarding. Availability is not approval or a claim of translation accuracy. A localized review notice appears on every Kreol Morisien screen, in printed summaries and full results/prepared email, and a shorter warning appears on the Kreol Morisien certificate. If wording is unclear, check the English/French version and the school's approved current policy. The school should complete a safeguarding and terminology review before relying on this version for wider training.
+
+Switching languages never translates participant-written responses and does not reset details, drafts, module progress, answer selections, attempt history, acknowledgements or existing certificate references. New certificates carry version 2.3; previously issued locally saved certificates keep their existing identity and version. Course content is selected explicitly for each language with no English content fallback for Kreol Morisien. The completion threshold, all five critical-question gates and local-only privacy model are unchanged.
+
+## Kreol Morisien validation completed
+
+On 1 October 2026, the third-language implementation passed 83 dedicated multilingual checks, all 47 baseline regression checks and all 70 current bilingual regression checks (200 total). Coverage includes three-way language switching; full course/UI schema, question, critical-flag and interpolation parity; every route and activity; persistent and printed review notices; explicit Kreol month formatting; unchanged participant input and certificate identity; stored draft/answer migration; translated validation; completion gates; full results; PDF metadata; UTF-8 prepared email; captured async export language; no certificate on failed completion; and no added external data transport. JavaScript syntax checks pass for every application/data file.
+
+The actual certificate drawing code was also rendered with native canvas, the bundled fonts/logo and bundled PDF library, and visually inspected: the Kreol title, accented participant data, localized date, original caveats and review notice fit without clipping. This native-canvas check does not establish browser download behavior. Local Chromium startup was attempted again and blocked by the environment's socket restrictions before any page actions. Hosted-browser checks are still needed for real switching, responsive layout, refresh/back/forward, print and downloadable output. The translation itself still requires the stated fluent-speaker review.

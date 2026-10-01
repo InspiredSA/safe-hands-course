@@ -40,3 +40,8 @@ h1{font-size:38px;font-weight:400}
 @media(max-width:360px){header{padding:12px}.brand img{width:123px}.language-control select{min-width:106px}main{padding:25px 15px}.paper,.activity{padding:20px 16px}.hero h1{font-size:30px}}
 
 .course-level{display:block;font:700 14px/1.4 Roboto,sans-serif;letter-spacing:1.5px;text-transform:uppercase;margin-top:14px;color:#1b75bb}.course-name .course-level{color:#a9d7f5;font-size:12px;margin-top:10px}
+
+/* Keep the unreviewed translation status visible, including on printed summaries. */
+.translation-review{margin-top:0;background:#fff7e8;border-color:#9a6a19;color:#614611}
+@media print{.translation-review.notice{display:block!important;background:white;color:#143256;border:1px solid #415165;padding:10px;break-inside:avoid}}
+@media(max-width:360px){.language-control{min-width:0;flex-shrink:1}.language-control select{max-width:100%;min-width:0}.language-control label{max-width:145px;line-height:1.4}}
