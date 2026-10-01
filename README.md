@@ -44,17 +44,17 @@ The site uses relative asset paths and requires no build step. `index.html`, `st
 
 ## Validation completed
 
-On 1 October 2026, the bilingual edition passed the existing 47-check regression suite and 60 independent bilingual/source/logic checks. Coverage included exact requested content removals; English/French schema and answer-index parity; every learner route; language switching and browser-storage migration; unsubmitted profile, reflection and checkbox drafts; translated validation; participant validation; module and reflection requirements; acknowledgements; the 80% threshold and each critical-question failure; stable certificate references; HTML escaping; full results; French PDF metadata; UTF-8 prepared-email contents; async output language capture; and file-save fallback links.
+On 1 October 2026, the bilingual edition passed the existing 47-check regression suite and 60 independent bilingual/source/logic checks. Coverage included exact requested content removals; English/French schema and answer-index parity; every participant route; language switching and browser-storage migration; unsubmitted profile, reflection and checkbox drafts; translated validation; participant validation; module and reflection requirements; acknowledgements; the 80% threshold and each critical-question failure; stable certificate references; HTML escaping; full results; French PDF metadata; UTF-8 prepared-email contents; async output language capture; and file-save fallback links.
 
 PDF container generation used the actual bundled library with a stubbed drawing canvas. JavaScript syntax checks passed. A local headless-browser run was attempted but this execution environment prevented Chromium from opening local sockets, so it did not run. These automated checks do not establish visual rendering or browser download behavior. Final hosted-browser QA remains required, including French accented text in the PDF, phone-sized layout, refresh and back/forward navigation, certificate/results downloads and prepared email. No emails were sent during testing.
 
-The learner navigation no longer exposes owner review notes, the old review-storage footer or the reset control. Safeguarding contacts remain available on narrow screens. Data-handling information remains in the participant form and results workflow.
+The participant navigation no longer exposes owner review notes, the old review-storage footer or the reset control. Safeguarding contacts remain available on narrow screens. Data-handling information remains in the participant form and results workflow.
 
 ## Public availability and search indexing
 
 The HTML includes `noindex, nofollow`, and a `robots.txt` crawler advisory is included. These are requests to compliant crawlers, not authentication or privacy controls. A project-site `robots.txt` is below the host root and may not be consulted by crawlers; the HTML robots directive is the page-level safeguard. A public GitHub repository and public Pages site can still be accessed, copied and shared by anyone with the address. Do not add real incident reports or staff/child records to this repository.
 
-The application has no external submission, analytics or email endpoint, and all scripts are bundled locally. Ordinary hosting traffic can still be logged by the hosting provider. Learner-entered details remain in browser storage until the learner clears the site's data; downloaded reports and email drafts contain their entered details.
+The application has no external submission, analytics or email endpoint, and all scripts are bundled locally. Ordinary hosting traffic can still be logged by the hosting provider. Participant-entered details remain in browser storage until the participant clears the site's data; downloaded reports and email drafts contain their entered details.
 
 ## Official hosting references
 
@@ -63,10 +63,10 @@ The application has no external submission, analytics or email endpoint, and all
 
 ## Bilingual implementation (version 2.2)
 
-The persistent English / Français selector changes the document language, navigation, lessons, activities, assessment, feedback, acknowledgements, participant form, validation, contacts, dates and downloadable results/certificate/email. Participant-entered text is preserved verbatim. Existing learner storage uses the same key, so deploying this edition on the same origin preserves prior records. Language, profile drafts, responses, quiz answers and activity-tab state survive a refresh. Certificate identity is independent of display language.
+The persistent English / Français selector changes the document language, navigation, lessons, activities, assessment, feedback, acknowledgements, participant form, validation, contacts, dates and downloadable results/certificate/email. Participant-entered text is preserved verbatim. Existing participant storage uses the same key, so deploying this edition on the same origin preserves prior records. Language, profile drafts, responses, quiz answers and activity-tab state survive a refresh. Certificate identity is independent of display language.
 
 `i18n.js` holds keyed interface strings in matching English/French dictionaries. `course-data-fr.js` mirrors the English content structure, IDs and correct-answer indexes. Section roles use the canonical English structure rather than matching French display words. Download generation captures the chosen language at the start so switching language cannot mix an in-progress PDF or email. The certificate is rasterized on a canvas using locally bundled fonts, preserving French accents without PDF standard-font encoding limitations.
 
 The course uses the official Inspired logo, Roboto/Open Sans typefaces and the navy/blue palette verified from Inspired’s website. Font licences and sources are in `assets/brand/README.md`. No external font or analytics requests are needed. The header’s “Pilot edition” badge has been removed as requested; the existing pilot completion and competence caveats remain elsewhere.
 
-The course is titled “Safe Hands Safe Children – Level 1” in English and “Des mains bienveillantes, des enfants en sécurité – Niveau 1” in French. This display-name change does not alter the project URL, local-storage key, learner progress or certificate references.
+The course is titled “Safe Hands Safe Children – Level 1” in English and “Des mains bienveillantes, des enfants en sécurité – Niveau 1” in French. This display-name change does not alter the project URL, local-storage key, participant progress or certificate references.

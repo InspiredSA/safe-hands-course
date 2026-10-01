@@ -1,4 +1,4 @@
-// Keyed display text. Learner-entered text is never translated.
+// Keyed display text. Participant-entered text is never translated.
 window.COURSE_UI={
   "en": {
     "courseTitle": "Safe Hands Safe Children – Level 1",
