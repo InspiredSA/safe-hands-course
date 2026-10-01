@@ -648,7 +648,7 @@ window.COURSE={
             },
             {
               "type": "li",
-              "text": "A concern about the Principal: use the independent escalation contact. The supplied policy names the Chair of Governors. Do not send it only to the person implicated."
+              "text": "A concern about the Principal: report your concern to the Exec Head or one of the other phase heads. Alternatively reach out to Inspired head office."
             },
             {
               "type": "li",
@@ -861,13 +861,13 @@ window.COURSE={
     {
       "q": "The concern is about the Principal. What is the appropriate reporting route?",
       "options": [
-        "The approved independent escalation contact.",
+        "The Exec Head, one of the other phase heads, or Inspired head office.",
         "Only the Principal.",
         "A parent social media group."
       ],
       "answer": 0,
       "critical": false,
-      "why": "The supplied policy names the Chair of Governors; the local independent contact must be confirmed."
+      "why": "Report your concern to the Exec Head or one of the other phase heads. Alternatively reach out to Inspired head office."
     },
     {
       "q": "Which is the best factual record?",

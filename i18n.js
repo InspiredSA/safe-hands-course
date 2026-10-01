@@ -315,7 +315,7 @@ window.COURSE_UI={
         "The approved route for concerns about an adult’s conduct."
       ],
       [
-        "Independent escalation contact",
+        "Exec Head, other phase heads or Inspired head office",
         "Concerns involving the Principal or an unresolved safeguarding report."
       ],
       [
@@ -644,7 +644,7 @@ window.COURSE_UI={
         "Procédure approuvée pour les préoccupations relatives à la conduite d’un adulte."
       ],
       [
-        "Contact indépendant pour faire remonter un signalement",
+        "Chef d’établissement exécutif, autres responsables de cycle ou siège d’Inspired",
         "Préoccupations impliquant la direction ou signalement de protection de l’enfance non résolu."
       ],
       [

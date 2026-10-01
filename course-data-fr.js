@@ -648,7 +648,7 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Une préoccupation concernant le chef d’établissement : utilisez le contact indépendant prévu pour l’escalade du signalement. La politique fournie désigne le président du conseil de gouvernance. N’adressez pas le signalement uniquement à la personne mise en cause."
+              "text": "Une préoccupation concernant le chef d’établissement : signalez votre préoccupation au chef d’établissement exécutif ou à l’un des autres responsables de cycle. Vous pouvez également contacter le siège d’Inspired."
             },
             {
               "type": "li",
@@ -861,13 +861,13 @@ window.COURSE_FR={
     {
       "q": "La préoccupation concerne le chef d’établissement. Quelle est la voie de signalement appropriée ?",
       "options": [
-        "Le contact indépendant approuvé pour l’escalade du signalement.",
+        "Le chef d’établissement exécutif, l’un des autres responsables de cycle ou le siège d’Inspired.",
         "Uniquement le chef d’établissement.",
         "Un groupe de parents sur les réseaux sociaux."
       ],
       "answer": 0,
       "critical": false,
-      "why": "La politique fournie désigne le président du conseil de gouvernance ; le contact indépendant local doit être confirmé."
+      "why": "Signalez votre préoccupation au chef d’établissement exécutif ou à l’un des autres responsables de cycle. Vous pouvez également contacter le siège d’Inspired."
     },
     {
       "q": "Quel est le meilleur compte rendu factuel ?",
