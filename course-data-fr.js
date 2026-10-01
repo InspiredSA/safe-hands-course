@@ -659,10 +659,6 @@ window.COURSE_FR={
               "text": "Danger immédiat ou blessure grave : obtenez une assistance urgente selon les dispositifs d’urgence de l’établissement."
             },
             {
-              "type": "p",
-              "text": "Avant le lancement, l’établissement doit remplacer ces descriptions de fonctions par les noms et coordonnées à jour ainsi que par la voie locale de signalement externe applicable. Ne supposez pas que les fonctions britanniques citées dans la politique source s’appliquent dans tous les pays."
-            },
-            {
               "type": "h",
               "text": "Si un enfant vous parle de violences subies"
             },

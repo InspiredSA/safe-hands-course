@@ -659,10 +659,6 @@ window.COURSE={
               "text": "Immediate danger or serious injury: obtain urgent assistance through the school’s emergency arrangements."
             },
             {
-              "type": "p",
-              "text": "Before launch, the school must replace these role descriptions with current names, contact details and the applicable local external reporting route. Do not assume UK roles in the source policy apply in every country."
-            },
-            {
               "type": "h",
               "text": "If a child tells you about harm"
             },
