@@ -40,7 +40,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Le modèle Inspired fourni exige qu’un collègue sache que des soins intimes ont lieu et interdit de changer ou de nettoyer un enfant derrière une porte fermée. Utilisez l’espace prévu et les dispositifs approuvés de protection visuelle pour que les passants et les autres enfants ne puissent pas voir les soins intimes. Informer un collègue ne signifie pas réunir des spectateurs ni exiger automatiquement deux adultes à chaque change. L’organisation du personnel doit respecter le plan de l’enfant et la procédure de l’établissement fondée sur l’évaluation des risques."
+              "text": "Assurez-vous qu’un collègue sait que des soins intimes ont lieu. Ne changez pas et ne nettoyez pas un enfant derrière une porte fermée. Utilisez l’espace prévu et les dispositifs approuvés de protection visuelle pour que les passants et les autres enfants ne puissent pas voir les soins intimes. Informer un collègue ne signifie pas réunir des spectateurs ni exiger automatiquement deux adultes à chaque change. L’organisation du personnel doit respecter le plan de l’enfant et la procédure de l’établissement fondée sur l’évaluation des risques."
             },
             {
               "type": "p",
@@ -53,10 +53,6 @@ window.COURSE_FR={
             {
               "type": "p",
               "text": "Faites une pause lorsque la sécurité le permet. Restez calme, reconnaissez l’émotion et proposez un petit choix ou l’aide d’un adulte familier. « Je vois que tu es inquiet. Nous pouvons faire une pause. Tu veux que Sam t’aide ? » Appelez à l’aide sans laisser l’enfant en danger. N’immobilisez pas un enfant pour finir plus vite. La pause doit conduire à un plan permettant d’assurer rapidement les soins nécessaires, sans laisser l’enfant souillé indéfiniment. Une détresse persistante, une douleur ou un problème de santé urgent exige une aide rapide et un avis approprié."
-            },
-            {
-              "type": "p",
-              "text": "Fondement : politique Inspired sur les soins intimes et les couches, introduction et sections 2 à 5. La distinction entre formation en ligne et pratique, l’interdiction des enregistrements intimes et le scénario de refus sont des mesures de protection supplémentaires de la formation, soumises à l’approbation de l’établissement."
             }
           ]
         },
@@ -155,7 +151,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Lavez-vous et séchez-vous les mains avant les soins, puis mettez le tablier et les gants jetables neufs exigés à chaque change par le modèle Inspired fourni. EPI signifie équipements de protection individuelle. Ils ne remplacent pas l’hygiène des mains. Utilisez la taille et le matériau approuvés par l’établissement ; signalez une pénurie ou une sensibilité plutôt que de substituer un équipement inadapté. Couvrez les coupures conformément à la procédure locale de prévention des infections."
+              "text": "Lavez-vous et séchez-vous les mains avant les soins, puis mettez un tablier et des gants jetables neufs à chaque change. EPI signifie équipements de protection individuelle. Ils ne remplacent pas l’hygiène des mains. Utilisez la taille et le matériau approuvés par l’établissement ; signalez une pénurie ou une sensibilité plutôt que de substituer un équipement inadapté. Couvrez les coupures conformément à la procédure locale de prévention des infections."
             },
             {
               "type": "p",
@@ -168,10 +164,6 @@ window.COURSE_FR={
             {
               "type": "p",
               "text": "Ne laissez jamais un enfant seul sur une surface de change, même brièvement et même si une sangle est installée. Si un article vient à manquer, restez auprès de l’enfant et protégez-le tout en appelant à l’aide, ou suivez la procédure approuvée de transfert en sécurité dans les limites de votre formation. Une sangle, un petit rebord ou l’argument « il ne se retourne jamais » ne constitue pas une surveillance. Utilisez le contact protecteur et le positionnement démontrés par votre observateur formé pour prévenir une chute d’une surface surélevée. Il s’agit d’une mesure de sécurité, et non d’une permission d’immobiliser un enfant en détresse pour terminer les soins."
-            },
-            {
-              "type": "p",
-              "text": "Fondement : modèle Inspired, introduction et section 2. La séparation des zones du poste, les vérifications de l’équipement et la règle explicite d’arrêt en cas d’impossibilité de surveillance sont des mesures de protection de la formation qui doivent être démontrées localement."
             }
           ]
         },
@@ -275,10 +267,6 @@ window.COURSE_FR={
             {
               "type": "p",
               "text": "Remettez l’espace en état comme indiqué au module 4. Lavez-vous et séchez-vous les mains après avoir retiré les EPI de nettoyage et terminé le nettoyage. Consignez les soins et transmettez les informations pertinentes par les voies approuvées. Ne sautez pas la remise en état parce qu’un autre enfant attend ; demandez de l’aide pour gérer l’attente en sécurité."
-            },
-            {
-              "type": "p",
-              "text": "Fondement : modèle Inspired, section 2. La séquence du CDC pour les structures d’accueil de l’enfance a éclairé l’essuyage de l’avant vers l’arrière, la phase propre et le lavage des mains de l’enfant. L’établissement doit approuver et démontrer précisément les changements de gants, les moments d’hygiène des mains et les modalités de transfert et de nettoyage."
             }
           ]
         },
@@ -291,7 +279,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Cas fictif. Pendant un change, vous venez de retirer une couche souillée. Un collègue vous demande d’appuyer sur « terminé » sur une tablette. Votre main gantée est contaminée. La couche propre est encore dans le placard et l’enfant se trouve sur la surface de change. Vous remarquez qu’il commence à s’agiter."
+              "text": "Cas fictif. Pendant un change, vous venez de retirer une couche souillée. Un collègue vous demande de consigner les soins selon la méthode papier ou numérique approuvée par l’établissement. Votre main gantée est contaminée. La couche propre est encore dans le placard et l’enfant se trouve sur la surface de change. Vous remarquez qu’il commence à s’agiter."
             },
             {
               "type": "li",
@@ -311,11 +299,11 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Restez avec l’enfant, rassurez-le et appelez un collègue formé pour apporter la couche propre manquante ou aider selon les dispositions approuvées. Ne touchez pas la tablette, la poignée du placard ou les fournitures propres avec des gants contaminés. Suivez la séquence démontrée de retrait des gants, d’hygiène des mains et de soins propres tout en maintenant la surveillance."
+              "text": "Restez avec l’enfant, rassurez-le et appelez un collègue formé pour apporter la couche propre manquante ou aider selon les dispositions approuvées. Ne touchez pas le document de soins, le stylo, l’appareil utilisé pour consigner les soins, la poignée du placard ou les fournitures propres avec des gants contaminés. Suivez la séquence démontrée de retrait des gants, d’hygiène des mains et de soins propres tout en maintenant la surveillance."
             },
             {
               "type": "p",
-              "text": "Remplissez le document après les soins, lorsque vos mains et l’espace de consignation sont propres. Si vous contaminez accidentellement un article, isolez-le et organisez son nettoyage ou son remplacement adapté. Aidez l’enfant à se laver les mains, confirmez sa surveillance en sécurité, puis remettez le poste en état avec les produits approuvés et l’hygiène des mains requise. Enfiler un gant neuf par-dessus un gant sale ne corrige pas la contamination."
+              "text": "Consignez les soins selon la méthode papier ou numérique approuvée par l’établissement après les soins, lorsque vos mains et l’espace de consignation sont propres. Si vous contaminez accidentellement un article, isolez-le et organisez son nettoyage ou son remplacement adapté. Aidez l’enfant à se laver les mains, confirmez sa surveillance en sécurité, puis remettez le poste en état avec les produits approuvés et l’hygiène des mains requise. Enfiler un gant neuf par-dessus un gant sale ne corrige pas la contamination."
             }
           ]
         }
@@ -345,15 +333,15 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "L’approbation locale est indispensable"
+              "text": "Suivez la routine de nettoyage approuvée par votre établissement"
             },
             {
               "type": "p",
-              "text": "Les sources ne définissent pas une routine identique dans le monde entier. Le modèle Inspired de 2020 mentionne un spray antibactérien après chaque change. Les recommandations actuelles du CDC pour les structures d’accueil de l’enfance prévoient d’éliminer les souillures visibles et de désinfecter la surface après utilisation. Les recommandations de l’UKHSA prévoient un nettoyage des matelas de change après utilisation à l’eau savonneuse ou avec un détergent doux, avec des consignes distinctes de désinfection en cas de contamination par des liquides biologiques. Le responsable de la prévention des infections de l’établissement doit approuver la procédure répondant aux exigences locales et aux consignes actuelles des produits."
+              "text": "Utilisez la routine et les produits de nettoyage et de désinfection approuvés par l’établissement. Suivez les consignes du produit, notamment le temps de contact requis et les étapes de séchage ou de rinçage. Le temps de contact est la durée pendant laquelle le produit doit rester sur la surface dans les conditions indiquées sur son étiquette pour agir."
             },
             {
               "type": "p",
-              "text": "Ne choisissez pas vous-même entre ces sources et n’inventez pas de mélange chimique. Avant les soins pratiques, renseignez-vous sur le produit approuvé, son usage, toute dilution préparée par le personnel habilité, le temps de contact requis, les exigences de séchage ou de rinçage, les équipements de protection et le circuit d’élimination. Le temps de contact désigne la durée pendant laquelle le produit doit rester dans les conditions indiquées sur son étiquette pour agir. Ne mélangez jamais de produits chimiques et n’utilisez jamais de contenant sans étiquette."
+              "text": "Utilisez les équipements de protection requis et les méthodes approuvées de préparation et d’élimination. Faites préparer toute dilution nécessaire par le personnel habilité. Ne mélangez jamais de produits chimiques et n’utilisez jamais de contenant sans étiquette. Si vous avez un doute sur le produit ou une étape, demandez conseil au responsable compétent avant de l’utiliser."
             },
             {
               "type": "h",
@@ -386,10 +374,6 @@ window.COURSE_FR={
             {
               "type": "p",
               "text": "Si un gant se déchire, si les vêtements sont contaminés, si un déversement se produit ou si un enfant touche un article contaminé, sécurisez la situation et suivez la procédure d’exposition ou de déversement. Demandez rapidement conseil à la personne formée compétente. Ne cachez pas l’incident et n’improvisez pas de traitement. Signalez les pénuries répétées, les étiquettes de produits peu claires et les temps de contact impossibles à respecter comme des problèmes d’organisation nécessitant l’intervention d’un responsable."
-            },
-            {
-              "type": "p",
-              "text": "Sources : modèle Inspired, section 2 ; hygiène du CDC en structures d’accueil de l’enfance et prévention et maîtrise des infections de l’UKHSA. Le choix des produits, les durées exactes et les règles de gestion des déchets sont volontairement laissés à l’approbation de l’établissement."
             }
           ]
         },
@@ -460,11 +444,11 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Le modèle Inspired fourni exige que les crèmes pour le change non prescrites soient fournies par les parents et accompagnées d’un formulaire de consentement rempli. Vérifiez le nom complet de l’enfant, le produit exact, les consignes, la date d’ouverture et la durée d’utilisation autorisée après ouverture. Ne partagez jamais une crème entre enfants et ne substituez jamais le produit d’un autre enfant. Si le consentement, l’identité, les consignes ou l’adéquation du produit ne sont pas clairs, obtenez l’autorisation requise avant toute application."
+              "text": "Utilisez une crème pour le change non prescrite fournie par les parents de l’enfant et accompagnée d’un formulaire de consentement rempli. Vérifiez le nom complet de l’enfant, le produit exact, les consignes, la date d’ouverture et la durée d’utilisation autorisée après ouverture. Ne partagez jamais une crème entre enfants et ne substituez jamais le produit d’un autre enfant. Si le consentement, l’identité, les consignes ou l’adéquation du produit ne sont pas clairs, obtenez l’autorisation requise avant toute application."
             },
             {
               "type": "p",
-              "text": "Une crème prescrite relève de la procédure de l’établissement relative aux médicaments et ne peut être appliquée que par le personnel désigné et formé à leur administration. Le modèle fourni exige un rangement des médicaments sous clé et le registre correspondant. Une suggestion verbale d’un collègue n’autorise pas l’administration d’un médicament. Ne diagnostiquez pas une éruption cutanée et ne choisissez pas vous-même un traitement. Signalez l’inconfort ou les changements et obtenez un avis approprié."
+              "text": "Une crème prescrite relève de la procédure de l’établissement relative aux médicaments et ne peut être appliquée que par le personnel désigné et formé à leur administration. Gardez les médicaments sous clé et remplissez le registre requis. Une suggestion verbale d’un collègue n’autorise pas l’administration d’un médicament. Ne diagnostiquez pas une éruption cutanée et ne choisissez pas vous-même un traitement. Signalez l’inconfort ou les changements et obtenez un avis approprié."
             },
             {
               "type": "h",
@@ -484,11 +468,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Vérifiez les besoins des enfants selon leur plan et la routine locale, et intervenez rapidement lorsqu’ils sont mouillés, souillés ou inconfortables. L’ancien modèle mentionne un intervalle de trois à quatre heures et une couche propre pour dormir. Cette formulation ne doit pas être interprétée comme une permission de laisser un enfant souillé attendre un change programmé. Les responsables doivent approuver les exigences actuelles de vérification et de change pour la tranche d’âge et l’enfant concerné."
-            },
-            {
-              "type": "p",
-              "text": "Fondement : modèle Inspired, sections 2 à 4 et annexe de consentement pour les crèmes. La communication attentive et l’autonomie sont également cohérentes avec les recommandations de l’ACECQA sur les toilettes ; les références réglementaires australiennes ne sont pas présentées comme du droit local."
+              "text": "Vérifiez régulièrement les besoins de chaque enfant en suivant son plan de soins individuel et la routine de l’établissement. Changez rapidement une couche mouillée ou souillée et répondez à tout inconfort. N’attendez pas le prochain change programmé lorsqu’un enfant a besoin de soins. Vérifiez avant le sommeil et changez la couche si nécessaire pour que l’enfant puisse se reposer propre et à l’aise."
             }
           ]
         },
@@ -547,7 +527,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Remplissez rapidement le document de soins approuvé après la tâche, avec des mains propres. Indiquez la date et l’heure, le membre du personnel et les soins prodigués, notamment les informations sur les couches mouillées ou souillées et l’utilisation autorisée de crème lorsque cela est requis. Consignez l’aide supplémentaire, les événements inhabituels, la réaction de l’enfant et les mesures prises lorsque c’est pertinent. Utilisez le système sécurisé de l’établissement ; ne laissez pas les données personnelles visibles pour d’autres familles et ne les saisissez pas dans cette formation."
+              "text": "Consignez rapidement les soins après la tâche, avec des mains propres, selon la méthode papier ou numérique approuvée par l’établissement. Indiquez la date et l’heure, le membre du personnel et les soins prodigués, notamment les informations sur les couches mouillées ou souillées et l’utilisation autorisée de crème lorsque cela est requis. Consignez l’aide supplémentaire, les événements inhabituels, la réaction de l’enfant et les mesures prises lorsque c’est pertinent. Utilisez le système sécurisé de l’établissement ; ne laissez pas les données personnelles visibles pour d’autres familles et ne les saisissez pas dans cette formation."
             },
             {
               "type": "p",
@@ -588,10 +568,6 @@ window.COURSE_FR={
             {
               "type": "p",
               "text": "La réussite en ligne exige les six modules, les activités et les vérifications rapides, au moins 16 bonnes réponses sur 20, une réponse correcte aux cinq questions essentielles de sécurité et les engagements. Les réflexions écrites soutiennent l’apprentissage et ne constituent pas une évaluation professionnelle de la compétence. La grille pratique distincte doit être remplie par un observateur formé et habilité ; le personnel ne peut pas valider lui-même sa compétence pratique."
-            },
-            {
-              "type": "p",
-              "text": "Sources : politique Inspired sur les soins intimes, section 5, documents Safe Hands fournis et structure de direction spécifiée pour l’établissement. Les noms actuels des contacts, les voies indépendantes et les obligations locales de signalement restent soumis à l’approbation de l’établissement."
             }
           ]
         },
@@ -670,7 +646,7 @@ window.COURSE_FR={
       "why": "Ne laissez jamais un enfant sans surveillance sur une surface de change. La préparation et une aide sûre empêchent qu’un manque de matériel devienne une défaillance de surveillance."
     },
     {
-      "q": "Quelle organisation correspond au modèle Inspired fourni sur les soins intimes ?",
+      "q": "Quelle organisation protège l’intimité tout en informant un collègue des soins ?",
       "options": [
         "Fermer la porte pour que personne ne sache que des soins ont lieu.",
         "Informer un collègue et utiliser les dispositifs approuvés de protection visuelle tout en respectant l’interdiction des soins derrière une porte fermée.",
@@ -689,7 +665,7 @@ window.COURSE_FR={
       ],
       "answer": 2,
       "critical": false,
-      "why": "Le modèle fourni exige la crème étiquetée propre à l’enfant et un consentement rempli. Les produits prescrits nécessitent aussi la procédure relative aux médicaments."
+      "why": "Utilisez la crème étiquetée propre à l’enfant avec un consentement rempli. Les produits prescrits nécessitent aussi la procédure relative aux médicaments."
     },
     {
       "q": "Un enfant pleure et se dégage pendant les soins ; personne n’est en danger immédiat. Un collègue suggère de l’immobiliser pour finir. Que devez-vous faire ?",
@@ -780,7 +756,7 @@ window.COURSE_FR={
       "why": "Contenez les souillures et suivez la procédure de l’établissement pour le retour à la famille ou le circuit de lavage dédié."
     },
     {
-      "q": "Une crème pour le change prescrite doit être appliquée. Qui peut l’appliquer selon le modèle fourni ?",
+      "q": "Une crème pour le change prescrite doit être appliquée. Qui peut l’appliquer ?",
       "options": [
         "Tout adulte ayant terminé cette formation en ligne.",
         "Le membre du personnel désigné et formé à l’administration des médicaments, selon la procédure de l’établissement relative aux médicaments.",
@@ -794,12 +770,12 @@ window.COURSE_FR={
       "q": "Un enfant est souillé peu après un change programmé. Que doit-il se passer ?",
       "options": [
         "Intervenir rapidement selon les besoins et le plan de soins.",
-        "Attendre que l’intervalle de trois à quatre heures soit écoulé.",
+        "Attendre le prochain change programmé.",
         "Attendre l’arrivée de la famille de l’enfant."
       ],
       "answer": 0,
       "critical": false,
-      "why": "Un horaire ne justifie pas de laisser un enfant souillé. Les exigences locales actuelles de vérification et de change doivent permettre des soins attentifs aux besoins."
+      "why": "Intervenez rapidement lorsqu’une couche est mouillée ou souillée. Suivez le plan de soins de l’enfant ; ne retardez pas les soins nécessaires pour respecter un horaire."
     },
     {
       "q": "Quel compte rendu est le plus approprié ?",
@@ -872,27 +848,6 @@ window.COURSE_FR={
         {
           "type": "p",
           "text": "L’attestation téléchargeable confirme uniquement la réussite en ligne. Une intégration distincte dans l’établissement, des procédures approuvées et une validation pratique par un observateur formé sont nécessaires avant d’assurer des soins intimes de façon autonome. Cette formation ne confère aucune qualification spécialisée en médecine, levage ou contention."
-        }
-      ]
-    },
-    {
-      "title": "Sources et approbation locale",
-      "blocks": [
-        {
-          "type": "p",
-          "text": "Source principale : modèle Inspired de politique sur les soins intimes et les couches, juillet 2020, introduction, sections 2 à 5 et annexe de consentement pour les crèmes. Récupéré dans la collection Drive fournie le 3 octobre 2026. Son statut de politique actuellement approuvée n’a pas été confirmé."
-        },
-        {
-          "type": "p",
-          "text": "Sources secondaires assurant la continuité : module 4 de la formation Safe Hands et dossier Early Years Safe Hands Course Pack. De nouveaux scénarios, évaluations, scripts visuels et règles de réussite ont été rédigés pour cette formation. Les anciennes références aux instances de gouvernance dans les documents secondaires ne sont pas reprises ; cette formation utilise la structure spécifiée : chef d’établissement exécutif, responsables de cycle et siège d’Inspired."
-        },
-        {
-          "type": "p",
-          "text": "Sources publiques vérifiées le 3 octobre 2026 : CDC, Healthy Habits: Diaper Changing Steps for Childcare Settings (bonnes habitudes : étapes du change en structures d’accueil de l’enfance) ; UKHSA, Preventing and controlling infections (prévenir et maîtriser les infections) ; NSPCC, Intimate care of children (soins intimes des enfants) ; ACECQA, Toileting and nappy changing principles and practices (principes et pratiques de toilette et de change). Chacune s’inscrit dans un contexte géographique différent. Aucune n’établit une norme juridique universelle."
-        },
-        {
-          "type": "p",
-          "text": "Avant le déploiement auprès du personnel, l’établissement doit approuver la politique actuelle, les autorisations selon les fonctions, la procédure locale de prévention des infections, les consignes des produits et de temps de contact, l’aménagement assurant l’intimité et la surveillance, les procédures de crèmes et de médicaments, les règles de déchets et de linge, les contacts de signalement, les obligations envers les organismes externes et les modalités d’évaluation pratique. Résolvez toute différence entre le modèle de 2020, les recommandations publiques actuelles et les exigences locales."
         }
       ]
     },

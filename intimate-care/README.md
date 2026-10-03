@@ -21,7 +21,7 @@ Online completion records knowledge and reflection only. Practical competence an
 - Separate acknowledgements and named certificate of online completion
 - Three original SVG/CSS illustrated explainers with play/pause, previous/next/restart controls, visible captions and full transcripts
 - A separate 25-criterion school practical observation checklist, available on screen, as a blank PDF and through browser print
-- Local-readiness checklist, source notes and unfilled school contact routes
+- Staff-facing school-readiness checklist and unfilled school contact routes
 - Full results text download, online-completion PDF and prepared email file for manual sharing with the Head
 - English, French and Kreol Morisien, with unchanged participant-entered responses when switching languages
 
@@ -70,6 +70,36 @@ The interface includes labelled form controls, keyboard-focus styles, a skip lin
 
 ## Validation
 
+Run `node tools/test-staff-content.cjs` for the focused staff-wording and generated-dictionary checks. This supplements the application, event and output tests described below.
+
 See the separate QA handoff for exact test results and any remaining browser limitations. Tests use fictional identities only. An automated or native-canvas check does not establish clinical approval, translation correctness, practical competence or actual hosted browser download behaviour.
 
 Before rollout, the school should check the approved local procedure against every lesson, assessment and visual script, have French/Kreol terminology reviewed, trial timing, test phone and desktop access and downloads, and assign the competent practical observer.
+
+## Research provenance for maintainers
+
+This section retains the research trail outside the participant-facing course. The staff-facing course uses direct, practical instructions; it does not ask participants to resolve source differences. Source status and review cautions below are historical research notes, not confirmation of current school approval.
+
+- [Inspired Template Intimate Care and Nappy Policy, July 2020](https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit): Primary supplied source, retrieved in full 3 October 2026. Introduction, sections 2–5 and cream-consent appendix. Current approved status must be confirmed locally; access to the source file depends on school permissions.
+- [CDC: Diaper Changing Steps for Childcare Settings](https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html): United States public-health guidance, dated 17 May 2024; checked 3 October 2026. Supports the care sequence and surface disinfection after use. Local implementation requires approval.
+- [UKHSA: Preventing and controlling infections](https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections): England guidance; checked 3 October 2026. Describes routine detergent mat cleaning and separate bodily-fluid spill precautions. Product directions and local requirements must be reconciled.
+- [NSPCC: Intimate care of children](https://learning.nspcc.org.uk/child-health-development/intimate-care): UK safeguarding guidance, updated 1 September 2026; checked 3 October 2026. Supports child-centred plans, appropriate staff awareness and reporting concerns. Jurisdiction-specific legal references are not treated as worldwide rules.
+- [ACECQA: Toileting and nappy changing principles and practices](https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices): Australian quality guidance; checked 3 October 2026. Supports responsive routines, independence and family partnership. Australian regulatory references are contextual only.
+
+### Source mapping and approval context
+
+- Policy foundation: Inspired Intimate Care and Nappy Policy, introduction and sections 2–5. Online/practical boundaries, no intimate recording and the refusal scenario are additional course safeguards requiring school approval.
+- Policy foundation: Inspired template, introduction and section 2. Station zoning, equipment checks and the explicit supervision stop rule are course safeguards to be demonstrated locally.
+- Policy foundation: Inspired template section 2. CDC’s childcare sequence informed front-to-back wiping, the clean phase and child handwashing. The school must approve and demonstrate precise glove changes, hand-hygiene points, transfer and cleaning arrangements.
+- Source foundation: Inspired template section 2; CDC childcare hygiene and UKHSA preventing and controlling infections. Product selection, exact timings and waste rules are intentionally left for school approval.
+- Policy foundation: Inspired template sections 2–4 and cream consent appendix. Responsive communication and independence are also consistent with ACECQA’s toileting guidance; Australian regulatory references are not presented as local law.
+- Source foundation: Inspired intimate-care section 5, the supplied Safe Hands materials and the specified school leadership structure. Current contact names, independent routes and local reporting duties still require school approval.
+
+Primary source: Inspired Template Intimate Care and Nappy Policy, July 2020, introduction, sections 2–5 and cream-consent appendix. Retrieved from the supplied Drive collection on 3 October 2026. Its status as the current approved policy has not been confirmed.
+Secondary continuity sources: Safe Hands course module 4 and the Early Years Safe Hands Course Pack. New scenarios, assessments, visual scripts and completion rules were written for this course. Older references to governing bodies in secondary materials are not carried forward; this course uses the specified Executive Head, phase-head and Inspired Head Office structure.
+Public sources checked 3 October 2026: CDC Healthy Habits: Diaper Changing Steps for Childcare Settings; UKHSA Preventing and controlling infections; NSPCC Intimate care of children; ACECQA Toileting and nappy changing principles and practices. Each has a different geographical context. None establishes a universal worldwide legal standard.
+Before staff rollout, the school must approve the current policy, role permissions, local infection-control procedure, product/contact-time instructions, privacy and supervision layout, cream/medicine processes, waste and laundry rules, reporting contacts, external duties and practical-assessment arrangements. Resolve any difference between the 2020 template, current public guidance and local requirements.
+
+### Staff-facing wording update
+
+Tablet-specific examples now use the school’s approved paper or digital recording method. Cleaning guidance directs staff to approved routines, product directions, contact times and the responsible lead. Changing times are based on each child’s needs; a wet or soiled nappy must not wait for the next scheduled change. The school-readiness page addresses staff preparation, and source/policy-foundation callouts have been removed from participant pages. Module IDs, state storage, question answer indexes, critical flags, completion requirements and certificate logic are unchanged.

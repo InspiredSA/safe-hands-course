@@ -40,7 +40,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "The supplied Inspired template requires a colleague to know that intimate care is taking place and prohibits changing or cleaning a child behind a closed door. Use the designated area and approved screening so passers-by and other children cannot see intimate care. Awareness does not mean gathering an audience or automatically requiring two adults for every change. Staffing must follow the child’s plan and the school’s assessed procedure."
+              "text": "Make sure a colleague knows that intimate care is taking place. Do not change or clean a child behind a closed door. Use the designated area and approved screening so passers-by and other children cannot see intimate care. Awareness does not mean gathering an audience or automatically requiring two adults for every change. Staffing must follow the child’s plan and the school’s assessed procedure."
             },
             {
               "type": "p",
@@ -53,10 +53,6 @@ window.COURSE={
             {
               "type": "p",
               "text": "Pause where safe. Stay calm, acknowledge the feeling and offer a small choice or familiar adult. “I can see you are worried. We can pause. Would you like Sam to help?” Summon support without leaving the child unsafe. Do not hold a child down to finish more quickly. A pause must lead to a plan for timely necessary care, not leaving the child soiled indefinitely. Persistent distress, pain or an urgent health concern needs prompt support and appropriate advice."
-            },
-            {
-              "type": "p",
-              "text": "Policy foundation: Inspired Intimate Care and Nappy Policy, introduction and sections 2–5. Online/practical boundaries, no intimate recording and the refusal scenario are additional course safeguards requiring school approval."
             }
           ]
         },
@@ -155,7 +151,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Wash and dry your hands before care and put on the fresh disposable apron and gloves required by the supplied Inspired template for each change. PPE means personal protective equipment. It does not replace hand hygiene. Use the school’s approved size and material; report a shortage or sensitivity rather than substituting unsuitable equipment. Cover cuts according to the local infection-control procedure."
+              "text": "Wash and dry your hands before care and put on a fresh disposable apron and gloves for each change. PPE means personal protective equipment. It does not replace hand hygiene. Use the school’s approved size and material; report a shortage or sensitivity rather than substituting unsuitable equipment. Cover cuts according to the local infection-control procedure."
             },
             {
               "type": "p",
@@ -168,10 +164,6 @@ window.COURSE={
             {
               "type": "p",
               "text": "Never leave a child alone on a changing surface, even briefly and even if a strap is fitted. If an item runs out, stay with and protect the child while calling for assistance, or follow the approved safe-transfer procedure within your training. A strap, a low edge or “they never roll” is not supervision. Use the protective contact and positioning demonstrated by your trained observer to prevent a fall from a raised surface. This is a safety measure, not permission to hold a distressed child down to complete care."
-            },
-            {
-              "type": "p",
-              "text": "Policy foundation: Inspired template, introduction and section 2. Station zoning, equipment checks and the explicit supervision stop rule are course safeguards to be demonstrated locally."
             }
           ]
         },
@@ -275,10 +267,6 @@ window.COURSE={
             {
               "type": "p",
               "text": "Reset the area as Module 4 describes. Wash and dry your hands after removing cleaning PPE and finishing cleaning. Record the care and pass on relevant information through approved channels. Do not skip the reset because another child is waiting; obtain help to manage the queue safely."
-            },
-            {
-              "type": "p",
-              "text": "Policy foundation: Inspired template section 2. CDC’s childcare sequence informed front-to-back wiping, the clean phase and child handwashing. The school must approve and demonstrate precise glove changes, hand-hygiene points, transfer and cleaning arrangements."
             }
           ]
         },
@@ -291,7 +279,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Fictional case. During a change you have just removed a soiled nappy. A colleague asks you to tap “completed” on a tablet. Your gloved hand is contaminated. The clean nappy is still in the cupboard and the child is on the changing surface. You notice the child becoming upset."
+              "text": "Fictional case. During a change you have just removed a soiled nappy. A colleague asks you to update the care record using the school’s approved paper or digital method. Your gloved hand is contaminated. The clean nappy is still in the cupboard and the child is on the changing surface. You notice the child becoming upset."
             },
             {
               "type": "li",
@@ -311,11 +299,11 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Stay with the child, reassure them and call for a trained colleague to bring the missing clean nappy or help with the approved arrangement. Do not touch the tablet, cupboard handle or clean supplies with contaminated gloves. Follow the demonstrated glove-removal, hand-hygiene and clean-care sequence while maintaining supervision."
+              "text": "Stay with the child, reassure them and call for a trained colleague to bring the missing clean nappy or help with the approved arrangement. Do not touch the care record, pen, recording device, cupboard handle or clean supplies with contaminated gloves. Follow the demonstrated glove-removal, hand-hygiene and clean-care sequence while maintaining supervision."
             },
             {
               "type": "p",
-              "text": "Complete the record after care when your hands and recording area are clean. If you accidentally contaminate an item, contain it and arrange appropriate cleaning or replacement. Help the child with handwashing, confirm safe supervision, then reset the station using approved products and hand hygiene. Do not treat putting on a fresh glove over a dirty glove as a correction."
+              "text": "Complete the care record using the school’s approved paper or digital method after care, when your hands and recording area are clean. If you accidentally contaminate an item, contain it and arrange appropriate cleaning or replacement. Help the child with handwashing, confirm safe supervision, then reset the station using approved products and hand hygiene. Do not treat putting on a fresh glove over a dirty glove as a correction."
             }
           ]
         }
@@ -345,15 +333,15 @@ window.COURSE={
             },
             {
               "type": "h",
-              "text": "Local approval is essential"
+              "text": "Use your school’s approved cleaning routine"
             },
             {
               "type": "p",
-              "text": "Sources do not set one identical worldwide routine. The Inspired 2020 template refers to antibacterial spray after each change. Current CDC childcare guidance calls for cleaning visible soil and disinfecting the surface after use. UKHSA guidance describes soapy water or a mild detergent wipe for changing mats after use, with separate disinfection guidance for bodily-fluid contamination. The school’s infection-control lead must approve the procedure that meets local requirements and current product directions."
+              "text": "Use the school’s approved cleaning and disinfection routine and products. Follow the product directions, including the required contact time and any drying or rinsing steps. Contact time is how long the product must remain on the surface in the condition stated on its label to work."
             },
             {
               "type": "p",
-              "text": "Do not choose between these sources yourself or invent a chemical recipe. Before practical care, know the approved product, what it is used for, any dilution prepared by authorised staff, required contact time, drying or rinsing requirement, protective equipment and disposal route. Contact time means the time the product must remain in the condition stated on its label to work. Never mix chemicals or use an unlabelled container."
+              "text": "Use the required protective equipment and approved preparation and disposal methods. Have any required dilution prepared by authorised staff. Never mix chemicals or use an unlabelled container. If you are unsure about the product or any step, ask the responsible lead before using it."
             },
             {
               "type": "h",
@@ -386,10 +374,6 @@ window.COURSE={
             {
               "type": "p",
               "text": "If a glove tears, clothing becomes contaminated, a spill occurs or a child touches a contaminated item, make the situation safe and follow the exposure or spill procedure. Seek prompt advice from the appropriate trained person. Do not hide the incident or improvise treatment. Report repeated shortages, unclear product labels and impossible contact times as system problems that need a leader’s action."
-            },
-            {
-              "type": "p",
-              "text": "Source foundation: Inspired template section 2; CDC childcare hygiene and UKHSA preventing and controlling infections. Product selection, exact timings and waste rules are intentionally left for school approval."
             }
           ]
         },
@@ -460,11 +444,11 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "The supplied Inspired template requires non-prescribed nappy cream to be supplied by parents and supported by a completed consent form. Check the child’s full name, the exact product, directions, date opened and the period it may be used after opening. Never share cream between children or substitute another child’s product. If consent, identity, directions or suitability are unclear, obtain the required authorisation before application."
+              "text": "Use non-prescribed nappy cream supplied by the child’s parents and supported by a completed consent form. Check the child’s full name, the exact product, directions, date opened and the period it may be used after opening. Never share cream between children or substitute another child’s product. If consent, identity, directions or suitability are unclear, obtain the required authorisation before application."
             },
             {
               "type": "p",
-              "text": "Prescribed cream follows the school’s medication process and is applied only by designated medication-trained staff. The supplied template requires locked medication storage and the relevant medication record. A verbal suggestion from a colleague does not authorise medication. Do not diagnose a rash or choose a treatment yourself. Report discomfort or changes and obtain appropriate advice."
+              "text": "Prescribed cream follows the school’s medication process and is applied only by designated medication-trained staff. Keep medication in locked storage and complete the required medication record. A verbal suggestion from a colleague does not authorise medication. Do not diagnose a rash or choose a treatment yourself. Report discomfort or changes and obtain appropriate advice."
             },
             {
               "type": "h",
@@ -484,11 +468,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Check children according to their plan and local routine, and respond promptly when wet, soiled or uncomfortable. The old template mentions a three-to-four-hour interval and a clean nappy for sleep. That wording must not be treated as permission to leave a soiled child waiting for a scheduled change. Leaders must approve current checking and changing expectations for the age group and individual child."
-            },
-            {
-              "type": "p",
-              "text": "Policy foundation: Inspired template sections 2–4 and cream consent appendix. Responsive communication and independence are also consistent with ACECQA’s toileting guidance; Australian regulatory references are not presented as local law."
+              "text": "Check each child regularly, following their individual care plan and the school’s routine. Change a wet or soiled nappy promptly and respond to discomfort. Do not wait for the next scheduled change when a child needs care. Check before sleep and change the nappy if needed so the child can rest clean and comfortable."
             }
           ]
         },
@@ -547,7 +527,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Complete the approved care record promptly after the task with clean hands. Include the date and time, the staff member and the care provided, including wet or soiled nappy information and authorised cream use where required. Record additional assistance, unusual events, the child’s response and actions taken when relevant. Use the school’s secure system; do not leave personal details visible to other families or enter them in this training course."
+              "text": "Complete the care record promptly after the task with clean hands, using the school’s approved paper or digital method. Include the date and time, the staff member and the care provided, including wet or soiled nappy information and authorised cream use where required. Record additional assistance, unusual events, the child’s response and actions taken when relevant. Use the school’s secure system; do not leave personal details visible to other families or enter them in this training course."
             },
             {
               "type": "p",
@@ -588,10 +568,6 @@ window.COURSE={
             {
               "type": "p",
               "text": "Online completion requires all six modules, the activities and quick checks, at least 16 correct answers out of 20, all five critical safety questions correct and the declarations. Written reflections support learning and are not a professional assessment of competence. The separate practical checklist must be completed by an authorised trained observer; staff cannot sign off their own practical competence."
-            },
-            {
-              "type": "p",
-              "text": "Source foundation: Inspired intimate-care section 5, the supplied Safe Hands materials and the specified school leadership structure. Current contact names, independent routes and local reporting duties still require school approval."
             }
           ]
         },
@@ -670,7 +646,7 @@ window.COURSE={
       "why": "Never leave a child unattended on a changing surface. Preparation and safe assistance prevent a shortage becoming a supervision failure."
     },
     {
-      "q": "Which arrangement matches the supplied Inspired intimate-care template?",
+      "q": "Which arrangement protects privacy while keeping a colleague aware of care?",
       "options": [
         "Close the door so nobody knows care is taking place.",
         "Tell a colleague and use approved screening while meeting the no-closed-door requirement.",
@@ -689,7 +665,7 @@ window.COURSE={
       ],
       "answer": 2,
       "critical": false,
-      "why": "The supplied template requires the child’s own labelled cream and completed consent. Prescribed products also require the medication process."
+      "why": "Use the child’s own labelled cream with completed consent. Prescribed products also require the medication process."
     },
     {
       "q": "A child cries and pulls away during care; nobody is in immediate danger. A colleague suggests holding them down to finish. What should you do?",
@@ -780,7 +756,7 @@ window.COURSE={
       "why": "Contain soiling and follow the school’s return-to-family or dedicated laundry procedure."
     },
     {
-      "q": "A prescribed nappy cream is due. Who may apply it under the supplied template?",
+      "q": "A prescribed nappy cream is due. Who may apply it?",
       "options": [
         "Any adult who has finished this online course.",
         "The designated medication-trained member of staff following the school’s medicine procedure.",
@@ -794,12 +770,12 @@ window.COURSE={
       "q": "A child becomes soiled soon after a scheduled change. What should happen?",
       "options": [
         "Respond promptly according to need and the care plan.",
-        "Wait until the three-to-four-hour interval has passed.",
+        "Wait until the next scheduled change.",
         "Wait until the child’s family arrives."
       ],
       "answer": 0,
       "critical": false,
-      "why": "A timetable does not justify leaving a child soiled. Current local checking and changing expectations must support responsive care."
+      "why": "Respond promptly to a wet or soiled nappy. Follow the child’s care plan; do not delay necessary care to fit a timetable."
     },
     {
       "q": "Which record is most appropriate?",
@@ -872,27 +848,6 @@ window.COURSE={
         {
           "type": "p",
           "text": "The downloadable certificate confirms online completion only. Separate school induction, approved procedures and a trained observer’s practical signoff are required before independent intimate-care duties. This course gives no specialist medical, lifting or restraint qualification."
-        }
-      ]
-    },
-    {
-      "title": "Sources and local approval",
-      "blocks": [
-        {
-          "type": "p",
-          "text": "Primary source: Inspired Template Intimate Care and Nappy Policy, July 2020, introduction, sections 2–5 and cream-consent appendix. Retrieved from the supplied Drive collection on 3 October 2026. Its status as the current approved policy has not been confirmed."
-        },
-        {
-          "type": "p",
-          "text": "Secondary continuity sources: Safe Hands course module 4 and the Early Years Safe Hands Course Pack. New scenarios, assessments, visual scripts and completion rules were written for this course. Older references to governing bodies in secondary materials are not carried forward; this course uses the specified Executive Head, phase-head and Inspired Head Office structure."
-        },
-        {
-          "type": "p",
-          "text": "Public sources checked 3 October 2026: CDC Healthy Habits: Diaper Changing Steps for Childcare Settings; UKHSA Preventing and controlling infections; NSPCC Intimate care of children; ACECQA Toileting and nappy changing principles and practices. Each has a different geographical context. None establishes a universal worldwide legal standard."
-        },
-        {
-          "type": "p",
-          "text": "Before staff rollout, the school must approve the current policy, role permissions, local infection-control procedure, product/contact-time instructions, privacy and supervision layout, cream/medicine processes, waste and laundry rules, reporting contacts, external duties and practical-assessment arrangements. Resolve any difference between the 2020 template, current public guidance and local requirements."
         }
       ]
     },

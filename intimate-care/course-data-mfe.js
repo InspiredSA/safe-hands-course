@@ -40,7 +40,7 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Model Inspired ki finn fourni demande ki enn koleg kone ki bann swin intim pe deroule, ek li interdi sanz ouswa netway enn zanfan deryer enn laport ferme. Servi lespas deziye-la ek enn separasion viziel aprouve pou ki bann dimounn ki pase ek bann lezot zanfan pa trouv bann swin intim. Met enn koleg okouran pa vedir rasanble enn piblik ouswa otomatikman demann de adilt pou sak sanzman kous. Organizasion personel bizin swiv plan zanfan-la ek prosedir ki lekol finn evalie."
+              "text": "Asire ki enn koleg kone ki bann swin intim pe deroule. Pa sanz ouswa netway enn zanfan deryer enn laport ferme. Servi lespas deziye-la ek enn separasion viziel aprouve pou ki bann dimounn ki pase ek bann lezot zanfan pa trouv bann swin intim. Met enn koleg okouran pa vedir rasanble enn piblik ouswa otomatikman demann de adilt pou sak sanzman kous. Organizasion personel bizin swiv plan zanfan-la ek prosedir ki lekol finn evalie."
             },
             {
               "type": "p",
@@ -53,10 +53,6 @@ window.COURSE_MFE={
             {
               "type": "p",
               "text": "Fer enn poz kan sa kapav fer an sekirite. Res kalm, rekonet so santiman ek propoz enn ti swa ouswa enn adilt ki li kone. “Mo trouve ki to trakase. Nou kapav fer enn poz. To anvi Sam ed twa?” Apel pou soutien san les zanfan-la dan enn sitiasion danzere. Pa tini enn zanfan anba pou fini pli vit. Enn poz bizin amenn enn plan pou bann swin neseser san tarde, pa les zanfan-la sal pandan enn letan san limit. Enn detres ki kontigne, douler ouswa enn problem lasante irzan bizin soutien rapid ek konsey apropriye."
-            },
-            {
-              "type": "p",
-              "text": "Baz regleman: Inspired Intimate Care and Nappy Policy, introdiksion ek seksion 2–5. Bann limit formasion an-lign ek pratik, linterdiksion bann lanrezistreman intim ek sitiasion refi-la se bann mezir proteksion anplis dan formasion-la ki bizin laprobasion lekol."
             }
           ]
         },
@@ -155,7 +151,7 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Lav ek sek ou lame avan bann swin ek met enn nouvo tabliye ek bann nouvo gan ki zete apre itilizasion, kouma model Inspired ki finn fourni demande pou sak sanzman. PPE vedir lekipman proteksion individiel. Li pa ranplas lizien lame. Servi grander ek materyo ki lekol finn aprouve; signal enn mank ouswa enn sansibilite olye ou ranplas li avek enn lekipman ki pa apropriye. Kouver bann koupir dapre prosedir lokal kontrol bann infeksion."
+              "text": "Lav ek sek ou lame avan bann swin ek met enn nouvo tabliye ek bann nouvo gan ki zete apre itilizasion pou sak sanzman. PPE vedir lekipman proteksion individiel. Li pa ranplas lizien lame. Servi grander ek materyo ki lekol finn aprouve; signal enn mank ouswa enn sansibilite olye ou ranplas li avek enn lekipman ki pa apropriye. Kouver bann koupir dapre prosedir lokal kontrol bann infeksion."
             },
             {
               "type": "p",
@@ -168,10 +164,6 @@ window.COURSE_MFE={
             {
               "type": "p",
               "text": "Zame les enn zanfan tousel lor enn sirfas sanzman kous, mem pou enn ti moman ek mem si ena enn sang sekirite. Si enn materyel fini, res avek zanfan-la ek protez li pandan ki ou apel pou led, ouswa swiv prosedir deplasman an sekirite ki finn aprouve ek ki dan limit ou formasion. Enn sang, enn bor ba ouswa “li zame roule” pa enn sirveyans. Servi kontak protekter ek pozision ki ou obzervater forme finn montre pou anpes enn zanfan tonbe depi enn sirfas an oter. Sa se enn mezir sekirite, pa enn permision pou tini enn zanfan an detres anba pou terminn bann swin."
-            },
-            {
-              "type": "p",
-              "text": "Baz regleman: model Inspired, introdiksion ek seksion 2. Separasion bann lespas, verifikasion lekipman ek regleman kler pou arete si sirveyans pa asire se bann mezir proteksion dan formasion-la ki bizin montre lokalman."
             }
           ]
         },
@@ -275,10 +267,6 @@ window.COURSE_MFE={
             {
               "type": "p",
               "text": "Remet lespas-la an eta kouma Modil 4 dekrir. Lav ek sek ou lame apre ou finn retir lekipman proteksion pou netwayaz ek terminn netwaye. Anrezistre bann swin ek transmet bann linformasion itil atraver bann kanal aprouve. Pa sot netwayaz ek preparasion lespas-la parski enn lot zanfan pe atann; gagn led pou zer bann zanfan ki pe atann an sekirite."
-            },
-            {
-              "type": "p",
-              "text": "Baz regleman: model Inspired seksion 2. Bann letap CDC pou bann etablisman ki okip zanfan finn gid fason swiy depi devan ver deryer, letap prop-la ek lavaz lame zanfan-la. Lekol bizin aprouv ek montre exakteman kan sanz gan, kan fer lizien lame ek kouma organiz deplasman ek netwayaz."
             }
           ]
         },
@@ -291,7 +279,7 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Ka imaziner. Pandan enn sanzman, ou fek retir enn kous sal. Enn koleg demann ou klik “termine” lor enn tablet. Ou lame dan gan kontamine. Kous prop-la ankor dan larmwar ek zanfan-la lor sirfas sanzman kous. Ou remarke ki zanfan-la pe koumans boulverse."
+              "text": "Ka imaziner. Pandan enn sanzman, ou fek retir enn kous sal. Enn koleg demann ou met dosie swin-la azour avek metod lor papie ouswa nimerik ki lekol finn aprouve. Ou lame dan gan kontamine. Kous prop-la ankor dan larmwar ek zanfan-la lor sirfas sanzman kous. Ou remarke ki zanfan-la pe koumans boulverse."
             },
             {
               "type": "li",
@@ -311,11 +299,11 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Res avek zanfan-la, rekonfort li ek apel enn koleg forme pou amenn kous prop ki manke ouswa ed avek dispozision aprouve-la. Pa tous tablet-la, pwagne larmwar-la ouswa bann materyel prop avek bann gan kontamine. Swiv bann letap ki finn montre pou retir gan, fer lizien lame ek donn bann swin prop pandan ki ou gard sirveyans."
+              "text": "Res avek zanfan-la, rekonfort li ek apel enn koleg forme pou amenn kous prop ki manke ouswa ed avek dispozision aprouve-la. Pa tous dosie swin-la, plim-la, laparey pou anrezistre bann swin, pwagne larmwar-la ouswa bann materyel prop avek bann gan kontamine. Swiv bann letap ki finn montre pou retir gan, fer lizien lame ek donn bann swin prop pandan ki ou gard sirveyans."
             },
             {
               "type": "p",
-              "text": "Ranpli dosie-la apre bann swin, kan ou lame ek lespas lanrezistreman prop. Si ou kontaminn enn zafer par aksidan, izol li ek organiz enn netwayaz ouswa ranplasman apropriye. Ed zanfan-la lav so lame, konfirm sirveyans an sekirite, apre remet lespas-la an eta avek bann prodwi aprouve ek lizien lame. Met enn nouvo gan lor enn gan sal pa koriz problem-la."
+              "text": "Ranpli dosie swin-la avek metod lor papie ouswa nimerik ki lekol finn aprouve apre bann swin, kan ou lame ek lespas lanrezistreman prop. Si ou kontaminn enn zafer par aksidan, izol li ek organiz enn netwayaz ouswa ranplasman apropriye. Ed zanfan-la lav so lame, konfirm sirveyans an sekirite, apre remet lespas-la an eta avek bann prodwi aprouve ek lizien lame. Met enn nouvo gan lor enn gan sal pa koriz problem-la."
             }
           ]
         }
@@ -345,15 +333,15 @@ window.COURSE_MFE={
             },
             {
               "type": "h",
-              "text": "Laprobasion lokal esansiel"
+              "text": "Swiv bann letap netwayaz ki ou lekol finn aprouve"
             },
             {
               "type": "p",
-              "text": "Bann sours pa donn enn sel mem fason fer partou dan lemond. Model Inspired 2020 mansionn enn vaporizer anti-bakterien apre sak sanzman. Gid aktiel CDC pou bann etablisman ki okip zanfan demann netway salte vizib ek dezenfekte sirfas-la apre itilizasion. Gid UKHSA dekrir delo savone ouswa enn linget avek enn detersan dou pou bann matla sanzman apre itilizasion, avek bann instriksion dezenfeksion separe pou kontaminasion par likid lekor. Responsab kontrol bann infeksion dan lekol bizin aprouv prosedir ki respekte bann exizans lokal ek bann instriksion aktiel prodwi-la."
+              "text": "Servi bann letap ek prodwi netwayaz ek dezenfeksion ki lekol finn aprouve. Swiv bann instriksion prodwi-la, inklir dire kontak neseser ek bann letap sekaz ouswa rinsaz. Dire kontak se letan ki prodwi-la bizin res lor sirfas-la dan kondisyon ki so etiket presize pou li azir."
             },
             {
               "type": "p",
-              "text": "Pa swazir ant sa bann sours-la oumem ek pa invant enn melanz simik. Avan bann swin pratik, konn prodwi aprouve-la, so itilizasion, okenn dilision ki personel otorize prepare, dire kontak neseser, nesesite sekaz ouswa rinsaz, lekipman proteksion ek sistem dese. Dire kontak vedir letan ki prodwi-la bizin res dan kondisyon ki so etiket presize pou li azir. Zame melanz bann prodwi simik ouswa servi enn resipian san etiket."
+              "text": "Servi lekipman proteksion neseser ek bann metod preparasion ek eliminasion ki finn aprouve. Fer personel otorize prepar okenn dilision neseser. Zame melanz bann prodwi simik ouswa servi enn resipian san etiket. Si ou pa sir lor prodwi-la ouswa enn letap, demann responsab-la konsey avan ou servi li."
             },
             {
               "type": "h",
@@ -386,10 +374,6 @@ window.COURSE_MFE={
             {
               "type": "p",
               "text": "Si enn gan desire, bann linz kontamine, enn deversemann arive ouswa enn zanfan tous enn zafer kontamine, fer sitiasion-la vinn an sekirite ek swiv prosedir expozision ouswa deversemann. Rod konsey rapidman ar dimounn forme apropriye-la. Pa kasiet insidan-la ek pa improviz enn tretman. Signal bann mank repetitif, etiket prodwi ki pa kler ek bann dire kontak ki pa posib respekte kouma bann problem organizasion ki demann aksion enn responsab."
-            },
-            {
-              "type": "p",
-              "text": "Baz bann sours: model Inspired seksion 2; lizien dan bann etablisman ki okip zanfan CDC ek prevansion ek kontrol bann infeksion UKHSA. Swa bann prodwi, bann dire exak ek bann regleman dese finn exprè les pou laprobasion lekol."
             }
           ]
         },
@@ -460,11 +444,11 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Model Inspired ki finn fourni demande ki bann paran fourni lakrem kous ki pa lor preskripsion ek ki ena enn formiler konsantman ranpli. Verifye nom konplet zanfan-la, prodwi exak-la, bann instriksion, dat ki finn ouver li ek dire itilizasion apre louvertir. Zame partaz enn lakrem ant bann zanfan ouswa ranplas li avek prodwi enn lot zanfan. Si konsantman, lidantite, bann instriksion ouswa ladaptasion prodwi-la pa kler, gagn lotorizasion neseser avan ou met li."
+              "text": "Servi lakrem kous ki pa lor preskripsion ki paran zanfan-la finn fourni ek ki ena enn formiler konsantman ranpli. Verifye nom konplet zanfan-la, prodwi exak-la, bann instriksion, dat ki finn ouver li ek dire itilizasion apre louvertir. Zame partaz enn lakrem ant bann zanfan ouswa ranplas li avek prodwi enn lot zanfan. Si konsantman, lidantite, bann instriksion ouswa ladaptasion prodwi-la pa kler, gagn lotorizasion neseser avan ou met li."
             },
             {
               "type": "p",
-              "text": "Lakrem lor preskripsion swiv prosedir medikaman lekol ek zis bann manb personel deziye ki finn forme pou medikaman kapav met li. Model ki finn fourni demande ki bann medikaman garde anba kle ek ki ena lanrezistreman medikaman apropriye. Enn konsey verbal enn koleg pa otoriz enn medikaman. Pa fer enn diagnos lor enn iritasion lapo ouswa swazir enn tretman oumem. Signal malalez ouswa bann sanzman ek gagn bann konsey apropriye."
+              "text": "Lakrem lor preskripsion swiv prosedir medikaman lekol ek zis bann manb personel deziye ki finn forme pou medikaman kapav met li. Gard bann medikaman anba kle ek ranpli lanrezistreman medikaman neseser. Enn konsey verbal enn koleg pa otoriz enn medikaman. Pa fer enn diagnos lor enn iritasion lapo ouswa swazir enn tretman oumem. Signal malalez ouswa bann sanzman ek gagn bann konsey apropriye."
             },
             {
               "type": "h",
@@ -484,11 +468,7 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Verifye bann zanfan dapre zot plan ek bann labitid lokal, ek reazir san tarde kan zot mouye, sal ouswa malalez. Ansyen model-la mansionn enn interval trwa a kat-er ek enn kous prop pou dormi. Sa bann mo-la pa bizin servi kouma enn permision pou les enn zanfan sal atann enn sanzman lor program. Bann responsab bizin aprouv bann exizans aktiel pou verifikasion ek sanzman dapre group laz-la ek sak zanfan."
-            },
-            {
-              "type": "p",
-              "text": "Baz regleman: model Inspired seksion 2–4 ek anex konsantman pou lakrem. Kominikasion adapte ek lotonomi osi an-akor avek gid ACECQA lor twalet; bann referans reglemantasion ostralien pa prezante kouma lalwa lokal."
+              "text": "Verifye bezwen sak zanfan regilierman, an swivan so plan swin individiel ek bann labitid lekol. Sanz enn kous mouye ouswa sal san tarde ek reponn kan zanfan-la malalez. Pa atann prosenn sanzman lor program kan enn zanfan bizin bann swin. Verifye avan li dormi ek sanz kous-la si neseser pou ki zanfan-la kapav repoze prop ek alez."
             }
           ]
         },
@@ -547,7 +527,7 @@ window.COURSE_MFE={
             },
             {
               "type": "p",
-              "text": "Ranpli dosie swin aprouve-la san tarde apre travay-la avek bann lame prop. Inklir dat ek ler, manb personel-la ek bann swin ki finn done, inklir linformasion lor kous mouye ouswa sal ek itilizasion lakrem otorize kot neseser. Anrezistre led adisionel, bann evennman inabitiel, reaksion zanfan-la ek bann aksion ki finn pran kot sa itil. Servi sistem sekirize lekol; pa les bann detay personel vizib pou lezot fami ek pa rant zot dan sa formasion-la."
+              "text": "Ranpli dosie swin-la san tarde apre travay-la avek bann lame prop, an servan metod lor papie ouswa nimerik ki lekol finn aprouve. Inklir dat ek ler, manb personel-la ek bann swin ki finn done, inklir linformasion lor kous mouye ouswa sal ek itilizasion lakrem otorize kot neseser. Anrezistre led adisionel, bann evennman inabitiel, reaksion zanfan-la ek bann aksion ki finn pran kot sa itil. Servi sistem sekirize lekol; pa les bann detay personel vizib pou lezot fami ek pa rant zot dan sa formasion-la."
             },
             {
               "type": "p",
@@ -588,10 +568,6 @@ window.COURSE_MFE={
             {
               "type": "p",
               "text": "Pou terminn an-lign, bizin tou le sis modil, bann aktivite ek verifikasion rapid, omwin 16 repons korek lor 20, tou le sink kestion esansiel lor sekirite korek ek bann deklarasion. Bann refleksion ekri ed aprann ek pa enn evaliasion profesionel konpetans. Enn obzervater forme ek otorize bizin ranpli lalis verifikasion pratik separe-la; personel pa kapav valid zot prop konpetans pratik."
-            },
-            {
-              "type": "p",
-              "text": "Baz bann sours: Inspired swin intim seksion 5, bann materyel Safe Hands ki finn fourni ek striktir direksion lekol ki finn presize. Bann nom kontak aktiel, prosedir indepandan ek devwar lokal pou signale ankor bizin laprobasion lekol."
             }
           ]
         },
@@ -670,7 +646,7 @@ window.COURSE_MFE={
       "why": "Zame les enn zanfan san sirveyans lor enn sirfas sanzman kous. Preparasion ek led an sekirite anpes enn mank materyel vinn enn problem sirveyans."
     },
     {
-      "q": "Ki dispozision koresponn ar model Inspired lor swin intim ki finn fourni?",
+      "q": "Ki dispozision protez vi prive pandan ki enn koleg okouran bann swin?",
       "options": [
         "Ferm laport-la pou ki personn pa kone bann swin pe deroule.",
         "Met enn koleg okouran ek servi enn separasion viziel aprouve pandan ki ou respekte linterdiksion enn laport ferme.",
@@ -689,7 +665,7 @@ window.COURSE_MFE={
       ],
       "answer": 2,
       "critical": false,
-      "why": "Model ki finn fourni demande lakrem prop a zanfan-la avek so etiket ek enn konsantman ranpli. Bann prodwi lor preskripsion bizin osi prosedir medikaman."
+      "why": "Servi lakrem prop a zanfan-la avek so etiket ek enn konsantman ranpli. Bann prodwi lor preskripsion bizin osi prosedir medikaman."
     },
     {
       "q": "Enn zanfan plore ek rekile pandan bann swin; personn pa dan enn danze imedia. Enn koleg propoz tini li anba pou fini. Ki ou bizin fer?",
@@ -780,7 +756,7 @@ window.COURSE_MFE={
       "why": "Anpes salte propaze ek swiv prosedir lekol pou retourn ar fami ouswa pou lav bann linz dan enn sistem deziye."
     },
     {
-      "q": "Ler pou met enn lakrem kous lor preskripsion finn arive. Kisannla kapav met li dapre model ki finn fourni?",
+      "q": "Ler pou met enn lakrem kous lor preskripsion finn arive. Kisannla kapav met li?",
       "options": [
         "Ninport ki adilt ki finn terminn sa formasion an-lign-la.",
         "Manb personel deziye ki finn forme pou medikaman, an swiv prosedir medikaman lekol.",
@@ -794,12 +770,12 @@ window.COURSE_MFE={
       "q": "Enn zanfan finn sal so kous enn ti moman apre enn sanzman lor program. Ki bizin arive?",
       "options": [
         "Reazir san tarde dapre so bezwen ek plan swin-la.",
-        "Atann ki interval trwa a kat-er finn pase.",
+        "Atann prosenn sanzman lor program.",
         "Atann ki fami zanfan-la arive."
       ],
       "answer": 0,
       "critical": false,
-      "why": "Enn program pa zistifie les enn zanfan sal. Bann exizans aktiel lokal pou verifikasion ek sanzman bizin soutenir bann swin ki reponn so bann bezwen."
+      "why": "Reazir san tarde kan enn kous mouye ouswa sal. Swiv plan swin zanfan-la; pa retar bann swin neseser pou swiv enn program."
     },
     {
       "q": "Ki lanrezistreman pli apropriye?",
@@ -872,27 +848,6 @@ window.COURSE_MFE={
         {
           "type": "p",
           "text": "Sertifika ki ou kapav telesarze konfirm zis fin formasion an-lign. Bizin enn formasion introdiksion lekol separe, bann prosedir aprouve ek enn validasion pratik par enn obzervater forme avan ou donn bann swin intim ou tousel. Sa formasion-la pa donn okenn kalifikasion medikal spesialize, pou lev enn zanfan ouswa pou restriksion fizik."
-        }
-      ]
-    },
-    {
-      "title": "Bann sours ek laprobasion lokal",
-      "blocks": [
-        {
-          "type": "p",
-          "text": "Sours prinsipal: Inspired Template Intimate Care and Nappy Policy, Zilie 2020, introdiksion, seksion 2–5 ek anex konsantman pou lakrem. Rekipere depi koleksion Drive ki finn fourni le 3 Oktob 2026. So stati kouma regleman aktiel aprouve pa finn konfirme."
-        },
-        {
-          "type": "p",
-          "text": "Bann sours segonder pou kontinite: modil 4 formasion Safe Hands ek Early Years Safe Hands Course Pack. Bann nouvo sitiasion, evaliasion, senario viziel ek regleman pou terminn finn ekrir pou sa formasion-la. Bann ansyen referans bann linstans gouvernans dan bann materyel segonder pa finn repran; sa formasion-la servi striktir Executive Head, responsab seksion ek biro santral Inspired ki finn presize."
-        },
-        {
-          "type": "p",
-          "text": "Bann sours piblik verifye le 3 Oktob 2026: CDC Healthy Habits: Diaper Changing Steps for Childcare Settings; UKHSA Preventing and controlling infections; NSPCC Intimate care of children; ACECQA Toileting and nappy changing principles and practices. Sakenn ena enn konteks zeografik diferan. Okenn pa etabli enn standar legal iniversel pou lemonn antie."
-        },
-        {
-          "type": "p",
-          "text": "Avan personel servi formasion-la, lekol bizin aprouv regleman aktiel-la, bann lotorizasion dapre rol, prosedir lokal kontrol bann infeksion, instriksion prodwi ek dire kontak, dispozision lespas pou vi prive ek sirveyans, prosedir lakrem ek medikaman, regleman dese ek lavaz linz, kontak pou signale, bann devwar andeor lekol ek dispozision pou evaliasion pratik. Rezoud okenn diferans ant model 2020, bann gid piblik aktiel ek bann exizans lokal."
         }
       ]
     },

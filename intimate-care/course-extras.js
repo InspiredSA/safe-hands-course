@@ -47,7 +47,7 @@ window.COURSE_EXTRAS={
         "q": "What must be ready before routine care begins?",
         "o": [
           "Only a clean nappy.",
-          "The camera and a tablet for recording.",
+          "Only the school’s approved paper or digital care record.",
           "The child’s arrangements, trained staff, supervision, privacy, supplies and a safe station."
         ],
         "a": 2,
@@ -58,20 +58,20 @@ window.COURSE_EXTRAS={
         "o": [
           "Only items within the dirty part of the task, until safe removal and the approved clean transition.",
           "The clean nappy packet if you are careful.",
-          "The tablet so the record is not forgotten."
+          "The care record, pen or recording device so the record is not forgotten."
         ],
         "a": 0,
         "why": "Keep contamination away from clean supplies, shared touchpoints and records. Use hand hygiene and maintain supervision during the transition."
       },
       {
-        "q": "CDC and UKHSA describe different routine surface-cleaning approaches. Which instruction should you follow?",
+        "q": "Which cleaning instructions should you follow after a change?",
         "o": [
           "Whichever is quicker today.",
           "The school’s current approved local procedure and product directions.",
           "A chemical recipe suggested by a colleague."
         ],
         "a": 1,
-        "why": "The responsible lead must resolve the evidence and local requirements. Staff must not improvise products, mixtures or contact times."
+        "why": "Use the school’s approved routine and product directions. Ask the responsible lead if you are unsure; never improvise products, mixtures or contact times."
       },
       {
         "q": "The consent form names a different cream from the one in the child’s bag. What should happen?",
@@ -104,48 +104,48 @@ window.COURSE_EXTRAS={
     ],
     "localReadiness": [
       {
-        "title": "Current policy and approval",
-        "text": "Record the approved intimate-care policy title, version, owner, approval date and review date. Confirm the course’s fit with local law and regulator requirements. Resolve differences with the July 2020 template before operational use."
+        "title": "Current school procedure",
+        "text": "Know where to find the school’s current approved intimate-care procedure and who to ask if anything is unclear."
       },
       {
-        "title": "Role permissions and training",
-        "text": "Name who may provide care, who may supervise new or temporary staff, who may apply prescribed cream and who may assess practice. Confirm relevant checks, induction, moving-and-handling competence and any specialist training."
+        "title": "Your role and training",
+        "text": "Know which care tasks you are authorised and trained to carry out, who supervises you and when to ask for trained help."
       },
       {
         "title": "Child plans and family agreements",
-        "text": "Identify where current care plans, routines, communication support, allergies and product permissions are securely available. Confirm how changes and unexpected additional care are authorised, recorded and communicated."
+        "text": "Check where to find each child’s current care plan, communication needs, allergies and product permissions. Follow the approved arrangements for changes or extra care."
       },
       {
         "title": "Privacy, layout and staffing",
-        "text": "Approve designated areas, screening and the supplied no-closed-door oversight arrangement without compromising fire safety. Confirm colleague awareness, staffing needed for each plan, group supervision and accepted handovers."
+        "text": "Use the designated care area and approved screening. Keep a colleague informed, follow the no-closed-door arrangement and maintain the required child and group supervision."
       },
       {
         "title": "Safe access and continuous supervision",
-        "text": "Demonstrate use of the station, any steps or transfer equipment, help-calling arrangements and the response to missing supplies. Demonstrate how hand hygiene occurs during a change without leaving a child unsafe."
+        "text": "Know how to use the station safely, maintain supervision and call for help. Ask for a demonstration if you are unsure about equipment, moving a child or hand hygiene during care."
       },
       {
         "title": "Hand hygiene and PPE",
-        "text": "Specify handwashing facilities, approved glove and apron types, exact dirty-to-clean transition, glove-change and hand-hygiene points, cleaning PPE and the response to shortages, allergy or exposure."
+        "text": "Follow the demonstrated handwashing, glove-change and apron routine. Know what to do if supplies run out, equipment is unsuitable or contamination occurs."
       },
       {
-        "title": "Cleaning product and contact time",
-        "text": "Specify approved detergent/disinfectant or combined product, relevant surfaces and contamination, safe preparation, label contact time, drying/rinsing requirements and storage. Confirm responsibility for spills and outbreak instructions. Do not insert a universal chemical recipe."
+        "title": "Cleaning products and contact time",
+        "text": "Use only approved products and follow their directions, including contact time, drying or rinsing, protective equipment and safe storage. Ask the responsible lead if you are unsure. Never mix chemicals or use an unlabelled container."
       },
       {
         "title": "Waste, laundry and equipment",
-        "text": "Confirm the local waste classification and collection route, covered bins and emptying arrangements, inaccessible storage, soiled-clothing return, reusable items, dedicated laundry and damaged-mat replacement."
+        "text": "Use the school’s approved bins, laundry and soiled-clothing arrangements. Keep waste away from children and clean supplies. Report full bins, damaged mats or missing equipment."
       },
       {
         "title": "Creams and medicines",
-        "text": "Confirm parent-supplied non-prescribed cream consent, exact product and child labelling, date-opened and expiry checks, clean application, and the separate prescribed-medicine staff, storage and records process."
+        "text": "Check the child’s own labelled product, consent, directions and expiry date and permitted use after opening. Follow the separate medication process for prescribed creams; only authorised, trained staff may apply them."
       },
       {
         "title": "Records, reporting and urgent help",
-        "text": "Provide the secure care-record location and routine family channel; current DSL/deputy, Executive Head, phase-head and Inspired Head Office contacts; an independent route for an implicated leader; non-response escalation; and local emergency/external reporting requirements."
+        "text": "Know the school’s approved paper or digital recording method, secure storage and family communication channel. Know your DSL, deputy and leadership contacts, including an independent route if a leader is involved, and how to get urgent help."
       },
       {
-        "title": "Observed practice and rollout",
-        "text": "Approve the practical checklist and observer qualifications, decide what evidence is required for independent duties, arrange support/reassessment, and keep online completion distinct from practical authorisation. Obtain policy and infection-control review before staff rollout."
+        "title": "Your practical observation",
+        "text": "Arrange the separate practical observation with an authorised school observer. Ask what supervised practice or further support you need before independent care."
       }
     ],
     "practical": {
@@ -289,7 +289,7 @@ window.COURSE_EXTRAS={
             "icon": "reset"
           }
         ],
-        "transcript": "Think of the routine as a clean area, a care area and contained waste. Begin with prepared supplies and hand hygiene. During the dirty part, keep soiling and used materials away from clean stock. Stop before your contaminated gloves touch a nappy packet, cream container, tablet or door handle. Follow the school’s demonstrated glove-removal and hand-hygiene sequence, with the child safely supervised at every moment. Ask for trained help if needed. Complete clean care and support the child’s handwashing. Confirm they are in a safe, supervised place before resetting the station. Finish with the required PPE removal and handwashing."
+        "transcript": "Think of the routine as a clean area, a care area and contained waste. Begin with prepared supplies and hand hygiene. During the dirty part, keep soiling and used materials away from clean stock. Stop before your contaminated gloves touch a nappy packet, cream container, care record, pen, recording device or door handle. Follow the school’s demonstrated glove-removal and hand-hygiene sequence, with the child safely supervised at every moment. Ask for trained help if needed. Complete clean care and support the child’s handwashing. Confirm they are in a safe, supervised place before resetting the station. Finish with the required PPE removal and handwashing."
       },
       {
         "id": "reassure",
@@ -324,33 +324,6 @@ window.COURSE_EXTRAS={
           }
         ],
         "transcript": "A child pulls away and says no. Pause where it is safe and keep your voice calm. You might say, “We can pause. I can see you are worried.” Explain the next small step and offer a genuine choice, such as helping with clothing or having a familiar trained adult assist. Give the child time to communicate. Call for support without leaving them unsafe, and use their agreed plan. Do not hold them down to save time. A pause must lead to timely, respectful care. If distress or pain continues, obtain appropriate advice and report any concern through the school’s process."
-      }
-    ],
-    "sources": [
-      {
-        "title": "Inspired Template Intimate Care and Nappy Policy, July 2020",
-        "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
-        "note": "Primary supplied source, retrieved in full 3 October 2026. Introduction, sections 2–5 and cream-consent appendix. Current approved status must be confirmed locally; access to the source file depends on school permissions."
-      },
-      {
-        "title": "CDC: Diaper Changing Steps for Childcare Settings",
-        "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
-        "note": "United States public-health guidance, dated 17 May 2024; checked 3 October 2026. Supports the care sequence and surface disinfection after use. Local implementation requires approval."
-      },
-      {
-        "title": "UKHSA: Preventing and controlling infections",
-        "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
-        "note": "England guidance; checked 3 October 2026. Describes routine detergent mat cleaning and separate bodily-fluid spill precautions. Product directions and local requirements must be reconciled."
-      },
-      {
-        "title": "NSPCC: Intimate care of children",
-        "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
-        "note": "UK safeguarding guidance, updated 1 September 2026; checked 3 October 2026. Supports child-centred plans, appropriate staff awareness and reporting concerns. Jurisdiction-specific legal references are not treated as worldwide rules."
-      },
-      {
-        "title": "ACECQA: Toileting and nappy changing principles and practices",
-        "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
-        "note": "Australian quality guidance; checked 3 October 2026. Supports responsive routines, independence and family partnership. Australian regulatory references are contextual only."
       }
     ]
   },
@@ -402,7 +375,7 @@ window.COURSE_EXTRAS={
         "q": "Que faut-il avoir préparé avant de commencer les soins courants ?",
         "o": [
           "Uniquement une couche propre.",
-          "L’appareil photo et une tablette pour consigner les soins.",
+          "Uniquement le document de soins papier ou numérique approuvé par l’établissement.",
           "Les dispositions prévues pour l’enfant, le personnel formé, la surveillance, l’intimité, les fournitures et un poste sûr."
         ],
         "a": 2,
@@ -413,20 +386,20 @@ window.COURSE_EXTRAS={
         "o": [
           "Uniquement les articles de la phase sale de la tâche, jusqu’à leur retrait sûr et au passage approuvé vers la phase propre.",
           "Le paquet de couches propres si vous faites attention.",
-          "La tablette pour ne pas oublier de remplir le document."
+          "Le document de soins, le stylo ou l’appareil utilisé pour consigner les soins, pour ne pas oublier de le remplir."
         ],
         "a": 0,
         "why": "Gardez la contamination à l’écart des fournitures propres, des points de contact partagés et des documents. Réalisez l’hygiène des mains et maintenez la surveillance pendant la transition."
       },
       {
-        "q": "Le CDC et l’UKHSA décrivent des méthodes différentes de nettoyage courant des surfaces. Quelle consigne devez-vous suivre ?",
+        "q": "Quelles consignes de nettoyage devez-vous suivre après un change ?",
         "o": [
-          "Celle qui est la plus rapide aujourd’hui.",
+          "Celles qui sont les plus rapides aujourd’hui.",
           "La procédure locale actuelle approuvée par l’établissement et les consignes des produits.",
           "Une recette de mélange chimique suggérée par un collègue."
         ],
         "a": 1,
-        "why": "Le responsable compétent doit concilier les recommandations et les exigences locales. Le personnel ne doit pas improviser les produits, les mélanges ou les temps de contact."
+        "why": "Suivez la routine approuvée par l’établissement et les consignes du produit. En cas de doute, demandez conseil au responsable compétent ; n’improvisez jamais les produits, les mélanges ou les temps de contact."
       },
       {
         "q": "Le formulaire de consentement mentionne une crème différente de celle du sac de l’enfant. Que doit-il se passer ?",
@@ -459,48 +432,48 @@ window.COURSE_EXTRAS={
     ],
     "localReadiness": [
       {
-        "title": "Politique actuelle et approbation",
-        "text": "Consignez le titre, la version, le responsable, la date d’approbation et la date de révision de la politique approuvée sur les soins intimes. Confirmez l’adéquation de la formation avec le droit local et les exigences de l’organisme de réglementation. Résolvez les différences avec le modèle de juillet 2020 avant toute utilisation opérationnelle."
+        "title": "Procédure actuelle de l’établissement",
+        "text": "Sachez où trouver la procédure actuelle approuvée de l’établissement pour les soins intimes et à qui demander conseil si un point n’est pas clair."
       },
       {
-        "title": "Autorisations selon les fonctions et formation",
-        "text": "Nommez les personnes autorisées à dispenser les soins, à superviser le personnel nouveau ou temporaire, à appliquer une crème prescrite et à évaluer la pratique. Confirmez les vérifications pertinentes, l’intégration, la compétence de déplacement et de manutention et toute formation spécialisée."
+        "title": "Votre rôle et votre formation",
+        "text": "Sachez quels soins vous êtes autorisé et formé à effectuer, qui vous supervise et quand demander l’aide d’une personne formée."
       },
       {
         "title": "Plans des enfants et accords avec les familles",
-        "text": "Indiquez où les plans de soins actuels, les routines, les aides à la communication, les allergies et les autorisations de produits sont accessibles de manière sécurisée. Confirmez comment les changements et les soins supplémentaires imprévus sont autorisés, consignés et communiqués."
+        "text": "Vérifiez où trouver le plan de soins actuel, les besoins de communication, les allergies et les autorisations de produits de chaque enfant. Suivez les dispositions approuvées en cas de changement ou de soins supplémentaires."
       },
       {
         "title": "Intimité, aménagement et personnel",
-        "text": "Approuvez les espaces prévus, les protections visuelles et l’organisation de vigilance sans porte fermée exigée par la source fournie, sans compromettre la sécurité incendie. Confirmez l’information des collègues, le personnel requis pour chaque plan, la surveillance du groupe et les prises de relais acceptées."
+        "text": "Utilisez l’espace de soins prévu et les protections visuelles approuvées. Informez un collègue, respectez l’interdiction des soins derrière une porte fermée et maintenez la surveillance requise de l’enfant et du groupe."
       },
       {
         "title": "Accès sûr et surveillance continue",
-        "text": "Démontrez l’utilisation du poste, des marches ou de l’équipement de transfert éventuels, les moyens d’appeler à l’aide et la réponse à un manque de fournitures. Démontrez comment réaliser l’hygiène des mains pendant un change sans laisser l’enfant en danger."
+        "text": "Sachez utiliser le poste en sécurité, maintenir la surveillance et appeler à l’aide. Demandez une démonstration si vous avez un doute sur l’équipement, le déplacement d’un enfant ou l’hygiène des mains pendant les soins."
       },
       {
         "title": "Hygiène des mains et EPI",
-        "text": "Précisez les points de lavage des mains, les types approuvés de gants et de tabliers, le passage exact du sale au propre, les moments de changement de gants et d’hygiène des mains, les EPI de nettoyage et la réponse aux pénuries, aux allergies ou aux expositions."
+        "text": "Suivez la routine démontrée de lavage des mains, de changement de gants et d’utilisation du tablier. Sachez quoi faire en cas de manque de fournitures, d’équipement inadapté ou de contamination."
       },
       {
-        "title": "Produit de nettoyage et temps de contact",
-        "text": "Précisez le détergent, le désinfectant ou le produit combiné approuvé, les surfaces et les contaminations concernées, la préparation sûre, le temps de contact de l’étiquette, les exigences de séchage ou de rinçage et le stockage. Confirmez les responsabilités en cas de déversement et les consignes en cas d’épidémie. N’introduisez pas de recette chimique universelle."
+        "title": "Produits de nettoyage et temps de contact",
+        "text": "Utilisez uniquement les produits approuvés et suivez leurs consignes, notamment le temps de contact, le séchage ou le rinçage, les équipements de protection et le stockage sûr. En cas de doute, demandez conseil au responsable compétent. Ne mélangez jamais de produits chimiques et n’utilisez jamais de contenant sans étiquette."
       },
       {
         "title": "Déchets, linge et équipement",
-        "text": "Confirmez la classification locale des déchets et le circuit de collecte, les poubelles couvertes et leurs modalités de vidage, le stockage inaccessible, le retour des vêtements souillés, les articles réutilisables, le circuit de lavage dédié et le remplacement des matelas endommagés."
+        "text": "Suivez les dispositions approuvées de l’établissement pour les poubelles, le linge et les vêtements souillés. Gardez les déchets à l’écart des enfants et des fournitures propres. Signalez les poubelles pleines, les matelas endommagés ou le matériel manquant."
       },
       {
         "title": "Crèmes et médicaments",
-        "text": "Confirmez le consentement pour les crèmes non prescrites fournies par les parents, l’étiquetage du produit exact et de l’enfant, les vérifications de date d’ouverture et de péremption, l’application propre, ainsi que le personnel, le stockage et les documents de la procédure distincte pour les médicaments prescrits."
+        "text": "Vérifiez le produit étiqueté propre à l’enfant, le consentement, les consignes et la date de péremption et la durée d’utilisation autorisée après ouverture. Suivez la procédure distincte relative aux médicaments pour les crèmes prescrites ; seul le personnel autorisé et formé peut les appliquer."
       },
       {
         "title": "Documents, signalements et aide urgente",
-        "text": "Indiquez l’emplacement sécurisé des documents de soins et le canal courant avec les familles ; les contacts actuels du responsable désigné de la protection de l’enfance et de son adjoint, du chef d’établissement exécutif, des responsables de cycle et du siège d’Inspired ; une voie indépendante si un responsable est concerné ; la transmission à un autre niveau en l’absence de réponse ; et les exigences locales d’urgence et de signalement externe."
+        "text": "Sachez quelle méthode papier ou numérique, quel stockage sécurisé et quel canal de communication avec les familles sont approuvés par l’établissement. Connaissez les contacts du responsable désigné de la protection de l’enfance, de son adjoint et de la direction, y compris une voie indépendante si un responsable est impliqué, ainsi que les moyens d’obtenir une aide urgente."
       },
       {
-        "title": "Pratique observée et déploiement",
-        "text": "Approuvez la grille pratique et les qualifications des observateurs, décidez des éléments de preuve requis pour les fonctions autonomes, organisez le soutien et la réévaluation, et distinguez la réussite en ligne de l’autorisation pratique. Faites réviser la politique et la prévention des infections avant le déploiement auprès du personnel."
+        "title": "Votre observation pratique",
+        "text": "Organisez l’observation pratique distincte avec un observateur habilité par l’établissement. Demandez quel entraînement supervisé ou quel soutien supplémentaire vous est nécessaire avant de dispenser des soins en autonomie."
       }
     ],
     "practical": {
@@ -644,7 +617,7 @@ window.COURSE_EXTRAS={
             "icon": "reset"
           }
         ],
-        "transcript": "Pensez la routine en trois espaces : une zone propre, une zone de soins et des déchets contenus. Commencez avec des fournitures préparées et l’hygiène des mains. Pendant la phase sale, gardez les souillures et le matériel usagé à l’écart des réserves propres. Arrêtez-vous avant que vos gants contaminés ne touchent un paquet de couches, un pot de crème, une tablette ou une poignée de porte. Suivez la séquence de retrait des gants et d’hygiène des mains démontrée par l’établissement, en maintenant une surveillance sûre de l’enfant à chaque instant. Demandez l’aide d’une personne formée si nécessaire. Terminez les soins propres et aidez l’enfant à se laver les mains. Confirmez qu’il est dans un lieu sûr et surveillé avant de remettre le poste en état. Terminez par le retrait des EPI et le lavage des mains requis."
+        "transcript": "Pensez la routine en trois espaces : une zone propre, une zone de soins et des déchets contenus. Commencez avec des fournitures préparées et l’hygiène des mains. Pendant la phase sale, gardez les souillures et le matériel usagé à l’écart des réserves propres. Arrêtez-vous avant que vos gants contaminés ne touchent un paquet de couches, un pot de crème, un document de soins, un stylo, un appareil utilisé pour consigner les soins ou une poignée de porte. Suivez la séquence de retrait des gants et d’hygiène des mains démontrée par l’établissement, en maintenant une surveillance sûre de l’enfant à chaque instant. Demandez l’aide d’une personne formée si nécessaire. Terminez les soins propres et aidez l’enfant à se laver les mains. Confirmez qu’il est dans un lieu sûr et surveillé avant de remettre le poste en état. Terminez par le retrait des EPI et le lavage des mains requis."
       },
       {
         "id": "reassure",
@@ -679,33 +652,6 @@ window.COURSE_EXTRAS={
           }
         ],
         "transcript": "Un enfant se dégage et dit non. Faites une pause lorsque la sécurité le permet et gardez une voix calme. Vous pourriez dire : « Nous pouvons faire une pause. Je vois que tu es inquiet. » Expliquez la prochaine petite étape et proposez un vrai choix, comme participer pour ses vêtements ou être aidé par un adulte formé et familier. Laissez à l’enfant le temps de communiquer. Appelez à l’aide sans le laisser en danger et suivez son plan convenu. Ne l’immobilisez pas pour gagner du temps. Une pause doit conduire à des soins rapides et respectueux. Si la détresse ou la douleur persiste, obtenez un avis approprié et signalez toute préoccupation selon la procédure de l’établissement."
-      }
-    ],
-    "sources": [
-      {
-        "title": "Modèle Inspired de politique sur les soins intimes et les couches, juillet 2020",
-        "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
-        "note": "Source principale fournie, récupérée intégralement le 3 octobre 2026. Introduction, sections 2 à 5 et annexe de consentement pour les crèmes. Le statut actuel d’approbation doit être confirmé localement ; l’accès au document source dépend des autorisations de l’établissement."
-      },
-      {
-        "title": "CDC : étapes du change en structures d’accueil de l’enfance",
-        "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
-        "note": "Recommandations de santé publique des États-Unis, datées du 17 mai 2024 ; vérifiées le 3 octobre 2026. Elles étayent la séquence des soins et la désinfection des surfaces après utilisation. La mise en œuvre locale nécessite une approbation."
-      },
-      {
-        "title": "UKHSA : prévenir et maîtriser les infections",
-        "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
-        "note": "Recommandations pour l’Angleterre ; vérifiées le 3 octobre 2026. Elles décrivent le nettoyage courant des matelas avec un détergent et des précautions distinctes pour les déversements de liquides biologiques. Les consignes des produits et les exigences locales doivent être conciliées."
-      },
-      {
-        "title": "NSPCC : soins intimes des enfants",
-        "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
-        "note": "Recommandations britanniques de protection de l’enfance, mises à jour le 1er septembre 2026 ; vérifiées le 3 octobre 2026. Elles étayent les plans centrés sur l’enfant, l’information adaptée du personnel et le signalement des préoccupations. Les références juridiques propres à une juridiction ne sont pas considérées comme des règles mondiales."
-      },
-      {
-        "title": "ACECQA : principes et pratiques de toilette et de change",
-        "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
-        "note": "Recommandations australiennes de qualité ; vérifiées le 3 octobre 2026. Elles étayent les routines attentives aux besoins, l’autonomie et le partenariat avec les familles. Les références réglementaires australiennes sont fournies uniquement pour leur contexte."
       }
     ]
   },
@@ -757,7 +703,7 @@ window.COURSE_EXTRAS={
         "q": "Ki bizin pare avan bann swin abitie koumanse?",
         "o": [
           "Zis enn kous prop.",
-          "Kamera-la ek enn tablet pou lanrezistreman.",
+          "Zis dosie swin lor papie ouswa nimerik ki lekol finn aprouve.",
           "Bann dispozision pou zanfan-la, personel forme, sirveyans, vi prive, materyel ek enn lespas an sekirite."
         ],
         "a": 2,
@@ -768,20 +714,20 @@ window.COURSE_EXTRAS={
         "o": [
           "Zis bann zafer dan parti sal travay-la, ziska ou retir zot an sekirite ek fer pasaz ver prop ki finn aprouve.",
           "Pake kous prop-la si ou fer atansion.",
-          "Tablet-la pou pa bliye lanrezistreman-la."
+          "Dosie swin-la, plim-la ouswa laparey pou anrezistre bann swin pou pa bliye lanrezistreman-la."
         ],
         "a": 0,
         "why": "Gard kontaminasion lwin ar bann materyel prop, bann pwin kontak partaze ek bann dosie. Fer lizien lame ek gard sirveyans pandan pasaz-la."
       },
       {
-        "q": "CDC ek UKHSA dekrir bann fason diferan pou netway bann sirfas dan bann swin abitie. Ki instriksion ou bizin swiv?",
+        "q": "Ki bann instriksion netwayaz ou bizin swiv apre enn sanzman?",
         "o": [
           "Seki pli rapid azordi.",
           "Prosedir lokal aktiel ki lekol finn aprouve ek bann instriksion prodwi-la.",
           "Enn melanz simik ki enn koleg finn konseye."
         ],
         "a": 1,
-        "why": "Responsab-la bizin rezoud bann diferans ant bann prev ek bann exizans lokal. Personel pa bizin improviz bann prodwi, melanz ouswa dire kontak."
+        "why": "Servi bann letap ki lekol finn aprouve ek bann instriksion prodwi-la. Demann responsab-la konsey si ou pa sir; zame improviz bann prodwi, melanz ouswa dire kontak."
       },
       {
         "q": "Formiler konsantman-la mansionn enn lakrem diferan ar seki dan sak zanfan-la. Ki bizin arive?",
@@ -814,48 +760,48 @@ window.COURSE_EXTRAS={
     ],
     "localReadiness": [
       {
-        "title": "Regleman aktiel ek laprobasion",
-        "text": "Anrezistre tit regleman swin intim aprouve-la, so version, so responsab, dat laprobasion ek dat revizion. Konfirme ki formasion-la adapte ar lalwa lokal ek bann exizans regilater. Rezoud bann diferans avek model Zilie 2020 avan itilizasion dan travay."
+        "title": "Prosedir aktiel lekol",
+        "text": "Konn kot trouv prosedir aktiel pou bann swin intim ki lekol finn aprouve ek kisannla demann konsey si enn zafer pa kler."
       },
       {
-        "title": "Lotorizasion dapre rol ek formasion",
-        "text": "Idantifie kisannla kapav donn bann swin, kisannla kapav siperviz bann nouvo ouswa tanporer manb personel, kisannla kapav met lakrem lor preskripsion ek kisannla kapav evalie pratik. Konfirm bann verifikasion apropriye, formasion introdiksion, konpetans pou deplas ek manipil enn zanfan ek okenn formasion spesialize."
+        "title": "Ou rol ek ou formasion",
+        "text": "Konn ki bann swin ou otorize ek forme pou fer, kisannla siperviz ou ek kan demann led enn dimounn forme."
       },
       {
         "title": "Plan zanfan ek bann lakor avek fami",
-        "text": "Idantifie kot bann plan swin aktiel, labitid, soutien kominikasion, alerzi ek lotorizasion prodwi disponib dan enn fason sekirize. Konfirm kouma bann sanzman ek bann swin adisionel inatandi otorize, anrezistre ek kominike."
+        "text": "Verifye kot trouv plan swin aktiel, bezwen kominikasion, alerzi ek lotorizasion prodwi pou sak zanfan. Swiv bann dispozision aprouve pou bann sanzman ouswa bann swin anplis."
       },
       {
         "title": "Vi prive, dispozision lespas ek personel",
-        "text": "Aprouv bann lespas deziye, separasion viziel ek dispozision sirveyans san laport ferme ki finn fourni, san met sekirite kont dife an danze. Konfirm ki enn koleg okouran, personel neseser pou sak plan, sirveyans group-la ek bann transmisyon responsabilite ki finn aksepte."
+        "text": "Servi lespas swin deziye-la ek separasion viziel aprouve-la. Gard enn koleg okouran, respekte dispozision san laport ferme ek gard sirveyans neseser pou zanfan-la ek group-la."
       },
       {
         "title": "Aksè an sekirite ek sirveyans kontini",
-        "text": "Montre itilizasion lespas-la, okenn mars ouswa lekipman deplasman, dispozision pou apel led ek repons kan bann materyel manke. Montre kouma fer lizien lame pandan enn sanzman san les enn zanfan dan enn sitiasion danzere."
+        "text": "Konn kouma servi lespas-la an sekirite, gard sirveyans ek apel led. Demann enn demonstrasion si ou pa sir lor lekipman, deplasman enn zanfan ouswa lizien lame pandan bann swin."
       },
       {
         "title": "Lizien lame ek lekipman proteksion",
-        "text": "Presiz bann fasilite pou lav lame, bann tip gan ek tabliye aprouve, pasaz exak depi sal ver prop, bann moman pou sanz gan ek fer lizien lame, lekipman proteksion pou netwayaz ek repons ar enn mank, enn alerzi ouswa enn expozision."
+        "text": "Swiv bann letap ki finn montre pou lav lame, sanz gan ek servi tabliye. Konn ki pou fer si bann materyel fini, lekipman pa apropriye ouswa ena kontaminasion."
       },
       {
-        "title": "Prodwi netwayaz ek dire kontak",
-        "text": "Presiz detersan, dezenfektan ouswa prodwi konbine aprouve-la, bann sirfas ek kontaminasion konserne, preparasion an sekirite, dire kontak lor etiket-la, nesesite sekaz ouswa rinsaz ek stokaz. Konfirm responsabilite pou bann deversemann ek bann instriksion pandan enn epidemi. Pa azout enn melanz simik ki sipoze valab partou."
+        "title": "Bann prodwi netwayaz ek dire kontak",
+        "text": "Servi zis bann prodwi aprouve ek swiv zot bann instriksion, inklir dire kontak, sekaz ouswa rinsaz, lekipman proteksion ek stokaz an sekirite. Demann responsab-la konsey si ou pa sir. Zame melanz bann prodwi simik ouswa servi enn resipian san etiket."
       },
       {
         "title": "Dese, lavaz linz ek lekipman",
-        "text": "Konfirm klasifikasion lokal dese ek sistem kolekt, bann poubel kouver ek dispozision pou vid zot, stokaz andeor porte bann zanfan, retour bann linz sal, bann zafer reutilizab, lavaz linz dan enn sistem deziye ek ranplasman bann matla abime."
+        "text": "Swiv bann dispozision ki lekol finn aprouve pou bann poubel, lavaz linz ek linz sal. Gard bann dese lwin ar bann zanfan ek bann materyel prop. Signal bann poubel plen, bann matla abime ouswa lekipman ki manke."
       },
       {
         "title": "Lakrem ek medikaman",
-        "text": "Konfirm konsantman pou lakrem san preskripsion ki bann paran fourni, etiket avek prodwi exak ek zanfan-la, verifikasion dat louvertir ek dat limit, laplikasion prop ek prosedir separe pou personel, stokaz ek lanrezistreman bann medikaman lor preskripsion."
+        "text": "Verifye prodwi prop a zanfan-la avek so etiket, konsantman, bann instriksion ek dat limit ek dire itilizasion apre louvertir. Swiv prosedir medikaman separe-la pou bann lakrem lor preskripsion; zis bann manb personel otorize ek forme kapav met zot."
       },
       {
         "title": "Bann dosie, signalman ek led irzan",
-        "text": "Donn landrwa sekirize pou dosie swin ek kanal kominikasion abitie avek fami; bann kontak aktiel DSL ek adjwin, Executive Head, responsab seksion ek biro santral Inspired; enn prosedir indepandan pou enn responsab ki konserne; kouma signale pli lao si pena repons; ek bann exizans lokal pou led irzan ek signalman andeor lekol."
+        "text": "Konn metod lanrezistreman lor papie ouswa nimerik, stokaz sekirize ek kanal kominikasion avek fami ki lekol finn aprouve. Konn bann kontak DSL, so adjwin ek direksion, inklir enn prosedir indepandan si enn responsab konserne, ek kouma gagn led irzan."
       },
       {
-        "title": "Pratik anba obzervasion ek itilizasion par personel",
-        "text": "Aprouv lalis verifikasion pratik ek bann kalifikasion obzervater, desid ki prev neseser pou travay tousel, organiz soutien ek re-evaliasion, ek gard fin formasion an-lign separe ar lotorizasion pratik. Gagn enn revizion regleman ek kontrol bann infeksion avan personel servi formasion-la."
+        "title": "Ou obzervasion pratik",
+        "text": "Organiz obzervasion pratik separe-la avek enn obzervater ki lekol finn otorize. Demann ki pratik sipervize ouswa soutien anplis ou bizin avan ou donn bann swin tousel."
       }
     ],
     "practical": {
@@ -999,7 +945,7 @@ window.COURSE_EXTRAS={
             "icon": "reset"
           }
         ],
-        "transcript": "Pans bann letap-la kouma enn lespas prop, enn lespas swin ek bann dese izole. Koumans avek bann materyel prepare ek lizien lame. Pandan parti sal-la, gard salte ek bann materyel servi lwin ar bann materyel prop. Arete avan ou bann gan kontamine tous enn pake kous, enn resipian lakrem, enn tablet ouswa enn pwagne laport. Swiv bann letap pou retir gan ek fer lizien lame ki lekol finn montre, avek zanfan-la anba sirveyans an sekirite sak moman. Demann enn dimounn forme led si neseser. Terminn bann swin prop ek ed zanfan-la lav so lame. Konfirme ki li dan enn landrwa an sekirite ek anba sirveyans avan ou remet lespas-la an eta. Terminn avek bann letap neseser pou retir lekipman proteksion ek lav lame."
+        "transcript": "Pans bann letap-la kouma enn lespas prop, enn lespas swin ek bann dese izole. Koumans avek bann materyel prepare ek lizien lame. Pandan parti sal-la, gard salte ek bann materyel servi lwin ar bann materyel prop. Arete avan ou bann gan kontamine tous enn pake kous, enn resipian lakrem, enn dosie swin, enn plim, enn laparey pou anrezistre bann swin ouswa enn pwagne laport. Swiv bann letap pou retir gan ek fer lizien lame ki lekol finn montre, avek zanfan-la anba sirveyans an sekirite sak moman. Demann enn dimounn forme led si neseser. Terminn bann swin prop ek ed zanfan-la lav so lame. Konfirme ki li dan enn landrwa an sekirite ek anba sirveyans avan ou remet lespas-la an eta. Terminn avek bann letap neseser pou retir lekipman proteksion ek lav lame."
       },
       {
         "id": "reassure",
@@ -1034,33 +980,6 @@ window.COURSE_EXTRAS={
           }
         ],
         "transcript": "Enn zanfan rekile ek dir non. Fer enn poz kot sa kapav fer an sekirite ek gard ou lavwa kalm. Ou kapav dir: “Nou kapav fer enn poz. Mo trouve ki to trakase.” Explik prosenn ti letap ek propoz enn vre swa, kouma ede avek so linz ouswa gagn led enn adilt forme ki li kone. Donn zanfan-la letan kominike. Apel pou soutien san les li dan enn sitiasion danzere, ek servi plan ki finn dakor pou li. Pa tini li anba pou gagn letan. Enn poz bizin amenn bann swin avek respe san tarde. Si detres ouswa douler kontigne, gagn bann konsey apropriye ek signal okenn inkietid atraver prosedir lekol."
-      }
-    ],
-    "sources": [
-      {
-        "title": "Inspired Template Intimate Care and Nappy Policy, Zilie 2020",
-        "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
-        "note": "Sours prinsipal ki finn fourni, rekipere an antie le 3 Oktob 2026. Introdiksion, seksion 2–5 ek anex konsantman pou lakrem. Bizin konfirm lokalman so stati aktiel aprouve; aksè ar fisie sours-la depann bann permision lekol."
-      },
-      {
-        "title": "CDC: Bann letap pou sanz kous dan bann etablisman ki okip zanfan",
-        "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
-        "note": "Gid lasante piblik Leta-Zini, date le 17 Me 2024; verifye le 3 Oktob 2026. Soutenir bann letap swin ek dezenfeksion sirfas apre itilizasion. Laplikasion lokal bizin laprobasion."
-      },
-      {
-        "title": "UKHSA: Anpes ek kontrol bann infeksion",
-        "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
-        "note": "Gid pou Langleter; verifye le 3 Oktob 2026. Dekrir netwayaz abitie bann matla avek detersan ek bann prekosion separe pou bann deversemann likid lekor. Bizin met bann instriksion prodwi ek bann exizans lokal an-akor."
-      },
-      {
-        "title": "NSPCC: Bann swin intim pou bann zanfan",
-        "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
-        "note": "Gid proteksion zanfan Royaume-Uni, azour le 1 Septam 2026; verifye le 3 Oktob 2026. Soutenir bann plan ki met zanfan-la dan sant, personel apropriye okouran ek signalman bann inkietid. Bann referans legal spesifik ar enn ziridiksion pa trete kouma bann regleman pou lemonn antie."
-      },
-      {
-        "title": "ACECQA: Bann prinsip ek pratik pou twalet ek sanz kous",
-        "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
-        "note": "Gid kalite ostralien; verifye le 3 Oktob 2026. Soutenir bann labitid adapte, lotonomi ek enn partenaria avek fami. Bann referans reglemantasion ostralien servi zis pou donn konteks."
       }
     ]
   }

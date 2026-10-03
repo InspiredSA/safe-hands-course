@@ -46,7 +46,7 @@
       "q": "What must be ready before routine care begins?",
       "o": [
         "Only a clean nappy.",
-        "The camera and a tablet for recording.",
+        "Only the school’s approved paper or digital care record.",
         "The child’s arrangements, trained staff, supervision, privacy, supplies and a safe station."
       ],
       "a": 2,
@@ -57,20 +57,20 @@
       "o": [
         "Only items within the dirty part of the task, until safe removal and the approved clean transition.",
         "The clean nappy packet if you are careful.",
-        "The tablet so the record is not forgotten."
+        "The care record, pen or recording device so the record is not forgotten."
       ],
       "a": 0,
       "why": "Keep contamination away from clean supplies, shared touchpoints and records. Use hand hygiene and maintain supervision during the transition."
     },
     {
-      "q": "CDC and UKHSA describe different routine surface-cleaning approaches. Which instruction should you follow?",
+      "q": "Which cleaning instructions should you follow after a change?",
       "o": [
         "Whichever is quicker today.",
         "The school’s current approved local procedure and product directions.",
         "A chemical recipe suggested by a colleague."
       ],
       "a": 1,
-      "why": "The responsible lead must resolve the evidence and local requirements. Staff must not improvise products, mixtures or contact times."
+      "why": "Use the school’s approved routine and product directions. Ask the responsible lead if you are unsure; never improvise products, mixtures or contact times."
     },
     {
       "q": "The consent form names a different cream from the one in the child’s bag. What should happen?",
@@ -103,48 +103,48 @@
   ],
   "localReadiness": [
     {
-      "title": "Current policy and approval",
-      "text": "Record the approved intimate-care policy title, version, owner, approval date and review date. Confirm the course’s fit with local law and regulator requirements. Resolve differences with the July 2020 template before operational use."
+      "title": "Current school procedure",
+      "text": "Know where to find the school’s current approved intimate-care procedure and who to ask if anything is unclear."
     },
     {
-      "title": "Role permissions and training",
-      "text": "Name who may provide care, who may supervise new or temporary staff, who may apply prescribed cream and who may assess practice. Confirm relevant checks, induction, moving-and-handling competence and any specialist training."
+      "title": "Your role and training",
+      "text": "Know which care tasks you are authorised and trained to carry out, who supervises you and when to ask for trained help."
     },
     {
       "title": "Child plans and family agreements",
-      "text": "Identify where current care plans, routines, communication support, allergies and product permissions are securely available. Confirm how changes and unexpected additional care are authorised, recorded and communicated."
+      "text": "Check where to find each child’s current care plan, communication needs, allergies and product permissions. Follow the approved arrangements for changes or extra care."
     },
     {
       "title": "Privacy, layout and staffing",
-      "text": "Approve designated areas, screening and the supplied no-closed-door oversight arrangement without compromising fire safety. Confirm colleague awareness, staffing needed for each plan, group supervision and accepted handovers."
+      "text": "Use the designated care area and approved screening. Keep a colleague informed, follow the no-closed-door arrangement and maintain the required child and group supervision."
     },
     {
       "title": "Safe access and continuous supervision",
-      "text": "Demonstrate use of the station, any steps or transfer equipment, help-calling arrangements and the response to missing supplies. Demonstrate how hand hygiene occurs during a change without leaving a child unsafe."
+      "text": "Know how to use the station safely, maintain supervision and call for help. Ask for a demonstration if you are unsure about equipment, moving a child or hand hygiene during care."
     },
     {
       "title": "Hand hygiene and PPE",
-      "text": "Specify handwashing facilities, approved glove and apron types, exact dirty-to-clean transition, glove-change and hand-hygiene points, cleaning PPE and the response to shortages, allergy or exposure."
+      "text": "Follow the demonstrated handwashing, glove-change and apron routine. Know what to do if supplies run out, equipment is unsuitable or contamination occurs."
     },
     {
-      "title": "Cleaning product and contact time",
-      "text": "Specify approved detergent/disinfectant or combined product, relevant surfaces and contamination, safe preparation, label contact time, drying/rinsing requirements and storage. Confirm responsibility for spills and outbreak instructions. Do not insert a universal chemical recipe."
+      "title": "Cleaning products and contact time",
+      "text": "Use only approved products and follow their directions, including contact time, drying or rinsing, protective equipment and safe storage. Ask the responsible lead if you are unsure. Never mix chemicals or use an unlabelled container."
     },
     {
       "title": "Waste, laundry and equipment",
-      "text": "Confirm the local waste classification and collection route, covered bins and emptying arrangements, inaccessible storage, soiled-clothing return, reusable items, dedicated laundry and damaged-mat replacement."
+      "text": "Use the school’s approved bins, laundry and soiled-clothing arrangements. Keep waste away from children and clean supplies. Report full bins, damaged mats or missing equipment."
     },
     {
       "title": "Creams and medicines",
-      "text": "Confirm parent-supplied non-prescribed cream consent, exact product and child labelling, date-opened and expiry checks, clean application, and the separate prescribed-medicine staff, storage and records process."
+      "text": "Check the child’s own labelled product, consent, directions and expiry date and permitted use after opening. Follow the separate medication process for prescribed creams; only authorised, trained staff may apply them."
     },
     {
       "title": "Records, reporting and urgent help",
-      "text": "Provide the secure care-record location and routine family channel; current DSL/deputy, Executive Head, phase-head and Inspired Head Office contacts; an independent route for an implicated leader; non-response escalation; and local emergency/external reporting requirements."
+      "text": "Know the school’s approved paper or digital recording method, secure storage and family communication channel. Know your DSL, deputy and leadership contacts, including an independent route if a leader is involved, and how to get urgent help."
     },
     {
-      "title": "Observed practice and rollout",
-      "text": "Approve the practical checklist and observer qualifications, decide what evidence is required for independent duties, arrange support/reassessment, and keep online completion distinct from practical authorisation. Obtain policy and infection-control review before staff rollout."
+      "title": "Your practical observation",
+      "text": "Arrange the separate practical observation with an authorised school observer. Ask what supervised practice or further support you need before independent care."
     }
   ],
   "practical": {
@@ -288,7 +288,7 @@
           "icon": "reset"
         }
       ],
-      "transcript": "Think of the routine as a clean area, a care area and contained waste. Begin with prepared supplies and hand hygiene. During the dirty part, keep soiling and used materials away from clean stock. Stop before your contaminated gloves touch a nappy packet, cream container, tablet or door handle. Follow the school’s demonstrated glove-removal and hand-hygiene sequence, with the child safely supervised at every moment. Ask for trained help if needed. Complete clean care and support the child’s handwashing. Confirm they are in a safe, supervised place before resetting the station. Finish with the required PPE removal and handwashing."
+      "transcript": "Think of the routine as a clean area, a care area and contained waste. Begin with prepared supplies and hand hygiene. During the dirty part, keep soiling and used materials away from clean stock. Stop before your contaminated gloves touch a nappy packet, cream container, care record, pen, recording device or door handle. Follow the school’s demonstrated glove-removal and hand-hygiene sequence, with the child safely supervised at every moment. Ask for trained help if needed. Complete clean care and support the child’s handwashing. Confirm they are in a safe, supervised place before resetting the station. Finish with the required PPE removal and handwashing."
     },
     {
       "id": "reassure",
@@ -323,33 +323,6 @@
         }
       ],
       "transcript": "A child pulls away and says no. Pause where it is safe and keep your voice calm. You might say, “We can pause. I can see you are worried.” Explain the next small step and offer a genuine choice, such as helping with clothing or having a familiar trained adult assist. Give the child time to communicate. Call for support without leaving them unsafe, and use their agreed plan. Do not hold them down to save time. A pause must lead to timely, respectful care. If distress or pain continues, obtain appropriate advice and report any concern through the school’s process."
-    }
-  ],
-  "sources": [
-    {
-      "title": "Inspired Template Intimate Care and Nappy Policy, July 2020",
-      "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
-      "note": "Primary supplied source, retrieved in full 3 October 2026. Introduction, sections 2–5 and cream-consent appendix. Current approved status must be confirmed locally; access to the source file depends on school permissions."
-    },
-    {
-      "title": "CDC: Diaper Changing Steps for Childcare Settings",
-      "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
-      "note": "United States public-health guidance, dated 17 May 2024; checked 3 October 2026. Supports the care sequence and surface disinfection after use. Local implementation requires approval."
-    },
-    {
-      "title": "UKHSA: Preventing and controlling infections",
-      "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
-      "note": "England guidance; checked 3 October 2026. Describes routine detergent mat cleaning and separate bodily-fluid spill precautions. Product directions and local requirements must be reconciled."
-    },
-    {
-      "title": "NSPCC: Intimate care of children",
-      "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
-      "note": "UK safeguarding guidance, updated 1 September 2026; checked 3 October 2026. Supports child-centred plans, appropriate staff awareness and reporting concerns. Jurisdiction-specific legal references are not treated as worldwide rules."
-    },
-    {
-      "title": "ACECQA: Toileting and nappy changing principles and practices",
-      "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
-      "note": "Australian quality guidance; checked 3 October 2026. Supports responsive routines, independence and family partnership. Australian regulatory references are contextual only."
     }
   ]
 }
