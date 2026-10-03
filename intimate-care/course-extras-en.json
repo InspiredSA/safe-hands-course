@@ -1,0 +1,355 @@
+{
+  "meta": [
+    {
+      "title": "Respect and reassurance",
+      "sub": "Dignity, participation and safe boundaries",
+      "time": 8
+    },
+    {
+      "title": "Prepare the station",
+      "sub": "Plans, people, supplies and supervision",
+      "time": 8
+    },
+    {
+      "title": "A safe changing routine",
+      "sub": "Follow the sequence without losing connection",
+      "time": 10
+    },
+    {
+      "title": "Clean and reset",
+      "sub": "Stop contamination reaching the next child",
+      "time": 8
+    },
+    {
+      "title": "Individual care",
+      "sub": "Creams, toileting and growing independence",
+      "time": 7
+    },
+    {
+      "title": "Record and report",
+      "sub": "Factual records, support and safe escalation",
+      "time": 7
+    }
+  ],
+  "practice": [
+    {
+      "q": "A child says “No” and pulls away. Nobody is in immediate danger. What is the best next step?",
+      "o": [
+        "Hold the child still so care ends quickly.",
+        "Pause safely, reassure and seek support for timely care.",
+        "Leave the child soiled until collection."
+      ],
+      "a": 1,
+      "why": "Care must be responsive and timely. Neither force for convenience nor abandoning necessary care is appropriate."
+    },
+    {
+      "q": "What must be ready before routine care begins?",
+      "o": [
+        "Only a clean nappy.",
+        "The camera and a tablet for recording.",
+        "The child’s arrangements, trained staff, supervision, privacy, supplies and a safe station."
+      ],
+      "a": 2,
+      "why": "Preparation covers the child, people and environment. Missing resources must not lead to leaving a child unsafe."
+    },
+    {
+      "q": "What should contaminated gloves touch?",
+      "o": [
+        "Only items within the dirty part of the task, until safe removal and the approved clean transition.",
+        "The clean nappy packet if you are careful.",
+        "The tablet so the record is not forgotten."
+      ],
+      "a": 0,
+      "why": "Keep contamination away from clean supplies, shared touchpoints and records. Use hand hygiene and maintain supervision during the transition."
+    },
+    {
+      "q": "CDC and UKHSA describe different routine surface-cleaning approaches. Which instruction should you follow?",
+      "o": [
+        "Whichever is quicker today.",
+        "The school’s current approved local procedure and product directions.",
+        "A chemical recipe suggested by a colleague."
+      ],
+      "a": 1,
+      "why": "The responsible lead must resolve the evidence and local requirements. Staff must not improvise products, mixtures or contact times."
+    },
+    {
+      "q": "The consent form names a different cream from the one in the child’s bag. What should happen?",
+      "o": [
+        "Assume the products are equivalent.",
+        "Use any cream already open.",
+        "Check and resolve permission for the exact product before applying it."
+      ],
+      "a": 2,
+      "why": "Cream identity, consent and the medicine process where relevant must be checked; continue safe authorised care and obtain advice."
+    },
+    {
+      "q": "What does a pass on this online course demonstrate?",
+      "o": [
+        "Online requirements have been met; practical competence needs a separate observed check.",
+        "Automatic authorisation for independent intimate-care duties.",
+        "Qualification to carry out specialist medical procedures."
+      ],
+      "a": 0,
+      "why": "Knowledge and reflections do not establish practical competence with the school’s equipment, procedures or individual care plans."
+    }
+  ],
+  "declarations": [
+    "I understand that dignity, reassurance, appropriate privacy and continuous safe supervision are essential during intimate care.",
+    "I will work within my role, training, the child’s agreed arrangements and the school’s current approved procedures; I will seek help when I cannot do so safely.",
+    "I understand that force for convenience, humiliation and leaving necessary care unmet are unacceptable responses to distress.",
+    "I will follow the approved hand-hygiene, PPE, cleaning, product, cream/medication and waste procedures, and report gaps rather than improvise.",
+    "I will record facts and report concerns promptly through the confirmed safeguarding or staff-concern route, using independent escalation where required.",
+    "I understand that the certificate records online completion only. I still need the school’s required induction and a separate trained observer’s practical signoff before independent duties."
+  ],
+  "localReadiness": [
+    {
+      "title": "Current policy and approval",
+      "text": "Record the approved intimate-care policy title, version, owner, approval date and review date. Confirm the course’s fit with local law and regulator requirements. Resolve differences with the July 2020 template before operational use."
+    },
+    {
+      "title": "Role permissions and training",
+      "text": "Name who may provide care, who may supervise new or temporary staff, who may apply prescribed cream and who may assess practice. Confirm relevant checks, induction, moving-and-handling competence and any specialist training."
+    },
+    {
+      "title": "Child plans and family agreements",
+      "text": "Identify where current care plans, routines, communication support, allergies and product permissions are securely available. Confirm how changes and unexpected additional care are authorised, recorded and communicated."
+    },
+    {
+      "title": "Privacy, layout and staffing",
+      "text": "Approve designated areas, screening and the supplied no-closed-door oversight arrangement without compromising fire safety. Confirm colleague awareness, staffing needed for each plan, group supervision and accepted handovers."
+    },
+    {
+      "title": "Safe access and continuous supervision",
+      "text": "Demonstrate use of the station, any steps or transfer equipment, help-calling arrangements and the response to missing supplies. Demonstrate how hand hygiene occurs during a change without leaving a child unsafe."
+    },
+    {
+      "title": "Hand hygiene and PPE",
+      "text": "Specify handwashing facilities, approved glove and apron types, exact dirty-to-clean transition, glove-change and hand-hygiene points, cleaning PPE and the response to shortages, allergy or exposure."
+    },
+    {
+      "title": "Cleaning product and contact time",
+      "text": "Specify approved detergent/disinfectant or combined product, relevant surfaces and contamination, safe preparation, label contact time, drying/rinsing requirements and storage. Confirm responsibility for spills and outbreak instructions. Do not insert a universal chemical recipe."
+    },
+    {
+      "title": "Waste, laundry and equipment",
+      "text": "Confirm the local waste classification and collection route, covered bins and emptying arrangements, inaccessible storage, soiled-clothing return, reusable items, dedicated laundry and damaged-mat replacement."
+    },
+    {
+      "title": "Creams and medicines",
+      "text": "Confirm parent-supplied non-prescribed cream consent, exact product and child labelling, date-opened and expiry checks, clean application, and the separate prescribed-medicine staff, storage and records process."
+    },
+    {
+      "title": "Records, reporting and urgent help",
+      "text": "Provide the secure care-record location and routine family channel; current DSL/deputy, Executive Head, phase-head and Inspired Head Office contacts; an independent route for an implicated leader; non-response escalation; and local emergency/external reporting requirements."
+    },
+    {
+      "title": "Observed practice and rollout",
+      "text": "Approve the practical checklist and observer qualifications, decide what evidence is required for independent duties, arrange support/reassessment, and keep online completion distinct from practical authorisation. Obtain policy and infection-control review before staff rollout."
+    }
+  ],
+  "practical": {
+    "title": "Separate school practical observation checklist",
+    "intro": "For use by an authorised, trained observer after local induction. This is a school-controlled practice record, separate from the online certificate. The participant must not award or self-sign practical competence.",
+    "instructions": [
+      "Complete the local readiness checks first. Record the participant, school, observer’s role, observation date, policy version, setting/equipment and scope of the observation in the school’s approved record.",
+      "Demonstrate unfamiliar equipment and practise the sequence with suitable training materials before any care involving a child. Observe real care only when necessary, authorised and appropriate to the child’s plan; protect dignity and avoid unnecessary observers.",
+      "Use “Observed safely”, “Further support needed” or “Not observed” for each criterion and add factual evidence. Never use an intimate photograph or recording as evidence. Keep real children’s identities and care information out of course responses and downloadable training records.",
+      "Stop unsafe practice immediately while preserving the child’s safety and arrange appropriate support. A serious safety gap cannot be offset by strengths elsewhere. Record support, retraining and reassessment needed.",
+      "Only the authorised school observer can recommend signoff for the scope actually observed. The responsible school leader confirms authorisation under local policy. A blank or unobserved item does not count as a pass."
+    ],
+    "criteria": [
+      {
+        "area": "1. Readiness and professional limits",
+        "items": [
+          "Confirms role permissions, local induction and the current child’s arrangements before beginning.",
+          "Identifies how to summon help and confirms who is supervising other children.",
+          "Recognises tasks, equipment or medicine administration outside their competence and seeks the right support."
+        ]
+      },
+      {
+        "area": "2. Child-centred interaction and dignity",
+        "items": [
+          "Explains steps in accessible language and responds to the child’s words and non-verbal cues.",
+          "Encourages manageable independence and offers genuine choices without pressure or shaming.",
+          "Uses approved screening and colleague-awareness arrangements while meeting the no-closed-door requirement.",
+          "Responds to distress with a safe pause, reassurance and a supported plan for timely care; does not use force for convenience."
+        ]
+      },
+      {
+        "area": "3. Safe station and supervision",
+        "items": [
+          "Checks the surface and equipment and prepares the correct clean supplies, PPE and waste arrangement.",
+          "Keeps chemicals, bags and unsafe items inaccessible to children and clean stock away from contamination.",
+          "Uses only the demonstrated safe access/transfer method and maintains active supervision throughout, including the protective contact and positioning demonstrated locally to prevent falls from a raised surface.",
+          "Demonstrates a safe response to a missing item without leaving a child unattended."
+        ]
+      },
+      {
+        "area": "4. Hygiene and care sequence",
+        "items": [
+          "Performs the locally required hand hygiene and uses fresh approved PPE for each change.",
+          "Explains and carries out the locally demonstrated cleaning and changing sequence gently and within the care plan.",
+          "Contains soiling and protects clean supplies and touchpoints from contaminated gloves.",
+          "Removes contaminated gloves safely and performs the approved hand-hygiene/clean-care transition while preserving supervision.",
+          "Checks exact cream permissions and uses a clean application method without cross-contaminating containers.",
+          "Supports child handwashing and dressing and confirms safe supervision before station cleaning."
+        ]
+      },
+      {
+        "area": "5. Reset and waste",
+        "items": [
+          "Uses the approved cleaning/disinfection procedure, correct product and label contact time, including drying/rinsing where required.",
+          "Deals with contaminated touchpoints, waste and soiled clothing through the approved route.",
+          "Removes cleaning PPE, washes and dries hands and returns the station to a safe ready state.",
+          "Knows how to manage a spill, exposure, product shortage or damaged surface and obtain help."
+        ]
+      },
+      {
+        "area": "6. Records, concerns and follow-through",
+        "items": [
+          "Completes an accurate, discreet care record and appropriate routine handover.",
+          "Explains how to report a child concern and a staff-conduct concern without diagnosing or investigating.",
+          "Identifies the confirmed deputy/alternative, independent leadership route and response to an unacknowledged report.",
+          "Explains the limits of online completion and the next steps if further practice or training is needed."
+        ]
+      }
+    ],
+    "decisionOptions": [
+      "Observed safely within the stated scope; school authorisation to be confirmed",
+      "Further supported practice and reassessment required",
+      "Observation incomplete; no practical signoff"
+    ],
+    "footer": "Record the observer’s evidence, scope, decision, support plan, reassessment date and signatures in the approved school system. Keep the record secure. This checklist does not replace the school’s policy, professional judgement or any required specialist qualification."
+  },
+  "visualGuides": [
+    {
+      "id": "prepare",
+      "module": 2,
+      "title": "Prepare before you begin",
+      "intro": "A short abstract station-planning guide. It does not demonstrate lifting, positioning or intimate physical care.",
+      "steps": [
+        {
+          "title": "Check the plan",
+          "text": "Confirm the child’s arrangements, your role and any product permission.",
+          "icon": "plan"
+        },
+        {
+          "title": "Agree supervision",
+          "text": "A colleague knows care is happening; the group is covered and help can be called.",
+          "icon": "people"
+        },
+        {
+          "title": "Ready the station",
+          "text": "Check the surface and prepare clean supplies, fresh PPE, handwashing and waste.",
+          "icon": "station"
+        },
+        {
+          "title": "Protect the boundaries",
+          "text": "Keep clean stock separate from care and waste; keep bags and chemicals out of reach.",
+          "icon": "zones"
+        },
+        {
+          "title": "Reassure and begin",
+          "text": "Explain the next step. Begin only when privacy, safety and the approved routine are ready.",
+          "icon": "speech"
+        }
+      ],
+      "transcript": "Before the child comes to the station, check their care arrangements and your role. Tell the appropriate colleague and confirm supervision for the group. Make sure you can call for help. Check the surface, prepare the correct supplies and locate the handwashing and waste facilities. Keep clean stock separate from the changing and waste areas, and keep bags and chemicals out of reach. Plan how hand hygiene can happen without leaving the child unsafe. Check privacy screening. Explain the next step warmly and give the child time to respond. If something essential is missing, resolve it before routine care starts."
+    },
+    {
+      "id": "sequence",
+      "module": 3,
+      "title": "Keep clean and dirty apart",
+      "intro": "Follow the movement of contamination through an abstract sequence. Learn the exact technique at your school’s practical demonstration.",
+      "steps": [
+        {
+          "title": "Begin clean",
+          "text": "Prepare supplies and perform hand hygiene before fresh PPE and care.",
+          "icon": "clean"
+        },
+        {
+          "title": "Contain the dirty phase",
+          "text": "Keep soiled nappies, wipes and clothing away from clean stock.",
+          "icon": "contain"
+        },
+        {
+          "title": "Stop at the boundary",
+          "text": "Dirty gloves must not touch clean supplies, handles, cream containers or records.",
+          "icon": "stop"
+        },
+        {
+          "title": "Make the clean transition",
+          "text": "Follow safe glove removal and the approved hand-hygiene sequence while supervising the child.",
+          "icon": "hands"
+        },
+        {
+          "title": "Finish, then reset",
+          "text": "Support child handwashing, confirm safe supervision, clean the station and wash your hands.",
+          "icon": "reset"
+        }
+      ],
+      "transcript": "Think of the routine as a clean area, a care area and contained waste. Begin with prepared supplies and hand hygiene. During the dirty part, keep soiling and used materials away from clean stock. Stop before your contaminated gloves touch a nappy packet, cream container, tablet or door handle. Follow the school’s demonstrated glove-removal and hand-hygiene sequence, with the child safely supervised at every moment. Ask for trained help if needed. Complete clean care and support the child’s handwashing. Confirm they are in a safe, supervised place before resetting the station. Finish with the required PPE removal and handwashing."
+    },
+    {
+      "id": "reassure",
+      "module": 1,
+      "title": "Reassure a worried child",
+      "intro": "A communication example with abstract characters and speech bubbles. No intimate bodies or hands-on restraint are depicted.",
+      "steps": [
+        {
+          "title": "Notice",
+          "text": "The child pulls away. Treat this as a cue to pause and understand their needs.",
+          "icon": "notice"
+        },
+        {
+          "title": "Pause safely",
+          "text": "Keep the child safe and say: “We can pause. I can see you are worried.”",
+          "icon": "pause"
+        },
+        {
+          "title": "Offer a real choice",
+          "text": "“Would you like to help with your clothes, or would you like Sam to help?”",
+          "icon": "choice"
+        },
+        {
+          "title": "Get familiar support",
+          "text": "Call a trained colleague without leaving the child unsafe. Follow the care plan.",
+          "icon": "support"
+        },
+        {
+          "title": "Plan timely care",
+          "text": "Do not force for convenience or abandon care. Obtain advice if distress or pain continues.",
+          "icon": "plan"
+        }
+      ],
+      "transcript": "A child pulls away and says no. Pause where it is safe and keep your voice calm. You might say, “We can pause. I can see you are worried.” Explain the next small step and offer a genuine choice, such as helping with clothing or having a familiar trained adult assist. Give the child time to communicate. Call for support without leaving them unsafe, and use their agreed plan. Do not hold them down to save time. A pause must lead to timely, respectful care. If distress or pain continues, obtain appropriate advice and report any concern through the school’s process."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Inspired Template Intimate Care and Nappy Policy, July 2020",
+      "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
+      "note": "Primary supplied source, retrieved in full 3 October 2026. Introduction, sections 2–5 and cream-consent appendix. Current approved status must be confirmed locally; access to the source file depends on school permissions."
+    },
+    {
+      "title": "CDC: Diaper Changing Steps for Childcare Settings",
+      "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
+      "note": "United States public-health guidance, dated 17 May 2024; checked 3 October 2026. Supports the care sequence and surface disinfection after use. Local implementation requires approval."
+    },
+    {
+      "title": "UKHSA: Preventing and controlling infections",
+      "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
+      "note": "England guidance; checked 3 October 2026. Describes routine detergent mat cleaning and separate bodily-fluid spill precautions. Product directions and local requirements must be reconciled."
+    },
+    {
+      "title": "NSPCC: Intimate care of children",
+      "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
+      "note": "UK safeguarding guidance, updated 1 September 2026; checked 3 October 2026. Supports child-centred plans, appropriate staff awareness and reporting concerns. Jurisdiction-specific legal references are not treated as worldwide rules."
+    },
+    {
+      "title": "ACECQA: Toileting and nappy changing principles and practices",
+      "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
+      "note": "Australian quality guidance; checked 3 October 2026. Supports responsive routines, independence and family partnership. Australian regulatory references are contextual only."
+    }
+  ]
+}

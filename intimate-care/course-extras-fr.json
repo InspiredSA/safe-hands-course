@@ -1,0 +1,355 @@
+{
+  "meta": [
+    {
+      "title": "Respect et réassurance",
+      "sub": "Dignité, participation et limites sûres",
+      "time": 8
+    },
+    {
+      "title": "Préparer le poste",
+      "sub": "Plans, personnes, fournitures et surveillance",
+      "time": 8
+    },
+    {
+      "title": "Une routine de change sûre",
+      "sub": "Suivre les étapes en restant attentif à l’enfant",
+      "time": 10
+    },
+    {
+      "title": "Nettoyer et remettre en état",
+      "sub": "Empêcher la contamination de l’enfant suivant",
+      "time": 8
+    },
+    {
+      "title": "Des soins individualisés",
+      "sub": "Crèmes, toilettes et autonomie progressive",
+      "time": 7
+    },
+    {
+      "title": "Consigner et signaler",
+      "sub": "Écrits factuels, soutien et transmission sûre des préoccupations",
+      "time": 7
+    }
+  ],
+  "practice": [
+    {
+      "q": "Un enfant dit « Non » et se dégage. Personne n’est en danger immédiat. Quelle est la meilleure prochaine étape ?",
+      "o": [
+        "Immobiliser l’enfant pour terminer les soins rapidement.",
+        "Faire une pause en sécurité, rassurer et chercher de l’aide pour assurer rapidement les soins.",
+        "Laisser l’enfant souillé jusqu’à son départ."
+      ],
+      "a": 1,
+      "why": "Les soins doivent être attentifs aux besoins et assurés rapidement. Ni la force par commodité ni l’abandon des soins nécessaires ne convient."
+    },
+    {
+      "q": "Que faut-il avoir préparé avant de commencer les soins courants ?",
+      "o": [
+        "Uniquement une couche propre.",
+        "L’appareil photo et une tablette pour consigner les soins.",
+        "Les dispositions prévues pour l’enfant, le personnel formé, la surveillance, l’intimité, les fournitures et un poste sûr."
+      ],
+      "a": 2,
+      "why": "La préparation concerne l’enfant, les personnes et l’environnement. Un manque de ressources ne doit pas conduire à laisser un enfant en danger."
+    },
+    {
+      "q": "Que doivent toucher des gants contaminés ?",
+      "o": [
+        "Uniquement les articles de la phase sale de la tâche, jusqu’à leur retrait sûr et au passage approuvé vers la phase propre.",
+        "Le paquet de couches propres si vous faites attention.",
+        "La tablette pour ne pas oublier de remplir le document."
+      ],
+      "a": 0,
+      "why": "Gardez la contamination à l’écart des fournitures propres, des points de contact partagés et des documents. Réalisez l’hygiène des mains et maintenez la surveillance pendant la transition."
+    },
+    {
+      "q": "Le CDC et l’UKHSA décrivent des méthodes différentes de nettoyage courant des surfaces. Quelle consigne devez-vous suivre ?",
+      "o": [
+        "Celle qui est la plus rapide aujourd’hui.",
+        "La procédure locale actuelle approuvée par l’établissement et les consignes des produits.",
+        "Une recette de mélange chimique suggérée par un collègue."
+      ],
+      "a": 1,
+      "why": "Le responsable compétent doit concilier les recommandations et les exigences locales. Le personnel ne doit pas improviser les produits, les mélanges ou les temps de contact."
+    },
+    {
+      "q": "Le formulaire de consentement mentionne une crème différente de celle du sac de l’enfant. Que doit-il se passer ?",
+      "o": [
+        "Supposer que les produits sont équivalents.",
+        "Utiliser n’importe quelle crème déjà ouverte.",
+        "Vérifier et obtenir l’autorisation pour le produit exact avant de l’appliquer."
+      ],
+      "a": 2,
+      "why": "L’identité de la crème, le consentement et, le cas échéant, la procédure relative aux médicaments doivent être vérifiés ; poursuivez les soins sûrs et autorisés et demandez conseil."
+    },
+    {
+      "q": "Que démontre la réussite de cette formation en ligne ?",
+      "o": [
+        "Les exigences en ligne sont remplies ; la compétence pratique nécessite une vérification distincte par observation.",
+        "Une autorisation automatique d’assurer des soins intimes de façon autonome.",
+        "Une qualification pour effectuer des actes médicaux spécialisés."
+      ],
+      "a": 0,
+      "why": "Les connaissances et les réflexions ne démontrent pas la compétence pratique avec l’équipement, les procédures ou les plans de soins individuels de l’établissement."
+    }
+  ],
+  "declarations": [
+    "Je comprends que la dignité, la réassurance, une protection adaptée de l’intimité et une surveillance sûre continue sont essentielles pendant les soins intimes.",
+    "J’agirai dans les limites de ma fonction et de ma formation, selon les dispositions convenues pour l’enfant et les procédures actuelles approuvées de l’établissement ; je demanderai de l’aide si je ne peux pas le faire en sécurité.",
+    "Je comprends que la force par commodité, l’humiliation et l’absence de soins nécessaires sont des réponses inacceptables à la détresse.",
+    "Je suivrai les procédures approuvées d’hygiène des mains, d’EPI, de nettoyage, de produits, de crèmes et de médicaments et de déchets, et je signalerai les lacunes plutôt que d’improviser.",
+    "Je consignerai les faits et signalerai rapidement les préoccupations par la voie confirmée de protection de l’enfance ou de préoccupations relatives au personnel, en utilisant une voie indépendante lorsque cela est requis.",
+    "Je comprends que l’attestation porte uniquement sur la réussite en ligne. J’ai encore besoin de l’intégration requise par l’établissement et d’une validation pratique distincte par un observateur formé avant d’exercer de façon autonome."
+  ],
+  "localReadiness": [
+    {
+      "title": "Politique actuelle et approbation",
+      "text": "Consignez le titre, la version, le responsable, la date d’approbation et la date de révision de la politique approuvée sur les soins intimes. Confirmez l’adéquation de la formation avec le droit local et les exigences de l’organisme de réglementation. Résolvez les différences avec le modèle de juillet 2020 avant toute utilisation opérationnelle."
+    },
+    {
+      "title": "Autorisations selon les fonctions et formation",
+      "text": "Nommez les personnes autorisées à dispenser les soins, à superviser le personnel nouveau ou temporaire, à appliquer une crème prescrite et à évaluer la pratique. Confirmez les vérifications pertinentes, l’intégration, la compétence de déplacement et de manutention et toute formation spécialisée."
+    },
+    {
+      "title": "Plans des enfants et accords avec les familles",
+      "text": "Indiquez où les plans de soins actuels, les routines, les aides à la communication, les allergies et les autorisations de produits sont accessibles de manière sécurisée. Confirmez comment les changements et les soins supplémentaires imprévus sont autorisés, consignés et communiqués."
+    },
+    {
+      "title": "Intimité, aménagement et personnel",
+      "text": "Approuvez les espaces prévus, les protections visuelles et l’organisation de vigilance sans porte fermée exigée par la source fournie, sans compromettre la sécurité incendie. Confirmez l’information des collègues, le personnel requis pour chaque plan, la surveillance du groupe et les prises de relais acceptées."
+    },
+    {
+      "title": "Accès sûr et surveillance continue",
+      "text": "Démontrez l’utilisation du poste, des marches ou de l’équipement de transfert éventuels, les moyens d’appeler à l’aide et la réponse à un manque de fournitures. Démontrez comment réaliser l’hygiène des mains pendant un change sans laisser l’enfant en danger."
+    },
+    {
+      "title": "Hygiène des mains et EPI",
+      "text": "Précisez les points de lavage des mains, les types approuvés de gants et de tabliers, le passage exact du sale au propre, les moments de changement de gants et d’hygiène des mains, les EPI de nettoyage et la réponse aux pénuries, aux allergies ou aux expositions."
+    },
+    {
+      "title": "Produit de nettoyage et temps de contact",
+      "text": "Précisez le détergent, le désinfectant ou le produit combiné approuvé, les surfaces et les contaminations concernées, la préparation sûre, le temps de contact de l’étiquette, les exigences de séchage ou de rinçage et le stockage. Confirmez les responsabilités en cas de déversement et les consignes en cas d’épidémie. N’introduisez pas de recette chimique universelle."
+    },
+    {
+      "title": "Déchets, linge et équipement",
+      "text": "Confirmez la classification locale des déchets et le circuit de collecte, les poubelles couvertes et leurs modalités de vidage, le stockage inaccessible, le retour des vêtements souillés, les articles réutilisables, le circuit de lavage dédié et le remplacement des matelas endommagés."
+    },
+    {
+      "title": "Crèmes et médicaments",
+      "text": "Confirmez le consentement pour les crèmes non prescrites fournies par les parents, l’étiquetage du produit exact et de l’enfant, les vérifications de date d’ouverture et de péremption, l’application propre, ainsi que le personnel, le stockage et les documents de la procédure distincte pour les médicaments prescrits."
+    },
+    {
+      "title": "Documents, signalements et aide urgente",
+      "text": "Indiquez l’emplacement sécurisé des documents de soins et le canal courant avec les familles ; les contacts actuels du responsable désigné de la protection de l’enfance et de son adjoint, du chef d’établissement exécutif, des responsables de cycle et du siège d’Inspired ; une voie indépendante si un responsable est concerné ; la transmission à un autre niveau en l’absence de réponse ; et les exigences locales d’urgence et de signalement externe."
+    },
+    {
+      "title": "Pratique observée et déploiement",
+      "text": "Approuvez la grille pratique et les qualifications des observateurs, décidez des éléments de preuve requis pour les fonctions autonomes, organisez le soutien et la réévaluation, et distinguez la réussite en ligne de l’autorisation pratique. Faites réviser la politique et la prévention des infections avant le déploiement auprès du personnel."
+    }
+  ],
+  "practical": {
+    "title": "Grille distincte d’observation pratique de l’établissement",
+    "intro": "À utiliser par un observateur formé et habilité après l’intégration locale. Il s’agit d’un document de pratique contrôlé par l’établissement, distinct de l’attestation en ligne. Le participant ne doit ni s’attribuer ni signer lui-même une validation de compétence pratique.",
+    "instructions": [
+      "Effectuez d’abord les vérifications de préparation locale. Consignez le participant, l’établissement, la fonction de l’observateur, la date de l’observation, la version de la politique, le lieu et l’équipement, ainsi que le périmètre de l’observation dans le document approuvé de l’établissement.",
+      "Faites une démonstration de tout équipement inconnu et exercez-vous à la séquence avec du matériel de formation adapté avant tout soin impliquant un enfant. N’observez des soins réels que si cela est nécessaire, autorisé et adapté au plan de l’enfant ; préservez sa dignité et évitez les observateurs inutiles.",
+      "Utilisez « Réalisation sûre observée », « Soutien supplémentaire nécessaire » ou « Non observé » pour chaque critère et ajoutez des éléments factuels. N’utilisez jamais de photographie des parties intimes ni d’enregistrement des soins comme preuve. N’incluez pas l’identité réelle d’enfants ni leurs informations de soins dans les réponses de la formation ou les documents de formation téléchargeables.",
+      "Interrompez immédiatement toute pratique dangereuse en préservant la sécurité de l’enfant et organisez une aide adaptée. Une lacune grave de sécurité ne peut pas être compensée par des points forts ailleurs. Consignez le soutien, la nouvelle formation et la réévaluation nécessaires.",
+      "Seul l’observateur habilité par l’établissement peut recommander une validation pour le périmètre réellement observé. Le responsable compétent de l’établissement confirme l’autorisation selon la politique locale. Un élément vide ou non observé ne compte pas comme réussi."
+    ],
+    "criteria": [
+      {
+        "area": "1. Préparation et limites professionnelles",
+        "items": [
+          "Confirme les autorisations liées à sa fonction, l’intégration locale et les dispositions actuelles de l’enfant avant de commencer.",
+          "Identifie comment appeler à l’aide et confirme qui surveille les autres enfants.",
+          "Reconnaît les tâches, équipements ou administrations de médicaments dépassant sa compétence et cherche l’aide adaptée."
+        ]
+      },
+      {
+        "area": "2. Interaction centrée sur l’enfant et dignité",
+        "items": [
+          "Explique les étapes dans un langage accessible et répond aux paroles et aux signes non verbaux de l’enfant.",
+          "Encourage une autonomie à la portée de l’enfant et propose de vrais choix sans pression ni humiliation.",
+          "Utilise les protections visuelles et les modalités d’information des collègues approuvées tout en respectant l’interdiction des soins derrière une porte fermée.",
+          "Répond à la détresse par une pause sûre, de la réassurance et un plan assorti d’aide pour assurer rapidement les soins ; n’utilise pas la force par commodité."
+        ]
+      },
+      {
+        "area": "3. Poste sûr et surveillance",
+        "items": [
+          "Vérifie la surface et l’équipement et prépare les fournitures propres adaptées, les EPI et le dispositif de déchets.",
+          "Garde les produits chimiques, les sacs et les articles dangereux hors de portée des enfants et les réserves propres à l’écart de la contamination.",
+          "Utilise uniquement la méthode sûre d’accès ou de transfert démontrée et maintient une surveillance active à chaque instant, y compris le contact protecteur et le positionnement démontrés localement pour prévenir les chutes d’une surface surélevée.",
+          "Démontre une réponse sûre à un article manquant sans laisser un enfant sans surveillance."
+        ]
+      },
+      {
+        "area": "4. Hygiène et séquence de soins",
+        "items": [
+          "Réalise l’hygiène des mains exigée localement et utilise des EPI approuvés neufs pour chaque change.",
+          "Explique et réalise doucement la séquence de nettoyage et de change démontrée localement, dans les limites du plan de soins.",
+          "Contient les souillures et protège les fournitures propres et les points de contact des gants contaminés.",
+          "Retire les gants contaminés en sécurité et réalise la transition approuvée d’hygiène des mains et de soins propres tout en préservant la surveillance.",
+          "Vérifie les autorisations exactes des crèmes et utilise une méthode d’application propre sans contaminer les contenants.",
+          "Aide au lavage des mains et à l’habillage de l’enfant et confirme une surveillance sûre avant le nettoyage du poste."
+        ]
+      },
+      {
+        "area": "5. Remise en état et déchets",
+        "items": [
+          "Utilise la procédure approuvée de nettoyage et de désinfection, le bon produit et le temps de contact de l’étiquette, avec le séchage ou le rinçage lorsque cela est requis.",
+          "Traite les points de contact contaminés, les déchets et les vêtements souillés selon le circuit approuvé.",
+          "Retire les EPI de nettoyage, se lave et se sèche les mains, puis remet le poste dans un état sûr et prêt à l’emploi.",
+          "Sait gérer un déversement, une exposition, une pénurie de produit ou une surface endommagée et obtenir de l’aide."
+        ]
+      },
+      {
+        "area": "6. Documents, préoccupations et suivi",
+        "items": [
+          "Remplit un document de soins exact et discret et effectue une transmission courante adaptée.",
+          "Explique comment signaler une préoccupation concernant un enfant et une préoccupation relative à la conduite du personnel sans diagnostiquer ni enquêter.",
+          "Identifie l’adjoint ou l’autre contact confirmé, la voie indépendante auprès de la direction et la réponse à un signalement resté sans réponse.",
+          "Explique les limites de la réussite en ligne et les prochaines étapes si un entraînement ou une formation supplémentaire est nécessaire."
+        ]
+      }
+    ],
+    "decisionOptions": [
+      "Réalisation sûre observée dans le périmètre indiqué ; autorisation de l’établissement à confirmer",
+      "Pratique accompagnée supplémentaire et réévaluation nécessaires",
+      "Observation incomplète ; aucune validation pratique"
+    ],
+    "footer": "Consignez les observations factuelles de l’observateur, le périmètre, la décision, le plan de soutien, la date de réévaluation et les signatures dans le système approuvé de l’établissement. Conservez le document en sécurité. Cette grille ne remplace ni la politique de l’établissement, ni le jugement professionnel, ni toute qualification spécialisée requise."
+  },
+  "visualGuides": [
+    {
+      "id": "prepare",
+      "module": 2,
+      "title": "Préparer avant de commencer",
+      "intro": "Un court guide schématique de préparation du poste. Il ne démontre ni le levage, ni le positionnement, ni les gestes physiques de soins intimes.",
+      "steps": [
+        {
+          "title": "Vérifier le plan",
+          "text": "Confirmez les dispositions prévues pour l’enfant, votre fonction et les éventuelles autorisations de produits.",
+          "icon": "plan"
+        },
+        {
+          "title": "Convenir de la surveillance",
+          "text": "Un collègue sait que les soins ont lieu ; le groupe est pris en charge et il est possible d’appeler à l’aide.",
+          "icon": "people"
+        },
+        {
+          "title": "Préparer le poste",
+          "text": "Vérifiez la surface et préparez les fournitures propres, les EPI neufs, le lavage des mains et les déchets.",
+          "icon": "station"
+        },
+        {
+          "title": "Préserver les séparations",
+          "text": "Séparez les réserves propres des soins et des déchets ; gardez les sacs et les produits chimiques hors de portée.",
+          "icon": "zones"
+        },
+        {
+          "title": "Rassurer et commencer",
+          "text": "Expliquez l’étape suivante. Ne commencez que lorsque l’intimité, la sécurité et la routine approuvée sont assurées.",
+          "icon": "speech"
+        }
+      ],
+      "transcript": "Avant d’amener l’enfant au poste, vérifiez ses dispositions de soins et votre fonction. Informez le collègue compétent et confirmez la surveillance du groupe. Assurez-vous de pouvoir appeler à l’aide. Vérifiez la surface, préparez les fournitures adaptées et repérez les installations de lavage des mains et de déchets. Séparez les réserves propres des zones de change et de déchets, et gardez les sacs et les produits chimiques hors de portée. Prévoyez comment réaliser l’hygiène des mains sans laisser l’enfant en danger. Vérifiez les protections visuelles. Expliquez l’étape suivante avec bienveillance et laissez à l’enfant le temps de répondre. Si un élément essentiel manque, résolvez le problème avant de commencer les soins courants."
+    },
+    {
+      "id": "sequence",
+      "module": 3,
+      "title": "Séparer le propre et le sale",
+      "intro": "Suivez le déplacement de la contamination dans une séquence schématique. Apprenez la technique exacte lors de la démonstration pratique de votre établissement.",
+      "steps": [
+        {
+          "title": "Commencer proprement",
+          "text": "Préparez les fournitures et réalisez l’hygiène des mains avant de mettre des EPI neufs et de commencer les soins.",
+          "icon": "clean"
+        },
+        {
+          "title": "Contenir la phase sale",
+          "text": "Gardez les couches, les lingettes et les vêtements souillés à l’écart des réserves propres.",
+          "icon": "contain"
+        },
+        {
+          "title": "S’arrêter à la limite",
+          "text": "Les gants sales ne doivent toucher ni les fournitures propres, ni les poignées, ni les pots de crème, ni les documents.",
+          "icon": "stop"
+        },
+        {
+          "title": "Passer à la phase propre",
+          "text": "Retirez les gants en sécurité et suivez la séquence approuvée d’hygiène des mains tout en surveillant l’enfant.",
+          "icon": "hands"
+        },
+        {
+          "title": "Terminer, puis remettre en état",
+          "text": "Aidez l’enfant à se laver les mains, confirmez une surveillance sûre, nettoyez le poste et lavez-vous les mains.",
+          "icon": "reset"
+        }
+      ],
+      "transcript": "Pensez la routine en trois espaces : une zone propre, une zone de soins et des déchets contenus. Commencez avec des fournitures préparées et l’hygiène des mains. Pendant la phase sale, gardez les souillures et le matériel usagé à l’écart des réserves propres. Arrêtez-vous avant que vos gants contaminés ne touchent un paquet de couches, un pot de crème, une tablette ou une poignée de porte. Suivez la séquence de retrait des gants et d’hygiène des mains démontrée par l’établissement, en maintenant une surveillance sûre de l’enfant à chaque instant. Demandez l’aide d’une personne formée si nécessaire. Terminez les soins propres et aidez l’enfant à se laver les mains. Confirmez qu’il est dans un lieu sûr et surveillé avant de remettre le poste en état. Terminez par le retrait des EPI et le lavage des mains requis."
+    },
+    {
+      "id": "reassure",
+      "module": 1,
+      "title": "Rassurer un enfant inquiet",
+      "intro": "Un exemple de communication avec des personnages schématiques et des bulles de dialogue. Aucune partie intime ni aucun geste de contention n’est représenté.",
+      "steps": [
+        {
+          "title": "Observer",
+          "text": "L’enfant se dégage. Considérez cela comme un signal pour faire une pause et comprendre ses besoins.",
+          "icon": "notice"
+        },
+        {
+          "title": "Faire une pause sûre",
+          "text": "Gardez l’enfant en sécurité et dites : « Nous pouvons faire une pause. Je vois que tu es inquiet. »",
+          "icon": "pause"
+        },
+        {
+          "title": "Proposer un vrai choix",
+          "text": "« Tu veux participer pour tes vêtements, ou tu préfères que Sam t’aide ? »",
+          "icon": "choice"
+        },
+        {
+          "title": "Obtenir une aide familière",
+          "text": "Appelez un collègue formé sans laisser l’enfant en danger. Suivez le plan de soins.",
+          "icon": "support"
+        },
+        {
+          "title": "Prévoir des soins rapides",
+          "text": "N’utilisez pas la force par commodité et n’abandonnez pas les soins. Demandez conseil si la détresse ou la douleur persiste.",
+          "icon": "plan"
+        }
+      ],
+      "transcript": "Un enfant se dégage et dit non. Faites une pause lorsque la sécurité le permet et gardez une voix calme. Vous pourriez dire : « Nous pouvons faire une pause. Je vois que tu es inquiet. » Expliquez la prochaine petite étape et proposez un vrai choix, comme participer pour ses vêtements ou être aidé par un adulte formé et familier. Laissez à l’enfant le temps de communiquer. Appelez à l’aide sans le laisser en danger et suivez son plan convenu. Ne l’immobilisez pas pour gagner du temps. Une pause doit conduire à des soins rapides et respectueux. Si la détresse ou la douleur persiste, obtenez un avis approprié et signalez toute préoccupation selon la procédure de l’établissement."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Modèle Inspired de politique sur les soins intimes et les couches, juillet 2020",
+      "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
+      "note": "Source principale fournie, récupérée intégralement le 3 octobre 2026. Introduction, sections 2 à 5 et annexe de consentement pour les crèmes. Le statut actuel d’approbation doit être confirmé localement ; l’accès au document source dépend des autorisations de l’établissement."
+    },
+    {
+      "title": "CDC : étapes du change en structures d’accueil de l’enfance",
+      "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
+      "note": "Recommandations de santé publique des États-Unis, datées du 17 mai 2024 ; vérifiées le 3 octobre 2026. Elles étayent la séquence des soins et la désinfection des surfaces après utilisation. La mise en œuvre locale nécessite une approbation."
+    },
+    {
+      "title": "UKHSA : prévenir et maîtriser les infections",
+      "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
+      "note": "Recommandations pour l’Angleterre ; vérifiées le 3 octobre 2026. Elles décrivent le nettoyage courant des matelas avec un détergent et des précautions distinctes pour les déversements de liquides biologiques. Les consignes des produits et les exigences locales doivent être conciliées."
+    },
+    {
+      "title": "NSPCC : soins intimes des enfants",
+      "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
+      "note": "Recommandations britanniques de protection de l’enfance, mises à jour le 1er septembre 2026 ; vérifiées le 3 octobre 2026. Elles étayent les plans centrés sur l’enfant, l’information adaptée du personnel et le signalement des préoccupations. Les références juridiques propres à une juridiction ne sont pas considérées comme des règles mondiales."
+    },
+    {
+      "title": "ACECQA : principes et pratiques de toilette et de change",
+      "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
+      "note": "Recommandations australiennes de qualité ; vérifiées le 3 octobre 2026. Elles étayent les routines attentives aux besoins, l’autonomie et le partenariat avec les familles. Les références réglementaires australiennes sont fournies uniquement pour leur contexte."
+    }
+  ]
+}

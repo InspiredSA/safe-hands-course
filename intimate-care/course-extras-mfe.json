@@ -1,0 +1,355 @@
+{
+  "meta": [
+    {
+      "title": "Respe ek rekonfor",
+      "sub": "Dignite, partisipasion ek bann limit an sekirite",
+      "time": 8
+    },
+    {
+      "title": "Prepar lespas sanzman kous",
+      "sub": "Plan, personel, materyel ek sirveyans",
+      "time": 8
+    },
+    {
+      "title": "Sanz kous an sekirite",
+      "sub": "Swiv bann letap san perdi kontak avek zanfan-la",
+      "time": 10
+    },
+    {
+      "title": "Netwaye ek remet an eta",
+      "sub": "Anpes kontaminasion ariv kot prosenn zanfan",
+      "time": 8
+    },
+    {
+      "title": "Bann swin individiel",
+      "sub": "Lakrem, twalet ek devlop lotonomi",
+      "time": 7
+    },
+    {
+      "title": "Met an ekri ek signale",
+      "sub": "Bann fe, soutien ek signalman pli lao an sekirite",
+      "time": 7
+    }
+  ],
+  "practice": [
+    {
+      "q": "Enn zanfan dir “Non” ek rekile. Personn pa dan enn danze imedia. Ki meyer prosenn letap?",
+      "o": [
+        "Tini zanfan-la san bouze pou terminn bann swin vit.",
+        "Fer enn poz an sekirite, rekonfort li ek rod soutien pou bann swin san tarde.",
+        "Les zanfan-la sal ziska enn dimounn vinn sers li."
+      ],
+      "a": 1,
+      "why": "Bann swin bizin reponn bann bezwen ek fer san tarde. Ni servi lafors pou fasilit travay ni abandonn bann swin neseser pa apropriye."
+    },
+    {
+      "q": "Ki bizin pare avan bann swin abitie koumanse?",
+      "o": [
+        "Zis enn kous prop.",
+        "Kamera-la ek enn tablet pou lanrezistreman.",
+        "Bann dispozision pou zanfan-la, personel forme, sirveyans, vi prive, materyel ek enn lespas an sekirite."
+      ],
+      "a": 2,
+      "why": "Preparasion konsern zanfan-la, bann dimounn ek lanvironnman. Bann resours ki manke pa bizin amenn enn sitiasion kot enn zanfan pa an sekirite."
+    },
+    {
+      "q": "Ki bann gan kontamine bizin touse?",
+      "o": [
+        "Zis bann zafer dan parti sal travay-la, ziska ou retir zot an sekirite ek fer pasaz ver prop ki finn aprouve.",
+        "Pake kous prop-la si ou fer atansion.",
+        "Tablet-la pou pa bliye lanrezistreman-la."
+      ],
+      "a": 0,
+      "why": "Gard kontaminasion lwin ar bann materyel prop, bann pwin kontak partaze ek bann dosie. Fer lizien lame ek gard sirveyans pandan pasaz-la."
+    },
+    {
+      "q": "CDC ek UKHSA dekrir bann fason diferan pou netway bann sirfas dan bann swin abitie. Ki instriksion ou bizin swiv?",
+      "o": [
+        "Seki pli rapid azordi.",
+        "Prosedir lokal aktiel ki lekol finn aprouve ek bann instriksion prodwi-la.",
+        "Enn melanz simik ki enn koleg finn konseye."
+      ],
+      "a": 1,
+      "why": "Responsab-la bizin rezoud bann diferans ant bann prev ek bann exizans lokal. Personel pa bizin improviz bann prodwi, melanz ouswa dire kontak."
+    },
+    {
+      "q": "Formiler konsantman-la mansionn enn lakrem diferan ar seki dan sak zanfan-la. Ki bizin arive?",
+      "o": [
+        "Sipoze ki bann prodwi-la ekivalan.",
+        "Servi ninport ki lakrem ki deza ouver.",
+        "Verifye ek rezoud lotorizasion pou prodwi exak-la avan ou met li."
+      ],
+      "a": 2,
+      "why": "Bizin verifye lidantite lakrem-la, konsantman ek prosedir medikaman kot aplikab; kontign bann swin otorize an sekirite ek gagn konsey."
+    },
+    {
+      "q": "Ki reisi sa formasion an-lign-la montre?",
+      "o": [
+        "Bann kondisyon an-lign finn ranpli; konpetans pratik bizin enn verifikasion separe anba obzervasion.",
+        "Enn lotorizasion otomatik pou donn bann swin intim tousel.",
+        "Enn kalifikasion pou fer bann prosedir medikal spesialize."
+      ],
+      "a": 0,
+      "why": "Bann konesans ek refleksion pa etabli konpetans pratik avek lekipman, prosedir ouswa plan swin individiel lekol."
+    }
+  ],
+  "declarations": [
+    "Mo konpran ki dignite, rekonfor, enn vi prive apropriye ek enn sirveyans kontini an sekirite esansiel pandan bann swin intim.",
+    "Mo pou travay dan limit mo rol, mo formasion, bann dispozision ki finn dakor pou zanfan-la ek bann prosedir aktiel ki lekol finn aprouve; mo pou rod led kan mo pa kapav fer sa an sekirite.",
+    "Mo konpran ki servi lafors pou fasilit travay, imilie ek les bann swin neseser pa fer se bann repons inakseptab ar detres.",
+    "Mo pou swiv bann prosedir aprouve pou lizien lame, lekipman proteksion, netwayaz, prodwi, lakrem ek medikaman, ek dese; mo pou signal bann mank olye mo improvize.",
+    "Mo pou met bann fe an ekri ek signal bann inkietid san tarde atraver prosedir konfirme pou proteksion zanfan ouswa bann inkietid lor personel, an servi enn prosedir indepandan pou signale pli lao kot neseser.",
+    "Mo konpran ki sertifika-la anrezistre zis fin formasion an-lign. Mo ankor bizin formasion introdiksion ki lekol demande ek enn validasion pratik separe par enn obzervater forme avan mo travay mo tousel."
+  ],
+  "localReadiness": [
+    {
+      "title": "Regleman aktiel ek laprobasion",
+      "text": "Anrezistre tit regleman swin intim aprouve-la, so version, so responsab, dat laprobasion ek dat revizion. Konfirme ki formasion-la adapte ar lalwa lokal ek bann exizans regilater. Rezoud bann diferans avek model Zilie 2020 avan itilizasion dan travay."
+    },
+    {
+      "title": "Lotorizasion dapre rol ek formasion",
+      "text": "Idantifie kisannla kapav donn bann swin, kisannla kapav siperviz bann nouvo ouswa tanporer manb personel, kisannla kapav met lakrem lor preskripsion ek kisannla kapav evalie pratik. Konfirm bann verifikasion apropriye, formasion introdiksion, konpetans pou deplas ek manipil enn zanfan ek okenn formasion spesialize."
+    },
+    {
+      "title": "Plan zanfan ek bann lakor avek fami",
+      "text": "Idantifie kot bann plan swin aktiel, labitid, soutien kominikasion, alerzi ek lotorizasion prodwi disponib dan enn fason sekirize. Konfirm kouma bann sanzman ek bann swin adisionel inatandi otorize, anrezistre ek kominike."
+    },
+    {
+      "title": "Vi prive, dispozision lespas ek personel",
+      "text": "Aprouv bann lespas deziye, separasion viziel ek dispozision sirveyans san laport ferme ki finn fourni, san met sekirite kont dife an danze. Konfirm ki enn koleg okouran, personel neseser pou sak plan, sirveyans group-la ek bann transmisyon responsabilite ki finn aksepte."
+    },
+    {
+      "title": "Aksè an sekirite ek sirveyans kontini",
+      "text": "Montre itilizasion lespas-la, okenn mars ouswa lekipman deplasman, dispozision pou apel led ek repons kan bann materyel manke. Montre kouma fer lizien lame pandan enn sanzman san les enn zanfan dan enn sitiasion danzere."
+    },
+    {
+      "title": "Lizien lame ek lekipman proteksion",
+      "text": "Presiz bann fasilite pou lav lame, bann tip gan ek tabliye aprouve, pasaz exak depi sal ver prop, bann moman pou sanz gan ek fer lizien lame, lekipman proteksion pou netwayaz ek repons ar enn mank, enn alerzi ouswa enn expozision."
+    },
+    {
+      "title": "Prodwi netwayaz ek dire kontak",
+      "text": "Presiz detersan, dezenfektan ouswa prodwi konbine aprouve-la, bann sirfas ek kontaminasion konserne, preparasion an sekirite, dire kontak lor etiket-la, nesesite sekaz ouswa rinsaz ek stokaz. Konfirm responsabilite pou bann deversemann ek bann instriksion pandan enn epidemi. Pa azout enn melanz simik ki sipoze valab partou."
+    },
+    {
+      "title": "Dese, lavaz linz ek lekipman",
+      "text": "Konfirm klasifikasion lokal dese ek sistem kolekt, bann poubel kouver ek dispozision pou vid zot, stokaz andeor porte bann zanfan, retour bann linz sal, bann zafer reutilizab, lavaz linz dan enn sistem deziye ek ranplasman bann matla abime."
+    },
+    {
+      "title": "Lakrem ek medikaman",
+      "text": "Konfirm konsantman pou lakrem san preskripsion ki bann paran fourni, etiket avek prodwi exak ek zanfan-la, verifikasion dat louvertir ek dat limit, laplikasion prop ek prosedir separe pou personel, stokaz ek lanrezistreman bann medikaman lor preskripsion."
+    },
+    {
+      "title": "Bann dosie, signalman ek led irzan",
+      "text": "Donn landrwa sekirize pou dosie swin ek kanal kominikasion abitie avek fami; bann kontak aktiel DSL ek adjwin, Executive Head, responsab seksion ek biro santral Inspired; enn prosedir indepandan pou enn responsab ki konserne; kouma signale pli lao si pena repons; ek bann exizans lokal pou led irzan ek signalman andeor lekol."
+    },
+    {
+      "title": "Pratik anba obzervasion ek itilizasion par personel",
+      "text": "Aprouv lalis verifikasion pratik ek bann kalifikasion obzervater, desid ki prev neseser pou travay tousel, organiz soutien ek re-evaliasion, ek gard fin formasion an-lign separe ar lotorizasion pratik. Gagn enn revizion regleman ek kontrol bann infeksion avan personel servi formasion-la."
+    }
+  ],
+  "practical": {
+    "title": "Lalis verifikasion separe pou obzervasion pratik dan lekol",
+    "intro": "Pou enn obzervater forme ek otorize servi apre formasion introdiksion lokal. Sa se enn dosie pratik anba kontrol lekol, separe ar sertifika an-lign. Partisipan-la pa bizin akord ouswa sign so prop konpetans pratik.",
+    "instructions": [
+      "Fer bann verifikasion preparasion lokal avan. Dan dosie aprouve lekol, anrezistre partisipan-la, lekol-la, rol obzervater-la, dat obzervasion, version regleman, etablisman ek lekipman, ek bann travay ki obzervasion-la kouver.",
+      "Montre bann lekipman ki pa kone ek pratik bann letap avek bann materyel formasion apropriye avan okenn swin avek enn zanfan. Obzerv bann vre swin zis kan neseser, otorize ek apropriye ar plan zanfan-la; protez dignite ek evit bann obzervater ki pa neseser.",
+      "Servi “Pratik an sekirite finn obzerve”, “Bizin plis soutien” ouswa “Pa finn obzerve” pou sak kriter ek azout bann prev baze lor bann fe. Zame servi enn foto intim ouswa enn lanrezistreman kouma prev. Pa met lidantite bann vre zanfan ek bann linformasion swin dan bann repons formasion ek bann dokiman formasion ki kapav telesarze.",
+      "Aret enn pratik danzere deswit pandan ki ou protez sekirite zanfan-la ek organiz soutien apropriye. Bann bon rezilta dan lezot domenn pa kapav konpans enn mank grav dan sekirite. Anrezistre soutien, nouvo formasion ek re-evaliasion neseser.",
+      "Zis obzervater ki lekol finn otorize kapav rekomann enn validasion pou bann travay ki li finn vremem obzerve. Responsab lekol-la konfirm lotorizasion dapre regleman lokal. Enn eleman vid ouswa ki pa finn obzerve pa konte kouma reisi."
+    ],
+    "criteria": [
+      {
+        "area": "1. Preparasion ek bann limit profesionel",
+        "items": [
+          "Konfirm bann lotorizasion dapre rol, formasion introdiksion lokal ek bann dispozision aktiel zanfan-la avan koumanse.",
+          "Idantifie kouma apel pou led ek konfirme kisannla pe vey bann lezot zanfan.",
+          "Rekonet bann travay, lekipman ouswa ladministrasion medikaman ki depas so konpetans ek rod bon soutien."
+        ]
+      },
+      {
+        "area": "2. Relasion ki met zanfan-la dan sant ek dignite",
+        "items": [
+          "Explik bann letap dan enn langaz aksesib ek reponn bann parol ek bann signal non-verbal zanfan-la.",
+          "Ankouraz lotonomi dapre bann kapasite ek propoz bann vre swa san presion ouswa limiliasion.",
+          "Servi bann dispozision aprouve pou separasion viziel ek koleg okouran, pandan ki li respekte linterdiksion enn laport ferme.",
+          "Reponn detres avek enn poz an sekirite, rekonfor ek enn plan avek soutien pou bann swin san tarde; pa servi lafors pou fasilit travay."
+        ]
+      },
+      {
+        "area": "3. Lespas an sekirite ek sirveyans",
+        "items": [
+          "Verifye sirfas-la ek lekipman ek prepar bann bon materyel prop, lekipman proteksion ek dispozision pou dese.",
+          "Gard bann prodwi simik, sak ek bann zafer danzere andeor porte bann zanfan ek bann materyel prop lwin ar kontaminasion.",
+          "Servi zis metod aksè ouswa deplasman an sekirite ki finn montre ek gard enn sirveyans aktif pandan tou bann letap, inklir kontak protekter ek pozision ki finn montre lokalman pou anpes tonbe depi enn sirfas an oter.",
+          "Montre enn repons an sekirite kan enn materyel manke, san les enn zanfan san sirveyans."
+        ]
+      },
+      {
+        "area": "4. Lizien ek bann letap swin",
+        "items": [
+          "Fer lizien lame ki prosedir lokal demande ek servi nouvo lekipman proteksion aprouve pou sak sanzman.",
+          "Explik ek fer bann letap netwayaz ek sanzman ki finn montre lokalman, dousman ek dan limit plan swin-la.",
+          "Anpes salte propaze ek protez bann materyel prop ek bann pwin kontak kont bann gan kontamine.",
+          "Retir bann gan kontamine an sekirite ek fer pasaz aprouve pou lizien lame ek bann swin prop, pandan ki li gard sirveyans.",
+          "Verifye bann lotorizasion exak pou lakrem ek servi enn metod laplikasion prop san kontaminn bann resipian.",
+          "Ed zanfan-la lav so lame ek abiye, ek konfirm sirveyans an sekirite avan netway lespas-la."
+        ]
+      },
+      {
+        "area": "5. Remet an eta ek dese",
+        "items": [
+          "Servi prosedir netwayaz ek dezenfeksion aprouve, bon prodwi ek dire kontak lor etiket-la, inklir sekaz ouswa rinsaz kot neseser.",
+          "Okip bann pwin kontak kontamine, dese ek linz sal atraver prosedir aprouve-la.",
+          "Retir lekipman proteksion pou netwayaz, lav ek sek so lame ek remet lespas-la dan enn leta pare ek an sekirite.",
+          "Kone kouma zer enn deversemann, enn expozision, enn mank prodwi ouswa enn sirfas abime ek gagn led."
+        ]
+      },
+      {
+        "area": "6. Bann dosie, inkietid ek swivi",
+        "items": [
+          "Ranpli enn dosie swin presi ek diskre ek fer enn transmisyon bann linformasion abitie apropriye.",
+          "Explik kouma signal enn inkietid lor enn zanfan ek enn inkietid lor konportman personel, san fer enn diagnos ouswa enn lanket.",
+          "Idantifie adjwin ouswa kontak alternatif konfirme-la, prosedir indepandan dan direksion ek repons ar enn signalman ki pa finn gagn konfirmasion resepsion.",
+          "Explik bann limit fin formasion an-lign ek bann prosenn letap si bizin plis pratik ouswa formasion."
+        ]
+      }
+    ],
+    "decisionOptions": [
+      "Pratik an sekirite finn obzerve pou bann travay presize; lotorizasion lekol ankor pou konfirme",
+      "Bizin plis pratik avek soutien ek enn re-evaliasion",
+      "Obzervasion inkonplet; pena validasion pratik"
+    ],
+    "footer": "Anrezistre bann prev obzervater-la, bann travay kouver, desizion, plan soutien, dat re-evaliasion ek bann signatir dan sistem aprouve lekol. Gard dosie-la an sekirite. Sa lalis verifikasion-la pa ranplas regleman lekol, zizman profesionel ouswa okenn kalifikasion spesialize neseser."
+  },
+  "visualGuides": [
+    {
+      "id": "prepare",
+      "module": 2,
+      "title": "Prepare avan ou koumanse",
+      "intro": "Enn ti gid abstrè pou planifye lespas-la. Li pa montre kouma lev ouswa met enn zanfan an pozision, ni bann swin fizik intim.",
+      "steps": [
+        {
+          "title": "Verifye plan-la",
+          "text": "Konfirm bann dispozision zanfan-la, ou rol ek okenn lotorizasion prodwi.",
+          "icon": "plan"
+        },
+        {
+          "title": "Met sirveyans an plas",
+          "text": "Enn koleg kone bann swin pe deroule; group-la anba sirveyans ek ou kapav apel pou led.",
+          "icon": "people"
+        },
+        {
+          "title": "Prepar lespas-la",
+          "text": "Verifye sirfas-la ek prepar bann materyel prop, nouvo lekipman proteksion, lavaz lame ek dese.",
+          "icon": "station"
+        },
+        {
+          "title": "Protez bann separasion",
+          "text": "Gard bann materyel prop separe ar bann swin ek dese; gard bann sak ek prodwi simik andeor porte bann zanfan.",
+          "icon": "zones"
+        },
+        {
+          "title": "Rekonfort ek koumanse",
+          "text": "Explik prosenn letap. Koumans zis kan vi prive, sekirite ek bann letap aprouve an plas.",
+          "icon": "speech"
+        }
+      ],
+      "transcript": "Avan zanfan-la vinn dan lespas-la, verifye so bann dispozision swin ek ou rol. Met koleg apropriye-la okouran ek konfirm sirveyans group-la. Asire ki ou kapav apel pou led. Verifye sirfas-la, prepar bann bon materyel ek idantifie bann fasilite lavaz lame ek dese. Gard bann materyel prop separe ar lespas sanzman ek dese, ek gard bann sak ek prodwi simik andeor porte bann zanfan. Planifye kouma fer lizien lame san les zanfan-la dan enn sitiasion danzere. Verifye separasion viziel pou vi prive. Explik prosenn letap avek douser ek donn zanfan-la letan reponn. Si enn zafer esansiel manke, rezoud sa avan bann swin abitie koumanse."
+    },
+    {
+      "id": "sequence",
+      "module": 3,
+      "title": "Gard prop ek sal separe",
+      "intro": "Swiv mouvman kontaminasion atraver enn seri letap abstrè. Aprann teknik exak-la pandan demonstrasion pratik ou lekol.",
+      "steps": [
+        {
+          "title": "Koumans prop",
+          "text": "Prepar bann materyel ek fer lizien lame avan met nouvo lekipman proteksion ek donn bann swin.",
+          "icon": "clean"
+        },
+        {
+          "title": "Anpes parti sal-la propaze",
+          "text": "Gard bann kous, linget ek linz sal lwin ar bann materyel prop.",
+          "icon": "contain"
+        },
+        {
+          "title": "Aret kot limit-la",
+          "text": "Bann gan sal pa bizin tous bann materyel prop, pwagne, resipian lakrem ouswa dosie.",
+          "icon": "stop"
+        },
+        {
+          "title": "Fer pasaz ver prop",
+          "text": "Retir gan an sekirite ek swiv bann letap lizien lame aprouve pandan ki ou vey zanfan-la.",
+          "icon": "hands"
+        },
+        {
+          "title": "Fini, apre remet an eta",
+          "text": "Ed zanfan-la lav so lame, konfirm sirveyans an sekirite, netway lespas-la ek lav ou lame.",
+          "icon": "reset"
+        }
+      ],
+      "transcript": "Pans bann letap-la kouma enn lespas prop, enn lespas swin ek bann dese izole. Koumans avek bann materyel prepare ek lizien lame. Pandan parti sal-la, gard salte ek bann materyel servi lwin ar bann materyel prop. Arete avan ou bann gan kontamine tous enn pake kous, enn resipian lakrem, enn tablet ouswa enn pwagne laport. Swiv bann letap pou retir gan ek fer lizien lame ki lekol finn montre, avek zanfan-la anba sirveyans an sekirite sak moman. Demann enn dimounn forme led si neseser. Terminn bann swin prop ek ed zanfan-la lav so lame. Konfirme ki li dan enn landrwa an sekirite ek anba sirveyans avan ou remet lespas-la an eta. Terminn avek bann letap neseser pou retir lekipman proteksion ek lav lame."
+    },
+    {
+      "id": "reassure",
+      "module": 1,
+      "title": "Rekonfort enn zanfan ki trakase",
+      "intro": "Enn lexanp kominikasion avek bann personaz abstrè ek bann bil parol. Okenn parti intim lekor ouswa restriksion fizik pa montre.",
+      "steps": [
+        {
+          "title": "Obzerve",
+          "text": "Zanfan-la rekile. Pran sa kouma enn signal pou fer enn poz ek konpran so bann bezwen.",
+          "icon": "notice"
+        },
+        {
+          "title": "Fer enn poz an sekirite",
+          "text": "Gard zanfan-la an sekirite ek dir: “Nou kapav fer enn poz. Mo trouve ki to trakase.”",
+          "icon": "pause"
+        },
+        {
+          "title": "Propoz enn vre swa",
+          "text": "“To anvi ede avek to linz, ouswa to anvi Sam ed twa?”",
+          "icon": "choice"
+        },
+        {
+          "title": "Gagn soutien enn dimounn ki li kone",
+          "text": "Apel enn koleg forme san les zanfan-la dan enn sitiasion danzere. Swiv plan swin-la.",
+          "icon": "support"
+        },
+        {
+          "title": "Planifye bann swin san tarde",
+          "text": "Pa servi lafors pou fasilit travay ek pa abandonn bann swin. Gagn konsey si detres ouswa douler kontigne.",
+          "icon": "plan"
+        }
+      ],
+      "transcript": "Enn zanfan rekile ek dir non. Fer enn poz kot sa kapav fer an sekirite ek gard ou lavwa kalm. Ou kapav dir: “Nou kapav fer enn poz. Mo trouve ki to trakase.” Explik prosenn ti letap ek propoz enn vre swa, kouma ede avek so linz ouswa gagn led enn adilt forme ki li kone. Donn zanfan-la letan kominike. Apel pou soutien san les li dan enn sitiasion danzere, ek servi plan ki finn dakor pou li. Pa tini li anba pou gagn letan. Enn poz bizin amenn bann swin avek respe san tarde. Si detres ouswa douler kontigne, gagn bann konsey apropriye ek signal okenn inkietid atraver prosedir lekol."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Inspired Template Intimate Care and Nappy Policy, Zilie 2020",
+      "url": "https://docs.google.com/document/d/14PiOEpGsokl2jXP_svwTCXEElfrXD_Rv/edit",
+      "note": "Sours prinsipal ki finn fourni, rekipere an antie le 3 Oktob 2026. Introdiksion, seksion 2–5 ek anex konsantman pou lakrem. Bizin konfirm lokalman so stati aktiel aprouve; aksè ar fisie sours-la depann bann permision lekol."
+    },
+    {
+      "title": "CDC: Bann letap pou sanz kous dan bann etablisman ki okip zanfan",
+      "url": "https://www.cdc.gov/hygiene/about/healthy-habits-diaper-hygiene.html",
+      "note": "Gid lasante piblik Leta-Zini, date le 17 Me 2024; verifye le 3 Oktob 2026. Soutenir bann letap swin ek dezenfeksion sirfas apre itilizasion. Laplikasion lokal bizin laprobasion."
+    },
+    {
+      "title": "UKHSA: Anpes ek kontrol bann infeksion",
+      "url": "https://www.gov.uk/government/publications/health-protection-in-schools-and-other-childcare-facilities/preventing-and-controlling-infections",
+      "note": "Gid pou Langleter; verifye le 3 Oktob 2026. Dekrir netwayaz abitie bann matla avek detersan ek bann prekosion separe pou bann deversemann likid lekor. Bizin met bann instriksion prodwi ek bann exizans lokal an-akor."
+    },
+    {
+      "title": "NSPCC: Bann swin intim pou bann zanfan",
+      "url": "https://learning.nspcc.org.uk/child-health-development/intimate-care",
+      "note": "Gid proteksion zanfan Royaume-Uni, azour le 1 Septam 2026; verifye le 3 Oktob 2026. Soutenir bann plan ki met zanfan-la dan sant, personel apropriye okouran ek signalman bann inkietid. Bann referans legal spesifik ar enn ziridiksion pa trete kouma bann regleman pou lemonn antie."
+    },
+    {
+      "title": "ACECQA: Bann prinsip ek pratik pou twalet ek sanz kous",
+      "url": "https://www.acecqa.gov.au/qa2-information-sheet-toileting-and-nappy-changing-principles-and-practices",
+      "note": "Gid kalite ostralien; verifye le 3 Oktob 2026. Soutenir bann labitid adapte, lotonomi ek enn partenaria avek fami. Bann referans reglemantasion ostralien servi zis pou donn konteks."
+    }
+  ]
+}
