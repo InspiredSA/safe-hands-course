@@ -3,211 +3,211 @@ window.COURSE_EXTRAS={
     "meta": [
       {
         "title": "Start with connection",
-        "sub": "Match responsive support to infants, toddlers and children aged 3–6; choose the adult’s job before, during and after distress.",
+        "sub": "Help children from 12 months through age 6 before, during and after a difficult feeling.",
         "time": 10
       },
       {
         "title": "Make the day easier to manage",
-        "sub": "Demonstrate a meaningful schedule, change a real transition demand and introduce a supervised support option.",
+        "sub": "Show what happens next, make busy routines easier and offer a quieter place with adult help.",
         "time": 10
       },
       {
         "title": "Respond before distress grows",
-        "sub": "Respond briefly, honour declined touch or tools and make help or break communication lead to adult action.",
+        "sub": "Notice when help is needed, respect a child’s “no” to touch and respond to requests for help or a break.",
         "time": 10
       },
       {
         "title": "Keep everyone safe, then reconnect",
-        "sub": "Practise a safe staff handover, protect care and supervision, and separate recovery from later teaching.",
+        "sub": "Know when to get urgent help, keep children supervised and offer comfort after danger has passed.",
         "time": 10
       },
       {
         "title": "Teach skills in everyday play",
-        "sub": "Model one accessible skill, support its use in a real routine and adapt play to the child’s cues.",
+        "sub": "Show one useful action in play, help the child use it in the day and stop when play becomes uncomfortable.",
         "time": 10
       },
       {
         "title": "Build the plan together",
-        "sub": "Use a filled observation and Leo’s worked tidy-up plan to assign adult actions, review access and seek the right help.",
+        "sub": "Use clear observations and family knowledge to agree what adults will try and when to ask for more help.",
         "time": 10
       }
     ],
     "practice": [
       {
-        "q": "Fictional example: Eight-month-old Imani reaches towards a familiar educator, then turns away and fusses as two adults talk and a musical toy starts. Which response best fits her present capacity?",
+        "q": "Fourteen-month-old Imani reaches towards a familiar adult. When two adults speak at once and a musical toy starts, she turns away, pushes it aside and fusses. She mainly uses gestures and sounds. What should the adult do?",
         "o": [
-          "Offer a different interesting toy while continuing the familiar song.",
-          "Pause the toy and overlapping talk, remain responsive with familiar comfort, and check care needs and cues.",
-          "Introduce a help picture and invite Imani to point before choosing what to do."
+          "Offer a different toy and continue the familiar song.",
+          "Stop the toy and extra talk, offer familiar comfort and check what care or help she needs.",
+          "Show a new help picture and ask her to point before deciding what to do."
         ],
         "a": 1,
-        "why": "The adult adjusts stimulation and checks care rather than expecting an infant coping performance. A turned head may invite a pause; it is not a diagnosis or proof that interaction is unwelcome. Compare with Amira: both need responsive help, but Imani does not need a verbal explanation or problem-solving lesson. Use approved infant-care procedures."
+        "why": "Imani is already showing that she may need a pause. Reduce sound, offer familiar comfort and check care needs. Watch before showing one simple next step. Like Amira, she needs help; she is not expected to explain a feeling or solve a problem."
       },
       {
-        "q": "Fictional example: Three-year-old Leo covers his ears as chairs scrape and children crowd around the tidy-up shelves. He backs away and communicates mostly through gestures. Which first adjustment most directly addresses the observed barriers?",
+        "q": "Three-year-old Leo covers his ears as chairs scrape and children crowd the tidy-up shelf. He backs away and mostly uses gestures. What would help first?",
         "o": [
-          "Offer a breathing picture and explain it gently while the group continues unchanged.",
-          "Take him to a feelings display to choose a word before planning the transition.",
-          "Reduce noise and crowding, offer a quieter supervised position, and use his familiar gesture or cue for one real next step."
+          "Explain a breathing picture while the room stays the same.",
+          "Take him to a feelings display to choose a word before helping.",
+          "Reduce noise and crowding, stay with him in a quieter spot and use a familiar gesture or object to show one next step."
         ],
         "a": 2,
-        "why": "This changes the demand and keeps communication and support accessible. A tool alone leaves the crowd and noise unchanged. Afterwards, demonstrate the cue during an easier transition, ask the family about gestures, and record adult follow-through and Leo’s comfort and participation."
+        "why": "Fewer children at the shelf and less chair noise change the difficult situation. A picture alone does not. Later, check which gestures Leo uses and whether staff made the changes and he could comfortably reach the next activity."
       },
       {
-        "q": "Fictional example: Two-year-old Priya finds a different adult at arrival. She clings to her caregiver, turns away and pushes aside the adult’s offered hand. What is the strongest next response?",
+        "q": "Two-year-old Priya finds a different adult at arrival. She clings to her caregiver, turns away and pushes aside the adult’s hand. What should happen next?",
         "o": [
-          "Offer a cuddle instead and explain that the adult is here to help.",
-          "Give comfortable space, stay available with few words and use the familiar family-agreed arrival routine without demanding touch or speech.",
-          "Begin a short lesson on two ways to feel calm so she has a choice."
+          "Offer a cuddle instead and explain that the adult can help.",
+          "Give her space, stay nearby with few words and follow the arrival routine agreed with the family.",
+          "Teach two new ways to calm down so she can choose."
         ],
         "a": 1,
-        "why": "A toddler can decline touch and still need responsive support. Reduce pressure, preserve care and supervision, and prepare a predictable backup routine with the family. A new coping lesson or another imposed touch is poorly matched to this moment."
+        "why": "Priya can decline touch and still need company. Stop the touch, keep care and supervision in place and use the known arrival routine. Plan for an absent familiar adult with the family and teacher."
       },
       {
-        "q": "Fictional example: Five-year-old Ben lifts a chair while distressed after a game ends. Other children are close and another adult is available. What should guide the first response?",
+        "q": "Five-year-old Ben lifts a chair while upset after a game ends. Children are nearby and another adult is available. What should guide the first response?",
         "o": [
-          "Use a longer reassuring explanation while asking the colleague to find a feelings chart.",
-          "Begin rehearsing a familiar coping routine before involving other staff.",
-          "Call agreed trained support, maintain supervision and help create safe space for others under the local emergency plan."
+          "Give a longer explanation and send the colleague for a feelings chart.",
+          "Practise a calming routine before involving other staff.",
+          "Call the agreed trained help, keep children supervised and help create safe space under school procedures."
         ],
         "a": 2,
-        "why": "Protecting people and obtaining appropriate help come before teaching. The actual action depends on current local procedures and the environment. This course gives no physical-intervention technique or authority. Rehearse staff communication through discussion, never dangerous behaviour."
+        "why": "Protect people and get the right help before teaching. The safe action depends on the room and current procedures. This course does not teach or authorise holding techniques. Practise the staff conversation, never the dangerous behaviour."
       },
       {
-        "q": "Fictional example: Four-year-old Sofia uses a help card in a calm lesson. At snack her lid is stuck, she cries and pushes the box away, and the card is in a drawer. Which response best links immediate help and future teaching?",
+        "q": "Four-year-old Sofia uses a help card during a calm lesson. At snack, her lid is stuck. She cries and pushes the box away; the card is in a drawer. What should staff do?",
         "o": [
-          "Help in response to her current communication; then put the cue at snack, model it in manageable opportunities and ensure adults respond.",
-          "Bring the card and repeat the lesson before opening the box so the signal becomes clear.",
-          "Replace it with several new cards and ask her which would be easiest to use."
+          "Help now, then put the familiar card at snack, show its use during easy practice and make sure adults respond.",
+          "Fetch the card and repeat the lesson before opening the box.",
+          "Replace it with several new cards and ask which she prefers."
         ],
         "a": 0,
-        "why": "A skill needs meaning, access, a real opportunity and reliable adult response. Do not withhold help while seeking a correct cue. Demonstrate a nonspoken request and show how a familiar substitute will respond; assess access to snack, not just reduced crying."
+        "why": "Sofia is already showing she needs help. Open the box without waiting for the right card response. Later, put the card where it is needed and show a substitute adult how to respond. Check whether Sofia can get help and eat her snack."
       },
       {
-        "q": "Fictional example: Five-year-old Noah withdraws during large-group singing, but his caregiver says he sings at home. Which opening best supports a testable shared plan?",
+        "q": "Five-year-old Noah moves away during large-group singing. His caregiver says he sings at home. Which opening would help staff and family make a useful plan?",
         "o": [
-          "“We’ll practise naming feelings more often, then see whether he joins.”",
-          "“He enjoys songs he chooses in small groups. He moves away in the large group. What helps at home? Could we compare a quieter supported option and review his comfort and participation?”",
-          "“If we count only the times he leaves, we can decide whether the plan works.”"
+          "“We’ll practise naming feelings more often, then see if he joins.”",
+          "“He enjoys chosen songs in a small group here, but moves away in the large group. What helps at home? Could we try a quieter place with an adult nearby and compare how he feels and joins in?”",
+          "“We’ll count how often he leaves to decide whether the plan works.”"
         ],
         "a": 1,
-        "why": "A strength, factual context, family knowledge and a concrete adult adjustment make a useful starting point. Name an owner and review point, check whether staff delivered the change, and act sooner if health, safety or safeguarding concerns arise."
+        "why": "Start with a strength, describe what you saw and ask the family. Agree who makes the change and when to review. Check whether it happened and whether Noah was comfortable and able to enjoy singing. Seek help sooner for growing health, safety or child-protection concerns."
       }
     ],
     "declarations": [
-      "I will respond to distress with dignity, accessible communication and adult co-regulation, while keeping everyone safe.",
-      "I will adapt routines and expectations to the child’s development, communication and sensory needs, and teach skills when the child is ready.",
-      "I will not use humiliation, threats, isolation, forced eye contact, forced affection or withdrawal of necessary care to obtain compliance.",
-      "I will follow current school safeguarding, supervision and emergency procedures, seek trained help and stay within my role. This course does not teach or authorise restraint.",
-      "I understand that this certificate records online learning only. I will use the school’s approved systems for real concerns, support plans and family communication, never this course."
+      "I will treat an upset child with dignity, use communication they understand and offer calm adult help while keeping people safe.",
+      "I will adapt routines and tasks to the child’s needs, including communication, sound, touch and movement, and teach when they can join in.",
+      "I will not shame, threaten or isolate a child, force eye contact or affection, or withhold necessary care to make them do something.",
+      "I will follow current school safeguarding, supervision and emergency procedures, get trained help and stay within my role. This course does not teach or permit restraint.",
+      "I understand this certificate records online learning only. I will use approved school systems for real concerns, support plans and family messages, never this course."
     ],
     "localReadiness": [
       {
-        "title": "Know the child and the routine",
-        "text": "Learn the child’s usual cues, interests, communication, sensory preferences and care plan. Use broad age guidance without milestone tests. Staff responsible for infants also need approved safe-handling, safe-sleep and care training; this course does not supply it."
+        "title": "Know this child",
+        "text": "Ask the teacher about the child’s usual gestures, words, interests, comfort and care plan. These examples start at 12 months; ages are planning guides, not tests. Anyone giving personal care also needs the school’s approved handling, care and rest/sleep training."
       },
       {
-        "title": "Know your own support",
-        "text": "Agree a help signal and demonstrate who stays with the child and who supervises the group. Obtain acknowledgement before a handover. Prepare a backup adult and the minimum useful information; never simply walk away."
+        "title": "Know who can help you",
+        "text": "Agree how to call for help, who stays with the child and who watches the group. Name a backup. Practise asking and waiting for a clear reply before handing over; do not simply walk away."
       },
       {
-        "title": "Make the environment usable",
-        "text": "Check noise, waiting, crowding, movement and communication access. Demonstrate a cue where it will be used, completion and a real change of plan. Prepare supervised quieter options with clear exits, age-safe resources and support when the preferred space is occupied."
+        "title": "Check the room and routine",
+        "text": "Look for noisy chairs, crowded shelves or long waits. Show a familiar picture or object where it is needed, what happens next and a change of plan. Check quieter places, safe exits, age-safe resources and who stays nearby, including when the usual spot is occupied."
       },
       {
-        "title": "Agree consistent, flexible responses",
-        "text": "Decide what staff do when the child communicates help or break. Demonstrate a short response, processing time and an alternative when touch or a tool is declined. Never require speech, eye contact, breathing or calm appearance before care or support."
+        "title": "Agree how adults respond",
+        "text": "Know what happens when a child asks for help or a break. Practise a few words and a pause. Be ready to offer space or another support if touch or a tool is declined. Care must not depend on speaking, eye contact, breathing or looking calm."
       },
       {
-        "title": "Know the help and reporting routes",
-        "text": "Confirm your ELS/inclusion lead, safeguarding lead, independent alternative route, first-aid support and emergency process. Urgent risk needs prompt help, not another behaviour strategy."
+        "title": "Know urgent help and reporting routes",
+        "text": "Find the teacher or inclusion/ELS lead for extra support, the safeguarding lead for child-protection concerns, the alternative reporting route and the first-aid/emergency process. Urgent danger needs help now."
       },
       {
-        "title": "Review with evidence and families",
-        "text": "Separate the observed sequence, possible explanations and next adult test. Record whether support was delivered, the child’s comfort, communication and access, and family information in approved secure systems. Name a review owner; seek advice sooner for persistent, increasing or urgent concerns."
+        "title": "Review with the family",
+        "text": "Write what you saw separately from possible explanations, using approved secure records. Check what adults changed and whether the child could ask for help, feel comfortable and enjoy activities. Agree who reviews with the family and when. Ask for advice sooner if concerns grow."
       }
     ],
     "practical": {
-      "title": "Team co-regulation practice guide",
-      "intro": "Use fictional cases for a short adult-to-adult rehearsal, with a colleague or by narrating both roles. The module activities introduce the skills; a later supervised team rehearsal and practice review can check how they work locally. Online completion alone does not show practical competence.",
+      "title": "Practise helping a child together",
+      "intro": "For adults supporting children from 12 months through age 6. Use fictional examples with a colleague, or say both adult roles aloud. Co-regulation means helping a child through a difficult feeling with calm adult support. This guide supports practice and discussion; completing the online course does not prove practical skill.",
       "instructions": [
-        "Choose Imani’s infant cue response only if relevant to your role, Priya’s arrival, Leo’s tidy-up, Sofia’s snack or Noah’s singing. State the child’s communication and present capacity; do not imitate a real child’s distress.",
-        "Agree who speaks, who supervises and how help is summoned. Demonstrate words, a cue and one environmental adjustment. Never stage danger, practise restraint or rehearse infant handling from this course.",
-        "The observer introduces one change: touch is declined, the cue is missing, the quiet space is occupied or the usual adult is absent. Demonstrate how support remains available; pause whenever a participant wishes.",
-        "Compare what the adult did with the criteria below. Record one specific strength and one action to improve. If working alone, say or write the exact response and check each step honestly.",
-        "With the relevant local lead, choose one safe ordinary-practice adjustment and a review point. A later supervised observation should check adult delivery and child access. Keep real child details out of this course and use approved secure records."
+        "Read this example first: at tidy-up, Leo covers his ears. One adult agrees to watch the group; another stays nearby. Staff reduce noise and send fewer children to the shelf. The adult shows Leo his familiar basket: “One block here,” then shows the next activity. If he needs a pause, they stay together in the agreed quieter spot.",
+        "Choose Imani’s arrival at 14 months, Priya’s arrival, Leo’s tidy-up, Sofia’s snack or Noah’s singing. Say how the child shows what they need. For example, Imani turns away and pushes the noisy toy aside; the adult stops it and checks care needs.",
+        "Agree who speaks, who watches the group and how to get help. Show your words, a familiar object/picture/sign and one change, such as fewer children at the shelf. Never act out aggression, practise restraint or rehearse handling a child from this course.",
+        "Your partner adds a change: touch is declined, a picture is missing, the quieter seat is occupied or the usual adult is absent. Show another way to help. Anyone can pause the practice. If alone, describe both adults’ actions.",
+        "Use the checks below. Name one action that helped and one to improve. With the teacher or relevant lead, agree a safe small change to try and when to review it through supervised practice. Keep real children’s details out of this course and use approved secure records."
       ],
       "criteria": [
         {
-          "area": "1. Demonstrate preparation and access",
+          "area": "1. Make the routine easier",
           "items": [
-            "Shows a meaningful cue at its point of use, pairs it with the actual step, marks completion and demonstrates an honest change of plan.",
-            "Makes one concrete environmental adjustment and identifies an accessible supervised alternative if the preferred space is unavailable.",
-            "Matches the first response to present capacity: infant cue-and-care support within role, toddler concrete help or an older child’s accessible next step."
+            "Shows a known object or picture while doing the step, then shows what comes next. For example: show the tidy-up basket, say “One block here,” then show the next activity. If the shelf is blocked, show the real alternative.",
+            "Changes something practical, such as fewer children at the shelf, and identifies another safe place with adult support if the quieter spot is occupied.",
+            "Matches help to the child: familiar comfort and one simple step for 12 months to under 18 months; practical help for an older toddler; a next step the older child can manage."
           ]
         },
         {
-          "area": "2. Demonstrate the first response",
+          "area": "2. Offer help the child can use",
           "items": [
-            "States an observable cue, uses one or two short warm sentences, pauses and avoids crowding.",
-            "Accepts a gesture, symbol, sign, device or other understandable signal and demonstrates the promised help/break response.",
-            "Changes course when touch, breathing or a tool is declined, while maintaining supervision, necessary care and adult availability."
+            "Says what they notice, uses a few warm words, pauses and gives the child space.",
+            "Accepts the child’s gesture, sign, picture, device or words. Shows the actual help or break that follows.",
+            "Stops an unwanted offer of touch, breathing or a tool and offers another way to help. Care, supervision and adult company remain available."
           ]
         },
         {
-          "area": "3. Demonstrate safe teamwork",
+          "area": "3. Work safely with other adults",
           "items": [
-            "Requests a colleague’s specific role, receives acknowledgement and hands over the useful cue, support and supervision information.",
-            "Locates the current urgent-support, first-aid/emergency, safeguarding and backup routes, and states when each takes priority.",
-            "Keeps the rehearsal non-physical and within role limits; no restraint, seclusion, forced isolation, humiliation or withholding care."
+            "Asks a colleague for a clear job, waits for agreement and shares what happened, what helped and who watches each group.",
+            "Can find the current safety, first-aid/emergency and safeguarding routes, including backups, and say when urgent help is needed.",
+            "Keeps practice non-physical and within role limits. Does not practise restraint, locking a child away, forced isolation, humiliation or withholding care."
           ]
         },
         {
-          "area": "4. Demonstrate teaching and review",
+          "area": "4. Teach later and check what helped",
           "items": [
-            "Offers a low-pressure return before discussion or repair, without requiring an apology or emotional performance.",
-            "Models one useful skill in settled play, invites an optional turn and places the established support in a real routine with an adult response.",
-            "Separates facts from possible explanations, names an adult change and review owner, and checks comfort, communication, participation and adult follow-through with the family."
+            "Offers a supported return without requiring an apology, explanation or repair first. Helps put things right later, when the child is ready.",
+            "Shows one useful action in comfortable play, offers a turn without pressure and puts the familiar support in the real routine with an adult ready to respond.",
+            "Keeps facts and guesses separate, names what an adult will change and who will review it, and checks the child’s comfort, communication and enjoyment with the family."
           ]
         }
       ],
       "decisionOptions": [
         "Agree one small change and a review date",
-        "Arrange coaching or additional support",
-        "Seek the relevant school lead’s advice before changing the child’s plan"
+        "Arrange coaching or more support",
+        "Ask the relevant school lead before changing the child’s plan"
       ],
-      "footer": "This guide supports discussion, coaching and supervised practice. It is not a competence licence or a scored clinical assessment. Only the setting can establish role permissions, approve individual plans and supply required care, safeguarding or intervention training."
+      "footer": "Use this guide for discussion, coaching and supervised practice. It is not permission to carry out a procedure or proof of professional competence. The school must approve individual plans and role responsibilities and provide required care, safeguarding and safety training."
     },
     "visualGuides": [
       {
         "id": "adult-anchor",
         "module": 1,
         "title": "Be the steady adult",
-        "intro": "An original first-response aid. Match help to present capacity; these are adult decisions, not stages a child must pass through.",
+        "intro": "A child’s tower falls and blocks scatter. Check safety, offer company and make one small next step easier. The child does not have to work through a fixed set of stages.",
         "steps": [
           {
             "title": "Notice yourself",
-            "text": "Notice your voice, pace and tension. Take a comfortable pause if it is safe.",
+            "text": "Is your voice getting faster or sharper? Notice tense hands. Take a brief pause if it is safe.",
             "icon": "notice"
           },
           {
-            "title": "Steady your response",
-            "text": "Lower the volume, soften your posture and choose fewer words. Calm presence takes practice.",
+            "title": "Use a steadier voice",
+            "text": "Slow your next sentence and lower your volume: “That fell down. I can stay here.”",
             "icon": "pause"
           },
           {
-            "title": "Connect without pressure",
-            "text": "Stay available at a distance the child can tolerate. Offer warmth without insisting on touch or eye contact.",
+            "title": "Stay nearby without pressure",
+            "text": "Give the child comfortable space. Offer company without insisting on touch or eye contact.",
             "icon": "support"
           },
           {
-            "title": "Make one helpful change",
-            "text": "Reduce one demand or source of overload. Offer an accessible choice that you can honour.",
+            "title": "Make one thing easier",
+            "text": "Move the audience on or offer one block together. Offer only choices you can provide; the child may prefer a break.",
             "icon": "choice"
           },
           {
-            "title": "Bring in support",
-            "text": "Ask a colleague for a specific role, obtain acknowledgement and hand over the cue, useful support and supervision arrangement before stepping away.",
+            "title": "Ask for clear help",
+            "text": "“Can you watch the group? I’ll stay with Amira.” Wait for agreement. Before handing over, share what happened, what helped and who is supervising.",
             "icon": "people"
           }
         ]
@@ -215,32 +215,32 @@ window.COURSE_EXTRAS={
       {
         "id": "early-response",
         "module": 3,
-        "title": "Less pressure, more support",
-        "intro": "Imagine a child covering their ears and moving away as the class lines up. Rehearse a response before distress grows.",
+        "title": "Less pressure, more help",
+        "intro": "A child covers their ears and moves away as the class lines up. Make the line less crowded and offer a quieter place with an adult nearby.",
         "steps": [
           {
-            "title": "Notice the cue",
-            "text": "Describe what you see: hands over ears, backing away, fewer words. Do not guess an intention.",
+            "title": "Notice what you see",
+            "text": "Hands cover ears; the child backs away or uses fewer words. Describe these actions without guessing why.",
             "icon": "notice"
           },
           {
-            "title": "Change the conditions",
-            "text": "Reduce noise and crowding. Offer a supervised quieter position or staggered transition.",
+            "title": "Change the difficult part",
+            "text": "Reduce noise and crowding. With the teacher, arrange a quieter waiting place or let smaller groups move at a time. Keep supervision clear.",
             "icon": "zones"
           },
           {
-            "title": "Use a brief script",
-            "text": "“It’s noisy. I’m here. We can wait here together.” Allow time for the child to process.",
+            "title": "Say a few words, then wait",
+            "text": "You might say, “It’s noisy. I’m here. We can wait here together.” Give the child time to understand or respond.",
             "icon": "voice"
           },
           {
-            "title": "Make communication work",
-            "text": "Use the child’s established help/break gesture or cue and honour the request. If the preferred place is occupied, provide another safe supervised option.",
+            "title": "Respond to the child’s message",
+            "text": "Accept their usual help or break gesture, picture or device. Show the actual help. If the usual seat is occupied, offer another safe place with adult support.",
             "icon": "choice"
           },
           {
-            "title": "Notice the response",
-            "text": "If a tool or touch is declined, reduce pressure and adapt while staying available. If risk or health concern grows, use the relevant local response immediately.",
+            "title": "Watch and adjust",
+            "text": "If touch or a tool is declined, stop that offer, give space and remain available. Use the school’s safety or health response immediately if risk or a health concern grows.",
             "icon": "plan"
           }
         ]
@@ -248,32 +248,32 @@ window.COURSE_EXTRAS={
       {
         "id": "recovery",
         "module": 4,
-        "title": "Recovery is part of the support",
-        "intro": "The difficult moment may have passed, but readiness to talk or learn can return slowly. Avoid rushing to correction.",
+        "title": "Keep helping after the difficult moment",
+        "intro": "A child is quiet after an upsetting event. Check comfort and care first. They can return to play with help before discussing or putting things right.",
         "steps": [
           {
-            "title": "Keep support available",
-            "text": "Maintain supervision, a calm environment and necessary care. Do not withdraw comfort as a consequence.",
+            "title": "Keep care and company available",
+            "text": "Keep the child supervised, reduce noise or pressure and meet care needs. Comfort is not a reward to remove.",
             "icon": "support"
           },
           {
-            "title": "Offer, do not insist",
-            "text": "Offer the child’s familiar calming supports. Breathing, touch or talking may not help every child.",
+            "title": "Offer familiar support",
+            "text": "Offer a known toy, company or space. A child may not want breathing, touch or talking; offer another way to help.",
             "icon": "choice"
           },
           {
-            "title": "Wait for readiness",
-            "text": "Watch for the child’s usual signs of comfort and engagement. Do not demand an immediate explanation or apology.",
+            "title": "Look for interest, without rushing",
+            "text": "Watch for the child’s usual signs of comfort or interest in play. Silence alone does not mean they are ready for questions.",
             "icon": "listen"
           },
           {
-            "title": "Reconnect and repair",
-            "text": "When ready, support a manageable repair and a small return to activity. Keep useful support available; another child need not accept affection or comfort anyone.",
+            "title": "Help the child return",
+            "text": "Offer watching or one easy step into play. No apology, explanation or repair is required first. Later, when ready, help put things right. Another child need not accept affection.",
             "icon": "repeat"
           },
           {
-            "title": "Review the adult plan",
-            "text": "Separate facts from guesses. Check what adults actually changed, how the child communicated and participated, and what the child and family report. Agree a review; escalate sooner when needed.",
+            "title": "Review what adults did",
+            "text": "Write facts separately from guesses. Did adults make the planned change? Could the child ask for help and enjoy activities? Compare with the family and teacher; seek advice sooner if worries grow.",
             "icon": "plan"
           }
         ]
@@ -286,9 +286,9 @@ window.COURSE_EXTRAS={
         "publisher": "Center on the Developing Child at Harvard University",
         "url": "https://developingchild.harvard.edu/resources/videos/how-to-5-steps-for-brain-building-serve-and-return/",
         "durationLabel": "Short how-to video; optional",
-        "summary": "Adults notice a child’s interest, respond, add language, take turns and follow changes in attention. The practical message is responsive back-and-forth interaction, not demanding eye contact or a particular response.",
-        "prompt": "Notice one child cue, the adult’s response and the pause before another turn. Describe how the same exchange can work without speech or required eye contact.",
-        "accessibility": "The official page provides explanatory text and several language options. This course summary is a text alternative; player captions and availability may vary.",
+        "summary": "Adults notice what interests a child, respond and wait for another turn. For example, a child points to a toy; the adult names it and pauses. The child can answer through a gesture or sound. Speech and eye contact are not required. Examples involving children below 12 months are background only; this course’s practice starts at 12 months.",
+        "prompt": "Look for what the child does, how the adult answers and when the adult waits. Then describe a similar exchange using a gesture instead of speech.",
+        "accessibility": "The official page has explanatory text and several language options. You can use the summary here for the task without watching; player captions and availability may vary.",
         "verifiedHosting": "Official Harvard page links to its YouTube player. The page and video title were verified; playback was not independently tested.",
         "moduleId": "m1",
         "module": 1
@@ -299,9 +299,9 @@ window.COURSE_EXTRAS={
         "publisher": "Department for Education, England",
         "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
         "durationLabel": "Short practitioner explainer; optional",
-        "summary": "Practitioners discuss emotionally safe relationships, recognising feelings, giving children time and supporting adults to reflect. Examples include separation and conflict over a toy. The emphasis is attuned support and returning to problem-solving when the child is ready.",
-        "prompt": "Identify a moment for comfort now and a different moment for teaching later. What demand would you change alongside the adult’s words?",
-        "accessibility": "A full transcript is available on the official page beneath the Vimeo video.",
+        "summary": "Adults discuss helping children feel safe, noticing feelings and giving them time. Examples include saying goodbye to a caregiver and wanting the same toy. Comfort and practical help come first; a conversation about solving the problem can wait until the child can join in.",
+        "prompt": "Find one moment for comfort now and one for teaching later. Give a practical change too, such as less waiting or fewer children around the toy.",
+        "accessibility": "A full transcript is on the official page below the Vimeo video. You can also use this course summary for the task.",
         "verifiedHosting": "Official DfE page and linked Vimeo player verified. Player title: EYFS Personal, social and emotional development – Emotions.",
         "moduleId": "m3",
         "module": 3
@@ -312,9 +312,9 @@ window.COURSE_EXTRAS={
         "publisher": "Center on the Developing Child at Harvard University",
         "url": "https://developingchild.harvard.edu/resources/videos/video-building-core-capabilities-life/",
         "durationLabel": "5 minutes; optional",
-        "summary": "This animated explainer describes executive-function and self-regulation skills across life, how practice supports them and how stress can make them harder to use. Treat its visual metaphors as illustrations, not a literal diagnosis of what is happening in an individual child’s brain.",
-        "prompt": "Choose one practical way to reduce a demand for an adult and child. Distinguish this action from a claim that you know the child’s brain state.",
-        "accessibility": "The official page includes an explanatory text summary and English and Japanese video options. This course summary is also a text alternative.",
+        "summary": "This animation explains skills such as remembering a plan, waiting and changing approach. Practice can help these skills; stress can make them harder to use. The brain pictures illustrate ideas. They cannot tell you what is happening inside a particular child’s brain.",
+        "prompt": "Choose one way to make a task easier for the adult and child, such as giving one instruction instead of several. Describe the change you can see, rather than guessing a brain state.",
+        "accessibility": "The official page has a written summary and English and Japanese video options. You can use the summary here for the task without watching.",
         "verifiedHosting": "Official Harvard page verifies title and five-minute duration and links to its YouTube player; playback was not independently tested.",
         "moduleId": "m5",
         "module": 5
@@ -325,9 +325,9 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
         "durationLabel": "6 minutes 26 seconds; optional adult viewing",
-        "summary": "An official child-facing episode for ages 3–5. Course text alternative: big feelings are allowed and a trusted adult can help. Explore different familiar supports during comfortable moments; a child can use their preferred communication to seek help. No coping technique is compulsory.",
-        "prompt": "Choose one coping option in the episode. Demonstrate how you would offer it without requiring breathing, speech or touch, and what you would do if it were declined. Name a settled moment for teaching it.",
-        "accessibility": "The official page links free educator/caregiver resources. This course summary provides a text alternative to the adult learning task; playback and caption availability were not independently tested.",
+        "summary": "This episode is made for children aged 3–5; the optional course task is for adults. Main message: big feelings are allowed and a trusted adult can help. Try familiar ways to feel more comfortable during easy moments. Asking through a gesture or device counts, and no calming technique is compulsory.",
+        "prompt": "Choose one activity shown and say how you would offer it. Then explain what you would do if the child declined, and when you could practise later without pressure. Do not require breathing, speech or touch.",
+        "accessibility": "The official page links free resources for educators and caregivers. You can use this course summary for the adult task without watching. Playback and captions were not independently tested.",
         "verifiedHosting": "Official Child Mind Institute episode page, linked YouTube player and displayed 6:26 duration verified on 6 October 2026. Companion educator materials were read; playback was not independently tested.",
         "moduleId": "m5",
         "module": 5
@@ -338,9 +338,9 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network; My Toddler and Me series from Karitane and UNSW",
         "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
         "durationLabel": "Short toddler feelings video; optional adult viewing",
-        "summary": "Course text alternative: a toddler may need closeness at one moment and more space at another. Remain responsive when touch is declined; use the child’s cues to adjust support and leave explanation or practice until they can engage.",
-        "prompt": "What changes when the toddler does not want touch? Rehearse one short response, a comfortable distance and a way to remain available. Compare with Priya’s arrival.",
-        "accessibility": "A full transcript is available on the official page and was read. This course summary also supplies a text alternative. Playback and captions were not independently tested.",
+        "summary": "A toddler may want closeness one moment and space the next. If they push an offered hand away, stop the touch and stay available: “I can sit here.” Watch their response. Save explanation or practice for a moment when they can join in.",
+        "prompt": "Compare the example with Priya’s arrival. Practise a few words you could use if she declines touch. Show where you would stay so she has space and you can still help.",
+        "accessibility": "A full transcript is available on the official page and was read. You can also use this summary for the task. Playback and captions were not independently tested.",
         "verifiedHosting": "Official Raising Children Network page, transcript and Karitane/UNSW attribution verified on 6 October 2026. The video is republished with permission; no exact runtime is asserted.",
         "moduleId": "m3",
         "module": 3
@@ -371,8 +371,8 @@ window.COURSE_EXTRAS={
         "publisher": "Center on the Developing Child at Harvard University",
         "jurisdiction": "United States",
         "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-        "claim": "Age-adapted play offers practice in attention, remembering and flexible action; informs the original infant exchange, toddler imitation and preschool puppet activities.",
-        "accessNote": "Official guide landing page and 6–18-month, 18–36-month and 3–5-year PDFs checked on 6 October 2026. Original guide publication: 2014. Age suggestions and games are not milestone tests or a validated treatment; a 2024 upload path is not a new research date."
+        "claim": "Age-adapted play offers practice in attention, remembering and flexible action; informs the original 12-months-to-under-18-month response-and-pause activity, older-toddler imitation and preschool puppet activities.",
+        "accessNote": "Official guide landing page and 6–18-month, 18–36-month and 3–5-year PDFs checked on 6 October 2026. Use only the developmentally suitable 12-months-plus activities in this course; the broader source includes younger babies. Original guide publication: 2014. The activities are not milestone tests or a validated treatment; a 2024 upload path is not a new research date. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "harvard-serve",
@@ -381,7 +381,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "United States",
         "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/",
         "claim": "Responsive back-and-forth exchanges with caring adults support early communication and social development.",
-        "accessNote": "Official page or resource content checked on 6 October 2026."
+        "accessNote": "Official page or resource content checked on 6 October 2026. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "acecqa-regulation",
@@ -480,7 +480,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "United States",
         "url": "https://headstart.gov/mental-health/article/understanding-childrens-behavior-communication",
         "claim": "Supports relationship-based family partnership and interpreting behaviour in context for children from birth to five.",
-        "accessNote": "Official page or resource content checked on 6 October 2026."
+        "accessNote": "Official page or resource content checked on 6 October 2026. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "acf-snapshots",
@@ -525,7 +525,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "United States",
         "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
         "claim": "Supports cue-responsive infant care, familiar relationships and emerging self-regulation alongside substantial adult dependence.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. Professional practice guidance, not an evaluation of this course. No account was needed for the page."
+        "accessNote": "Official page or linked document checked on 6 October 2026. Professional practice guidance, not an evaluation of this course. No account was needed for the page. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "ztt-toddlers",
@@ -552,7 +552,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
         "claim": "Supports observing invitations to interact, pause cues and changing engagement, while checking the individual and family context.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. Official 0–18-month guide and English printable were read. The pictures are linked, not copied; individual cues are not diagnostic tests."
+        "accessNote": "The official guide covers 0–18 months and includes younger babies. For this course, use the cue-observation principles relevant to children from 12 months; the pictures are linked, not copied. Individual cues are not diagnostic tests. Page and English printable checked on 6 October 2026. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "rcn-baby-care",
@@ -560,8 +560,8 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network",
         "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/babies/behaviour/crying/soothing-a-crying-baby",
-        "claim": "Supports checking care, comfort, pain or illness, asking for adult help and never shaking a baby.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. Not imported as feeding, swaddling, handling, medical or sleep training. Approved care and safe-sleep procedures remain necessary."
+        "claim": "Background only: supports checking care, comfort, pain or illness, asking for adult help and never shaking a child. It is not an under-12-month practical assignment.",
+        "accessNote": "Background source retained for provenance: this provider page focuses on babies, including under-12-months. It is not an assigned practical activity for the 12-months-plus course. Current care follows the individual plan and approved setting procedures; no handling, feeding or sleep technique is taught here."
       },
       {
         "id": "rcn-overstimulation",
@@ -570,7 +570,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/toddlers/behaviour/common-concerns/overstimulation",
         "claim": "Supports individual variation in tolerance and reducing competing sound, activity or handling while observing the response.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. The course excludes wrapping, pram covering and sling instructions, and does not prescribe sensory treatment."
+        "accessNote": "Official page or linked document checked on 6 October 2026. The course excludes wrapping, pram covering and sling instructions, and does not prescribe sensory treatment. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "rcn-toddler-feelings",
@@ -650,8 +650,8 @@ window.COURSE_EXTRAS={
         "publisher": "National Center for Pyramid Model Innovations",
         "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/document/things-that-will-help-me-stay-calm-infants-pdf/",
-        "claim": "Supports responsive adult interaction, cue observation and familiar care routines for infants.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. Official page and one-page PDF read without login. The adult applies guidance; infants are not expected to operate a chart. This is not safe-sleep training."
+        "claim": "Background only: explains responsive adult interaction, noticing a child’s signals and familiar care routines for infants. It is not an under-12-month practical assignment.",
+        "accessNote": "Background source retained for provenance, not an assigned practical activity for children below the course’s 12-month starting point. Use the age-appropriate toddler routines and the child’s approved care plan. The source was read without login; it is not safe-sleep training."
       },
       {
         "id": "ncpmi-responsive-routines",
@@ -660,7 +660,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/wp-content/uploads/2023/04/responsive_routines_inventory.pdf",
         "claim": "Supports flexible infant/toddler routines, family partnership, primary caregiving and supported arrival.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. Eight-page PDF read; document date is 22 September 2023. It does not replace current safe-care, safe-sleep or toileting procedures."
+        "accessNote": "Official page or linked document checked on 6 October 2026. Eight-page PDF read; document date is 22 September 2023. It does not replace current safe-care, safe-sleep or toileting procedures. Any material about children below 12 months is background only; current course practice starts at 12 months."
       },
       {
         "id": "ncpmi-visuals-2025",
@@ -730,7 +730,6 @@ window.COURSE_EXTRAS={
       "2": [
         "ncpmi-visuals-2025",
         "ncpmi-responsive-routines",
-        "rcn-baby-care",
         "rcn-overstimulation",
         "nice-autism",
         "cd-visual-schedule",
@@ -747,7 +746,6 @@ window.COURSE_EXTRAS={
         "acecqa-discipline",
         "dfe-mental-health",
         "safeguarding",
-        "ncpmi-infant",
         "rcn-toddler-feelings"
       ],
       "5": [
@@ -803,9 +801,8 @@ window.COURSE_EXTRAS={
       },
       {
         "title": "Local safety and individual judgement remain essential",
-        "text": "Research-informed support does not replace approved infant care, individual communication plans, supervision, health assessment, emergency response or safeguarding. Source age bands differ; this course’s broad planning groups are not milestone tests. The course selectively excludes forced touch or gaze, withholding care, ignoring distress, improvised restrictive techniques and clinical treatment instructions.",
+        "text": "Research-informed support for children from 12 months does not replace approved care procedures, individual communication plans, supervision, health assessment, emergency response or safeguarding. Some reference sources cover younger babies; these remain background rather than under-12-month practical assignments. Course age bands are broad planning guides, not milestone tests. The course excludes forced touch or gaze, withholding care, ignoring distress, improvised restrictive techniques and clinical treatment instructions.",
         "sourceIds": [
-          "rcn-baby-care",
           "ncpmi-responsive-routines",
           "nice-autism",
           "safeguarding"
@@ -826,212 +823,212 @@ window.COURSE_EXTRAS={
   "fr": {
     "meta": [
       {
-        "title": "Commencer par créer le lien",
-        "sub": "Adapter le soutien attentif aux nourrissons, aux tout-petits et aux enfants de 3 à 6 ans ; choisir le rôle de l’adulte avant, pendant et après la détresse.",
+        "title": "Commencer par le lien avec l’enfant",
+        "sub": "Aider les enfants de 12 mois à 6 ans avant, pendant et après une émotion difficile.",
         "time": 10
       },
       {
-        "title": "Rendre la journée plus facile à vivre",
-        "sub": "Montrer un emploi du temps qui a du sens, modifier une exigence réelle de transition et présenter une possibilité de soutien sous surveillance.",
+        "title": "Faciliter la journée",
+        "sub": "Montrer la suite, faciliter les moments animés et proposer un endroit plus calme avec l’aide d’un adulte.",
         "time": 10
       },
       {
-        "title": "Intervenir avant que la détresse augmente",
-        "sub": "Répondre brièvement, respecter le refus du contact ou des outils et faire en sorte que les demandes d’aide ou de pause entraînent une action de l’adulte.",
+        "title": "Aider avant que la difficulté grandisse",
+        "sub": "Remarquer le besoin d’aide, respecter le refus de contact et répondre aux demandes d’aide ou de pause.",
         "time": 10
       },
       {
-        "title": "Assurer la sécurité de tous, puis renouer le lien",
-        "sub": "Répéter un relais sûr entre adultes, préserver les soins et la surveillance, et distinguer le retour au calme des apprentissages ultérieurs.",
+        "title": "Protéger chacun, puis reprendre le lien",
+        "sub": "Savoir quand demander une aide urgente, maintenir la surveillance et réconforter après le danger.",
         "time": 10
       },
       {
-        "title": "Enseigner des compétences dans les jeux du quotidien",
-        "sub": "Montrer une compétence accessible, soutenir son utilisation dans une vraie routine et adapter le jeu aux signaux de l’enfant.",
+        "title": "Apprendre par les jeux du quotidien",
+        "sub": "Montrer une action utile dans le jeu, aider l’enfant à l’utiliser dans la journée et arrêter si le jeu devient désagréable.",
         "time": 10
       },
       {
-        "title": "Construire le plan ensemble",
-        "sub": "Utiliser une observation renseignée et le plan détaillé de rangement de Leo pour répartir les actions des adultes, examiner l’accès et demander l’aide appropriée.",
+        "title": "Préparer le plan ensemble",
+        "sub": "Utiliser des observations claires et ce que sait la famille pour prévoir ce que les adultes essaieront et quand demander plus d’aide.",
         "time": 10
       }
     ],
     "practice": [
       {
-        "q": "Exemple fictif : Imani, huit mois, tend les bras vers un éducateur familier, puis se détourne et s’agite lorsque deux adultes parlent et qu’un jouet musical se met en marche. Quelle réponse correspond le mieux à ses capacités actuelles ?",
+        "q": "Imani, quatorze mois, tend les bras vers un adulte connu. Quand deux adultes parlent en même temps et qu’un jouet musical démarre, elle se détourne, le repousse et s’agite. Elle utilise surtout des gestes et des sons. Que doit faire l’adulte ?",
         "o": [
-          "Proposer un autre jouet intéressant tout en poursuivant la chanson familière.",
-          "Interrompre le jouet et les conversations qui se superposent, rester attentif avec un réconfort familier et vérifier les besoins de soins et les signaux.",
-          "Présenter une image d’aide et inviter Imani à la montrer avant de décider quoi faire."
+          "Proposer un autre jouet et continuer la chanson connue.",
+          "Arrêter le jouet et les paroles supplémentaires, offrir un réconfort connu et vérifier les soins ou l’aide nécessaires.",
+          "Montrer une nouvelle image d’aide et lui demander de pointer avant de décider quoi faire."
         ],
         "a": 1,
-        "why": "L’adulte adapte les stimulations et vérifie les besoins de soins au lieu d’attendre une démonstration de capacité d’apaisement du nourrisson. Une tête détournée peut inviter à une pause ; ce n’est ni un diagnostic ni la preuve que l’interaction n’est pas bienvenue. Comparez avec Amira : toutes deux ont besoin d’une aide attentive et adaptée, mais Imani n’a besoin ni d’une explication orale ni d’une leçon de résolution de problème. Suivez les procédures approuvées de soins aux nourrissons."
+        "why": "Imani montre déjà qu’elle a peut-être besoin d’une pause. Réduisez le bruit, proposez un réconfort connu et vérifiez les besoins de soin. Observez avant de montrer une petite étape suivante. Comme Amira, elle a besoin d’aide ; elle n’a pas à expliquer une émotion ni à résoudre un problème."
       },
       {
-        "q": "Exemple fictif : Leo, trois ans, se couvre les oreilles tandis que les chaises raclent le sol et que les enfants se regroupent autour des étagères de rangement. Il recule et communique surtout par gestes. Quel premier aménagement répond le plus directement aux obstacles observés ?",
+        "q": "Leo, trois ans, se bouche les oreilles quand les chaises raclent le sol et que les enfants se pressent devant l’étagère de rangement. Il recule et utilise surtout des gestes. Qu’est-ce qui l’aiderait d’abord ?",
         "o": [
-          "Proposer une image de respiration et l’expliquer doucement pendant que le groupe continue sans changement.",
-          "L’emmener devant un affichage des émotions pour qu’il choisisse un mot avant de préparer la transition.",
-          "Réduire le bruit et le rassemblement, proposer un endroit plus calme sous surveillance et utiliser son geste ou repère familier pour une véritable prochaine étape."
+          "Expliquer une image de respiration sans rien changer dans la salle.",
+          "L’emmener devant un affichage d’émotions pour choisir un mot avant de l’aider.",
+          "Réduire le bruit et le nombre d’enfants autour, rester avec lui dans un endroit plus calme et utiliser un geste ou un objet connus pour montrer une étape suivante."
         ],
         "a": 2,
-        "why": "Cela modifie l’exigence tout en gardant la communication et le soutien accessibles. Un outil seul laisse le rassemblement et le bruit inchangés. Ensuite, montrez le repère pendant une transition plus facile, interrogez la famille sur les gestes et consignez la mise en œuvre par les adultes ainsi que le confort et la participation de Leo."
+        "why": "Moins d’enfants devant l’étagère et moins de bruit de chaises changent la situation difficile. Une image seule ne le fait pas. Plus tard, vérifiez les gestes qu’utilise Leo, si le personnel a fait les changements et s’il a pu passer à l’activité suivante sans difficulté."
       },
       {
-        "q": "Exemple fictif : à son arrivée, Priya, deux ans, trouve un adulte différent. Elle s’accroche à l’adulte qui l’accompagne, se détourne et repousse la main tendue. Quelle est la meilleure réponse suivante ?",
+        "q": "Priya, deux ans, trouve un autre adulte à l’arrivée. Elle s’agrippe à la personne qui l’accompagne, se détourne et repousse la main de l’adulte. Que faire ensuite ?",
         "o": [
-          "Proposer plutôt un câlin et expliquer que l’adulte est là pour aider.",
-          "Lui laisser un espace confortable, rester disponible avec peu de mots et utiliser la routine d’arrivée familière convenue avec la famille, sans exiger de contact physique ni de parole.",
-          "Commencer une courte leçon sur deux façons de se sentir calme afin qu’elle ait le choix."
+          "Proposer plutôt un câlin et expliquer que l’adulte peut aider.",
+          "Lui laisser de l’espace, rester à proximité avec peu de mots et suivre l’accueil convenu avec la famille.",
+          "Enseigner deux nouvelles façons de se calmer pour qu’elle choisisse."
         ],
         "a": 1,
-        "why": "Un tout-petit peut refuser le contact physique tout en ayant besoin d’un soutien attentif et adapté. Réduisez la pression, maintenez les soins et la surveillance, et préparez avec la famille une routine de remplacement prévisible. Une nouvelle leçon d’apaisement ou un autre contact imposé conviennent mal à cet instant."
+        "why": "Priya peut refuser le contact tout en ayant besoin de compagnie. Arrêtez le contact, maintenez les soins et la surveillance, et utilisez l’accueil connu. Avec la famille et l’enseignant, prévoyez quoi faire si l’adulte habituel est absent."
       },
       {
-        "q": "Exemple fictif : Ben, cinq ans, soulève une chaise alors qu’il est en détresse après la fin d’un jeu. D’autres enfants sont proches et un autre adulte est disponible. Qu’est-ce qui doit guider la première réponse ?",
+        "q": "Ben, cinq ans, soulève une chaise alors qu’il est bouleversé par la fin d’un jeu. Des enfants sont proches et un autre adulte est disponible. Qu’est-ce qui doit guider la première réponse ?",
         "o": [
-          "Donner une explication rassurante plus longue tout en demandant au collègue de chercher un tableau des émotions.",
-          "Commencer à répéter une routine familière d’apaisement avant de faire intervenir d’autres membres du personnel.",
-          "Appeler le personnel formé prévu, maintenir la surveillance et aider à créer un espace sûr pour les autres selon le plan d’urgence local."
+          "Donner une explication plus longue et envoyer le collègue chercher une affiche d’émotions.",
+          "Faire un exercice de retour au calme avant d’impliquer d’autres membres du personnel.",
+          "Appeler les personnes formées prévues, maintenir la surveillance et aider à créer un espace sûr selon les règles de l’école."
         ],
         "a": 2,
-        "why": "Protéger les personnes et obtenir une aide adaptée passe avant l’apprentissage. L’action réelle dépend des procédures locales en vigueur et de l’environnement. Cette formation ne donne aucune technique ni autorisation d’intervention physique. Répétez la communication entre adultes par la discussion, jamais des comportements dangereux."
+        "why": "Protégez les personnes et demandez la bonne aide avant d’enseigner. L’action sûre dépend de la salle et des règles actuelles. Cette formation n’enseigne ni n’autorise de techniques d’immobilisation. Entraînez-vous à la conversation entre adultes, jamais au comportement dangereux."
       },
       {
-        "q": "Exemple fictif : Sofia, quatre ans, utilise une carte d’aide dans une séance calme. Au goûter, son couvercle est coincé, elle pleure et repousse la boîte, et la carte est dans un tiroir. Quelle réponse relie le mieux l’aide immédiate et l’apprentissage futur ?",
+        "q": "Sofia, quatre ans, utilise une carte d’aide pendant une leçon calme. Au goûter, son couvercle est coincé. Elle pleure et repousse la boîte ; la carte est dans un tiroir. Que doit faire le personnel ?",
         "o": [
-          "Aider en réponse à sa communication actuelle ; puis placer le repère au goûter, montrer son usage dans des occasions à sa portée et veiller à ce que les adultes répondent.",
-          "Apporter la carte et répéter la leçon avant d’ouvrir la boîte pour clarifier le signal.",
-          "La remplacer par plusieurs nouvelles cartes et lui demander laquelle serait la plus facile à utiliser."
+          "Aider maintenant, puis mettre la carte connue au goûter, montrer son utilisation dans un entraînement facile et veiller à la réponse des adultes.",
+          "Aller chercher la carte et répéter la leçon avant d’ouvrir la boîte.",
+          "La remplacer par plusieurs nouvelles cartes et demander laquelle elle préfère."
         ],
         "a": 0,
-        "why": "Une compétence a besoin de sens, d’accès, d’une véritable occasion et d’une réponse fiable de l’adulte. Ne retenez pas l’aide en attendant un signal correct. Montrez une demande non orale et la manière dont un remplaçant familier y répondra ; évaluez l’accès au goûter, pas seulement la diminution des pleurs."
+        "why": "Sofia montre déjà qu’elle a besoin d’aide. Ouvrez la boîte sans attendre une bonne réponse avec la carte. Plus tard, mettez la carte là où elle est nécessaire et montrez à un adulte remplaçant comment répondre. Vérifiez si Sofia peut recevoir de l’aide et manger son goûter."
       },
       {
-        "q": "Exemple fictif : Noah, cinq ans, se met en retrait pendant le chant en grand groupe, mais l’adulte qui l’accompagne dit qu’il chante à la maison. Quelle entrée en matière favorise le mieux un plan partagé dont on pourra examiner les effets ?",
+        "q": "Noah, cinq ans, s’éloigne quand le grand groupe chante. La personne qui s’occupe de lui dit qu’il chante à la maison. Quelle phrase d’ouverture aiderait le personnel et la famille à faire un plan utile ?",
         "o": [
-          "« Nous nous entraînerons à nommer les émotions plus souvent, puis nous verrons s’il participe. »",
-          "« Il aime les chansons qu’il choisit en petit groupe. Il s’éloigne dans le grand groupe. Qu’est-ce qui l’aide à la maison ? Pourrions-nous comparer une possibilité plus calme avec du soutien et faire le point sur son confort et sa participation ? »",
-          "« Si nous comptons uniquement les fois où il s’en va, nous pourrons décider si le plan fonctionne. »"
+          "« On va s’entraîner à nommer les émotions plus souvent, puis voir s’il participe. »",
+          "« Ici, il aime les chansons choisies en petit groupe, mais s’éloigne dans le grand groupe. Qu’est-ce qui aide à la maison ? Pourrions-nous essayer un endroit plus calme avec un adulte à proximité et comparer comment il se sent et participe ? »",
+          "« On va compter le nombre de fois où il part pour décider si le plan fonctionne. »"
         ],
         "a": 1,
-        "why": "Un point fort, un contexte factuel, les connaissances de la famille et un aménagement concret par l’adulte constituent un bon point de départ. Désignez un responsable et un moment de réexamen, vérifiez si le personnel a appliqué le changement et agissez plus tôt si des inquiétudes de santé, de sécurité ou de protection de l’enfance apparaissent."
+        "why": "Commencez par un point fort, décrivez ce que vous avez vu et demandez l’avis de la famille. Prévoyez qui fait le changement et quand faire le point. Vérifiez si le changement a eu lieu et si Noah était à l’aise et pouvait apprécier le chant. Demandez de l’aide plus tôt si les inquiétudes de santé, de sécurité ou de protection de l’enfance augmentent."
       }
     ],
     "declarations": [
-      "Je répondrai à la détresse avec dignité, une communication accessible et la corégulation par l’adulte, tout en assurant la sécurité de chacun.",
-      "J’adapterai les routines et les attentes au développement de l’enfant et à ses besoins de communication et sensoriels, et j’enseignerai les compétences lorsque l’enfant sera prêt.",
-      "Je n’utiliserai ni humiliation, ni menaces, ni isolement, ni contact visuel imposé, ni marques d’affection imposées, ni privation des soins nécessaires pour obtenir l’obéissance.",
-      "Je suivrai les procédures scolaires en vigueur de protection de l’enfance, de surveillance et d’urgence, demanderai une aide qualifiée et resterai dans les limites de mon rôle. Cette formation n’enseigne ni n’autorise la contention.",
-      "Je comprends que cette attestation concerne uniquement l’apprentissage en ligne. Pour les inquiétudes réelles, les plans d’accompagnement et la communication avec les familles, j’utiliserai les systèmes approuvés de l’école, jamais cette formation."
+      "Je traiterai avec dignité un enfant bouleversé, utiliserai des moyens de communication qu’il comprend et proposerai une aide calme tout en protégeant chacun.",
+      "J’adapterai les activités et les tâches aux besoins de l’enfant, notamment pour la communication, le bruit, le contact et le mouvement, et lui apprendrai des choses quand il pourra participer.",
+      "Je n’humilierai pas, ne menacerai pas et n’isolerai pas un enfant. Je n’imposerai ni regard dans les yeux ni affection et ne le priverai pas de soins nécessaires pour obtenir quelque chose.",
+      "Je suivrai les règles actuelles de l’école pour la protection de l’enfance, la surveillance et les urgences. Je demanderai l’aide de personnes formées et resterai dans mon rôle. Cette formation n’enseigne ni n’autorise la contention.",
+      "Je comprends que cette attestation porte seulement sur l’apprentissage en ligne. J’utiliserai les systèmes autorisés de l’école pour les inquiétudes réelles, les plans d’aide et les messages aux familles, jamais cette formation."
     ],
     "localReadiness": [
       {
-        "title": "Connaître l’enfant et la routine",
-        "text": "Apprenez à connaître les signaux habituels, les intérêts, la communication, les préférences sensorielles et le plan de soins de l’enfant. Utilisez les grands repères d’âge sans tester des étapes du développement. Le personnel chargé de nourrissons a également besoin d’une formation approuvée à leur manipulation, à la sécurité pendant le sommeil et aux soins ; cette formation-ci ne l’apporte pas."
+        "title": "Connaître cet enfant",
+        "text": "Demandez à l’enseignant quels sont ses gestes, mots, intérêts, réconforts et plan de soin habituels. Ces exemples commencent à 12 mois ; les âges servent à préparer, pas à tester. Toute personne qui donne des soins personnels a aussi besoin de la formation autorisée par l’école pour le portage, les soins, le repos et le sommeil."
       },
       {
-        "title": "Connaître vos propres soutiens",
-        "text": "Convenez d’un signal d’aide et montrez qui reste avec l’enfant et qui surveille le groupe. Obtenez une confirmation avant le relais. Prévoyez un adulte relais et les informations minimales utiles ; ne vous éloignez jamais simplement sans transmission."
+        "title": "Savoir qui peut vous aider",
+        "text": "Prévoyez comment appeler de l’aide, qui reste avec l’enfant et qui surveille le groupe. Désignez un remplaçant. Entraînez-vous à demander et à attendre une réponse claire avant de passer le relais ; ne partez pas simplement."
       },
       {
-        "title": "Rendre l’environnement accessible",
-        "text": "Vérifiez le bruit, l’attente, les rassemblements serrés, les déplacements et l’accès à la communication. Montrez un repère là où il sera utilisé, la fin d’une étape et un véritable changement de programme. Préparez des possibilités plus calmes sous surveillance avec des sorties dégagées, des ressources sûres pour l’âge et du soutien lorsque l’espace préféré est occupé."
+        "title": "Vérifier la salle et la journée",
+        "text": "Repérez les chaises bruyantes, les étagères bondées ou les longues attentes. Montrez une image ou un objet connus là où ils servent, la suite et un changement de programme. Vérifiez les endroits plus calmes, les sorties sûres, le matériel adapté à l’âge et qui reste à proximité, y compris si la place habituelle est occupée."
       },
       {
-        "title": "Convenir de réponses cohérentes et souples",
-        "text": "Décidez de ce que fait le personnel lorsque l’enfant communique une demande d’aide ou de pause. Montrez une réponse courte, un temps pour comprendre et une autre possibilité lorsqu’un contact ou un outil est refusé. N’exigez jamais de parole, de contact visuel, de respiration ni d’apparence calme avant d’apporter des soins ou du soutien."
+        "title": "Prévoir ensemble la réponse des adultes",
+        "text": "Sachez ce qui se passe quand l’enfant demande de l’aide ou une pause. Essayez quelques mots, puis attendez. Soyez prêt à donner de l’espace ou à proposer une autre aide s’il refuse le contact ou un outil. Les soins ne doivent dépendre ni de paroles, ni du regard dans les yeux, ni de respiration, ni d’une apparence calme."
       },
       {
-        "title": "Connaître les circuits d’aide et de signalement",
-        "text": "Confirmez l’identité du responsable ELS/inclusion et du responsable de la protection de l’enfance, le circuit indépendant alternatif, l’aide aux premiers secours et la procédure d’urgence. Un risque urgent nécessite une aide rapide, pas une nouvelle stratégie comportementale."
+        "title": "Connaître les contacts d’urgence et de signalement",
+        "text": "Trouvez l’enseignant ou le responsable inclusion/ELS pour une aide supplémentaire, le responsable de protection de l’enfance, l’autre personne à prévenir et les étapes de premiers secours ou d’urgence. Un danger urgent demande de l’aide maintenant."
       },
       {
-        "title": "Faire le point avec les faits et les familles",
-        "text": "Distinguez la séquence observée, les explications possibles et le prochain essai de l’adulte. Consignez dans les systèmes sécurisés approuvés la réalisation du soutien, le confort, la communication et l’accès de l’enfant, ainsi que les informations de la famille. Désignez un responsable du réexamen ; demandez conseil plus tôt si les inquiétudes persistent, augmentent ou deviennent urgentes."
+        "title": "Faire le point avec la famille",
+        "text": "Notez séparément ce que vous avez vu et les explications possibles, dans les dossiers sécurisés autorisés. Vérifiez ce qu’ont changé les adultes et si l’enfant a pu demander de l’aide, se sentir à l’aise et profiter des activités. Prévoyez qui fait le point avec la famille et quand. Demandez conseil plus tôt si les inquiétudes augmentent."
       }
     ],
     "practical": {
-      "title": "Guide de pratique de la corégulation en équipe",
-      "intro": "Utilisez des situations fictives pour une courte répétition entre adultes, avec un collègue ou en énonçant les deux rôles. Les activités des modules présentent les compétences ; un entraînement ultérieur supervisé en équipe et un réexamen des pratiques peuvent vérifier leur fonctionnement local. La réussite en ligne ne prouve pas à elle seule la compétence pratique.",
+      "title": "S’entraîner ensemble à aider un enfant",
+      "intro": "Pour les adultes qui accompagnent les enfants de 12 mois à 6 ans. Utilisez des exemples inventés avec un collègue, ou dites les deux rôles à voix haute. La corégulation, c’est aider un enfant à traverser une émotion difficile grâce au soutien calme d’un adulte. Ce guide aide à s’entraîner et à discuter ; terminer la formation en ligne ne prouve pas une compétence pratique.",
       "instructions": [
-        "Choisissez la réponse aux signaux du nourrisson Imani uniquement si cela concerne vos fonctions, l’arrivée de Priya, le rangement de Leo, le goûter de Sofia ou le chant de Noah. Précisez la communication et les capacités actuelles de l’enfant ; n’imitez pas la détresse d’un enfant réel.",
-        "Convenez de qui parle, de qui surveille et de la manière d’appeler de l’aide. Montrez des paroles, un repère et un aménagement de l’environnement. Ne mettez jamais en scène un danger, ne pratiquez aucune contention et ne répétez aucune manipulation de nourrisson à partir de cette formation.",
-        "L’observateur introduit un changement : le contact est refusé, le repère manque, l’espace calme est occupé ou l’adulte habituel est absent. Montrez comment le soutien reste disponible ; faites une pause dès qu’un participant le souhaite.",
-        "Comparez l’action de l’adulte aux critères ci-dessous. Notez un point fort précis et une action à améliorer. Si vous travaillez seul, dites ou écrivez la réponse exacte et vérifiez honnêtement chaque étape.",
-        "Avec le responsable local concerné, choisissez un aménagement sûr de la pratique ordinaire et un moment de réexamen. Une observation ultérieure supervisée devrait vérifier les actions effectives des adultes et l’accès de l’enfant. Ne saisissez pas de détails sur des enfants réels dans cette formation et utilisez les dossiers sécurisés approuvés."
+        "Lisez d’abord cet exemple : au rangement, Leo se bouche les oreilles. Un adulte accepte de surveiller le groupe ; un autre reste près de lui. Le personnel réduit le bruit et envoie moins d’enfants à l’étagère. L’adulte montre à Leo son panier connu : « Un cube ici », puis l’activité suivante. S’il a besoin d’une pause, ils restent ensemble dans l’endroit plus calme prévu.",
+        "Choisissez l’arrivée d’Imani à 14 mois, l’arrivée de Priya, le rangement de Leo, le goûter de Sofia ou le chant de Noah. Dites comment l’enfant montre son besoin. Par exemple, Imani se détourne et repousse le jouet bruyant ; l’adulte l’arrête et vérifie les besoins de soin.",
+        "Prévoyez qui parle, qui surveille le groupe et comment demander de l’aide. Montrez vos mots, un objet, une image ou un signe connus et un changement, comme moins d’enfants à l’étagère. Ne jouez jamais une agression, n’essayez pas de contention et ne vous entraînez pas à porter ou déplacer un enfant à partir de cette formation.",
+        "Votre partenaire ajoute un changement : l’enfant refuse le contact, une image manque, le siège calme est occupé ou l’adulte habituel est absent. Montrez une autre façon d’aider. Chacun peut faire une pause. Si vous êtes seul, décrivez les actions des deux adultes.",
+        "Utilisez les points ci-dessous. Nommez une action qui a aidé et une à améliorer. Avec l’enseignant ou le bon responsable, prévoyez un petit changement sûr à essayer et quand le revoir lors d’un entraînement supervisé. Gardez les détails sur les vrais enfants hors de cette formation et utilisez les dossiers sécurisés autorisés."
       ],
       "criteria": [
         {
-          "area": "1. Montrer la préparation et l’accès",
+          "area": "1. Faciliter ce moment de la journée",
           "items": [
-            "Montre un repère qui a du sens là où il sera utilisé, l’associe à l’étape réelle, indique la fin de l’étape et montre honnêtement un changement de programme.",
-            "Réalise un aménagement concret de l’environnement et identifie une autre possibilité accessible sous surveillance si l’espace préféré est indisponible.",
-            "Adapte la première réponse aux capacités actuelles : soutien aux signaux et aux soins du nourrisson dans les limites de ses fonctions, aide concrète au tout-petit ou prochaine étape accessible pour un enfant plus âgé."
+            "Montre un objet ou une image connus en faisant l’étape, puis montre la suite. Par exemple : montrer le panier de rangement, dire « Un cube ici », puis montrer l’activité suivante. Si l’accès à l’étagère est bloqué, montrer la solution réellement possible.",
+            "Change une chose concrète, par exemple moins d’enfants à l’étagère, et prévoit un autre endroit sûr avec l’aide d’un adulte si le coin calme est occupé.",
+            "Adapte l’aide à l’enfant : réconfort connu et petite étape de 12 mois à moins de 18 mois ; aide concrète pour un tout-petit plus âgé ; prochaine étape à la portée de l’enfant plus grand."
           ]
         },
         {
-          "area": "2. Montrer la première réponse",
+          "area": "2. Proposer une aide que l’enfant peut utiliser",
           "items": [
-            "Énonce un signal observable, utilise une ou deux phrases courtes et chaleureuses, fait une pause et évite d’envahir l’espace.",
-            "Accepte un geste, un symbole, un signe, un appareil ou tout autre signal compréhensible et montre la réponse promise à la demande d’aide ou de pause.",
-            "Adapte son approche lorsque le contact, la respiration ou un outil sont refusés, tout en maintenant la surveillance, les soins nécessaires et la disponibilité de l’adulte."
+            "Dit ce qu’il remarque, utilise quelques mots bienveillants, attend et laisse de l’espace.",
+            "Accepte le geste, le signe, l’image, l’appareil ou les mots de l’enfant. Montre l’aide ou la pause qui suit réellement.",
+            "Arrête une proposition de contact, de respiration ou d’outil que l’enfant refuse et propose une autre aide. Les soins, la surveillance et la compagnie d’un adulte restent disponibles."
           ]
         },
         {
-          "area": "3. Montrer un travail d’équipe sûr",
+          "area": "3. Travailler avec les autres adultes en sécurité",
           "items": [
-            "Demande à un collègue un rôle précis, reçoit sa confirmation et lui transmet les informations utiles sur le repère, le soutien et l’organisation de la surveillance.",
-            "Retrouve les procédures actuelles de soutien urgent, de premiers secours et d’urgence, de protection de l’enfance et de relais, et précise quand chacune est prioritaire.",
-            "Maintient une répétition sans contact physique et dans les limites des fonctions ; aucune contention, mise à l’isolement en espace fermé, autre forme d’isolement forcé, humiliation ni privation de soins."
+            "Demande une tâche claire à un collègue, attend son accord et transmet ce qui s’est passé, ce qui a aidé et qui surveille chaque groupe.",
+            "Sait trouver les contacts et étapes actuels de sécurité, de premiers secours, d’urgence et de protection de l’enfance, avec les remplaçants, et dire quand il faut une aide urgente.",
+            "Garde un entraînement sans techniques physiques et dans les limites de son rôle. Ne pratique ni contention, ni enfermement, ni isolement forcé, ni humiliation, ni privation de soins."
           ]
         },
         {
-          "area": "4. Montrer l’apprentissage et le réexamen",
+          "area": "4. Apprendre plus tard et vérifier ce qui a aidé",
           "items": [
-            "Propose un retour sans pression avant la discussion ou la réparation, sans exiger d’excuses ni de démonstration émotionnelle.",
-            "Montre une compétence utile dans un jeu serein, invite à un tour facultatif et place le soutien établi dans une vraie routine avec une réponse de l’adulte.",
-            "Distingue les faits des explications possibles, désigne un changement de l’adulte et un responsable du réexamen, et examine avec la famille le confort, la communication, la participation et la mise en œuvre par les adultes."
+            "Propose un retour avec de l’aide sans exiger d’abord d’excuses, d’explication ou de réparation. Aide à réparer plus tard, quand l’enfant est prêt.",
+            "Montre une action utile dans un jeu agréable, propose un tour sans pression et place l’aide connue dans la vraie activité, avec un adulte prêt à répondre.",
+            "Sépare les faits des suppositions, dit ce que l’adulte changera et qui fera le point, et vérifie avec la famille le confort, la communication et le plaisir de l’enfant."
           ]
         }
       ],
       "decisionOptions": [
-        "Convenir d’un petit changement et d’une date de suivi",
-        "Organiser un accompagnement ou un soutien supplémentaire",
-        "Demander conseil au responsable scolaire compétent avant de modifier le plan de l’enfant"
+        "Prévoir un petit changement et une date pour faire le point",
+        "Prévoir des conseils ou davantage d’aide",
+        "Consulter le bon responsable de l’école avant de modifier le plan de l’enfant"
       ],
-      "footer": "Ce guide soutient les échanges, l’accompagnement des pratiques et la pratique supervisée. Il ne délivre pas une autorisation d’exercer et ne constitue pas une évaluation clinique notée. Seul l’établissement peut définir les permissions liées aux fonctions, approuver les plans individuels et fournir les formations requises aux soins, à la protection de l’enfance ou aux interventions."
+      "footer": "Utilisez ce guide pour discuter, recevoir des conseils et vous entraîner sous supervision. Il ne donne pas l’autorisation de réaliser un geste et ne prouve pas une compétence professionnelle. L’école doit approuver les plans individuels et les responsabilités, et assurer les formations nécessaires aux soins, à la protection de l’enfance et à la sécurité."
     },
     "visualGuides": [
       {
         "id": "adult-anchor",
         "module": 1,
-        "title": "Être un adulte stable",
-        "intro": "Une aide originale pour la première réponse. Adaptez l’aide aux capacités actuelles ; il s’agit de décisions de l’adulte, pas d’étapes que l’enfant doit franchir.",
+        "title": "Rester l’adulte calme",
+        "intro": "La tour d’un enfant tombe et les cubes se dispersent. Vérifiez la sécurité, restez disponible et facilitez une petite étape suivante. L’enfant n’a pas à suivre une série fixe d’étapes.",
         "steps": [
           {
             "title": "Vous observer",
-            "text": "Observez votre voix, votre rythme et votre tension. Prenez un moment de pause confortable si cela peut se faire en sécurité.",
+            "text": "Votre voix devient-elle plus rapide ou plus sèche ? Remarquez si vos mains sont tendues. Faites une courte pause si c’est possible sans danger.",
             "icon": "notice"
           },
           {
-            "title": "Stabiliser votre réponse",
-            "text": "Baissez le volume de votre voix, assouplissez votre posture et utilisez moins de mots. Une présence calme se travaille.",
+            "title": "Parler plus calmement",
+            "text": "Ralentissez votre prochaine phrase et baissez la voix : « C’est tombé. Je peux rester ici. »",
             "icon": "pause"
           },
           {
-            "title": "Créer le lien sans pression",
-            "text": "Restez disponible à une distance que l’enfant peut tolérer. Offrez de la chaleur sans insister sur le toucher ou le contact visuel.",
+            "title": "Rester proche sans pression",
+            "text": "Laissez assez d’espace à l’enfant. Proposez votre présence sans exiger de contact ni de regard dans les yeux.",
             "icon": "support"
           },
           {
-            "title": "Faire un changement utile",
-            "text": "Réduisez une demande ou une source de surcharge. Offrez un choix accessible que vous pourrez respecter.",
+            "title": "Faciliter une chose",
+            "text": "Faites avancer les personnes qui regardent, ou proposez un cube à poser ensemble. Offrez seulement des choix que vous pouvez tenir ; l’enfant peut préférer une pause.",
             "icon": "choice"
           },
           {
-            "title": "Faire appel au soutien",
-            "text": "Demandez un rôle précis à un collègue, obtenez sa confirmation et transmettez le repère, le soutien utile et l’organisation de la surveillance avant de vous éloigner.",
+            "title": "Demander une aide précise",
+            "text": "« Tu peux surveiller le groupe ? Je reste avec Amira. » Attendez l’accord. Avant de passer le relais, dites ce qui s’est passé, ce qui a aidé et qui surveille.",
             "icon": "people"
           }
         ]
@@ -1039,32 +1036,32 @@ window.COURSE_EXTRAS={
       {
         "id": "early-response",
         "module": 3,
-        "title": "Moins de pression, plus de soutien",
-        "intro": "Imaginez un enfant qui se bouche les oreilles et s’éloigne pendant que la classe se met en rang. Entraînez-vous à répondre avant que sa détresse augmente.",
+        "title": "Moins de pression, plus d’aide",
+        "intro": "Un enfant se bouche les oreilles et s’éloigne quand la classe se met en rang. Réduisez le nombre d’enfants serrés dans le rang et proposez un endroit plus calme avec un adulte à proximité.",
         "steps": [
           {
-            "title": "Observer le signal",
-            "text": "Décrivez ce que vous voyez : mains sur les oreilles, recul, moins de paroles. Ne supposez pas d’intention.",
+            "title": "Observer ce que vous voyez",
+            "text": "L’enfant se bouche les oreilles, recule ou utilise moins de mots. Décrivez ces actions sans deviner pourquoi.",
             "icon": "notice"
           },
           {
-            "title": "Changer les conditions",
-            "text": "Réduisez le bruit et la promiscuité. Proposez une place plus calme sous surveillance ou une transition décalée.",
+            "title": "Changer ce qui est difficile",
+            "text": "Réduisez le bruit et le monde autour. Avec l’enseignant, prévoyez un endroit d’attente plus calme ou faites avancer de plus petits groupes. Précisez qui surveille.",
             "icon": "zones"
           },
           {
-            "title": "Utiliser une phrase brève",
-            "text": "« Il y a du bruit. Je suis là. On peut attendre ici ensemble. » Laissez à l’enfant le temps de comprendre.",
+            "title": "Dire quelques mots, puis attendre",
+            "text": "Vous pourriez dire : « Il y a du bruit. Je suis là. On peut attendre ici ensemble. » Laissez à l’enfant le temps de comprendre ou de répondre.",
             "icon": "voice"
           },
           {
-            "title": "Rendre la communication efficace",
-            "text": "Utilisez le geste ou repère d’aide ou de pause déjà établi de l’enfant et répondez à la demande. Si le lieu préféré est occupé, proposez une autre possibilité sûre sous surveillance.",
+            "title": "Répondre au message de l’enfant",
+            "text": "Acceptez le geste, l’image ou l’appareil qu’il utilise habituellement pour demander de l’aide ou une pause. Montrez l’aide réelle. Si le siège habituel est occupé, proposez un autre endroit sûr avec l’aide d’un adulte.",
             "icon": "choice"
           },
           {
-            "title": "Observer la réponse",
-            "text": "Si un outil ou un contact physique est refusé, réduisez la pression et adaptez-vous tout en restant disponible. Si le risque ou l’inquiétude de santé augmente, appliquez immédiatement la procédure locale correspondante.",
+            "title": "Observer et adapter",
+            "text": "Si l’enfant refuse le contact ou un outil, arrêtez cette proposition, donnez de l’espace et restez disponible. Utilisez immédiatement les étapes de sécurité ou de santé de l’école si le risque ou l’inquiétude médicale augmente.",
             "icon": "plan"
           }
         ]
@@ -1072,32 +1069,32 @@ window.COURSE_EXTRAS={
       {
         "id": "recovery",
         "module": 4,
-        "title": "La récupération fait partie du soutien",
-        "intro": "Le moment difficile est peut-être passé, mais la disponibilité pour parler ou apprendre peut revenir lentement. Évitez de vous précipiter vers la correction.",
+        "title": "Continuer à aider après le moment difficile",
+        "intro": "Un enfant est silencieux après un événement bouleversant. Vérifiez d’abord le confort et les besoins de soin. Il peut revenir au jeu avec de l’aide avant de discuter ou de réparer.",
         "steps": [
           {
-            "title": "Garder le soutien disponible",
-            "text": "Maintenez la surveillance, un environnement calme et les soins nécessaires. Ne retirez pas le réconfort en guise de conséquence.",
+            "title": "Garder les soins et la présence disponibles",
+            "text": "Maintenez la surveillance, réduisez le bruit ou la pression et répondez aux besoins de soin. Le réconfort n’est pas une récompense à retirer.",
             "icon": "support"
           },
           {
-            "title": "Proposer, sans insister",
-            "text": "Proposez les soutiens familiers qui aident l’enfant à s’apaiser. La respiration, le toucher ou la parole n’aident pas tous les enfants.",
+            "title": "Proposer une aide connue",
+            "text": "Proposez un jouet connu, votre présence ou de l’espace. L’enfant peut ne vouloir ni respiration, ni contact, ni discussion ; proposez une autre aide.",
             "icon": "choice"
           },
           {
-            "title": "Attendre que l’enfant soit prêt",
-            "text": "Observez ses signes habituels de confort et de participation. N’exigez pas immédiatement une explication ou des excuses.",
+            "title": "Chercher l’intérêt sans presser",
+            "text": "Observez les signes habituels de confort ou d’intérêt pour le jeu. Le silence seul ne veut pas dire que l’enfant est prêt pour des questions.",
             "icon": "listen"
           },
           {
-            "title": "Renouer le lien et réparer",
-            "text": "Lorsque l’enfant est prêt, accompagnez une réparation à sa portée et une petite reprise de l’activité. Gardez les soutiens utiles disponibles ; un autre enfant n’a pas à accepter une marque d’affection ni à réconforter quiconque.",
+            "title": "Aider l’enfant à revenir",
+            "text": "Proposez de regarder ou de faire une petite étape facile vers le jeu. N’exigez d’abord ni excuse, ni explication, ni réparation. Aidez à réparer plus tard, quand l’enfant est prêt. Un autre enfant n’a pas à accepter des gestes d’affection.",
             "icon": "repeat"
           },
           {
-            "title": "Revoir le plan des adultes",
-            "text": "Séparez les faits des suppositions. Vérifiez ce que les adultes ont réellement changé, comment l’enfant a communiqué et participé, et ce qu’en disent l’enfant et sa famille. Convenez d’un réexamen ; demandez une aide supplémentaire plus tôt si nécessaire.",
+            "title": "Revoir ce qu’ont fait les adultes",
+            "text": "Notez les faits séparément des suppositions. Les adultes ont-ils fait le changement prévu ? L’enfant a-t-il pu demander de l’aide et profiter des activités ? Comparez avec la famille et l’enseignant ; demandez conseil plus tôt si les inquiétudes augmentent.",
             "icon": "plan"
           }
         ]
@@ -1106,14 +1103,14 @@ window.COURSE_EXTRAS={
     "videos": [
       {
         "id": "v1",
-        "title": "Mode d’emploi : cinq étapes d’échanges réciproques pour soutenir le développement cérébral",
+        "title": "Mode d’emploi : 5 étapes pour échanger à tour de rôle et soutenir le développement du cerveau",
         "publisher": "Center on the Developing Child at Harvard University",
         "url": "https://developingchild.harvard.edu/resources/videos/how-to-5-steps-for-brain-building-serve-and-return/",
         "durationLabel": "Courte vidéo pratique ; facultative",
-        "summary": "Les adultes repèrent ce qui intéresse l’enfant, y répondent, ajoutent des mots, échangent à tour de rôle et suivent les changements de son attention. Le message pratique est de favoriser des échanges réciproques attentifs, sans exiger un contact visuel ou une réponse précise.",
-        "prompt": "Repérez un signal de l’enfant, la réponse de l’adulte et la pause avant le tour suivant. Décrivez comment le même échange peut fonctionner sans parole ni contact visuel obligatoire.",
-        "accessibility": "La page officielle propose un texte explicatif et plusieurs options linguistiques. Le résumé de cette formation constitue une alternative textuelle ; les sous-titres du lecteur et la disponibilité peuvent varier.",
-        "verifiedHosting": "La page officielle de Harvard renvoie à son lecteur YouTube. La page et le titre de la vidéo ont été vérifiés ; la lecture n’a pas été testée de manière indépendante.",
+        "summary": "L’adulte repère ce qui intéresse l’enfant, répond, puis attend son tour. Par exemple, l’enfant montre un jouet ; l’adulte le nomme et fait une pause. L’enfant peut répondre par un geste ou un son. Il n’a pas besoin de parler ni de regarder l’adulte dans les yeux. Les exemples avec des enfants de moins de 12 mois servent seulement à comprendre le sujet ; les activités pratiques de la formation commencent à 12 mois.",
+        "prompt": "Repérez ce que fait l’enfant, comment l’adulte répond et quand il attend. Décrivez ensuite un échange semblable avec un geste à la place de la parole.",
+        "accessibility": "La page officielle propose des explications écrites et plusieurs langues. Vous pouvez faire l’activité à partir de ce résumé sans regarder la vidéo. La disponibilité de la vidéo et des sous-titres peut varier.",
+        "verifiedHosting": "La page officielle de Harvard renvoie à son lecteur YouTube. La page et le titre de la vidéo ont été vérifiés ; son fonctionnement n’a pas été testé directement.",
         "moduleId": "m1",
         "module": 1
       },
@@ -1122,24 +1119,24 @@ window.COURSE_EXTRAS={
         "title": "L’importance des émotions dans le cadre anglais pour la petite enfance (EYFS)",
         "publisher": "Department for Education, England",
         "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
-        "durationLabel": "Courte explication destinée aux professionnels ; facultative",
-        "summary": "Des professionnels abordent les relations qui apportent une sécurité émotionnelle, la reconnaissance des émotions, le temps à laisser aux enfants et le soutien à la réflexion des adultes. Les exemples comprennent la séparation et un conflit autour d’un jouet. L’accent est mis sur un accompagnement ajusté à l’enfant et sur le retour à la résolution de problèmes lorsqu’il est prêt.",
-        "prompt": "Repérez un moment pour réconforter maintenant et un autre pour enseigner plus tard. Quelle exigence modifieriez-vous en plus des paroles de l’adulte ?",
-        "accessibility": "Une transcription complète est disponible sur la page officielle, sous la vidéo Vimeo.",
-        "verifiedHosting": "La page officielle du DfE et le lecteur Vimeo auquel elle renvoie ont été vérifiés. Titre du lecteur : Développement personnel, social et émotionnel dans l’EYFS – Les émotions (EYFS Personal, social and emotional development – Emotions).",
+        "durationLabel": "Courte vidéo explicative pour les professionnels ; facultative",
+        "summary": "Des adultes expliquent comment aider les enfants à se sentir en sécurité, reconnaître leurs émotions et leur laisser du temps. Les exemples portent sur la séparation avec un adulte familier et sur deux enfants qui veulent le même jouet. Le réconfort et l’aide concrète viennent d’abord. On peut attendre que l’enfant puisse participer avant de parler d’une solution.",
+        "prompt": "Repérez un moment où réconforter tout de suite et un autre où apprendre quelque chose plus tard. Proposez aussi un changement concret, comme réduire l’attente ou le nombre d’enfants autour du jouet.",
+        "accessibility": "Le texte complet de la vidéo se trouve sur la page officielle, sous le lecteur Vimeo. Vous pouvez aussi faire l’activité à partir de ce résumé.",
+        "verifiedHosting": "La page officielle du DfE et le lecteur Vimeo associé ont été vérifiés. Titre dans le lecteur : EYFS Personal, social and emotional development – Emotions.",
         "moduleId": "m3",
         "module": 3
       },
       {
         "id": "v3",
-        "title": "Comment les enfants et les adultes peuvent développer des compétences fondamentales pour la vie",
+        "title": "Comment les enfants et les adultes peuvent développer des capacités utiles au quotidien",
         "publisher": "Center on the Developing Child at Harvard University",
         "url": "https://developingchild.harvard.edu/resources/videos/video-building-core-capabilities-life/",
         "durationLabel": "5 minutes ; facultative",
-        "summary": "Cette animation explicative présente les fonctions exécutives et les compétences d’autorégulation tout au long de la vie, la manière dont la pratique les soutient et celle dont le stress peut rendre leur utilisation plus difficile. Considérez ses métaphores visuelles comme des illustrations, et non comme un diagnostic littéral de ce qui se passe dans le cerveau d’un enfant en particulier.",
-        "prompt": "Choisissez une façon concrète d’alléger une exigence pour un adulte et un enfant. Distinguez cette action de l’affirmation que vous connaissez l’état cérébral de l’enfant.",
-        "accessibility": "La page officielle comprend un résumé explicatif écrit ainsi que des versions vidéo en anglais et en japonais. Le résumé de cette formation constitue également une alternative textuelle.",
-        "verifiedHosting": "La page officielle de Harvard confirme le titre et la durée de cinq minutes, et renvoie à son lecteur YouTube ; la lecture n’a pas été testée de manière indépendante.",
+        "summary": "Cette animation explique des capacités comme se souvenir d’un plan, attendre et changer de façon de faire. S’entraîner peut aider à les développer ; le stress peut rendre leur utilisation plus difficile. Les images du cerveau illustrent des idées. Elles ne montrent pas ce qui se passe dans le cerveau d’un enfant en particulier.",
+        "prompt": "Choisissez une façon de rendre une tâche plus facile pour l’adulte et l’enfant, par exemple donner une seule consigne au lieu de plusieurs. Décrivez le changement que vous pouvez observer, sans deviner ce qui se passe dans le cerveau.",
+        "accessibility": "La page officielle propose un résumé écrit et des vidéos en anglais et en japonais. Vous pouvez faire l’activité à partir de ce résumé sans regarder la vidéo.",
+        "verifiedHosting": "La page officielle de Harvard confirme le titre et la durée de 5 minutes, et renvoie à son lecteur YouTube. Le fonctionnement de la vidéo n’a pas été testé directement.",
         "moduleId": "m5",
         "module": 5
       },
@@ -1149,23 +1146,23 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
         "durationLabel": "6 minutes 26 secondes ; visionnage facultatif pour les adultes",
-        "summary": "Un épisode officiel destiné aux enfants de 3 à 5 ans. Alternative textuelle de la formation : les émotions fortes sont permises et un adulte de confiance peut aider. Explorez différents soutiens familiers pendant des moments agréables ; un enfant peut utiliser son moyen de communication préféré pour demander de l’aide. Aucune technique d’apaisement n’est obligatoire.",
-        "prompt": "Choisissez une possibilité pour faire face aux émotions dans l’épisode. Montrez comment vous la proposeriez sans exiger de respiration, de parole ni de contact physique, et ce que vous feriez en cas de refus. Nommez un moment serein pour l’enseigner.",
-        "accessibility": "La page officielle propose des liens vers des ressources gratuites pour éducateurs et adultes accompagnants. Ce résumé de formation fournit une alternative textuelle à l’activité d’apprentissage pour adultes ; la lecture et la disponibilité des sous-titres n’ont pas été testées indépendamment.",
-        "verifiedHosting": "La page officielle de l’épisode du Child Mind Institute, le lecteur YouTube lié et la durée affichée de 6 min 26 s ont été vérifiés le 6 octobre 2026. Les documents d’accompagnement pour éducateurs ont été lus ; la lecture de la vidéo n’a pas été testée indépendamment.",
+        "summary": "Cet épisode est destiné aux enfants de 3–5 ans ; l’activité facultative de la formation s’adresse aux adultes. L’idée principale : les émotions fortes sont permises et un adulte de confiance peut aider. Explorez des façons familières de se sentir mieux pendant des moments faciles. Demander de l’aide avec un geste ou un appareil de communication compte aussi. Aucune technique d’apaisement n’est obligatoire.",
+        "prompt": "Choisissez une activité montrée dans la vidéo et expliquez comment vous la proposeriez. Dites ensuite ce que vous feriez si l’enfant refusait et à quel moment vous pourriez vous entraîner plus tard, sans pression. N’imposez ni exercice de respiration, ni parole, ni contact physique.",
+        "accessibility": "La page officielle donne accès à des ressources gratuites pour les professionnels et les adultes qui accompagnent les enfants. Ce résumé permet de faire l’activité pour adultes sans regarder la vidéo. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement.",
+        "verifiedHosting": "La page officielle de l’épisode du Child Mind Institute, le lecteur YouTube associé et la durée affichée de 6:26 ont été vérifiés le 6 octobre 2026. Les documents pour les professionnels ont été lus ; le fonctionnement de la vidéo n’a pas été testé directement.",
         "moduleId": "m5",
         "module": 5
       },
       {
         "id": "v5",
-        "title": "Helping toddlers learn about feelings",
+        "title": "Aider les tout-petits à découvrir les émotions",
         "publisher": "Raising Children Network; My Toddler and Me series from Karitane and UNSW",
         "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
         "durationLabel": "Courte vidéo sur les émotions des tout-petits ; visionnage facultatif pour les adultes",
-        "summary": "Alternative textuelle de la formation : un tout-petit peut avoir besoin de proximité à un moment et de davantage d’espace à un autre. Restez attentif et disponible lorsque le contact physique est refusé ; utilisez les signaux de l’enfant pour ajuster le soutien et attendez qu’il puisse participer avant d’expliquer ou de s’entraîner.",
-        "prompt": "Qu’est-ce qui change lorsque le tout-petit ne veut pas de contact physique ? Répétez une réponse courte, une distance confortable et une façon de rester disponible. Comparez avec l’arrivée de Priya.",
-        "accessibility": "Une transcription complète est disponible sur la page officielle et a été lue. Ce résumé de formation fournit également une alternative textuelle. La lecture et les sous-titres n’ont pas été testés indépendamment.",
-        "verifiedHosting": "La page officielle du Raising Children Network, la transcription et l’attribution à Karitane/UNSW ont été vérifiées le 6 octobre 2026. La vidéo est republiée avec autorisation ; aucune durée exacte n’est affirmée.",
+        "summary": "Un tout-petit peut vouloir de la proximité, puis avoir besoin d’espace. S’il repousse la main que vous lui proposez, cessez le contact et restez disponible : « Je peux m’asseoir ici. » Observez sa réaction. Gardez les explications et l’entraînement pour un moment où il peut participer.",
+        "prompt": "Comparez cet exemple avec l’arrivée de Priya. Entraînez-vous à dire quelques mots si elle refuse le contact physique. Montrez où vous resteriez pour lui laisser de l’espace tout en pouvant l’aider.",
+        "accessibility": "Le texte complet de la vidéo est disponible sur la page officielle et a été lu. Vous pouvez aussi faire l’activité à partir de ce résumé. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement.",
+        "verifiedHosting": "La page officielle du Raising Children Network, le texte de la vidéo et son attribution à Karitane/UNSW ont été vérifiés le 6 octobre 2026. La vidéo est republiée avec autorisation ; aucune durée exacte n’est annoncée.",
         "moduleId": "m3",
         "module": 3
       }
@@ -1173,372 +1170,372 @@ window.COURSE_EXTRAS={
     "sources": [
       {
         "id": "eef-regulation",
-        "title": "Autorégulation et fonctions exécutives : banque de données probantes sur la petite enfance",
+        "title": "Self-regulation and executive function: Early Years Evidence Store",
         "publisher": "Education Endowment Foundation",
-        "jurisdiction": "Angleterre",
+        "jurisdiction": "England",
         "url": "https://educationendowmentfoundation.org.uk/early-years/evidence-store/self-regulation-and-executive-function",
-        "claim": "Définit les compétences de régulation associées ; soutient l’enseignement, l’exemple donné par l’adulte, la pratique répétée et l’adaptation de l’étayage de l’adulte à l’enfant et au contexte.",
+        "claim": "Explique les capacités qui aident l’enfant à gérer ses émotions, son attention et ses actions. Recommande de montrer, d’expliquer, de s’entraîner plusieurs fois et d’adapter l’aide de l’adulte à l’enfant et à la situation.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "eef-evidence",
-        "title": "Programme de recherche : autorégulation et fonctions exécutives dans la petite enfance",
+        "title": "Research Agenda: Self-Regulation and Executive Function in the Early Years",
         "publisher": "Education Endowment Foundation",
-        "jurisdiction": "Angleterre",
+        "jurisdiction": "England",
         "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-self-regulation-and-executive-function-sref-in-the-early-years",
-        "claim": "Explique le caractère limité et inégal des données probantes sur la petite enfance, notamment les lacunes concernant les enfants les plus jeunes et les interventions de corégulation.",
+        "claim": "Explique que les recherches sur la petite enfance sont encore peu nombreuses et couvrent certains sujets mieux que d’autres. Il manque notamment des études sur les plus jeunes enfants et sur la corégulation, c’est-à-dire l’aide de l’adulte pour gérer les émotions et les actions.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "harvard-activities",
-        "title": "Guide d’activités : développer et exercer les fonctions exécutives chez les enfants, de la petite enfance à l’adolescence",
+        "title": "Activities Guide: Enhancing and Practicing Executive Function Skills with Children from Infancy to Adolescence",
         "publisher": "Center on the Developing Child at Harvard University",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-        "claim": "Le jeu adapté à l’âge permet de pratiquer l’attention, la mémorisation et l’adaptation des actions ; il éclaire les activités originales d’échange avec un nourrisson, d’imitation avec un tout-petit et de marionnettes en préscolaire.",
-        "accessNote": "La page officielle du guide et les PDF pour les 6–18 mois, 18–36 mois et 3–5 ans ont été vérifiés le 6 octobre 2026. Publication originale du guide : 2014. Les suggestions d’âge et les jeux ne sont ni des tests d’étapes du développement ni un traitement validé ; un chemin de téléchargement daté de 2024 n’est pas une nouvelle date de recherche."
+        "claim": "Les jeux adaptés à l’âge permettent de s’exercer à faire attention, à se souvenir et à changer de façon de faire. Ils ont inspiré trois activités originales de la formation : répondre puis attendre avec les enfants de 12 à moins de 18 mois, imiter avec les tout-petits plus âgés et jouer avec des marionnettes en maternelle.",
+        "accessNote": "La page officielle du guide et les PDF pour les 6–18 mois, 18–36 mois et 3–5 ans ont été vérifiés le 6 octobre 2026. Le guide couvre aussi les bébés plus jeunes : dans cette formation, choisissez seulement les activités adaptées au développement des enfants de 12 mois et plus. Le guide a été publié en 2014. Les activités ne sont ni des tests du développement ni un traitement dont l’efficacité a été démontrée. La date 2024 dans l’adresse du fichier indique sa mise en ligne, pas une nouvelle recherche. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "harvard-serve",
-        "title": "Échanges réciproques (« Serve and Return »)",
+        "title": "Serve and Return",
         "publisher": "Center on the Developing Child at Harvard University",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/",
-        "claim": "Des échanges réciproques attentifs avec des adultes bienveillants soutiennent le développement précoce de la communication et des compétences sociales.",
-        "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
+        "claim": "Des échanges où l’adulte bienveillant répond à l’enfant, puis lui laisse son tour, aident à développer la communication et les relations avec les autres.",
+        "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "acecqa-regulation",
-        "title": "Fiche d’information QA5 : aider les enfants à réguler leur propre comportement",
+        "title": "QA5 information sheet: Supporting children to regulate their own behaviour",
         "publisher": "Australian Children’s Education and Care Quality Authority",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://www.acecqa.gov.au/qa5-information-sheet-supporting-children-regulate-their-own-behaviour",
-        "claim": "Souligne l’importance des relations chaleureuses, des capacités fluctuantes, de la régulation de l’adulte, de la réflexion sur l’environnement et de l’enseignement des compétences dans les moments de calme.",
+        "claim": "Souligne l’importance de relations chaleureuses et rappelle que les capacités de l’enfant varient selon les moments. L’adulte doit aussi gérer ses propres réactions, réfléchir à ce qui entoure l’enfant et lui apprendre de nouvelles façons de faire pendant les moments calmes.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "acecqa-discipline",
-        "title": "Fiche d’information QA5 : pratiques disciplinaires inappropriées",
+        "title": "QA5 information sheet: Inappropriate discipline",
         "publisher": "Australian Children’s Education and Care Quality Authority",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://www.acecqa.gov.au/qa5-information-sheet-inappropriate-discipline",
-        "claim": "Distingue le retour au calme accompagné de la punition et identifie les pratiques disciplinaires inappropriées. Les dispositions juridiques concernent son cadre australien ; cette formation ne les présente pas comme des règles de droit universelles.",
+        "claim": "Distingue l’aide au retour au calme de la punition et décrit les pratiques disciplinaires inadaptées. Les règles de droit citées concernent l’Australie. La formation ne les présente pas comme des lois valables partout.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "acecqa-self-regulation",
-        "title": "Élément 5.2.2 : autorégulation",
+        "title": "Element 5.2.2: Self-regulation",
         "publisher": "Australian Children’s Education and Care Quality Authority",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://www.acecqa.gov.au/element-522-self-regulation",
-        "claim": "Soutient l’expression des émotions, la résolution des conflits, la réflexion des professionnels de l’éducation et le partenariat avec les familles et les autres professionnels.",
+        "claim": "Encourage à aider les enfants à exprimer leurs émotions et à résoudre les conflits. Invite les adultes à réfléchir à leurs pratiques et à travailler avec les familles et les autres professionnels.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "acecqa-inclusion",
-        "title": "Inclusion et pratiques inclusives",
+        "title": "Inclusion and inclusive practice",
         "publisher": "Australian Children’s Education and Care Quality Authority",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://www.acecqa.gov.au/latest-news/inclusion-and-inclusive-practice",
-        "claim": "Décrit une corégulation attentive grâce à une présence disponible, un ton doux et des choix respectueux du rythme et des besoins de l’enfant.",
+        "claim": "Décrit comment aider l’enfant grâce à une présence disponible, une voix douce et des choix qui respectent son rythme et ses besoins.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "nice-autism",
-        "title": "Trouble du spectre de l’autisme chez les moins de 19 ans : soutien et accompagnement, recommandations 1.1.9 et 1.4",
+        "title": "Autism spectrum disorder in under 19s: support and management, recommendations 1.1.9 and 1.4",
         "publisher": "National Institute for Health and Care Excellence",
-        "jurisdiction": "Royaume-Uni",
+        "jurisdiction": "United Kingdom",
         "url": "https://www.nice.org.uk/guidance/cg170/chapter/recommendations",
-        "claim": "Recommande de prêter attention à la communication, à l’environnement sensoriel, à la prévisibilité, aux facteurs de santé possibles et à un accompagnement individualisé éclairé par les connaissances de la famille. Les recommandations cliniques n’autorisent pas les professionnels de l’éducation à poser un diagnostic ou à prescrire.",
+        "claim": "Recommande de prendre en compte la communication, les bruits et autres sensations, les repères prévisibles et les éventuels problèmes de santé. L’aide doit être adaptée à l’enfant avec les connaissances de sa famille. Ces recommandations de santé n’autorisent pas les professionnels de l’éducation à poser un diagnostic ou à prescrire un traitement.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "ncpmi-visuals",
-        "title": "Supports visuels pour les routines, les emplois du temps et les transitions",
+        "title": "Visual Supports for Routines, Schedules, and Transitions",
         "publisher": "National Center for Pyramid Model Innovations, University of South Florida",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://www.challengingbehavior.org/document/visual-supports-for-routines-schedules-and-transitions/",
-        "claim": "Propose des outils pour les emplois du temps visuels, les cartes de routines et les supports « d’abord / ensuite ».",
+        "claim": "Propose des emplois du temps en images, des cartes pour les moments du quotidien et des supports « d’abord / ensuite ».",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "ncpmi-calm",
-        "title": "Aidez-nous à rester calmes",
+        "title": "Help Us Stay Calm",
         "publisher": "National Center for Pyramid Model Innovations",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://www.challengingbehavior.org/docs/Stay-Calm_Infographic.pdf",
-        "claim": "Encourage les adultes à réguler leurs propres réactions, à réfléchir et à renouer le lien avant d’utiliser l’interaction comme occasion d’apprentissage.",
+        "claim": "Encourage l’adulte à gérer ses propres réactions, à réfléchir à la situation et à rétablir le lien avec l’enfant avant de lui apprendre une nouvelle façon de faire.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "ncpmi-response",
-        "title": "Conseils pour répondre aux comportements difficiles chez les jeunes enfants",
+        "title": "Tips for Responding to Challenging Behavior in Young Children",
         "publisher": "Strain, Joseph, Hemmeter, Barton and Fox; hosted by NCPMI",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/wp-content/uploads/2025/02/2017-01-PEP-Tips.pdf",
-        "claim": "Les stratégies de réponse doivent accompagner une prévention et un enseignement délibérés, plutôt que les remplacer.",
+        "claim": "Les façons de réagir aux comportements difficiles doivent compléter un travail préparé à l’avance pour prévenir les difficultés et apprendre de nouvelles façons de faire. Elles ne remplacent pas ce travail.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "ncpmi-teaching",
-        "title": "Tu as réussi ! Enseigner les compétences sociales et émotionnelles",
+        "title": "You Got It! Teaching Social and Emotional Skills",
         "publisher": "Fox and Lentini; hosted by NCPMI",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/docs/YouGotIt_Teaching-Social-Emotional-Skills.pdf",
-        "claim": "Étaye la présentation, la pratique répétée qui a du sens, les retours précis et la généralisation entre contextes ; éclaire la séquence montrer–répéter–utiliser dans la vraie routine de la formation.",
-        "accessNote": "Article officiel de sept pages de Fox et Lentini, novembre 2006, vérifié le 6 octobre 2026. L’hébergement actuel ne constitue pas une nouvelle date de publication. Les exemples centrés sur la parole ou le guidage physique ne priment pas sur les garanties d’accès à la communication, de consentement et de soins."
+        "claim": "Recommande de présenter une nouvelle façon de faire, de s’y exercer plusieurs fois dans des situations utiles, de dire précisément ce qui aide et de l’utiliser dans différents moments du quotidien. A inspiré la suite « montrer, s’entraîner, utiliser dans la vraie situation » de cette formation.",
+        "accessNote": "Article officiel de 7 pages de Fox et Lentini, publié en novembre 2006 et vérifié le 6 octobre 2026. Sa présence sur le site actuel ne change pas sa date de publication. Même si certains exemples privilégient la parole ou le guidage physique, il faut respecter le moyen de communication de l’enfant, son accord et ses besoins de soins."
       },
       {
         "id": "ncpmi-emotions",
-        "title": "Stratégies d’enseignement des compétences sociales et émotionnelles : enrichir le vocabulaire des émotions",
+        "title": "Social Emotional Teaching Strategies: Enhancing Emotional Vocabulary",
         "publisher": "Center on the Social and Emotional Foundations for Early Learning; hosted by NCPMI",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/docs/ttyc/TTYC_A_EnhancingEmotVoc.pdf",
-        "claim": "Décrit le vocabulaire des émotions, l’exemple donné par l’adulte, les jeux de rôle et la pratique à partir d’histoires comme des composantes d’un enseignement plus large des compétences sociales et émotionnelles.",
+        "claim": "Présente les mots des émotions, l’exemple donné par l’adulte, les jeux de rôle et les histoires comme des moyens d’apprendre à vivre avec ses émotions et avec les autres.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "headstart-communication",
-        "title": "Comprendre le comportement des enfants comme un moyen de communication",
+        "title": "Understanding Children’s Behavior as Communication",
         "publisher": "Office of Head Start, Administration for Children and Families",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://headstart.gov/mental-health/article/understanding-childrens-behavior-communication",
-        "claim": "Soutient un partenariat avec les familles fondé sur la relation et une interprétation des comportements dans leur contexte chez les enfants de la naissance à cinq ans.",
-        "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
+        "claim": "Encourage une relation de confiance avec les familles et invite à comprendre le comportement en tenant compte de la situation de l’enfant, de la naissance à 5 ans.",
+        "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "acf-snapshots",
-        "title": "Stratégies pour soutenir l’autorégulation : série de fiches synthétiques",
+        "title": "Strategies for Supporting Self-Regulation: Snapshot Series",
         "publisher": "Office of Head Start / Administration for Children and Families",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://headstart.gov/mental-health/article/strategies-supporting-self-regulation-snapshot-series",
-        "claim": "Présente la corégulation par l’adulte et renvoie vers des ressources pratiques adaptées à l’âge, fondées sur les rapports de l’ACF sur l’autorégulation et le stress toxique.",
-        "accessNote": "Titre et description officiels vérifiés dans les résultats de recherche indexés ; l’accès direct a renvoyé une erreur 403. Lecture complémentaire, qui ne constitue l’unique fondement d’aucune affirmation de la formation."
+        "claim": "Présente l’aide de l’adulte pour gérer les émotions et les actions, avec des liens vers des ressources adaptées à différents âges. S’appuie sur les rapports de l’ACF intitulés Self-Regulation and Toxic Stress.",
+        "accessNote": "Le titre et la description officiels ont été vérifiés dans les résultats de recherche. L’accès direct a renvoyé une erreur 403. Il s’agit d’une lecture complémentaire : aucune affirmation de la formation ne repose uniquement sur cette source."
       },
       {
         "id": "dfe-emotions",
-        "title": "Aide aux professionnels de la petite enfance : les émotions",
+        "title": "Help for early years providers: Emotions",
         "publisher": "Department for Education",
-        "jurisdiction": "Angleterre",
+        "jurisdiction": "England",
         "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
-        "claim": "Soutient un accompagnement émotionnel empathique, le recours au langage et aux supports visuels, la réflexion et les connaissances des familles. Comprend la transcription d’une vidéo officielle.",
+        "claim": "Encourage à accueillir les émotions avec compréhension, à utiliser les mots et les images qui aident l’enfant, à réfléchir à sa pratique et à s’appuyer sur ce que sait la famille. La page comprend le texte complet d’une vidéo officielle.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "dfe-mental-health",
-        "title": "La santé mentale des jeunes enfants",
+        "title": "Mental health for early years children",
         "publisher": "Department for Education, developed with early-years and health professionals",
-        "jurisdiction": "Angleterre",
+        "jurisdiction": "England",
         "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/mental-health-for-early-years-children",
-        "claim": "Aborde les fonctionnements individuels, les changements nécessitant un soutien, le partenariat avec les familles et les professionnels, ainsi que le recours aux circuits de protection de l’enfance.",
+        "claim": "Aborde les habitudes propres à chaque enfant, les changements qui demandent de l’aide, le travail avec les familles et les professionnels, et les démarches de protection de l’enfance lorsqu’une inquiétude doit être signalée.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "safeguarding",
-        "title": "Assurer la sécurité des enfants dans l’éducation 2026 : première partie – aperçu pour l’ensemble du personnel",
+        "title": "Keeping children safe in education 2026: part one – overview for all staff",
         "publisher": "Department for Education",
-        "jurisdiction": "Angleterre",
+        "jurisdiction": "England",
         "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2/part-one-overview-for-all-staff",
-        "claim": "Exige une action rapide, le recours aux circuits locaux de protection de l’enfance et la tenue de dossiers ; un danger immédiat nécessite une réponse d’urgence. Cet aperçu propre à l’Angleterre complète les recommandations intégrales sans les remplacer. Utilisez l’équivalent en vigueur dans votre pays ou région.",
+        "claim": "Demande d’agir rapidement, de suivre les démarches locales de protection de l’enfance et de garder une trace écrite. Un danger immédiat nécessite une réponse d’urgence. Ce résumé concerne l’Angleterre et complète le guide intégral sans le remplacer. Utilisez les consignes en vigueur dans votre pays ou votre région.",
         "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
       },
       {
         "id": "ztt-coregulation",
         "title": "It Takes Two: The Role of Co-Regulation in Building Self-Regulation Skills",
         "publisher": "ZERO TO THREE",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-        "claim": "Étaye les soins aux nourrissons attentifs à leurs signaux, les relations familières et l’émergence de l’autorégulation avec une dépendance encore importante à l’adulte.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Recommandations de pratique professionnelle, pas une évaluation de cette formation. Aucun compte n’était nécessaire pour consulter la page."
+        "claim": "Encourage à répondre aux signes donnés par les bébés et à s’appuyer sur des adultes familiers. Les premières capacités à gérer leurs réactions se développent alors qu’ils ont encore beaucoup besoin de l’adulte.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Il s’agit de conseils professionnels, pas d’une évaluation de cette formation. Aucun compte n’était nécessaire pour lire la page. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "ztt-toddlers",
         "title": "Helping Toddlers Develop Self-Control From 24–36 Months",
         "publisher": "ZERO TO THREE",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://www.zerotothree.org/resource/developing-self-control-from-24-36-months/",
-        "claim": "Étaye le contrôle des impulsions encore en développement, les paroles brèves soutenues par des gestes et les tours de rôle partagés à la portée de l’enfant. Les groupes d’âge de la formation sont des repères de préparation, pas des seuils de performance.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Utiliser de manière sélective la discussion sur le développement. La formation exclut les câlins par surprise, le blocage physique et les suggestions de temps seul."
+        "claim": "Rappelle que les tout-petits apprennent encore à retenir une impulsion. Conseille des phrases courtes accompagnées de gestes et des tours de rôle à leur portée. Les tranches d’âge de la formation aident à préparer les activités ; elles ne fixent pas ce que chaque enfant doit réussir.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ne reprenez que les conseils sur le développement adaptés à cette formation. Les câlins par surprise, le blocage physique et les propositions de laisser l’enfant seul en sont exclus."
       },
       {
         "id": "ztt-tantrums",
         "title": "Toddler Tantrums 101: Why They Happen and What You Can Do",
         "publisher": "ZERO TO THREE",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://www.zerotothree.org/resource/toddler-tantrums-101-why-they-happen-and-what-you-can-do/",
-        "claim": "Étaye la préparation, les choix réels, les limites brèves et le lien attentif, sans promettre un calme immédiat.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La formation ne reprend ni seuils catégoriques liés aux anniversaires ni affirmation selon laquelle la colère devrait être déchargée."
+        "claim": "Encourage à préparer l’enfant, à lui donner de vrais choix, à poser des limites en peu de mots et à rester en lien avec lui. Ne promet pas un retour au calme immédiat.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La formation ne reprend pas de règles rigides sur ce qu’un enfant doit savoir faire à son anniversaire, ni l’idée qu’il doit « évacuer » sa colère."
       },
       {
         "id": "rcn-cues",
         "title": "Baby and toddler cues: in pictures",
         "publisher": "Raising Children Network",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-        "claim": "Étaye l’observation des invitations à interagir, des signaux de pause et de l’évolution de la participation, tout en vérifiant le contexte individuel et familial.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le guide officiel pour les 0–18 mois et le document imprimable anglais ont été lus. Les images sont accessibles par lien et ne sont pas copiées ; les signaux individuels ne sont pas des tests diagnostiques."
+        "claim": "Invite à observer quand l’enfant cherche un échange, quand il a besoin d’une pause et comment sa participation change. Ces signes se comprennent avec ce que l’on sait de l’enfant et de sa famille.",
+        "accessNote": "Le guide officiel couvre les 0–18 mois, y compris les bébés plus jeunes. Pour cette formation, retenez les conseils d’observation adaptés aux enfants à partir de 12 mois. Les images sont accessibles par lien, sans être copiées. Un signe isolé ne permet pas de poser un diagnostic. La page et la version imprimable en anglais ont été vérifiées le 6 octobre 2026. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "rcn-baby-care",
         "title": "Soothing a crying baby: in pictures",
         "publisher": "Raising Children Network",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/babies/behaviour/crying/soothing-a-crying-baby",
-        "claim": "Étaye la vérification des besoins de soins, du confort, de la douleur ou d’une éventuelle maladie, la demande d’aide à un adulte et l’interdiction de secouer un bébé.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le contenu n’est pas repris comme formation à l’alimentation, à l’emmaillotage, à la manipulation, aux soins médicaux ou au sommeil. Les procédures approuvées de soins et de sécurité pendant le sommeil restent nécessaires."
+        "claim": "Pour comprendre le sujet uniquement : rappelle de vérifier les besoins de soins et de confort, une douleur ou une maladie possible, de demander l’aide d’un adulte et de ne jamais secouer un enfant. Ce n’est pas une activité pratique à réaliser avec les moins de 12 mois.",
+        "accessNote": "Cette source est conservée pour indiquer l’origine des conseils. Elle concerne les bébés, y compris ceux de moins de 12 mois, et ne fait pas partie des activités pratiques de cette formation à partir de 12 mois. Les soins suivent le plan individuel de l’enfant et les procédures approuvées de l’établissement. Aucune technique pour porter l’enfant, le nourrir ou le faire dormir n’est enseignée ici."
       },
       {
         "id": "rcn-overstimulation",
         "title": "Overstimulated baby, toddler or child: signs and what to do",
         "publisher": "Raising Children Network",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/toddlers/behaviour/common-concerns/overstimulation",
-        "claim": "Étaye la variation individuelle de la tolérance et la réduction des sons, activités ou manipulations qui se cumulent, tout en observant la réaction.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La formation exclut les instructions d’enveloppement, de couverture de landau et de portage en écharpe, et ne prescrit aucun traitement sensoriel."
+        "claim": "Rappelle que chaque enfant supporte différemment les bruits, les activités et les contacts physiques. Propose de réduire ce qui se cumule autour de lui et d’observer sa réaction.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La formation exclut les consignes pour emmailloter un enfant, couvrir un landau ou utiliser une écharpe de portage. Elle ne prescrit aucun traitement des difficultés sensorielles. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "rcn-toddler-feelings",
         "title": "Helping toddlers learn about feelings",
         "publisher": "Raising Children Network; Karitane and UNSW",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
-        "claim": "Étaye une proximité attentive, le respect d’un tout-petit qui refuse le contact physique et la reprise de l’apprentissage lorsque la participation est possible.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La transcription officielle complète a été lue ; l’attribution de la page a été vérifiée. La lecture et les sous-titres n’ont pas été testés indépendamment."
+        "claim": "Encourage à adapter sa proximité aux besoins du tout-petit, à respecter son refus du contact physique et à reprendre les explications ou l’entraînement lorsqu’il peut participer.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le texte complet de la vidéo a été lu et les organismes indiqués sur la page ont été vérifiés. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement."
       },
       {
         "id": "rcn-preschool-play",
         "title": "Emotions and play: preschoolers",
         "publisher": "Raising Children Network",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/preschoolers/play-learning/play-preschooler-development/emotions-play-preschoolers",
-        "claim": "Étaye les jeux de faire semblant, l’émergence du langage des émotions et une participation variable soutenue par l’adulte pendant les années préscolaires.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La tranche de 3 à 5 ans de la source est un repère général, pas une évaluation validée des étapes du développement. Les activités originales de la formation s’adaptent aussi à chaque enfant de six ans."
+        "claim": "Encourage les jeux de faire semblant et l’apprentissage des mots des émotions chez les enfants de maternelle. La participation varie et reste soutenue par l’adulte.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La tranche de 3–5 ans est un repère général, pas un test validé du développement. Les activités originales de la formation peuvent aussi être adaptées à chaque enfant de 6 ans."
       },
       {
         "id": "rcn-help-routes",
         "title": "Self-regulation in children and teenagers",
         "publisher": "Raising Children Network",
-        "jurisdiction": "Australie",
+        "jurisdiction": "Australia",
         "url": "https://raisingchildren.net.au/toddlers/development/toddlers-social-emotional-development/self-regulation",
-        "claim": "Étaye des compétences dépendantes du contexte et le recours à des conseils professionnels en cas d’inquiétude persistante, de retrait, de danger ou d’impact sur la vie quotidienne.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Les descriptions australiennes d’orientation vers des professionnels nécessitent une adaptation locale ; les voies d’urgence et de protection de l’enfance viennent des procédures actuelles de l’établissement."
+        "claim": "Rappelle que les capacités de l’enfant dépendent aussi de la situation. Conseille de demander un avis professionnel en cas d’inquiétude persistante, de retrait, de danger ou de difficultés qui touchent la vie quotidienne.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Les démarches australiennes pour demander un avis doivent être adaptées au lieu où vous travaillez. Pour les urgences et la protection de l’enfance, suivez les procédures en vigueur dans votre établissement."
       },
       {
         "id": "cmi-coregulation",
         "title": "What Is Co-Regulation?",
         "publisher": "Child Mind Institute",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://childmind.org/article/what-is-co-regulation/",
-        "claim": "Étaye la conscience de soi de l’adulte, l’exemple donné, les différentes manifestations de détresse et la présentation de soutiens familiers avant une crise.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Conseils au public relus par un clinicien. La formation exclut le contact visuel ou physique obligatoire et ne déduit pas d’effets des neurones miroirs ou des hormones dans une interaction individuelle."
+        "claim": "Invite l’adulte à repérer ses propres réactions et à montrer des façons de faire. Rappelle que la détresse se manifeste de différentes manières et conseille de faire découvrir des aides familières avant une crise.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ces conseils destinés au public ont été relus par un professionnel de santé. La formation n’impose ni regard ni contact physique. Elle ne prétend pas savoir comment les cellules du cerveau ou les hormones de l’enfant réagissent lors d’un échange."
       },
       {
         "id": "cmi-skill-practice",
         "title": "How Can We Help Kids With Self-Regulation?",
         "publisher": "Child Mind Institute",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://childmind.org/article/can-help-kids-self-regulation/",
-        "claim": "Étaye une pratique à la portée de l’enfant d’une compétence précise et un accompagnement de l’adulte ajusté progressivement.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Ce n’est ni une norme de compétence fondée sur les anniversaires ni la preuve qu’un réconfort attentif crée une dépendance."
+        "claim": "Encourage à s’exercer à une capacité précise, avec une difficulté à la portée de l’enfant et une aide de l’adulte ajustée peu à peu.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ce n’est pas une liste de capacités à atteindre à un âge précis. Ce n’est pas non plus une preuve que réconforter un enfant selon ses besoins le rend dépendant."
       },
       {
         "id": "cmi-prek-guide",
         "title": "Healthy Minds, Thriving Kids Pre-K: Educator Guide",
         "publisher": "Child Mind Institute",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://childmind.org/wp-content/uploads/2024/03/hmtkprek-educator-guide-eng.pdf",
-        "claim": "Étaye l’exemple donné par l’adulte, les pratiques courtes répétées et l’usage des compétences dans les routines quotidiennes. L’exemple de Sofia ajoute des vérifications explicites de l’accès à la communication et de la réponse de l’adulte.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le guide complet de 21 pages a été lu. Les supports d’un programme de marque ne prouvent pas que cette formation adaptée pour le personnel a été évaluée. Liens uniquement ; aucune illustration de l’organisme n’est reproduite."
+        "claim": "Encourage l’adulte à montrer comment faire, à proposer des entraînements courts et répétés et à réutiliser ces capacités au quotidien. L’exemple de Sofia dans cette formation ajoute des vérifications sur les moyens de communication de l’enfant et sur la réponse de l’adulte.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le guide complet de 21 pages a été lu. Les supports de ce programme ne prouvent pas que cette formation adaptée aux professionnels a été évaluée. Ils sont accessibles par lien ; aucune illustration de l’organisme n’est reproduite."
       },
       {
         "id": "cmi-big-feelings",
         "title": "Having Big Feelings: Healthy Minds, Thriving Kids Pre-K",
         "publisher": "Child Mind Institute",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
-        "claim": "Propose une vidéo préscolaire facultative et des ressources pour éducateurs afin d’explorer les émotions et différentes façons d’y faire face pendant des moments agréables.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page officielle de l’épisode et la durée de 6 min 26 s ont été vérifiées. Une activité de visionnage pour adultes et une alternative textuelle sont fournies ; la lecture et les sous-titres n’ont pas été testés indépendamment."
+        "claim": "Propose une vidéo facultative pour les enfants de maternelle et des ressources pour les adultes. Elles permettent de parler des émotions et d’explorer différentes aides pendant des moments où l’enfant se sent bien.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page officielle de l’épisode et la durée de 6:26 ont été vérifiées. La formation propose une activité de visionnage pour adultes et un résumé qui permet de la faire sans regarder. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement."
       },
       {
         "id": "cmi-seek-care",
         "title": "Should I Get Care for My Child?",
         "publisher": "Child Mind Institute",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://childmind.org/article/should-i-get-care-for-my-child/",
-        "claim": "Étaye des observations précises de la fréquence, de l’intensité, de la durée, du contexte et de la participation pour envisager des conseils supplémentaires.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Ce n’est ni un seuil scolaire d’orientation ni un guide d’urgence. N’attendez pas un mois, un nombre fixe d’incidents ou un diagnostic avant de demander l’aide nécessaire."
+        "claim": "Conseille de noter à quelle fréquence une difficulté survient, son intensité, sa durée, la situation et ses effets sur la participation de l’enfant pour réfléchir à l’aide supplémentaire à demander.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ce n’est ni une règle scolaire indiquant quand demander un avis, ni un guide d’urgence. N’attendez pas un mois, un nombre précis d’incidents ou un diagnostic pour demander l’aide nécessaire."
       },
       {
         "id": "ncpmi-infant",
         "title": "Things That Will Help Me Stay Calm – Infants",
         "publisher": "National Center for Pyramid Model Innovations",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/document/things-that-will-help-me-stay-calm-infants-pdf/",
-        "claim": "Étaye les interactions attentives de l’adulte, l’observation des signaux et les routines de soins familières pour les nourrissons.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page officielle et le PDF d’une page ont été lus sans connexion. L’adulte applique les conseils ; on n’attend pas des nourrissons qu’ils utilisent un tableau. Ce n’est pas une formation à la sécurité pendant le sommeil."
+        "claim": "Pour comprendre le sujet uniquement : explique comment l’adulte répond au bébé, repère ses signes et s’appuie sur des soins familiers. Ce n’est pas une activité pratique à réaliser avec les moins de 12 mois.",
+        "accessNote": "Cette source est conservée pour indiquer l’origine des conseils. Elle ne constitue pas une activité pratique pour les enfants de moins de 12 mois, âge de début de la formation. Utilisez les habitudes adaptées aux tout-petits et le plan de soins approuvé de l’enfant. La source a été lue sans connexion à un compte ; ce n’est pas une formation à la sécurité du sommeil."
       },
       {
         "id": "ncpmi-responsive-routines",
         "title": "Responsive Routines Inventory",
         "publisher": "National Center for Pyramid Model Innovations",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/wp-content/uploads/2023/04/responsive_routines_inventory.pdf",
-        "claim": "Étaye les routines souples pour nourrissons et tout-petits, le partenariat avec les familles, un adulte de soins référent et une arrivée accompagnée.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le PDF de huit pages a été lu ; le document est daté du 22 septembre 2023. Il ne remplace pas les procédures actuelles de soins sécurisés, de sécurité pendant le sommeil ou d’accès aux toilettes."
+        "claim": "Encourage des habitudes quotidiennes souples pour les bébés et les tout-petits, le travail avec les familles, un adulte de soins référent et une arrivée accompagnée.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le PDF de 8 pages a été lu ; il est daté du 22 septembre 2023. Il ne remplace pas les procédures actuelles pour les soins, la sécurité du sommeil ou l’accès aux toilettes. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
       },
       {
         "id": "ncpmi-visuals-2025",
         "title": "Using Visuals to Support Children in the Early Learning Environment",
         "publisher": "National Center for Pyramid Model Innovations",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-        "claim": "Étaye les images qui ont du sens, les emplois du temps accessibles là où ils sont utilisés, l’indication de la fin des activités et des changements, et les libellés dans une langue familière.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page et le guide de sept pages de juin 2025 ont été lus sans connexion. Les outils « maintenant/ensuite » expliquent des séquences fidèles à la réalité ; les besoins essentiels, le lien et la communication ne sont jamais des récompenses conditionnelles. Uniquement des illustrations originales de la formation."
+        "claim": "Conseille des images que l’enfant comprend, un emploi du temps accessible là où il en a besoin, des repères pour montrer qu’une activité est finie ou qu’un changement est prévu, et des mots dans une langue familière.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page et le guide de 7 pages de juin 2025 ont été lus sans connexion à un compte. Les outils « maintenant / ensuite » de la formation montrent ce qui va réellement se passer. Les besoins essentiels, la présence de l’adulte et les moyens de communiquer ne sont jamais des récompenses à gagner. La formation utilise uniquement ses propres illustrations."
       },
       {
         "id": "ncpmi-routine-plan",
         "title": "Teaching Tools for Young Children: Using Function-Informed Support to Address Challenging Behavior within Routines, fourth edition",
         "publisher": "Lentini and colleagues; National Center for Pyramid Model Innovations",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://challengingbehavior.org/wp-content/uploads/2025/06/ttyc_guide.pdf",
-        "claim": "Étaye la prévention propre à une routine, l’apprentissage, la réponse de l’adulte, le partenariat familial et le suivi, qui éclairent la structure du plan original de Leo.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le guide de 91 pages de juin 2025 a été lu. Il ne forme pas à déterminer la fonction d’un comportement, ne remplace pas une évaluation formelle et ne suffit pas face à des inquiétudes graves et persistantes. Lien uniquement ; plan original de la formation, pas un modèle copié."
+        "claim": "Conseille de préparer chaque moment du quotidien : prévenir les difficultés, enseigner une autre façon de faire, prévoir la réponse de l’adulte, travailler avec la famille et suivre ce qui change. A inspiré la structure du plan original de Leo.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le guide de 91 pages de juin 2025 a été lu. Il ne forme pas à déterminer la raison d’un comportement, ne remplace pas une évaluation professionnelle et ne suffit pas face à des difficultés graves et persistantes. Le guide est accessible par lien. Le plan de la formation est original ; ce n’est pas un modèle copié."
       },
       {
         "id": "cd-visual-schedule",
         "title": "Visual Daily Schedule",
         "publisher": "Conscious Discipline",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-        "claim": "Exemple de routines visibles et prévisibles d’un programme identifié. Permet d’explorer l’utilisation concrète d’un emploi du temps ; la formation exige par ailleurs une communication individuelle qui a du sens.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La description publique a été lue ; un compte gratuit peut être nécessaire pour le téléchargement. La formation ne copie pas le document imprimable et ne reprend pas une affirmation universelle selon laquelle les enfants pensent uniquement en images."
+        "claim": "Exemple d’un programme nommé, qui rend les moments du quotidien visibles et prévisibles. Permet de réfléchir à l’utilisation concrète d’un emploi du temps. La formation demande aussi, selon ses propres règles, une communication que chaque enfant comprend.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La description publique a été lue ; un compte gratuit peut être nécessaire pour télécharger le document. La formation ne copie pas ce document et ne reprend pas l’idée que tous les enfants pensent uniquement en images."
       },
       {
         "id": "cd-supported-space",
         "title": "Toddler Bedroom: Safe Place",
         "publisher": "Conscious Discipline",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
-        "claim": "Exemple de marque d’apaisement soutenu par l’adulte et d’apprentissage de l’usage d’un espace avant la détresse. Éclaire la réflexion sur la disponibilité de l’adulte, sans imposer de séquence.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page publique a été lue ; la lecture de la vidéo n’a pas été testée. Safe Place et les étapes associées sont des supports de marque, pas des preuves indépendantes d’efficacité. Aucun personnage ni texte copié, aucune respiration ni aucun contact physique imposés."
+        "claim": "Exemple d’un programme qui propose un espace où l’adulte aide l’enfant à s’apaiser. Son utilisation est apprise avant les moments de détresse. Sert à réfléchir à la disponibilité de l’adulte, sans imposer une suite d’étapes.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page publique a été lue ; le fonctionnement de la vidéo n’a pas été testé. Safe Place et ses étapes appartiennent à ce programme : ils ne constituent pas une preuve indépendante d’efficacité. Aucun personnage ni texte n’est copié. Aucun exercice de respiration ni contact physique n’est imposé."
       },
       {
         "id": "cd-feelings",
         "title": "Feeling Faces: Happy, Sad, Angry, Scared",
         "publisher": "Conscious Discipline",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-        "claim": "Propose des illustrations facultatives d’un programme pour échanger sur les émotions. La formation accepte l’incertitude, la confidentialité, plusieurs interprétations et la communication non orale.",
-        "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page officielle et le PDF de cinq pages ont été ouverts sans connexion. Les illustrations protégées de l’organisme ne sont ni incluses, ni traduites, ni présentées sous une autre marque. Nommer une émotion n’est jamais exigé pour recevoir du réconfort."
+        "claim": "Propose des illustrations facultatives pour parler des émotions. Dans la formation, l’enfant peut ne pas savoir ce qu’il ressent, garder ses émotions pour lui ou communiquer sans parler. Une image peut être comprise de plusieurs façons.",
+        "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page officielle et le PDF de 5 pages ont été ouverts sans connexion à un compte. Les illustrations protégées de l’organisme ne sont ni reproduites, ni traduites, ni présentées sous une autre marque. Un enfant n’a jamais besoin de nommer son émotion pour recevoir du réconfort."
       },
       {
         "id": "cd-evaluation",
         "title": "Preschool Promise Child Assessments Technical Report 2017–2018",
         "publisher": "Mary Fuhs, University of Dayton (September 2018); linked by Conscious Discipline",
-        "jurisdiction": "États-Unis",
+        "jurisdiction": "United States",
         "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
-        "claim": "Rapporte une association entre la fidélité de mise en œuvre et les scores de fonctions exécutives au printemps dans 45 classes participantes en 2017–2018, après ajustement sur les covariables mesurées.",
-        "accessNote": "Rapport de 23 pages accessible par un lien officiel, vérifié le 6 octobre 2026. Il décrit un contrat local avec Learn to Earn Dayton ; le fait que Conscious Discipline fournisse un lien ne signifie pas que le programme l’a commandé. Cette évaluation observationnelle n’est ni un test randomisé de chaque pratique, ni un essai de cette formation, ni la preuve d’un mécanisme cérébral."
+        "claim": "Dans 45 classes participantes en 2017–2018, le rapport observe un lien entre l’application du programme comme prévu et les résultats du printemps pour les capacités à se concentrer, à garder une consigne en tête et à adapter ses actions. L’analyse tient compte des autres facteurs mesurés.",
+        "accessNote": "Le rapport de 23 pages, accessible par un lien officiel, a été vérifié le 6 octobre 2026. Il décrit un contrat local avec Learn to Earn Dayton. Le fait que Conscious Discipline y renvoie ne signifie pas que le programme l’a commandé. L’étude observe un lien : elle ne teste pas chaque pratique en répartissant les classes au hasard. Elle n’évalue pas cette formation et ne prouve pas un mécanisme dans le cerveau."
       }
     ],
     "moduleSources": {
@@ -1554,7 +1551,6 @@ window.COURSE_EXTRAS={
       "2": [
         "ncpmi-visuals-2025",
         "ncpmi-responsive-routines",
-        "rcn-baby-care",
         "rcn-overstimulation",
         "nice-autism",
         "cd-visual-schedule",
@@ -1571,7 +1567,6 @@ window.COURSE_EXTRAS={
         "acecqa-discipline",
         "dfe-mental-health",
         "safeguarding",
-        "ncpmi-infant",
         "rcn-toddler-feelings"
       ],
       "5": [
@@ -1596,8 +1591,8 @@ window.COURSE_EXTRAS={
     },
     "evidenceNotes": [
       {
-        "title": "Recommandations professionnelles et applications originales en classe",
-        "text": "ZERO TO THREE, Child Mind Institute, NCPMI, les ressources d’activités de Harvard et Raising Children Network proposent des explications professionnelles, des synthèses et des exemples pratiques. Ils éclairent les décisions enseignées aux adultes, mais ne constituent pas des essais de ces phrases, jeux ou outils. Toutes les situations, formulations et présentations d’outils de la formation sont originales ; aucun organisme ne cautionne cette formation.",
+        "title": "Des conseils professionnels et des activités originales",
+        "text": "ZERO TO THREE, Child Mind Institute, NCPMI, les ressources d’activités de Harvard et Raising Children Network proposent des explications, des résumés de connaissances et des exemples pratiques. Ils aident à choisir les réponses de l’adulte enseignées ici. Ils ne sont pas des études qui testent les phrases, jeux ou outils de cette formation. Toutes les situations, formulations et présentations d’outils sont originales. Aucun de ces organismes n’a approuvé cette formation.",
         "sourceIds": [
           "ztt-coregulation",
           "cmi-coregulation",
@@ -1607,8 +1602,8 @@ window.COURSE_EXTRAS={
         ]
       },
       {
-        "title": "Les supports de marque sont des exemples, pas des preuves indépendantes",
-        "text": "Conscious Discipline est un programme éducatif identifié. Les ressources choisies éclairent la réflexion sur la prévisibilité, les espaces soutenus par un adulte et le vocabulaire des émotions. Ses étapes, personnages et explications des états cérébraux de marque ne sont ni adoptés comme cadre diagnostique ni copiés dans la formation. Les supports Pre-K du Child Mind Institute sont eux aussi identifiés comme un programme, sans être présentés comme une évaluation indépendante de cette formation. L’accès gratuit n’autorise pas une réutilisation sans limites.",
+        "title": "Les supports de programme sont des exemples, pas des preuves indépendantes",
+        "text": "Conscious Discipline est un programme éducatif nommé. Les ressources choisies aident à réfléchir aux repères prévisibles, aux espaces où l’adulte reste disponible et aux mots des émotions. Ses étapes, personnages et explications du cerveau ne sont ni copiés ici ni utilisés pour poser un diagnostic. Les supports Pre-K du Child Mind Institute sont eux aussi présentés comme ceux d’un programme. Ils ne constituent pas une évaluation indépendante de cette formation. Un accès gratuit ne donne pas le droit de tout réutiliser.",
         "sourceIds": [
           "cd-visual-schedule",
           "cd-supported-space",
@@ -1617,8 +1612,8 @@ window.COURSE_EXTRAS={
         ]
       },
       {
-        "title": "Recherche indépendante et limites des conclusions",
-        "text": "La synthèse des données probantes et le programme de recherche de l’EEF examinent l’ensemble des connaissances, séparément des supports pratiques des organismes. Les données sur les interventions en petite enfance restent limitées et inégales ; celles propres à la corégulation et aux enfants plus jeunes présentent des lacunes. Un rapport lié par Conscious Discipline décrit une association observationnelle ajustée dans 45 classes, pas un test randomisé de pratiques individuelles. Aucune de ces sources ne valide indépendamment cette formation de 75 minutes, ne garantit un résultat ni n’établit un effet neuronal à partir d’une phrase.",
+        "title": "Ce que les recherches permettent de dire, et leurs limites",
+        "text": "La synthèse et les priorités de recherche de l’EEF examinent les études disponibles, séparément des outils pratiques des organismes. Les recherches sur les aides proposées en petite enfance restent peu nombreuses et couvrent certains sujets mieux que d’autres. Il manque notamment des études sur l’aide de l’adulte pour gérer les émotions et sur les plus jeunes enfants. Un rapport accessible depuis Conscious Discipline observe un lien dans 45 classes, en tenant compte d’autres facteurs mesurés. Il ne teste pas chaque pratique en répartissant les classes au hasard. Aucune de ces sources ne valide indépendamment cette formation de 75 minutes, ne garantit un résultat ni ne prouve qu’une phrase produit un effet précis dans le cerveau.",
         "sourceIds": [
           "eef-regulation",
           "eef-evidence",
@@ -1626,18 +1621,17 @@ window.COURSE_EXTRAS={
         ]
       },
       {
-        "title": "La sécurité locale et le jugement individuel restent essentiels",
-        "text": "Un soutien éclairé par la recherche ne remplace pas les soins approuvés aux nourrissons, les plans individuels de communication, la surveillance, l’évaluation de santé, la réponse d’urgence ou la protection de l’enfance. Les tranches d’âge des sources diffèrent ; les grands groupes de préparation de cette formation ne sont pas des tests d’étapes du développement. La formation exclut expressément le contact physique ou le regard forcés, la privation de soins, l’ignorance de la détresse, les techniques restrictives improvisées et les instructions de traitement clinique.",
+        "title": "Respecter les règles de sécurité et les besoins de chaque enfant",
+        "text": "Pour les enfants à partir de 12 mois, les conseils appuyés sur la recherche ne remplacent pas les procédures de soins approuvées, les plans individuels de communication, la surveillance, les évaluations de santé, les secours ou la protection de l’enfance. Certaines sources parlent de bébés plus jeunes : elles servent à comprendre le sujet, pas à réaliser des activités avec les moins de 12 mois. Les tranches d’âge aident à préparer les activités ; ce ne sont pas des tests du développement. La formation exclut le contact physique ou le regard imposés, la privation de soins, le fait d’ignorer la détresse, les moyens improvisés pour retenir un enfant ou limiter ses mouvements, et les consignes de traitement médical.",
         "sourceIds": [
-          "rcn-baby-care",
           "ncpmi-responsive-routines",
           "nice-autism",
           "safeguarding"
         ]
       },
       {
-        "title": "Accès, droits d’auteur et visionnage facultatif",
-        "text": "Les nouvelles pages et les nouveaux documents des organismes ont été vérifiés le 6 octobre 2026. Les nouvelles vidéos ajoutées ont été vérifiées au niveau de leurs pages, ressources d’accompagnement et transcriptions ; leur lecture n’a pas été testée indépendamment. Chaque vidéo de la formation comporte une activité de visionnage pour adultes et une alternative textuelle. Le téléchargement de l’emploi du temps de Conscious Discipline peut nécessiter un compte gratuit. Les illustrations, histoires, modèles et logos des organismes sont accessibles par des liens, plutôt que reproduits ou traduits.",
+        "title": "Accès aux ressources, droits d’auteur et vidéos facultatives",
+        "text": "Les nouvelles pages et les nouveaux documents ont été vérifiés le 6 octobre 2026. Pour les nouvelles vidéos, les vérifications ont porté sur les pages, les documents associés et les textes des vidéos ; leur fonctionnement n’a pas été testé directement. Chaque vidéo est accompagnée d’une activité pour adultes et d’un résumé permettant de la faire sans regarder. Un compte gratuit peut être nécessaire pour télécharger l’emploi du temps de Conscious Discipline. Les images, histoires, modèles et logos des organismes sont accessibles par lien ; ils ne sont ni reproduits ni traduits.",
         "sourceIds": [
           "cmi-big-feelings",
           "rcn-toddler-feelings",
@@ -1650,212 +1644,212 @@ window.COURSE_EXTRAS={
   "mfe": {
     "meta": [
       {
-        "title": "Koumans par kree enn lien",
-        "sub": "Adapte soutien avek bann bebe, bann tipti zanfan ek bann zanfan 3–6 an; swazir travay adilt-la avan, pandan ek apre detres.",
+        "title": "Koumans par enn bon lien",
+        "sub": "Ed bann zanfan depi 12 mwa ziska 6 an avan, pandan ek apre enn lemosion difisil.",
         "time": 10
       },
       {
-        "title": "Rann lazourne pli fasil pou zere",
-        "sub": "Montre enn progranm ki ena sans, sanz enn demann reel dan enn tranzision ek entrodwir enn opsion soutien anba sirveyans.",
+        "title": "Rann lazourne pli fasil",
+        "sub": "Montre seki pou vini apre, rann bann routinn okipe pli fasil ek propoz enn plas pli trankil avek led enn adilt.",
         "time": 10
       },
       {
-        "title": "Reponn avan detres ogmante",
-        "sub": "Reponn an de-trwa mo, respekte enn refi kontak fizik ouswa zouti, ek fer kominikasion led ouswa poz amenn bann aksion adilt.",
+        "title": "Ede avan ki moman-la vinn pli difisil",
+        "sub": "Remark kan bizin led, respekte enn “non” pou kontak fizik ek reponn bann demann led ouswa poz.",
         "time": 10
       },
       {
-        "title": "Gard tou dimounn an sekirite, apre retrouv lien-la",
-        "sub": "Pratik enn pasaz responsabilite sir ant personel, protez swin ek sirveyans, ek separ moman repran li avek lansegnman plitar.",
+        "title": "Gard tou dimounn an sekirite, apre retrouv enn bon lien",
+        "sub": "Kone kan pou rod led irzan, kontign vey bann zanfan ek propoz rekonfor apre ki danze-la finn pase.",
         "time": 10
       },
       {
-        "title": "Ansegn bann kapasite dan zwe toulezour",
-        "sub": "Montre enn kapasite aksesib, soutenir so itilizasion dan enn routinn reel ek adapte zwe-la avek bann signal zanfan-la.",
+        "title": "Ansegn bann ti aksion dan bann zwe toulezour",
+        "sub": "Montre enn aksion itil pandan enn zwe, ed zanfan-la servi li dan lazourne ek arete kan zwe-la nepli agreab.",
         "time": 10
       },
       {
-        "title": "Konstrir plan-la ansam",
-        "sub": "Servi enn obzervasion ranpli ek plan explike Leo pou ranz bann zafer pou atribie bann aksion adilt, reget akse ek rod bon led.",
+        "title": "Fer plan-la ansam",
+        "sub": "Servi bann obzervasion kler ek seki fami-la kone pou met zot dakor lor seki bann adilt pou eseye ek kan pou demann plis led.",
         "time": 10
       }
     ],
     "practice": [
       {
-        "q": "Lexanp imaziner: Imani, enn bebe wit mwa, avans so lame ver enn edikater familie, apre tourn latet ek plengne kan de adilt pe koze ek enn zwe mizikal koumanse. Ki repons adapte pli bien avek so kapasite aktiel?",
+        "q": "Imani, 14 mwa, avans so lame ver enn adilt ki li kone. Kan de adilt koz ansam ek enn zwe mizikal koumanse, li detourn li, pous zwe-la ek plengne. Li servi sirtou bann sign ek bann son. Ki adilt-la bizin fer?",
         "o": [
-          "Ofer enn lot zwe interesan pandan ki ou kontign sante familie-la.",
-          "Met zwe-la ek bann lavwa ki melanze an poz, kontign reponn avek enn rekonfor familie, ek verifye bann bezwen swin ek bann signal.",
-          "Entrodwir enn zimaz led ek invit Imani montre li avek so ledwa avan swazir seki pou fer."
+          "Propoz enn lot zwe ek kontign sante ki li kone.",
+          "Aret zwe-la ek bann parol anplis, propoz rekonfor ki li kone ek verifye ki swen ouswa led li bizin.",
+          "Montre enn nouvo zimaz led ek demann li montre avek ledwa avan deside ki pou fer."
         ],
         "a": 1,
-        "why": "Adilt-la adapte bann stimilasion ek verifye bann swin olye atann ki enn bebe montre enn teknik pou fer fas avek so lemosion. Enn latet ki tourne kapav invit enn poz; li pa enn diagnoz ouswa enn prev ki bebe-la pa anvi okenn interaksion. Konpar avek Amira: toulede bizin enn led ki reponn zot bezwen, me Imani pa bizin enn explikasion avek bann mo ouswa enn leson pou rezourd bann problem. Servi bann prosedir swin bebe aprouve."
+        "why": "Imani deza pe montre ki li kapav bizin enn poz. Diminie bann son, propoz rekonfor ki li kone ek verifye bann swen neseser. Obzerve avan montre enn ti prosenn letap. Parey kouma Amira, li bizin led; personn pa atann li explik enn lemosion ouswa rezourd enn problem."
       },
       {
-        "q": "Lexanp imaziner: Leo, trwa-z-an, kouver so zorey kan bann sez pe frot ater ek bann zanfan pe rasanble kot bann letazer pou ranz bann zafer. Li rekile ek kominike sirtou avek bann zes. Ki premie azistman reponn pli direkteman bann lobstak obzerve?",
+        "q": "Leo, trwa an, kouver so zorey kan bann sez fer tapaz ek bann zanfan rasanble kot letazer pou ranze. Li rekile ek servi sirtou bann sign. Ki ti pou ed an premie?",
         "o": [
-          "Ofer enn zimaz respirasion ek explik li dousman pandan ki group-la kontigne san sanzman.",
-          "Amenn li kot enn pano lemosion pou swazir enn mo avan planifie tranzision-la.",
-          "Redwir tapaz ek lafoul, ofer enn plas pli trankil anba sirveyans ek servi so zes ouswa reper familie pou enn vre prosenn letap."
+          "Explik enn zimaz respirasion pandan ki lasal-la res parey.",
+          "Amenn li kot bann zimaz lemosion pou swazir enn mo avan ed li.",
+          "Diminie tapaz ek lafoul, res avek li dan enn plas pli trankil ek servi enn sign ouswa lobze ki li kone pou montre enn prosenn letap."
         ],
         "a": 2,
-        "why": "Sa sanz demann-la ek gard kominikasion ek soutien aksesib. Enn zouti tousel les lafoul ek tapaz san sanzman. Apre, montre reper-la pandan enn tranzision pli fasil, demann lafami-la lor bann zes ek anrezistre bann aksion adilt, konfor ek partisipasion Leo."
+        "why": "Mwins zanfan kot letazer-la ek mwins tapaz bann sez sanz sitiasion difisil-la. Enn zimaz tousel pa fer sa. Pli tar, verifye ki bann sign Leo servi, si personel finn fer bann sanzman ek si li ti kapav al dan prosenn aktivite alez."
       },
       {
-        "q": "Lexanp imaziner: Priya, de-z-an, trouv enn lot adilt kan li arive. Li agrip adilt ki akonpagn li, tourn latet ek repous lame ki adilt-la pe ofer li. Ki meyer prosenn repons?",
+        "q": "Priya, de an, trouv enn lot adilt kan li arive. Li kol ar dimounn ki akonpagn li, detourn li ek pous lame adilt-la. Ki bizin arive apre?",
         "o": [
-          "Ofer enn kalin dan plas lame-la ek explike ki adilt-la la pou ede.",
-          "Donn enn lespas konfortab, res disponib avek de-trwa mo ek servi routinn larive familie ki finn dakor avek lafami-la san exiz kontak fizik ouswa bann mo.",
-          "Koumans enn ti leson lor de fason pou santi li kalm pou ki li ena enn swa."
+          "Propoz enn kallin dan so plas ek explike ki adilt-la kapav ede.",
+          "Donn li lespas, res pre avek enn tigit mo ek swiv routinn larive ki finn dakor avek fami-la.",
+          "Ansegn de nouvo fason pou kalme pou li kapav swazir."
         ],
         "a": 1,
-        "why": "Enn tipti zanfan kapav refiz kontak fizik ek ankor bizin enn soutien adapte. Redwir presion, gard swin ek sirveyans, ek prepar enn routinn ranplasman previzib avek lafami-la. Enn nouvo leson pou zer lemosion ouswa enn lot kontak fizik inpoze pa adapte avek sa moman-la."
+        "why": "Priya kapav refiz kontak ek ankor bizin enn dimounn pre. Aret kontak-la, kontign donn swen ek veye, ek servi routinn larive ki li kone. Avek fami-la ek ansegnan-la, prepar seki pou fer si adilt abitie-la pa la."
       },
       {
-        "q": "Lexanp imaziner: Ben, sink-an, lev enn sez kan li dan detres apre ki enn zwe finn fini. Bann lezot zanfan pre ek enn lot adilt disponib. Ki bizin gid premie repons-la?",
+        "q": "Ben, sink an, lev enn sez kan li boulverse apre lafin enn zwe. Bann zanfan pre ek enn lot adilt disponib. Ki bizin gid premie repons-la?",
         "o": [
-          "Servi enn long explikasion rasiran pandan ki ou demann koleg-la rod enn tablo lemosion.",
-          "Koumans pratik enn routinn familie pou fer fas avek bann difikilte avan fer bann lezot personel intervenir.",
-          "Apel soutien forme ki finn dakor, gard sirveyans ek ed kree enn lespas sir pou bann lezot dapre plan irzans lokal."
+          "Donn enn explikasion pli long ek anvway koleg-la sers enn tablo lemosion.",
+          "Pratik enn routinn pou kalme avan apel lezot personel.",
+          "Apel led forme ki finn dakor, kontign vey bann zanfan ek ed fer enn lespas sir dapre bann letap lekol."
         ],
         "a": 2,
-        "why": "Protez bann dimounn ek gagn led apropriye pas avan lansegnman. Vre aksion-la depann lor bann prosedir lokal aktiel ek lanvironnman. Sa formasion-la pa donn okenn teknik ni lotorizasion pou intervansion fizik. Pratik kominikasion ant personel atraver diskision, zame atraver enn konportman danzere."
+        "why": "Protez bann dimounn ek gagn bon led avan ansegne. Aksion sir-la depann lor lasal-la ek bann letap aktiel. Sa formasion-la pa ansegn ni otoriz bann teknik pou tini enn zanfan. Pratik konversasion personel, zame konportman danzere-la."
       },
       {
-        "q": "Lexanp imaziner: Sofia, kat-an, servi enn kart led dan enn leson trankil. Pandan kolasion, so kouvertir bloke, li plore ek repous bwat-la, ek kart-la dan enn tiwar. Ki repons relie pli bien led imedia ek lansegnman plitar?",
+        "q": "Sofia, kat an, servi enn kart led dan enn leson trankil. Kan ler manze, so kouver bloke. Li plore ek pous bwat-la; kart-la dan enn tirwar. Ki personel bizin fer?",
         "o": [
-          "Ed li an repons avek so kominikasion aktiel; apre met reper-la kot kolasion, montre li dan bann lokazion adapte ek asire ki bann adilt reponn.",
-          "Amenn kart-la ek repet leson-la avan ouver bwat-la pou ki signal-la vinn kler.",
-          "Ranplas li par plizier nouvo kart ek demann li lekel pou pli fasil servi."
+          "Ede aster, apre met kart ki li kone kot li manze, montre kouma servi li dan enn pratik fasil ek fer sir bann adilt reponn.",
+          "Al sers kart-la ek repet leson-la avan ouver bwat-la.",
+          "Ranplas li avek plizier nouvo kart ek demann lekel li prefere."
         ],
         "a": 0,
-        "why": "Enn kapasite bizin ena sans, akse, enn vre lokazion ek enn repons adilt ki zanfan-la kapav kont lor la. Pa refiz led pandan ki ou pe rod enn signal korek. Montre enn demann san bann mo ek kouma enn ranplasan familie pou reponn; evalie akse avek kolasion, pa zis mwins larm."
+        "why": "Sofia deza pe montre ki li bizin led. Ouver bwat-la san atann enn bon repons avek kart-la. Pli tar, met kart-la kot li bizin li ek montre enn adilt ranplasan kouma reponn. Verifye si Sofia kapav gagn led ek manz so ti manze."
       },
       {
-        "q": "Lexanp imaziner: Noah, sink-an, repliye lor limem pandan sante an gran group, me adilt ki akonpagn li dir ki li sante lakaz. Ki fason koumans diskision-la soutenir pli bien enn plan partaze ki kapav teste?",
+        "q": "Noah, sink an, elwagn li kan enn gran group pe sante. So paran dir ki li sante lakaz. Ki koumansman ti pou ed personel ek fami-la fer enn plan itil?",
         "o": [
-          "« Nou pou pratik nom bann lemosion pli souvan, apre gete si li partisipe. »",
-          "« Li kontan bann sante ki li swazir dan bann ti group. Li elwagne dan gran group-la. Ki ede lakaz? Eski nou kapav konpar enn opsion pli trankil avek soutien ek reget so konfor ek partisipasion? »",
-          "« Si nou kont zis bann fwa ki li ale, nou kapav deside si plan-la marse. »"
+          "“Nou pou pratik nom bann lemosion pli souvan, apre gete si li vini.”",
+          "“Isi li kontan bann sante ki li swazir dan enn ti group, me li elwagn li dan gran group-la. Ki ede lakaz? Eski nou kapav esey enn plas pli trankil avek enn adilt pre ek konpar kouma li santi li ek partisipe?”",
+          "“Nou pou kont komie fwa li ale pou deside si plan-la marse.”"
         ],
         "a": 1,
-        "why": "Enn pwin for, enn konteks baze lor bann fe, konesans lafami ek enn azistman adilt konkre enn bon pwin depa. Nom enn responsab ek enn moman revizion, verifye si personel finn fer sanzman-la, ek azir pli boner si bann konsern lasante, sekirite ouswa proteksion zanfan aparet."
+        "why": "Koumans avek enn pwin for, dekrir seki ou finn trouve ek demann fami-la. Met zot dakor lor kisannla fer sanzman-la ek kan pou regete. Verifye si sanzman-la finn fer ek si Noah ti alez ek kapav profit sante. Rod led pli boner si bann inkietid lasante, sekirite ouswa proteksion zanfan ogmante."
       }
     ],
     "declarations": [
-      "Mo pou reponn detres avek dignite, enn kominikasion aksesib ek ko-regilasion par enn adilt, pandan ki mo gard tou dimounn an sekirite.",
-      "Mo pou adapt bann routinn ek bann atant selon devlopman zanfan-la, so bann bezwin kominikasion ek sansoriel, ek mo pou ansegn bann kapasite kan zanfan-la pare.",
-      "Mo pa pou servi imiliasion, menas, izolman, fors enn zanfan get mwa dan lizie, fors lafeksion ouswa priv li bann swin neseser pou fer li obeir.",
-      "Mo pou swiv bann prosedir aktiel lekol pou proteksion zanfan, sirveyans ek bann ka irzan, rod led bann dimounn forme ek res dan limit mo rol. Sa formasion-la pa ansegne ni otoriz imobiliz enn zanfan par lafors.",
-      "Mo konpran ki sa sertifika-la konsern zis laprantisaz an-lign. Mo pou servi bann sistem lekol aprouve pou bann vre inkietid, bann plan soutien ek kominikasion avek bann fami, zame sa formasion-la."
+      "Mo pou tret enn zanfan boulverse avek respe, servi kominikasion ki li konpran ek propoz led enn adilt kalm pandan ki mo gard bann dimounn an sekirite.",
+      "Mo pou adapte bann routinn ek travay avek bann bezwen zanfan-la, inklir kominikasion, son, kontak ek mouvman, ek ansegne kan li kapav partisipe.",
+      "Mo pa pou fer enn zanfan gagn onte, menas li ouswa met li tousel, fors li get dan lizie ouswa donn lafeksion, ni refiz bann swen neseser pou fer li fer enn zafer.",
+      "Mo pou swiv bann letap aktiel lekol pou proteksion zanfan, sirveyans ek bann ka irzan, rod led forme ek res dan mo rol. Sa formasion-la pa ansegn ni permet restriksion fizik.",
+      "Mo konpran ki sa sertifika-la montre zis laprantisaz an-lign. Mo pou servi bann sistem lekol aprouve pou bann vre inkietid, plan led ek mesaz avek bann fami, zame sa formasion-la."
     ],
     "localReadiness": [
       {
-        "title": "Konn zanfan-la ek routinn-la",
-        "text": "Aprann bann signal abitie, lintere, kominikasion, preferans sensoriel ek plan swin zanfan-la. Servi bann gidans laz larz san bann test bann etap devlopman. Personel responsab bann bebe bizin osi enn formasion aprouve lor manipilasion an sekirite, somey an sekirite ek swin; sa formasion-la pa donn sa."
+        "title": "Konn sa zanfan-la",
+        "text": "Demann ansegnan-la lor so bann sign, mo, lintere, rekonfor ek plan swen abitie. Sa bann lexanp-la koumans depi 12 mwa; bann laz se bann gid pou prepare, pa bann test. Nenport dimounn ki donn bann swen personel bizin osi formasion aprouve lekol pou port enn zanfan, swen ek repo/somey."
       },
       {
-        "title": "Konn ou prop soutien",
-        "text": "Dakor lor enn signal led ek montre kisannla res avek zanfan-la ek kisannla vey group-la. Gagn enn konfirmasion avan pas responsabilite. Prepar enn adilt ranplasan ek bann linformasion itil minimem; zame zis ale."
+        "title": "Konn kisannla kapav ed ou",
+        "text": "Met zot dakor lor kouma apel led, kisannla res avek zanfan-la ek kisannla vey group-la. Deziyn enn ranplasan. Pratik demann led ek atann enn repons kler avan pas rele; pa zis ale."
       },
       {
-        "title": "Fer lanvironnman-la aksesib",
-        "text": "Verifye tapaz, letan atann, lafoul, mouvman ek akse avek kominikasion. Montre enn reper kot li pou servi, kouma indike ki enn aktivite fini ek enn vre sanzman plan. Prepar bann opsion pli trankil anba sirveyans avek bann sorti lib, bann resours sir pou laz-la ek enn soutien kan plas prefere-la okipe."
+        "title": "Verifye lasal-la ek routinn-la",
+        "text": "Get bann sez ki fer tapaz, bann letazer kot ena tro boukou dimounn ouswa bann long letan pou atann. Montre enn zimaz ouswa lobze ki zanfan-la kone kot li bizin li, seki vini apre ek bann sanzman plan. Verifye bann plas pli trankil, bann sorti sir, bann materyel ki al avek so laz ek kisannla res pre, osi kan plas abitie-la okipe."
       },
       {
-        "title": "Dakor lor bann repons koeran ek fleksib",
-        "text": "Deside seki personel fer kan zanfan-la kominike led ouswa poz. Montre enn repons kourt, enn letan pou konpran ek enn alternativ kan li refiz kontak fizik ouswa enn zouti. Zame exiz bann mo, kontak viziel, respirasion ouswa enn laparans kalm avan swin ouswa soutien."
+        "title": "Met zot dakor lor repons bann adilt",
+        "text": "Kone seki arive kan enn zanfan demann led ouswa enn poz. Pratik enn tigit mo ek enn poz. Pare pou donn lespas ouswa enn lot led si li refiz kontak ouswa enn zouti. Swen pa bizin depann lor koze, get dan lizie, enn lexersis respirasion ouswa paret kalm."
       },
       {
-        "title": "Konn bann prosedir led ek signalman",
-        "text": "Konfirm kisannla ou responsab ELS/inklizion, responsab proteksion zanfan, lot prosedir indepandan, soutien premie sekour ek prosedir pou ka irzan. Enn risk irzan bizin led vit, pa enn lot stratezi pou konportman."
+        "title": "Konn bann kontak led irzan ek signalman",
+        "text": "Trouv ansegnan-la ouswa responsab inklizion/ELS pou led anplis, responsab proteksion zanfan pou bann inkietid lor ditor, lot kontak pou signal enn inkietid ek bann letap premie sekour/ka irzan. Enn danze irzan bizin led aster."
       },
       {
-        "title": "Reviz avek bann fe ek bann fami",
-        "text": "Separ sekans obzerve, bann explikasion posib ek prosenn test adilt-la. Anrezistre dan bann sistem sekirize aprouve si soutien-la finn aplike, konfor, kominikasion ek akse zanfan-la, ek bann linformasion lafami. Nom enn responsab revizion; demann konsey pli boner pou bann konsern ki persiste, ogmante ouswa irzan."
+        "title": "Reget avek fami-la",
+        "text": "Ekrir seki ou finn trouve separe ar bann explikasion posib, dan bann dosie sir aprouve. Verifye seki bann adilt finn sanze ek si zanfan-la ti kapav demann led, santi li alez ek profit bann aktivite. Met zot dakor lor kisannla reget avek fami-la ek kan. Demann konsey pli boner si bann inkietid ogmante."
       }
     ],
     "practical": {
-      "title": "Gid pratik ko-regilasion an ekip",
-      "intro": "Servi bann ka imaziner pou enn ti pratik ant adilt, avek enn koleg ouswa an rakontan toulede rol. Bann aktivite modil entrodwir bann kapasite; enn pratik an ekip anba sipervizion plitar ek enn revizion pratik kapav verifye kouma zot marse lokalman. Fin formasion an-lign tousel pa montre enn konpetans pratik.",
+      "title": "Pratik kouma ed enn zanfan ansam",
+      "intro": "Pou bann adilt ki ed bann zanfan depi 12 mwa ziska 6 an. Servi bann lexanp ki finn invante avek enn koleg, ouswa dir toulede rol adilt for. Ko-regilasion vedir ed enn zanfan avek enn lemosion difisil gras ar led enn adilt kalm. Sa gid-la ed ou pratike ek diskite; fini formasion an-lign pa prouve ki ou kapav fer tou sa an pratik.",
       "instructions": [
-        "Swazir repons avek bann signal bebe Imani zis si sa konsern ou rol, larive Priya, Leo kan li ranz bann zafer, kolasion Sofia ouswa sante Noah. Dir kominikasion ek kapasite aktiel zanfan-la; pa imit detres enn vre zanfan.",
-        "Met zot dakor lor kisannla koze, kisannla veye ek kouma apel led. Montre bann mo, enn reper ek enn azistman lanvironnman. Zame met an senn enn danze, pratik enn kontrint fizik ouswa pratik manipilasion bebe apartir sa formasion-la.",
-        "Obzervater-la entrodwir enn sanzman: zanfan-la refiz kontak fizik, reper-la manke, lespas trankil-la okipe ouswa adilt abitie-la absan. Montre kouma soutien reste disponib; fer enn poz nenport kan enn partisipan anvi.",
-        "Konpar seki adilt-la finn fer avek bann kriter anba. Anrezistre enn pwin for presi ek enn aksion pou amelyore. Si ou pe travay tousel, dir ouswa ekrir repons exak-la ek verifye sak letap onetman.",
-        "Avek responsab lokal konserne, swazir enn azistman sir dan pratik ordiner ek enn moman revizion. Enn obzervasion anba sipervizion plitar bizin verifye bann aksion adilt ek akse zanfan-la. Pa met bann detay lor bann vre zanfan dan sa formasion-la; servi bann dosie sekirize aprouve."
+        "Lir sa lexanp-la avan: kan ler ranze, Leo kouver so zorey. Enn adilt dakor pou vey group-la; enn lot res pre. Personel diminie tapaz ek anvway mwins zanfan kot letazer-la. Adilt-la montre Leo so panye ki li kone: “Enn blok isi,” apre montre prosenn aktivite-la. Si li bizin enn poz, zot res ansam dan plas pli trankil ki finn dakor.",
+        "Swazir larive Imani a 14 mwa, larive Priya, ler ranze Leo, ler manze Sofia ouswa sante Noah. Dir kouma zanfan-la montre seki li bizin. Par exanp, Imani detourn li ek pous zwe ki fer tapaz; adilt-la aret li ek verifye bann swen neseser.",
+        "Met zot dakor lor kisannla koze, kisannla vey group-la ek kouma gagn led. Montre ou bann mo, enn lobze/zimaz/sign ki zanfan-la kone ek enn sanzman, kouma mwins zanfan kot letazer-la. Pa zwe enn senn agresif, pa pratik restriksion fizik ek pa servi sa formasion-la pou pratik kouma port enn zanfan.",
+        "Ou partner azout enn sanzman: zanfan-la refiz kontak, enn zimaz manke, sez pli trankil-la okipe ouswa adilt abitie-la pa la. Montre enn lot fason ede. Nenport dimounn kapav met pratik-la an poz. Si ou tousel, dekrir aksion toulede adilt.",
+        "Servi bann pwin anba pou verifye. Nom enn aksion ki finn ede ek enn pou amelyore. Avek ansegnan-la ouswa bon responsab-la, met zot dakor lor enn ti sanzman sir pou eseye ek kan pou regete pandan enn pratik avek sipervizion. Pa met bann vre detay zanfan dan sa formasion-la; servi bann dosie sir aprouve."
       ],
       "criteria": [
         {
-          "area": "1. Montre preparasion ek akse",
+          "area": "1. Rann routinn-la pli fasil",
           "items": [
-            "Montre enn reper ki ena sans kot li servi, asosie li avek vre letap-la, indike kan fini ek montre enn sanzman plan onet.",
-            "Fer enn azistman lanvironnman konkre ek idantifie enn alternativ aksesib anba sirveyans si plas prefere-la pa disponib.",
-            "Adapte premie repons-la avek kapasite aktiel: soutien bann signal ek swin bebe dan limit rol-la, led konkret pou tipti zanfan ouswa enn prosenn letap aksesib pou enn zanfan pli gran."
+            "Montre enn lobze ouswa zimaz ki zanfan-la kone pandan ki li fer letap-la, apre montre seki vini apre. Par exanp: montre panye pou ranze, dir “Enn blok isi,” apre montre prosenn aktivite-la. Si letazer-la bloke, montre vre lot swa-la.",
+            "Sanz enn zafer pratik, kouma mwins zanfan kot letazer-la, ek trouv enn lot plas sir avek led enn adilt si plas pli trankil-la okipe.",
+            "Donn led ki al avek zanfan-la: rekonfor ki li kone ek enn ti letap pou 12 mwa ziska avan 18 mwa; led pratik pou enn tipti zanfan pli gran; enn prosenn letap ki zanfan pli gran-la kapav fer."
           ]
         },
         {
-          "area": "2. Montre premie repons-la",
+          "area": "2. Propoz led ki zanfan-la kapav servi",
           "items": [
-            "Dekrir enn signal obzervab, servi enn ouswa de fraz kourt ek bienveyan, fer enn poz ek evit ankonbre zanfan-la.",
-            "Aksepte enn zes, sinbol, sign, aparey ouswa enn lot signal ki kapav konpran ek montre repons led/poz ki finn promet.",
-            "Sanz fason fer kan zanfan-la refiz kontak fizik, respirasion ouswa enn zouti, an gardan sirveyans, bann swin neseser ek disponibilite adilt."
+            "Dir seki li remarke, servi enn tigit mo bienveyan, atann enn moman ek donn zanfan-la lespas.",
+            "Aksepte zes, sign, zimaz, laparey ouswa bann mo zanfan-la. Montre vre led ouswa poz ki vini apre.",
+            "Aret enn propozision kontak, respirasion ouswa zouti ki zanfan-la pa anvi ek propoz enn lot fason ede. Swen, sirveyans ek prezans enn adilt res disponib."
           ]
         },
         {
-          "area": "3. Montre enn travay an ekip sir",
+          "area": "3. Travay an sekirite avek lezot adilt",
           "items": [
-            "Demann enn koleg enn rol presi, gagn enn konfirmasion ek pas bann linformasion itil lor reper-la, soutien ek dispozision sirveyans.",
-            "Rod bann prosedir aktiel pou soutien irzan, premie sekour/irzans, proteksion zanfan ek ranplasman, ek dir kan sakenn pas avan.",
-            "Gard pratik-la san aksion fizik ek dan limit rol-la; pa ena kontrint fizik, izolman, izolman forse, imiliasion ouswa refi swin."
+            "Demann enn koleg enn travay kler, atann so lakor ek partaz seki finn pase, seki finn ede ek kisannla vey sak group.",
+            "Kapav trouv bann kontak aktiel pou sekirite, premie sekour/ka irzan ek proteksion zanfan, inklir bann ranplasan, ek dir kan bizin led irzan.",
+            "Gard pratik-la san aksion fizik ek dan bann limit so rol. Pa pratik restriksion fizik, anferm enn zanfan, fors li res tousel, imilie li ouswa refiz swen."
           ]
         },
         {
-          "area": "4. Montre lansegnman ek revizion",
+          "area": "4. Ansegn pli tar ek verifye seki finn ede",
           "items": [
-            "Ofer enn retour san presion avan diskision ouswa reparasion, san exiz enn exkiz ouswa enn demonstrasion lemosion.",
-            "Montre enn kapasite itil pandan enn zwe trankil, invit enn tour opsionel ek met soutien etabli-la dan enn routinn reel avek enn repons adilt.",
-            "Separ bann fe ek bann explikasion posib, nom enn sanzman adilt ek enn responsab revizion, ek verifye avek lafami-la konfor, kominikasion, partisipasion ek bann aksion adilt."
+            "Propoz enn retour avek led san demann enn pardon, enn explikasion ouswa enn reparasion avan. Ed remet bann zafer an ord pli tar, kan zanfan-la pare.",
+            "Montre enn aksion itil dan enn zwe kot zanfan-la alez, propoz enn tour san presion ek met led ki li kone dan vre routinn-la avek enn adilt pare pou reponn.",
+            "Gard bann fe ek sipozision separe, dir seki enn adilt pou sanze ek kisannla pou regete, ek verifye avek fami-la si zanfan-la alez, kapav kominike ek profit bann aktivite."
           ]
         }
       ],
       "decisionOptions": [
-        "Dakor lor enn ti sanzman ek enn dat swivi",
-        "Organiz gidans ouswa plis soutien",
-        "Demann konsey responsab lekol konserne avan sanz plan zanfan-la"
+        "Met zot dakor lor enn ti sanzman ek enn dat pou regete",
+        "Organiz bann konsey pratik ouswa plis led",
+        "Demann bon responsab lekol avan sanz plan zanfan-la"
       ],
-      "footer": "Sa gid-la soutenir diskision, lakonpagnman ek pratik anba sipervizion. Li pa enn lisans konpetans ouswa enn evaliasion klinik avek bann pwin. Zis servis-la kapav etabli bann lotorizasion rol, aprouv bann plan individiel ek donn formasion neseser lor swin, proteksion zanfan ouswa intervansion."
+      "footer": "Servi sa gid-la pou diskite, gagn bann konsey ek pratike avek sipervizion. Li pa enn lotorizasion pou fer enn prosedir ni enn prev ou bann kapasite profesionel. Lekol bizin aprouv bann plan pou sak zanfan ek bann responsabilite personel, ek donn bann formasion neseser pou swen, proteksion zanfan ek sekirite."
     },
     "visualGuides": [
       {
         "id": "adult-anchor",
         "module": 1,
-        "title": "Enn adilt stab",
-        "intro": "Enn led orizinal pou premie repons. Adapte led avek kapasite aktiel; sa bann desizion adilt, pa bann letap ki enn zanfan bizin travers.",
+        "title": "Res enn adilt ki kalm ek disponib",
+        "intro": "Enn latour zanfan tonbe ek bann blok fann partou. Verifye sekirite, propoz ou prezans ek rann enn ti prosenn letap pli fasil. Zanfan-la pa bizin swiv enn seri letap fixe.",
         "steps": [
           {
-            "title": "Obzerv oumem",
-            "text": "Obzerv ou lavwa, ou ritm ek ou tansyon. Pran enn ti poz konfortab si ou kapav fer li an sekirite.",
+            "title": "Remark oumem",
+            "text": "Eski ou lavwa pe vinn pli vit ouswa pli sek? Remark si ou bann lame kontrakte. Pran enn ti poz si li sir pou fer sa.",
             "icon": "notice"
           },
           {
-            "title": "Stabiliz ou repons",
-            "text": "Bese ou lavwa, relaks ou pozision lekor ek swazir mwins mo. Enn prezans kalm demann pratik.",
+            "title": "Servi enn lavwa pli kalm",
+            "text": "Ralanti ou prosenn fraz ek koz mwins for: “Sa finn tonbe. Mo kapav res isi.”",
             "icon": "pause"
           },
           {
-            "title": "Kree enn lien san presion",
-            "text": "Res disponib dan enn distans ki zanfan-la kapav tolere. Montre bienveyans san insiste lor tous ouswa get dan lizie.",
+            "title": "Res pre san presion",
+            "text": "Donn zanfan-la ase lespas pou li alez. Propoz ou prezans san obliz kontak fizik ouswa get dan lizie.",
             "icon": "support"
           },
           {
-            "title": "Fer enn sanzman itil",
-            "text": "Diminie enn demann ouswa enn sours sirchaz. Ofer enn swa aksesib ki ou kapav respekte.",
+            "title": "Rann enn zafer pli fasil",
+            "text": "Fer bann dimounn ki pe gete avanse ouswa propoz enn blok ansam. Propoz zis bann swa ki ou kapav respekte; zanfan-la kapav prefer enn poz.",
             "icon": "choice"
           },
           {
-            "title": "Fer apel a soutien",
-            "text": "Demann enn koleg enn rol presi, gagn enn konfirmasion ek pas bann linformasion lor reper-la, soutien itil ek dispozision sirveyans avan ou elwagne.",
+            "title": "Demann enn led kler",
+            "text": "“Eski to kapav vey group-la? Mo pou res avek Amira.” Atann so lakor. Avan pas rele, partaz seki finn pase, seki finn ede ek kisannla pe veye.",
             "icon": "people"
           }
         ]
@@ -1863,32 +1857,32 @@ window.COURSE_EXTRAS={
       {
         "id": "early-response",
         "module": 3,
-        "title": "Mwins presion, plis soutien",
-        "intro": "Imazinn enn zanfan ki bous so zorey ek ki elwagne pandan ki klas-la pe met an ran. Pratik enn repons avan so detres ogmante.",
+        "title": "Mwins presion, plis led",
+        "intro": "Enn zanfan kouver so zorey ek elwagn li kan klas-la met an ran. Fer ran-la mwins ranpli ek propoz enn plas pli trankil avek enn adilt pre.",
         "steps": [
           {
-            "title": "Obzerv sign-la",
-            "text": "Dekrir seki ou trouve: lame lor zorey, pe rekile, mwins parol. Pa devinn enn lintansion.",
+            "title": "Remark seki ou trouve",
+            "text": "Bann lame kouver zorey; zanfan-la rekile ouswa servi mwins mo. Dekrir sa bann aksion-la san devinn kifer.",
             "icon": "notice"
           },
           {
-            "title": "Sanz bann kondision",
-            "text": "Diminie tapaz ek kantite dimounn ansam. Ofer enn plas pli trankil anba sirveyans ouswa enn tranzision dan enn lot moman.",
+            "title": "Sanz parti difisil-la",
+            "text": "Diminie tapaz ek lafoul. Avek ansegnan-la, organiz enn plas pli trankil pou atann ouswa fer bann pli ti group bouze sak fwa. Gard kisannla veye kler.",
             "icon": "zones"
           },
           {
-            "title": "Servi enn ti fraz",
-            "text": "“Ena tapaz. Mo la. Nou kapav atann isi ansam.” Les zanfan-la letan pou konpran.",
+            "title": "Dir enn tigit mo, apre atann",
+            "text": "Ou kapav dir: “Ena tapaz. Mo la. Nou kapav atann isi ansam.” Donn zanfan-la letan pou konpran ouswa reponn.",
             "icon": "voice"
           },
           {
-            "title": "Fer kominikasion marse",
-            "text": "Servi zes ouswa reper led/poz ki zanfan-la deza servi ek reponn so demann. Si plas prefere-la okipe, donn enn lot opsion sir anba sirveyans.",
+            "title": "Reponn mesaz zanfan-la",
+            "text": "Aksepte so sign, zimaz ouswa laparey abitie pou demann led ouswa enn poz. Montre vre led-la. Si sez abitie-la okipe, propoz enn lot plas sir avek led enn adilt.",
             "icon": "choice"
           },
           {
-            "title": "Obzerv repons-la",
-            "text": "Si zanfan-la refiz enn zouti ouswa kontak fizik, redwir presion ek adapte ou an restant disponib. Si risk ouswa konsern lasante ogmante, servi repons lokal apropriye imedia.",
+            "title": "Obzerve ek adapte",
+            "text": "Si zanfan-la refiz kontak ouswa enn zouti, aret sa propozision-la, donn lespas ek res disponib. Servi bann letap sekirite ouswa lasante lekol deswit si risk ouswa enn inkietid lasante ogmante.",
             "icon": "plan"
           }
         ]
@@ -1896,32 +1890,32 @@ window.COURSE_EXTRAS={
       {
         "id": "recovery",
         "module": 4,
-        "title": "Rekipere form parti soutien-la",
-        "intro": "Moman difisil-la kapav finn pase, me kapasite pou koze ouswa aprann kapav pran letan pou revini. Pa prese pou koriz.",
+        "title": "Kontign ede apre moman difisil-la",
+        "intro": "Enn zanfan trankil apre enn levennman ki finn boulvers li. Verifye rekonfor ek swen an premie. Li kapav retourn zwe avek led avan koz lor seki finn pase ouswa repar li.",
         "steps": [
           {
-            "title": "Gard soutien disponib",
-            "text": "Gard sirveyans, enn lanvironnman kalm ek bann swin neseser. Pa retir rekonfor kouma enn konsekans.",
+            "title": "Gard swen ek ou prezans disponib",
+            "text": "Kontign vey zanfan-la, diminie tapaz ouswa presion ek donn bann swen neseser. Rekonfor pa enn rekonpans ki kapav tire.",
             "icon": "support"
           },
           {
-            "title": "Ofer, pa insiste",
-            "text": "Ofer bann soutien ki zanfan-la kone pou kalme li. Respirasion, tous ouswa koze kapav pa ed tou zanfan.",
+            "title": "Propoz led ki li kone",
+            "text": "Propoz enn zwe ki li kone, ou prezans ouswa lespas. Enn zanfan kapav pa anvi respirasion, kontak ouswa koze; propoz enn lot fason ede.",
             "icon": "choice"
           },
           {
-            "title": "Atann ki zanfan-la pare",
-            "text": "Obzerv so bann sign abitie konfor ek partisipasion. Pa exiz enn explikasion ouswa bann exkiz deswit.",
+            "title": "Get si li interese, san prese",
+            "text": "Get bann sign abitie ki montre ki zanfan-la alez ouswa interese dan zwe. Silans tousel pa vedir li pare pou bann kestion.",
             "icon": "listen"
           },
           {
-            "title": "Retrouv lien-la ek repare",
-            "text": "Kan li pare, soutenir enn reparasion adapte ek enn ti retour dan aktivite-la. Gard soutien itil disponib; enn lot zanfan pa bizin aksepte lafeksion ouswa rekonfort personn.",
+            "title": "Ed zanfan-la retourne",
+            "text": "Propoz li gete ouswa enn ti letap fasil dan zwe. Pa bizin enn pardon, enn explikasion ouswa enn reparasion avan. Pli tar, kan li pare, ed remet bann zafer an ord. Enn lot zanfan pa oblize aksepte lafeksion.",
             "icon": "repeat"
           },
           {
-            "title": "Reviz plan bann adilt",
-            "text": "Separ bann fe ek bann sipozision. Verifye seki bann adilt finn vremem sanze, kouma zanfan-la finn kominike ek partisipe, ek seki zanfan-la ek so lafami raporte. Dakor lor enn revizion; rod led pli boner kan bizin.",
+            "title": "Reget seki bann adilt finn fer",
+            "text": "Ekrir bann fe separe ar bann sipozision. Eski bann adilt finn fer sanzman prevwar-la? Eski zanfan-la ti kapav demann led ek profit bann aktivite? Konpar avek fami-la ek ansegnan-la; rod konsey pli boner si bann inkietid ogmante.",
             "icon": "plan"
           }
         ]
@@ -1930,40 +1924,40 @@ window.COURSE_EXTRAS={
     "videos": [
       {
         "id": "v1",
-        "title": "Gid pratik: 5 letap bann lesanz ale-retour ki ed devlopman servo",
+        "title": "How-to: 5 Steps for Brain-Building Serve and Return",
         "publisher": "Center on the Developing Child at Harvard University",
         "url": "https://developingchild.harvard.edu/resources/videos/how-to-5-steps-for-brain-building-serve-and-return/",
-        "durationLabel": "Ti video pratik; opsionel",
-        "summary": "Bann adilt remark lintere enn zanfan, reponn, azout langaz, pran sakenn zot tour ek swiv bann sanzman latansion. Mesaz pratik-la se enn interaksion ale-retour ki reponn bann bezwin, pa exiz get dan lizie ouswa enn repons presi.",
-        "prompt": "Remark enn signal zanfan-la, repons adilt-la ek poz-la avan enn lot tour. Dekrir kouma mem esanz-la kapav marse san bann mo ouswa kontak viziel obligatwar.",
-        "accessibility": "Paz ofisiel-la donn enn text explikatif ek plizier opsion lang. Sa rezime formasion-la se enn alternativ text; bann soutit dan lekter video ek disponibilite kapav varye.",
-        "verifiedHosting": "Paz ofisiel Harvard donn enn lien ver so lekter YouTube. Paz-la ek tit video-la finn verifye; lektir video-la pa finn teste dan enn fason indepandan.",
+        "durationLabel": "Ti video ki montre kouma fer; opsionel",
+        "summary": "Bann adilt remark seki interes enn zanfan, reponn ek atann enn lot tour. Par exanp, enn zanfan montre enn zwe; adilt-la nom li ek atann. Zanfan-la kapav reponn avek enn sign ouswa enn son. Pa bizin laparol ni get dan lizie. Bann lexanp avek bann zanfan anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa.",
+        "prompt": "Get seki zanfan-la fer, kouma adilt-la reponn ek kan li atann. Apre dekrir enn lesanz parey avek enn sign dan plas laparol.",
+        "accessibility": "Paz ofisiel-la ena bann explikasion ekri ek plizier opsion lang. Ou kapav servi rezime isi pou travay-la san get video-la; bann soutit ek disponibilite kapav sanze.",
+        "verifiedHosting": "Paz ofisiel Harvard donn enn lien ver so video YouTube. Paz-la ek tit video-la finn verifye; lektir video-la pa finn teste dan enn fason indepandan.",
         "moduleId": "m1",
         "module": 1
       },
       {
         "id": "v2",
-        "title": "Linportans bann lemosion dan kad ledikasion tipti lanfans",
+        "title": "The importance of emotions in the early years foundation stage framework",
         "publisher": "Department for Education, England",
         "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
-        "durationLabel": "Ti explikasion par bann pratisionin; opsionel",
-        "summary": "Bann pratisionin diskit bann relasion kot ena sekirite emosionel, rekonet bann santiman, donn bann zanfan letan ek soutenir bann adilt pou reflesi. Bann lexanp inklir separasion ek konfli lor enn zouzou. Lanfaz-la lor enn soutien adapte ek retourn rod bann solision kan zanfan-la pare.",
-        "prompt": "Idantifie enn moman pou rekonfor aster ek enn lot moman pou lansegnman plitar. Ki demann ou ti pou sanze anmemtan ki bann mo adilt-la?",
-        "accessibility": "Enn transkripsion konplet disponib lor paz ofisiel-la anba video Vimeo-la.",
-        "verifiedHosting": "Paz ofisiel DfE ek lekter Vimeo ki lie avek li finn verifye. Tit dan lekter-la: EYFS Personal, social and emotional development – Emotions.",
+        "durationLabel": "Ti explikasion pou personel; opsionel",
+        "summary": "Bann adilt koz lor kouma ed bann zanfan santi zot an sekirite, remark bann lemosion ek donn zot letan. Bann lexanp inklir dir orevwar enn paran ek anvi mem zwe. Rekonfor ek led pratik pas an premie; enn konversasion lor rezourd problem-la kapav atann ziska zanfan-la kapav partisipe.",
+        "prompt": "Trouv enn moman pou rekonforte aster ek enn pou ansegn pli tar. Donn enn sanzman pratik osi, kouma mwins letan pou atann ouswa mwins zanfan otour zwe-la.",
+        "accessibility": "Enn transkripsion konplet disponib anba video Vimeo lor paz ofisiel-la. Ou kapav osi servi rezime sa formasion-la pou travay-la.",
+        "verifiedHosting": "Paz ofisiel DfE ek lien ver video Vimeo finn verifye. Tit dan player-la: EYFS Personal, social and emotional development – Emotions.",
         "moduleId": "m3",
         "module": 3
       },
       {
         "id": "v3",
-        "title": "Kouma bann zanfan ek bann adilt kapav devlop bann kapasite esansiel pou lavi",
+        "title": "How Children and Adults Can Build Core Capabilities for Life",
         "publisher": "Center on the Developing Child at Harvard University",
         "url": "https://developingchild.harvard.edu/resources/videos/video-building-core-capabilities-life/",
         "durationLabel": "5 minit; opsionel",
-        "summary": "Sa explikasion anime-la dekrir bann kapasite fonksion egzekitif ek oto-regilasion pandan lavi, kouma pratik soutenir zot ek kouma stres kapav rann zot pli difisil pou servi. Pran bann metafor viziel kouma bann ilistrasion, pa enn diagnostik literal lor seki pe pase dan servo enn zanfan presi.",
-        "prompt": "Swazir enn fason pratik pou redwir enn demann pou enn adilt ek enn zanfan. Fer ladiferans ant sa aksion-la ek enn deklarasion ki ou konn leta servo zanfan-la.",
-        "accessibility": "Paz ofisiel-la inklir enn rezime text explikatif ek bann opsion video an Angle ek Zapone. Sa rezime formasion-la osi enn alternativ text.",
-        "verifiedHosting": "Paz ofisiel Harvard konfirm tit-la ek dire sink minit ek donn enn lien ver so lekter YouTube; lektir video-la pa finn teste dan enn fason indepandan.",
+        "summary": "Sa lanimasion-la explik bann kapasite kouma rapel enn plan, atann ek esey enn lot fason. Pratike kapav ede; stres kapav rann zot pli difisil pou servi. Bann zimaz servo ilistr bann lide. Zot pa kapav dir ou seki pe pase dan servo enn zanfan presi.",
+        "prompt": "Swazir enn fason pou rann enn travay pli fasil pou adilt-la ek zanfan-la, kouma donn enn sel linstriksion dan plas plizier. Dekrir sanzman ki ou kapav trouve, olye devinn enn leta servo.",
+        "accessibility": "Paz ofisiel-la ena enn rezime ekri ek bann video an angle ek zapone. Ou kapav servi rezime isi pou travay-la san get video-la.",
+        "verifiedHosting": "Paz ofisiel Harvard konfirm tit-la ek dire sink minit ek donn enn lien ver so video YouTube; lektir video-la pa finn teste dan enn fason indepandan.",
         "moduleId": "m5",
         "module": 5
       },
@@ -1973,10 +1967,10 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
         "durationLabel": "6 minit 26 segonn; vizionaz opsionel pou adilt",
-        "summary": "Alternativ ekrir dan formasion: bann gran lemosion akseptab ek enn adilt ki zanfan-la fer konfians kapav ede. Explore diferan soutien familie pandan bann moman konfortab; enn zanfan kapav servi so kominikasion prefere pou demann led. Okenn teknik pou fer fas avek bann lemosion pa obligatwar. Sa enn epizod ofisiel destine pou bann zanfan 3–5 an.",
-        "prompt": "Swazir enn opsion pou zer bann lemosion dan epizod-la. Montre kouma ou ti pou ofer li san exiz respirasion, bann mo ouswa kontak fizik, ek seki ou ti pou fer si zanfan-la refiz li. Nom enn moman trankil pou ansegn li.",
-        "accessibility": "Paz ofisiel-la donn bann lien ver bann resours gratis pou edikater/adilt ki pran swin zanfan. Sa rezime formasion-la donn enn alternativ ekrir pou travay laprantisaz adilt; lektir video ek disponibilite sou-tit pa finn teste dan enn fason indepandan.",
-        "verifiedHosting": "Paz epizod ofisiel Child Mind Institute, lekter YouTube ki lie avek li ek dire afise 6:26 finn verifye le 6 Oktob 2026. Bann materyel akonpagnman pou edikater finn lir; lektir video pa finn teste dan enn fason indepandan.",
+        "summary": "Sa epizod-la finn fer pou bann zanfan 3–5 an; travay opsionel formasion-la se pou bann adilt. Mesaz prinsipal: bann lemosion for akseptab ek enn adilt ki zanfan-la fer konfians kapav ede. Esey bann fason ki li kone pou santi li pli alez dan bann moman fasil. Demann avek enn sign ouswa enn laparey konte, ek okenn teknik pou kalme pa obligatwar.",
+        "prompt": "Swazir enn aktivite ki video-la montre ek dir kouma ou ti pou propoz li. Apre explik seki ou ti pou fer si zanfan-la refiz ek kan ou kapav pratik pli tar san presion. Pa obliz respirasion, laparol ouswa kontak.",
+        "accessibility": "Paz ofisiel-la donn bann lien ver bann resours gratis pou ansegnan ek bann dimounn ki okip zanfan. Ou kapav servi rezime sa formasion-la pou travay adilt-la san get video-la. Lektir video ek bann soutit pa finn teste dan enn fason indepandan.",
+        "verifiedHosting": "Paz ofisiel Child Mind Institute, so lien YouTube ek dire afise 6:26 finn verifye le 6 Oktob 2026. Bann materyel pou ansegnan finn lir; lektir video-la pa finn teste dan enn fason indepandan.",
         "moduleId": "m5",
         "module": 5
       },
@@ -1985,11 +1979,11 @@ window.COURSE_EXTRAS={
         "title": "Helping toddlers learn about feelings",
         "publisher": "Raising Children Network; My Toddler and Me series from Karitane and UNSW",
         "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
-        "durationLabel": "Ti video lor bann lemosion tipti zanfan; vizionaz opsionel pou adilt",
-        "summary": "Alternativ ekrir dan formasion: enn tipti zanfan kapav bizin ou pre dan enn moman ek plis lespas dan enn lot. Kontign reponn so bezwen kan li refiz kontak fizik; servi so bann signal pou adapte soutien ek gard explikasion ouswa pratik pou kan li kapav partisipe.",
-        "prompt": "Ki sanze kan tipti zanfan-la pa anvi kontak fizik? Pratik enn repons kourt, enn distans konfortab ek enn fason pou res disponib. Konpar avek larive Priya.",
-        "accessibility": "Enn transkripsion konplet disponib lor paz ofisiel-la ek finn lir. Sa rezime formasion-la osi donn enn alternativ ekrir. Lektir video ek bann sou-tit pa finn teste dan enn fason indepandan.",
-        "verifiedHosting": "Paz ofisiel Raising Children Network, transkripsion ek atribision Karitane/UNSW finn verifye le 6 Oktob 2026. Video-la repibliye avek permision; okenn dire exak pa afirme.",
+        "durationLabel": "Ti video lor lemosion bann tipti; vizionaz opsionel pou adilt",
+        "summary": "Enn tipti zanfan kapav anvi ou pre enn moman ek anvi lespas zis apre. Si li pous enn lame ki ou propoze, aret kontak-la ek res disponib: “Mo kapav asiz isi.” Get so repons. Gard bann explikasion ouswa pratik pou enn moman kot li kapav partisipe.",
+        "prompt": "Konpar lexanp-la avek larive Priya. Pratik enn tigit mo ki ou kapav servi si li refiz kontak. Montre kot ou ti pou reste pou li ena lespas ek pou ou ankor kapav ede.",
+        "accessibility": "Enn transkripsion konplet disponib lor paz ofisiel-la ek finn lir. Ou kapav osi servi sa rezime-la pou travay-la. Lektir video ek bann soutit pa finn teste dan enn fason indepandan.",
+        "verifiedHosting": "Paz ofisiel Raising Children Network, transkripsion-la ek atribision Karitane/UNSW finn verifye le 6 Oktob 2026. Video-la finn repibliye avek lotorizasion; nou pa donn enn dire presi.",
         "moduleId": "m3",
         "module": 3
       }
@@ -1997,173 +1991,173 @@ window.COURSE_EXTRAS={
     "sources": [
       {
         "id": "eef-regulation",
-        "title": "Oto-regilasion ek fonksion egzekitif: rezerv bann prev pou tipti lanfans",
+        "title": "Self-regulation and executive function: Early Years Evidence Store",
         "publisher": "Education Endowment Foundation",
         "jurisdiction": "Angleter",
         "url": "https://educationendowmentfoundation.org.uk/early-years/evidence-store/self-regulation-and-executive-function",
-        "claim": "Definir bann kapasite regilasion lie; soutenir lansegnman, bann model, pratik repetitif ek enn led adilt adapte ar zanfan-la ek konteks-la.",
+        "claim": "Explik bann kapasite pou zer so bann lemosion ek aksion; soutenir montre kouma fer, pratike souvan ek adapte led adilt avek zanfan-la ek sitiasion-la.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "eef-evidence",
-        "title": "Program resers: oto-regilasion ek fonksion egzekitif dan tipti lanfans",
+        "title": "Research Agenda: Self-Regulation and Executive Function in the Early Years",
         "publisher": "Education Endowment Foundation",
         "jurisdiction": "Angleter",
         "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-self-regulation-and-executive-function-sref-in-the-early-years",
-        "claim": "Explik bann prev resers limite ek inegal dan tipti lanfans, inklir bann mank pou bann pli tipti zanfan ek bann intervansion ko-regilasion.",
+        "claim": "Explik ki bann prev pou bann metod dan tipti lanfans limite ek pa egal, avek bann mank pou bann pli zenn ek pou led bann adilt dan bann moman difisil.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "harvard-activities",
-        "title": "Gid aktivite: devlop ek pratik bann kapasite fonksion egzekitif avek bann zanfan depi nesans ziska ladolesans",
+        "title": "Activities Guide: Enhancing and Practicing Executive Function Skills with Children from Infancy to Adolescence",
         "publisher": "Center on the Developing Child at Harvard University",
         "jurisdiction": "Leta-Zini",
         "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-        "claim": "Bann zwe adapte avek laz ofer pratik latansion, memwar ek aksion fleksib; zot gid esanz orizinal pou bebe, bann zwe imitasion pou tipti zanfan ek bann aktivite marionet pou preskoler.",
-        "accessNote": "Paz ofisiel gid-la ek bann PDF 6–18 mwa, 18–36 mwa ek 3–5 an finn verifye le 6 Oktob 2026. Premie piblikasion gid-la: 2014. Bann sizesion laz ek zwe pa bann test bann etap devlopman ni enn tretman valide; enn sime telechargman date 2024 pa enn nouvo dat resers."
+        "claim": "Bann zwe adapte avek laz donn bann lokazion pratik latansion, rapel ek esey enn lot fason. Sa finn ed prepar aktivite reponn-ek-atann pou 12 mwa ziska avan 18 mwa, bann zwe imitasion pou tipti pli gran ek bann marionet pou preskoler.",
+        "accessNote": "Paz ofisiel gid-la ek bann PDF 6–18 mwa, 18–36 mwa ek 3–5 an finn verifye le 6 Oktob 2026. Pou sa formasion-la, swazir zis bann aktivite adapte pou 12 mwa ouswa plis; sours-la kouver bann bebe pli zenn osi. Premie piblikasion: 2014. Bann aktivite pa bann test lor seki enn zanfan sipoze fer ni enn tretman ki finn valide. Enn sime telechargman 2024 pa enn nouvo dat resers. Bann konteni anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "harvard-serve",
-        "title": "Bann lesanz ale-retour (Serve and Return)",
+        "title": "Serve and Return",
         "publisher": "Center on the Developing Child at Harvard University",
         "jurisdiction": "Leta-Zini",
         "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/",
-        "claim": "Bann lesanz ale-retour ki reponn bann bezwin avek bann adilt atantif soutenir kominikasion boner ek devlopman sosial.",
-        "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
+        "claim": "Bann lesanz ale-retour kot enn adilt bienveyan reponn zanfan-la ed bann premie kominikasion ek bann lien avek lezot.",
+        "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026. Bann konteni lor bann zanfan anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "acecqa-regulation",
-        "title": "Fis linformasion QA5: soutenir bann zanfan pou regil zot prop konportman",
+        "title": "QA5 information sheet: Supporting children to regulate their own behaviour",
         "publisher": "Australian Children’s Education and Care Quality Authority",
         "jurisdiction": "Lostrali",
         "url": "https://www.acecqa.gov.au/qa5-information-sheet-supporting-children-regulate-their-own-behaviour",
-        "claim": "Met an avan bann relasion ranpli avek bienveyans, bann kapasite ki varye, regilasion bann adilt, refleksion lor lanvironnman ek lansegnman bann kapasite dan bann moman kalm.",
+        "claim": "Met lanfaz lor bann bon lien, kapasite ki kapav sanze selon moman-la, bann adilt ki zer zot prop repons, bann sanzman dan lespas ek ansegnman kan zanfan-la alez.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "acecqa-discipline",
-        "title": "Fis linformasion QA5: disiplin ki pa apropriye",
+        "title": "QA5 information sheet: Inappropriate discipline",
         "publisher": "Australian Children’s Education and Care Quality Authority",
         "jurisdiction": "Lostrali",
         "url": "https://www.acecqa.gov.au/qa5-information-sheet-inappropriate-discipline",
-        "claim": "Fer diferans ant enn retour okalm avek soutien ek enn pinision ek idantifie bann disiplin ki pa apropriye. Bann detay legal aplik dan so kad ostralien; sa formasion-la pa prezant zot kouma enn lalwa iniversel.",
+        "claim": "Fer ladiferans ant ed enn zanfan santi li pli alez ek pini li, ek explik bann move fason disiplinn. Bann detay lalwa konsern so kad dan Lostrali; sa formasion-la pa prezant zot kouma bann lalwa partou.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "acecqa-self-regulation",
-        "title": "Eleman 5.2.2: oto-regilasion",
+        "title": "Element 5.2.2: Self-regulation",
         "publisher": "Australian Children’s Education and Care Quality Authority",
         "jurisdiction": "Lostrali",
         "url": "https://www.acecqa.gov.au/element-522-self-regulation",
-        "claim": "Soutenir kominikasion bann lemosion, rezolision bann konfli, refleksion bann edikater ek travay ansam avek bann fami ek lezot profesionel.",
+        "claim": "Soutenir bann fason koz lor lemosion, rezourd bann dezakor, reflesi lor travay adilt-la ek travay avek bann fami ek lezot profesionel.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "acecqa-inclusion",
-        "title": "Inklizion ek pratik inklizif",
+        "title": "Inclusion and inclusive practice",
         "publisher": "Australian Children’s Education and Care Quality Authority",
         "jurisdiction": "Lostrali",
         "url": "https://www.acecqa.gov.au/latest-news/inclusion-and-inclusive-practice",
-        "claim": "Dekrir enn ko-regilasion ki reponn bann bezwin atraver enn prezans, enn ton dous ek bann swa ki respekte ritm ek bezwin zanfan-la.",
+        "claim": "Dekrir kouma enn adilt kapav ede avek so prezans, enn lavwa dous ek bann swa ki respekte ritm ek bann bezwen zanfan-la.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "nice-autism",
-        "title": "Troub dan spekt lotism kot bann dimounn ki ena mwins ki 19 an: soutien ek zesion, bann rekomandasion 1.1.9 ek 1.4",
+        "title": "Autism spectrum disorder in under 19s: support and management, recommendations 1.1.9 and 1.4",
         "publisher": "National Institute for Health and Care Excellence",
         "jurisdiction": "Rwayom-Ini",
         "url": "https://www.nice.org.uk/guidance/cg170/chapter/recommendations",
-        "claim": "Rekomann pran kont kominikasion, lanvironnman sansoriel, previzibilite, bann fakter lasante posib ek bann swin individiel ki pran kont konesans fami-la. Bann gidans klinik pa otoriz bann edikater fer enn diagnostik ouswa preskrir.",
+        "claim": "Rekomann get kominikasion, tapaz ek lezot sansasion, seki zanfan-la kapav atann, bann posib problem lasante ek bann swen prepare avek fami-la. Sa bann konsey medikal-la pa otoriz personel lekol fer bann diagnostik ouswa preskrir bann tretman.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "ncpmi-visuals",
-        "title": "Bann sipor viziel pou bann routinn, lanplwa di tan ek tranzision",
+        "title": "Visual Supports for Routines, Schedules, and Transitions",
         "publisher": "National Center for Pyramid Model Innovations, University of South Florida",
         "jurisdiction": "Leta-Zini",
         "url": "https://www.challengingbehavior.org/document/visual-supports-for-routines-schedules-and-transitions/",
-        "claim": "Donn bann zouti pou bann lanplwa di tan viziel, bann kart routinn ek bann soutien avan/apre.",
+        "claim": "Donn bann zouti pou bann program an zimaz, bann kart routinn ek bann zimaz ki montre seki vini an premie ek apre.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "ncpmi-calm",
-        "title": "Ed nou res kalm",
+        "title": "Help Us Stay Calm",
         "publisher": "National Center for Pyramid Model Innovations",
         "jurisdiction": "Leta-Zini",
         "url": "https://www.challengingbehavior.org/docs/Stay-Calm_Infographic.pdf",
-        "claim": "Ankouraz bann adilt regil zotmem, reflesi ek retrouv lien-la avan ansegne atraver interaksion-la.",
+        "claim": "Ankouraz bann adilt zer zot prop repons, reflesi ek retrouv enn bon lien avek zanfan-la avan ansegne.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "ncpmi-response",
-        "title": "Bann konsey pou reponn bann konportman difisil kot bann tipti zanfan",
-        "publisher": "Strain, Joseph, Hemmeter, Barton and Fox; ebèrze par NCPMI",
+        "title": "Tips for Responding to Challenging Behavior in Young Children",
+        "publisher": "Strain, Joseph, Hemmeter, Barton and Fox; hosted by NCPMI",
         "jurisdiction": "Leta-Zini",
         "url": "https://challengingbehavior.org/wp-content/uploads/2025/02/2017-01-PEP-Tips.pdf",
-        "claim": "Bann stratezi repons al ansam avek enn prevansion ek enn lansegnman planifie, olye ranplas zot.",
+        "claim": "Bann fason reponn bizin al ansam avek prepar bann moman difisil ek ansegne; zot pa ranplas sa bann travay-la.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "ncpmi-teaching",
-        "title": "To finn reisi! Ansegn bann kapasite sosial ek emosionel",
-        "publisher": "Fox and Lentini; ebèrze par NCPMI",
+        "title": "You Got It! Teaching Social and Emotional Skills",
+        "publisher": "Fox and Lentini; hosted by NCPMI",
         "jurisdiction": "Leta-Zini",
         "url": "https://challengingbehavior.org/docs/YouGotIt_Teaching-Social-Emotional-Skills.pdf",
-        "claim": "Soutenir lintrodiksion, bann pratik repete ki ena sans, bann retour presi ek itilizasion dan diferan konteks; gid sekans formasion montre–pratike–routinn reel.",
-        "accessNote": "Lartik ofisiel set paz par Fox ek Lentini, Novam 2006, finn verifye le 6 Oktob 2026. So prezans aktiel an-lign pa enn nouvo dat piblikasion. Bann lexanp santre lor laparol ouswa led fizik pa pas avan akse avek kominikasion, konsantman ek bann prekosision pou swin."
+        "claim": "Soutenir montre enn nouvo aksion, pratik li souvan dan bann moman itil, dir presizeman seki finn marse ek servi li dan lezot sitiasion. Sa finn gid bann letap montre–pratike–servi dan enn vre routinn.",
+        "accessNote": "Lartik ofisiel set paz par Fox ek Lentini, Novam 2006, finn verifye le 6 Oktob 2026. So prezans aktiel an-lign pa enn nouvo dat piblikasion. Bann lexanp ki demann koze ouswa bouz enn zanfan fizikman pa pas avan so fason kominike, so lakor ek bann reg pou swen."
       },
       {
         "id": "ncpmi-emotions",
-        "title": "Bann stratezi lansegnman sosial ek emosionel: devlop vokabiler bann lemosion",
-        "publisher": "Center on the Social and Emotional Foundations for Early Learning; ebèrze par NCPMI",
+        "title": "Social Emotional Teaching Strategies: Enhancing Emotional Vocabulary",
+        "publisher": "Center on the Social and Emotional Foundations for Early Learning; hosted by NCPMI",
         "jurisdiction": "Leta-Zini",
         "url": "https://challengingbehavior.org/docs/ttyc/TTYC_A_EnhancingEmotVoc.pdf",
-        "claim": "Dekrir vokabiler bann santiman, bann model adilt, bann zwe rol ek pratik baze lor bann zistwar kouma bann parti enn lansegnman sosial ek emosionel pli larz.",
+        "claim": "Dekrir bann mo pou lemosion, bann adilt ki montre kouma fer, bann zwe rol ek bann zistwar kouma parti enn pli gran laprantisaz lor lemosion ek bann lien avek lezot.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "headstart-communication",
-        "title": "Konpran konportman bann zanfan kouma kominikasion",
+        "title": "Understanding Children’s Behavior as Communication",
         "publisher": "Office of Head Start, Administration for Children and Families",
         "jurisdiction": "Leta-Zini",
         "url": "https://headstart.gov/mental-health/article/understanding-childrens-behavior-communication",
-        "claim": "Soutenir enn travay ansam avek bann fami baze lor bann relasion ek enn interpretasion konportman dan so konteks pou bann zanfan depi nesans ziska sinkan.",
-        "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
+        "claim": "Soutenir bann bon lien avek fami-la ek konpran seki enn zanfan fer an tenant kont sitiasion-la, depi nesans ziska sink an.",
+        "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026. Bann konteni lor bann zanfan anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "acf-snapshots",
-        "title": "Bann stratezi pou soutenir oto-regilasion: seri apersi",
+        "title": "Strategies for Supporting Self-Regulation: Snapshot Series",
         "publisher": "Office of Head Start / Administration for Children and Families",
         "jurisdiction": "Leta-Zini",
         "url": "https://headstart.gov/mental-health/article/strategies-supporting-self-regulation-snapshot-series",
-        "claim": "Introdwir ko-regilasion par bann adilt ek donn bann lien ver bann resours pratik adapte ar laz, baze lor bann rapor ACF lor oto-regilasion ek stres toxik.",
+        "claim": "Prezante kouma bann adilt ed bann zanfan avek zot lemosion ek donn bann lien ver bann resours par laz baze lor bann rapor ACF Self-Regulation and Toxic Stress.",
         "accessNote": "Tit ek deskripsion ofisiel finn verifye dan bann rezilta sours indexe; akse direk finn retourn enn erer 403. Lektir siplemanter, pa sel baz pou okenn afirmasion formasion-la."
       },
       {
         "id": "dfe-emotions",
-        "title": "Led pou bann servis tipti lanfans: bann lemosion",
+        "title": "Help for early years providers: Emotions",
         "publisher": "Department for Education",
         "jurisdiction": "Angleter",
         "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
-        "claim": "Soutenir enn gidans emosionel avek lanpati, langaz ek bann sipor viziel, refleksion ek konesans bann fami. Inklir enn transkripsion video ofisiel.",
+        "claim": "Soutenir ekout bann lemosion avek bienveyans, servi bann mo ek zimaz, reget seki finn pase ek servi seki fami-la kone. Inklir enn transkripsion video ofisiel.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "dfe-mental-health",
-        "title": "Lasante mantal bann tipti zanfan",
-        "publisher": "Department for Education, devlope avek bann profesionel tipti lanfans ek lasante",
+        "title": "Mental health for early years children",
+        "publisher": "Department for Education, developed with early-years and health professionals",
         "jurisdiction": "Angleter",
         "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/mental-health-for-early-years-children",
-        "claim": "Abord bann fason individiel azir, bann sanzman ki bizin soutien, travay ansam avek bann fami ek profesionel, ek demann plis led pou proteksion zanfan.",
+        "claim": "Kouver seki abitie pou sak zanfan, bann sanzman ki bizin led, travay avek bann fami ek profesionel, ek signal bann inkietid lor proteksion zanfan.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
         "id": "safeguarding",
-        "title": "Gard bann zanfan an sekirite dan ledikasion 2026: premie parti – apersi pou tou personel",
+        "title": "Keeping children safe in education 2026: part one – overview for all staff",
         "publisher": "Department for Education",
         "jurisdiction": "Angleter",
         "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2/part-one-overview-for-all-staff",
-        "claim": "Demann azir san tarde, bann prosedir lokal proteksion zanfan ek bann dosie; enn danze imedia bizin enn repons dirzans. Sa apersi spesifik pou Angleter-la konplet bann gidans integral olye ranplas zot. Servi lekivalan aktiel dan ou ziridiksion.",
+        "claim": "Demann azir vit, servi bann kontak lokal pou proteksion zanfan ek gard bann dosie; enn danze imedia bizin led irzan. Sa rezime pou Angleter-la azout ar gid konplet-la, li pa ranplas li. Servi bann reg aktiel ki aplik kot ou travay.",
         "accessNote": "Paz ofisiel ouswa konteni resours-la finn verifye le 6 Oktob 2026."
       },
       {
@@ -2172,8 +2166,8 @@ window.COURSE_EXTRAS={
         "publisher": "ZERO TO THREE",
         "jurisdiction": "Leta-Zini",
         "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-        "claim": "Soutenir bann swin bebe ki reponn zot bann signal, bann relasyon familie ek devlopman oto-regilasion anmemtan ki enn gran depandans lor bann adilt.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gidans pratik profesionel, pa enn evaliasion sa formasion-la. Pa ti bizin enn kont pou paz-la."
+        "claim": "Soutenir bann swen ki reponn bann sign bebe, bann lien ki li kone ek bann premie fason pou zer so lemosion pandan ki li ankor bizin boukou led adilt.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gidans pratik profesionel, pa enn evaliasion sa formasion-la. Pa ti bizin enn kont pou paz-la. Bann konteni lor bann zanfan anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "ztt-toddlers",
@@ -2181,7 +2175,7 @@ window.COURSE_EXTRAS={
         "publisher": "ZERO TO THREE",
         "jurisdiction": "Leta-Zini",
         "url": "https://www.zerotothree.org/resource/developing-self-control-from-24-36-months/",
-        "claim": "Soutenir kontrol bann inpilsion ki ankor pe devlope, enn langaz kourt avek bann zes ek bann tour partaze adapte. Bann group laz formasion-la bann gid planifikasion, pa bann nivo performans obligatwar.",
+        "claim": "Soutenir kontrol bann aksion ki ankor pe aprann, bann fraz kourt avek bann sign ek bann ti tour ansam ki zanfan-la kapav fer. Bann group laz formasion-la se bann gid pou prepare, pa bann nivo ki bizin atenn.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Servi diskision devlopman-la dan enn fason selektif. Formasion-la exkli bann kalin sirpriz, aret enn zanfan fizikman ek bann sizesion pou les li tousel."
       },
       {
@@ -2190,8 +2184,8 @@ window.COURSE_EXTRAS={
         "publisher": "ZERO TO THREE",
         "jurisdiction": "Leta-Zini",
         "url": "https://www.zerotothree.org/resource/toddler-tantrums-101-why-they-happen-and-what-you-can-do/",
-        "claim": "Soutenir preparasion, bann swa reel, bann limit kourt ek enn lien ki reponn bann bezwen san promet enn kalm imedia.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Formasion-la pa adopte bann limit kategorik baze lor dat nesans ouswa enn deklarasion ki bizin devers lakoler."
+        "claim": "Soutenir preparasyon, bann vre swa, bann reg kourt ek enn prezans ki reponn zanfan-la, san promet ki li pou kalme deswit.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Sa formasion-la pa fixe bann limit strikt dapre laniverser ek li pa dir ki enn zanfan bizin devers so lakoler."
       },
       {
         "id": "rcn-cues",
@@ -2199,8 +2193,8 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network",
         "jurisdiction": "Lostrali",
         "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-        "claim": "Soutenir obzervasion bann invitasion pou interaksion, bann signal poz ek bann sanzman partisipasion, an verifyan konteks zanfan-la ek so lafami.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gid ofisiel 0–18 mwa ek version angle pou inprime finn lir. Bann zimaz aksesib par lien, pa kopie; bann signal individiel pa bann test diagnostik."
+        "claim": "Soutenir obzerv bann sign ki invit ou zwe ouswa koze, bann sign pou enn poz ek bann sanzman lintere, an tenant kont sa zanfan-la ek seki so fami kone.",
+        "accessNote": "Gid ofisiel-la kouver 0–18 mwa ek inklir bann bebe pli zenn. Pou sa formasion-la, servi bann lide pou obzerv bann sign ki al avek bann zanfan depi 12 mwa. Bann zimaz aksesib par lien, pa kopie. Bann sign enn zanfan pa bann test diagnostik. Paz-la ek dokiman inprimab angle finn verifye le 6 Oktob 2026. Bann konteni anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "rcn-baby-care",
@@ -2208,8 +2202,8 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network",
         "jurisdiction": "Lostrali",
         "url": "https://raisingchildren.net.au/babies/behaviour/crying/soothing-a-crying-baby",
-        "claim": "Soutenir bann verifikasion swin, konfor, douler ouswa maladi, demann led enn adilt ek zame sekwe enn bebe.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Pa servi kouma enn formasion pou nouri, anvlop, manipil, swagn medikalman ouswa fer dormi enn bebe. Bann prosedir swin ek somey an sekirite aprouve reste neseser."
+        "claim": "Linformasion anplis selman: soutenir verifye swen, rekonfor, douler ouswa maladi, demann enn lot adilt led ek pa zame souk enn zanfan. Sa pa enn aktivite pratik pou bann zanfan anba 12 mwa.",
+        "accessNote": "Sa sours-la finn garde pou montre kot bann lide sorti: paz-la konsern bann bebe, inklir bann ki anba 12 mwa. Li pa enn aktivite pratik sa formasion depi 12 mwa la. Pou bann swen, swiv plan sak zanfan ek bann letap lekol aprouve; nou pa ansegn okenn teknik pou port, nouri ouswa fer dormi enn zanfan isi."
       },
       {
         "id": "rcn-overstimulation",
@@ -2217,8 +2211,8 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network",
         "jurisdiction": "Lostrali",
         "url": "https://raisingchildren.net.au/toddlers/behaviour/common-concerns/overstimulation",
-        "claim": "Soutenir bann diferans individiel dan tolerans ek rediksion bann son, aktivite ouswa manipilasion ki melanze, an obzervan repons-la.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Formasion-la exkli bann konsign pou anvlop enn bebe, kouver enn pouset ouswa servi enn port-bebe, ek li pa preskrir enn tretman sensoriel."
+        "claim": "Soutenir bann diferans ant bann zanfan ek diminie bann son, aktivite ouswa kontak ki ariv ansam, an observan repons zanfan-la.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Formasion-la exkli bann konsign pou anvlop enn bebe, kouver enn pouset ouswa servi enn port-bebe, ek li pa preskrir enn tretman sensoriel. Bann konteni lor bann zanfan anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "rcn-toddler-feelings",
@@ -2226,7 +2220,7 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network; Karitane and UNSW",
         "jurisdiction": "Lostrali",
         "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
-        "claim": "Soutenir enn prezans pre adapte, respe pou enn tipti zanfan ki refiz kontak fizik ek enn retour ver lansegnman kan partisipasion posib.",
+        "claim": "Soutenir enn prezans ki adapte, respekte enn tipti zanfan ki refiz kontak ek retourn ansegne kan li kapav partisipe.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Transkripsion ofisiel konplet finn lir; atribision paz-la finn verifye. Lektir video ek bann sou-tit pa finn teste dan enn fason indepandan."
       },
       {
@@ -2235,8 +2229,8 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network",
         "jurisdiction": "Lostrali",
         "url": "https://raisingchildren.net.au/preschoolers/play-learning/play-preschooler-development/emotions-play-preschoolers",
-        "claim": "Soutenir bann zwe kot fer sanblan, bann mo lemosion ki pe devlope ek enn partisipasion varyab avek soutien adilt pandan bann lane preskoler.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Laz 3–5 an dan sours-la enn gidans larz, pa enn evaliasion valide bann etap devlopman. Bann aktivite orizinal formasion-la osi adapte avek sak zanfan sis an."
+        "claim": "Soutenir bann zwe fer-sanblan, bann premie mo pou lemosion ek diferan fason partisipe avek led enn adilt pandan bann lane preskoler.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Laz 3–5 an dan sours-la enn gid zeneral, pa enn test valide pou bann letap devlopman. Bann aktivite orizinal sa formasion-la adapte osi avek sak zanfan sis an."
       },
       {
         "id": "rcn-help-routes",
@@ -2244,8 +2238,8 @@ window.COURSE_EXTRAS={
         "publisher": "Raising Children Network",
         "jurisdiction": "Lostrali",
         "url": "https://raisingchildren.net.au/toddlers/development/toddlers-social-emotional-development/self-regulation",
-        "claim": "Soutenir bann kapasite ki depann lor konteks ek demann konsey profesionel pou bann konsern ki persiste, repli, danze ouswa lefe lor lavi toulezour.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Bann deskripsion referans ver bann spesialis dan Lostrali bizin adapte lokalman; bann prosedir irzans ek proteksion zanfan sorti dan bann prosedir aktiel servis-la."
+        "claim": "Soutenir lide ki seki enn zanfan kapav fer depann lor sitiasion-la, ek rod konsey profesionel si enn inkietid kontigne, li met li apar, ena danze ouswa so lavi toulezour afekte.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Bann kontak pou lezot servis dan Lostrali bizin adapte kot ou travay; bann kontak dirzans ek proteksion zanfan sorti dan bann letap aktiel lekol."
       },
       {
         "id": "cmi-coregulation",
@@ -2253,8 +2247,8 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "jurisdiction": "Leta-Zini",
         "url": "https://childmind.org/article/what-is-co-regulation/",
-        "claim": "Soutenir konsians adilt lor so prop leta, montre lexanp, bann diferans detres ek lintrodiksion bann soutien familie avan enn kriz.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gidans piblik revize par enn klinisien. Formasion-la exkli kontak viziel/fizik obligatwar ek pa dedwir bann lefe niron mirwar ouswa ormon dan enn interaksion individiel."
+        "claim": "Soutenir bann adilt ki remark zot prop repons, montre kouma fer, konpran ki bann zanfan pa tou boulverse parey ek fer zot konn bann led avan enn kriz.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Sa bann konsey piblik-la finn revize par enn profesionel lasante. Sa formasion-la pa demann kontak fizik ouswa get dan lizie, ek li pa devinn enn lefe lor bann selil servo ouswa ormon pandan enn lesanz."
       },
       {
         "id": "cmi-skill-practice",
@@ -2262,8 +2256,8 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "jurisdiction": "Leta-Zini",
         "url": "https://childmind.org/article/can-help-kids-self-regulation/",
-        "claim": "Soutenir enn pratik adapte pou enn kapasite presi ek enn soutien adilt ki aziste progresivman.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Pa enn norm konpetans baze lor dat nesans ni enn prev ki rekonfor adapte kree depandans."
+        "claim": "Soutenir pratik enn aksion presi dan enn fason ki zanfan-la kapav fer, avek led adilt ki adapte tigit par tigit.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Li pa enn lalis seki enn zanfan bizin kapav fer a sak laniverser, ni enn prev ki donn rekonfor fer li depann plis lor bann adilt."
       },
       {
         "id": "cmi-prek-guide",
@@ -2271,7 +2265,7 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "jurisdiction": "Leta-Zini",
         "url": "https://childmind.org/wp-content/uploads/2024/03/hmtkprek-educator-guide-eng.pdf",
-        "claim": "Soutenir lexanp adilt, bann ti pratik repete ek itilizasion bann kapasite dan bann routinn toulezour. Lexanp Sofia dan formasion-la azout bann verifikasion explisit lor akse avek kominikasion ek repons adilt.",
+        "claim": "Soutenir bann adilt ki montre kouma fer, bann ti pratik repete ek servi bann aksion dan bann routinn toulezour. Lexanp Sofia dan sa formasion-la azout bann verifikasion pou li kapav kominike ek pou bann adilt reponn.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gid konplet 21 paz finn lir. Bann materyel program avek enn mark pa enn prev ki sa formasion personel adapte la finn evalie. Zis bann lien; okenn ilistrasion founiser pa finn repwodir."
       },
       {
@@ -2280,7 +2274,7 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "jurisdiction": "Leta-Zini",
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
-        "claim": "Ofer enn video opsionel pou preskoler ek bann resours edikater pou explore bann lemosion ek bann swa pou fer fas avek zot pandan bann moman konfortab.",
+        "claim": "Propoz enn video opsionel pou preskoler ek bann resours pou ansegnan pou dekouver bann lemosion ek bann swa pou santi zot pli alez dan bann moman trankil.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz epizod ofisiel ek dire 6:26 finn verifye. Enn travay vizionaz pou adilt ek enn alternativ ekrir disponib; lektir/sou-tit pa finn teste dan enn fason indepandan."
       },
       {
@@ -2289,8 +2283,8 @@ window.COURSE_EXTRAS={
         "publisher": "Child Mind Institute",
         "jurisdiction": "Leta-Zini",
         "url": "https://childmind.org/article/should-i-get-care-for-my-child/",
-        "claim": "Soutenir bann obzervasion presi lor frekans, lintansite, dire, konteks ek partisipasion kan pe konsider bann konsey siplemanter.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Pa enn limit pou referans lekol ouswa enn gid irzans. Pa atann enn mwa, enn kantite fixe levennman ouswa enn diagnoz avan demann led neseser."
+        "claim": "Soutenir bann not presi lor komie fwa, kouma for, komie letan, dan ki sitiasion ek kouma zanfan-la partisipe kan nou pe desid rod plis konsey.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Li pa dir lekol ki nivo bizin atann avan rod led, ek li pa enn gid dirzans. Pa atann enn mwa, enn kantite insidan fixe ouswa enn diagnostik avan rod led neseser."
       },
       {
         "id": "ncpmi-infant",
@@ -2298,8 +2292,8 @@ window.COURSE_EXTRAS={
         "publisher": "National Center for Pyramid Model Innovations",
         "jurisdiction": "Leta-Zini",
         "url": "https://challengingbehavior.org/document/things-that-will-help-me-stay-calm-infants-pdf/",
-        "claim": "Soutenir enn interaksion adilt adapte, obzervasion bann signal ek bann routinn swin familie pou bann bebe.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz ofisiel ek PDF enn paz finn lir san koneksion kont. Adilt-la aplik gidans-la; pa atann ki bann bebe servi enn tablo. Sa pa enn formasion somey an sekirite."
+        "claim": "Linformasion anplis selman: explik kouma enn adilt reponn enn bebe, remark so bann sign ek servi bann routinn swen ki li kone. Sa pa enn aktivite pratik pou bann zanfan anba 12 mwa.",
+        "accessNote": "Sa sours-la finn garde kouma linformasion anplis pou montre kot bann lide sorti; li pa enn aktivite pratik pou bann zanfan anba laz koumansman 12 mwa sa formasion-la. Servi bann routinn ki al avek laz zanfan-la ek so plan swen aprouve. Sours-la finn lir san konekte enn kont; li pa enn formasion pou somey an sekirite."
       },
       {
         "id": "ncpmi-responsive-routines",
@@ -2307,8 +2301,8 @@ window.COURSE_EXTRAS={
         "publisher": "National Center for Pyramid Model Innovations",
         "jurisdiction": "Leta-Zini",
         "url": "https://challengingbehavior.org/wp-content/uploads/2023/04/responsive_routines_inventory.pdf",
-        "claim": "Soutenir bann routinn fleksib pou bebe/tipti zanfan, enn partenarya avek lafami, enn adilt swin referans ek enn larive avek soutien.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. PDF wit paz finn lir; dat dokiman-la se 22 Septam 2023. Li pa ranplas bann prosedir aktiel pou swin an sekirite, somey an sekirite ouswa twalet."
+        "claim": "Soutenir bann routinn bebe ek tipti zanfan ki kapav adapte, travay avek bann fami, enn adilt abitie ki okip zanfan-la ek led kan li arive.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. PDF wit paz finn lir; dat dokiman-la se 22 Septam 2023. Li pa ranplas bann prosedir aktiel pou swin an sekirite, somey an sekirite ouswa twalet. Bann konteni lor bann zanfan anba 12 mwa se zis bann linformasion anplis; pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "id": "ncpmi-visuals-2025",
@@ -2316,7 +2310,7 @@ window.COURSE_EXTRAS={
         "publisher": "National Center for Pyramid Model Innovations",
         "jurisdiction": "Leta-Zini",
         "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-        "claim": "Soutenir bann zimaz ki ena sans, bann progranm aksesib kot zot servi, montre kan enn aktivite fini ek bann sanzman, ek bann letiket dan enn lang familie.",
+        "claim": "Soutenir bann zimaz ki ena enn sans pou zanfan-la, bann program ki li kapav servi kot li bizin zot, montre ki enn aktivite fini ouswa sanze ek bann mo dan enn lang ki li kone.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz ek gid set paz Zin 2025 finn lir san koneksion kont. Bann zouti aster/apre formasion-la explik bann sekans ki vre; bann bezwen debaz, lien ek kominikasion zame bann rekonpans avek kondisyon. Zis bann ilistrasion orizinal formasion-la."
       },
       {
@@ -2325,8 +2319,8 @@ window.COURSE_EXTRAS={
         "publisher": "Lentini and colleagues; National Center for Pyramid Model Innovations",
         "jurisdiction": "Leta-Zini",
         "url": "https://challengingbehavior.org/wp-content/uploads/2025/06/ttyc_guide.pdf",
-        "claim": "Soutenir prevansion adapte avek enn routinn, lansegnman, repons adilt, partenarya avek lafami ek swivi, ek gid striktir plan orizinal Leo.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gid 91 paz Zin 2025 finn lir. Li pa enn formasion pou determinn fonksion enn konportman, li pa ranplas enn evaliasion formel ek li pa sifi pou bann konsern grav ek persistan. Zis enn lien; plan formasion orizinal, pa enn model kopie."
+        "claim": "Soutenir prepar bann routinn difisil, ansegne, bann repons adilt, travay avek fami-la ek verifye progre. Sa finn gid fason nou finn fer plan orizinal Leo.",
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Gid 91 paz Zin 2025 finn lir. Li pa ansegn personel determinn lakoz enn konportman, li pa ranplas enn evaliasion formel ek li pa sifi pou bann inkietid grav ki kontigne. Zis enn lien; plan formasion-la orizinal, pa enn model kopie."
       },
       {
         "id": "cd-visual-schedule",
@@ -2334,7 +2328,7 @@ window.COURSE_EXTRAS={
         "publisher": "Conscious Discipline",
         "jurisdiction": "Leta-Zini",
         "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-        "claim": "Lexanp enn program nomme lor bann routinn previzib ek vizib. Soutenir lexplorasion itilizasion pratik enn progranm; formasion-la exiz separeman enn kominikasion individiel ki ena sans.",
+        "claim": "Enn lexanp enn program presi ki montre bann routinn an zimaz. Ed gete kouma servi enn program an pratik; sa formasion-la demann osi enn fason kominike ki sa zanfan-la konpran.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Deskripsion piblik finn lir; kapav bizin enn kont gratis pou telechargman. Formasion-la pa kopie version inprimab-la ni adopte enn deklarasion iniversel ki bann zanfan pans zis an zimaz."
       },
       {
@@ -2343,7 +2337,7 @@ window.COURSE_EXTRAS={
         "publisher": "Conscious Discipline",
         "jurisdiction": "Leta-Zini",
         "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
-        "claim": "Enn lexanp avek enn mark lor kalme avek soutien adilt ek ansegn kouma servi enn lespas avan detres. Li gid refleksion lor disponibilite adilt, pa enn sekans obligatwar.",
+        "claim": "Enn lexanp enn mark presi kot enn adilt ed zanfan-la santi li pli alez ek montre enn plas avan enn moman difisil. Ed reflesi lor disponibilite adilt-la; li pa enn seri letap obligatwar.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz piblik finn lir; lektir video pa finn teste. Safe Place ek so bann letap bann materyel avek enn mark, pa bann prev indepandan lefikasite. Pena personaz ouswa fraz kopie, ni respirasion ouswa kontak fizik obligatwar."
       },
       {
@@ -2352,7 +2346,7 @@ window.COURSE_EXTRAS={
         "publisher": "Conscious Discipline",
         "jurisdiction": "Leta-Zini",
         "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-        "claim": "Ofer bann ilistrasion program opsionel pou bann konversasion lor lemosion. Formasion-la aksepte linsirtitid, lavi prive, plizier interpretasion ek kominikasion san bann mo.",
+        "claim": "Propoz bann ilistrasion opsionel enn program pou koz lor bann lemosion. Sa formasion-la aksepte pa kone, lavi prive, plizier posibilite ek kominikasion san laparol.",
         "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz ofisiel ek PDF sink paz finn ouver san koneksion kont. Bann ilistrasion proteze founiser-la pa inklir, tradir ouswa met anba enn lot mark. Nom enn lemosion zame enn kondisyon pou gagn rekonfor."
       },
       {
@@ -2361,8 +2355,8 @@ window.COURSE_EXTRAS={
         "publisher": "Mary Fuhs, University of Dayton (September 2018); linked by Conscious Discipline",
         "jurisdiction": "Leta-Zini",
         "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
-        "claim": "Raport enn lasosiasion ant fidelite laplikasion ek bann pwin fonksion egzekitif dan printan dan 45 klas partisipan an 2017–2018, an azistan pou bann kovariab mezire.",
-        "accessNote": "Rapor 23 paz ki ena enn lien ofisiel finn verifye le 6 Oktob 2026. Li dekrir enn kontra lokal avek Learn to Earn Dayton; enn lien depi Conscious Discipline pa vedir ki program-la finn komann rapor-la. Sa evaliasion par obzervasion la pa enn test avek repartision aleatwar pou sak pratik, enn test sa formasion-la ouswa enn prev enn mekanism servo."
+        "claim": "Raport enn lien ant kouma bann klas finn swiv program-la ek bann rezilta bann test latansion, memwar ek kontrol aksion dan 45 klas an 2017–2018. Bann kalkil finn pran kont lezot zafer ki bann serser ti mezire.",
+        "accessNote": "Rapor 23 paz ki ena enn lien ofisiel finn verifye le 6 Oktob 2026. Li dekrir enn kontra lokal avek Learn to Earn Dayton; enn lien depi Conscious Discipline pa vedir ki program-la finn komann rapor-la. Bann serser finn obzerv bann klas; zot pa finn tir osor bann group pou teste sak pratik. Sa pa enn test sa formasion-la ni enn prev enn lefe dan servo."
       }
     ],
     "moduleSources": {
@@ -2378,7 +2372,6 @@ window.COURSE_EXTRAS={
       "2": [
         "ncpmi-visuals-2025",
         "ncpmi-responsive-routines",
-        "rcn-baby-care",
         "rcn-overstimulation",
         "nice-autism",
         "cd-visual-schedule",
@@ -2395,7 +2388,6 @@ window.COURSE_EXTRAS={
         "acecqa-discipline",
         "dfe-mental-health",
         "safeguarding",
-        "ncpmi-infant",
         "rcn-toddler-feelings"
       ],
       "5": [
@@ -2420,8 +2412,8 @@ window.COURSE_EXTRAS={
     },
     "evidenceNotes": [
       {
-        "title": "Gidans profesionel ek bann laplikasion orizinal dan klas",
-        "text": "ZERO TO THREE, Child Mind Institute, NCPMI, bann resours aktivite Harvard ek Raising Children Network ofer bann explikasion profesionel, bann sintez ek bann lexanp pratik. Zot gid bann desizion adilt ansegne, me zot pa bann test sa bann fraz, zwe ouswa zouti-la. Tou bann sitiasion, fraz ek dispozision zouti formasion-la orizinal; okenn founiser pa aprouv formasion-la.",
+        "title": "Bann konsey profesionel ek bann lexanp klas orizinal",
+        "text": "ZERO TO THREE, Child Mind Institute, NCPMI, bann aktivite Harvard ek Raising Children Network donn bann explikasion profesionel, bann rezime resers ek bann lexanp pratik. Zot ed gid bann desizion adilt, me zot pa bann test sa bann fraz, zwe ouswa zouti-la. Tou bann sitiasion, fraz ek prezantasion zouti sa formasion-la orizinal; okenn parmi sa bann lorganizasion-la pa finn aprouv formasion-la.",
         "sourceIds": [
           "ztt-coregulation",
           "cmi-coregulation",
@@ -2431,8 +2423,8 @@ window.COURSE_EXTRAS={
         ]
       },
       {
-        "title": "Bann materyel avek enn mark bann lexanp, pa bann prev indepandan",
-        "text": "Conscious Discipline enn program edikatif nomme. Bann resours swazir gid refleksion lor previzibilite, bann lespas avek soutien adilt ek vokabiler lemosion. So bann letap avek enn mark, personaz ek explikasion bann leta servo pa adopte kouma enn kad diagnostik ni kopie dan formasion-la. Bann materyel Pre-K Child Mind osi idantifie kouma enn program; zot pa prezante kouma enn evaliasion indepandan sa formasion-la. Akse gratis pa vedir re-itilizasion san limit.",
+        "title": "Bann materyel enn mark se bann lexanp, pa bann prev indepandan",
+        "text": "Conscious Discipline se enn program ledikasion presi. Sertin resours ed reflesi lor montre seki pou arive, bann plas avek led adilt ek bann mo pou lemosion. So bann letap, personaz ek explikasion lor servo pa finn kopie dan formasion-la ni servi pou fer enn diagnostik. Bann materyel Pre-K Child Mind osi form parti enn program; zot pa enn evaliasion indepandan sa formasion-la. Akse gratis pa vedir ki kapav reservi tou san limit.",
         "sourceIds": [
           "cd-visual-schedule",
           "cd-supported-space",
@@ -2441,8 +2433,8 @@ window.COURSE_EXTRAS={
         ]
       },
       {
-        "title": "Resers indepandan ek bann limit bann konklizion",
-        "text": "Sintez bann prev ek program resers EEF tret bann prev resers pli larz separeman avek bann materyel pratik bann founiser. Bann prev lor bann intervansion pandan premie lane reste limite ek inegal; ena bann mank dan bann prev spesifik lor ko-regilasion ek bann pli tipti zanfan. Enn rapor lie avek Conscious Discipline dekrir enn lasosiasion obzerve ek aziste dan 45 klas, pa enn test avek repartision aleatwar pou sak pratik. Okenn sa bann sours-la pa valid sa formasion 75 minit la dan enn fason indepandan, garanti enn rezilta ouswa etabli enn lefe neronal apartir enn fraz.",
+        "title": "Bann resers ek seki nou pa kapav konklir",
+        "text": "Bann rezime ek bann plan resers EEF get bann prev pli larz, separe ar bann materyel pratik bann program. Bann prev pou bann metod tipti lanfans ankor limite ek pa egal; ena bann mank pou ko-regilasion ek bann pli zenn. Enn rapor ki Conscious Discipline donn enn lien ver li montre enn lien dan 45 klas apre bann serser finn pran kont lezot zafer mezire; li pa enn test avek bann group tire osor pou sak pratik. Okenn sa bann sours-la pa finn valide sa formasion 75 minit la dan enn fason indepandan, garanti enn rezilta ouswa prouve enn lefe dan servo akoz enn fraz.",
         "sourceIds": [
           "eef-regulation",
           "eef-evidence",
@@ -2450,18 +2442,17 @@ window.COURSE_EXTRAS={
         ]
       },
       {
-        "title": "Sekirite lokal ek zizman individiel reste esansiel",
-        "text": "Enn soutien ki pran kont resers pa ranplas bann swin bebe aprouve, bann plan kominikasion individiel, sirveyans, evaliasion lasante, repons irzans ouswa proteksion zanfan. Bann group laz bann sours diferan; bann gran group planifikasion sa formasion-la pa bann test bann etap devlopman. Formasion-la exkli kontak fizik ouswa regar forse, refi swin, inior detres, bann teknik restriktif inprovize ek bann konsign tretman klinik.",
+        "title": "Bann reg lokal ek bann bezwen sak zanfan res esansiel",
+        "text": "Bann konsey baze lor resers pou bann zanfan depi 12 mwa pa ranplas bann swen aprouve, bann plan kominikasion, sirveyans, evaliasion lasante, bann ka irzan ouswa proteksion zanfan. Sertin sours kouver bann bebe pli zenn; sa res bann linformasion anplis, pa bann aktivite pratik anba 12 mwa. Bann group laz se bann gid zeneral pou prepare, pa bann test. Sa formasion-la pa inklir fors kontak ouswa get dan lizie, refiz swen, ignor enn zanfan boulverse, invant bann teknik pou anpes li bouze ouswa bann linstriksion tretman medikal.",
         "sourceIds": [
-          "rcn-baby-care",
           "ncpmi-responsive-routines",
           "nice-autism",
           "safeguarding"
         ]
       },
       {
-        "title": "Akse, drwa doter ek vizionaz opsionel",
-        "text": "Bann nouvo paz ek dokiman bann founiser finn verifye le 6 Oktob 2026. Bann nouvo video azoute finn verifye atraver zot paz, resours akonpagnman ek transkripsion; zot lektir pa finn teste dan enn fason indepandan. Sak video formasion ena enn travay vizionaz pou adilt ek enn alternativ ekrir. Telechargman progranm Conscious Discipline kapav demann enn kont gratis. Bann grafik, zistwar, model ek logo bann founiser aksesib par lien olye repwodir ouswa tradir.",
+        "title": "Akse, drwa doter ek bann video opsionel",
+        "text": "Bann nouvo paz ek dokiman bann lorganizasion finn verifye le 6 Oktob 2026. Pou bann nouvo video, bann paz, resours ki akonpagn zot ek transkripsion finn verifye; lektir video pa finn teste dan enn fason indepandan. Sak video ena enn travay pou bann adilt ek enn alternativ ekri. Kapav bizin enn kont gratis pou telesarz program an zimaz Conscious Discipline. Bann zimaz, zistwar, model ek logo bann lorganizasion aksesib par lien, pa kopie ni tradir.",
         "sourceIds": [
           "cmi-big-feelings",
           "rcn-toddler-feelings",

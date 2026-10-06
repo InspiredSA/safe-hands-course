@@ -2,211 +2,211 @@
   "meta": [
     {
       "title": "Start with connection",
-      "sub": "Match responsive support to infants, toddlers and children aged 3–6; choose the adult’s job before, during and after distress.",
+      "sub": "Help children from 12 months through age 6 before, during and after a difficult feeling.",
       "time": 10
     },
     {
       "title": "Make the day easier to manage",
-      "sub": "Demonstrate a meaningful schedule, change a real transition demand and introduce a supervised support option.",
+      "sub": "Show what happens next, make busy routines easier and offer a quieter place with adult help.",
       "time": 10
     },
     {
       "title": "Respond before distress grows",
-      "sub": "Respond briefly, honour declined touch or tools and make help or break communication lead to adult action.",
+      "sub": "Notice when help is needed, respect a child’s “no” to touch and respond to requests for help or a break.",
       "time": 10
     },
     {
       "title": "Keep everyone safe, then reconnect",
-      "sub": "Practise a safe staff handover, protect care and supervision, and separate recovery from later teaching.",
+      "sub": "Know when to get urgent help, keep children supervised and offer comfort after danger has passed.",
       "time": 10
     },
     {
       "title": "Teach skills in everyday play",
-      "sub": "Model one accessible skill, support its use in a real routine and adapt play to the child’s cues.",
+      "sub": "Show one useful action in play, help the child use it in the day and stop when play becomes uncomfortable.",
       "time": 10
     },
     {
       "title": "Build the plan together",
-      "sub": "Use a filled observation and Leo’s worked tidy-up plan to assign adult actions, review access and seek the right help.",
+      "sub": "Use clear observations and family knowledge to agree what adults will try and when to ask for more help.",
       "time": 10
     }
   ],
   "practice": [
     {
-      "q": "Fictional example: Eight-month-old Imani reaches towards a familiar educator, then turns away and fusses as two adults talk and a musical toy starts. Which response best fits her present capacity?",
+      "q": "Fourteen-month-old Imani reaches towards a familiar adult. When two adults speak at once and a musical toy starts, she turns away, pushes it aside and fusses. She mainly uses gestures and sounds. What should the adult do?",
       "o": [
-        "Offer a different interesting toy while continuing the familiar song.",
-        "Pause the toy and overlapping talk, remain responsive with familiar comfort, and check care needs and cues.",
-        "Introduce a help picture and invite Imani to point before choosing what to do."
+        "Offer a different toy and continue the familiar song.",
+        "Stop the toy and extra talk, offer familiar comfort and check what care or help she needs.",
+        "Show a new help picture and ask her to point before deciding what to do."
       ],
       "a": 1,
-      "why": "The adult adjusts stimulation and checks care rather than expecting an infant coping performance. A turned head may invite a pause; it is not a diagnosis or proof that interaction is unwelcome. Compare with Amira: both need responsive help, but Imani does not need a verbal explanation or problem-solving lesson. Use approved infant-care procedures."
+      "why": "Imani is already showing that she may need a pause. Reduce sound, offer familiar comfort and check care needs. Watch before showing one simple next step. Like Amira, she needs help; she is not expected to explain a feeling or solve a problem."
     },
     {
-      "q": "Fictional example: Three-year-old Leo covers his ears as chairs scrape and children crowd around the tidy-up shelves. He backs away and communicates mostly through gestures. Which first adjustment most directly addresses the observed barriers?",
+      "q": "Three-year-old Leo covers his ears as chairs scrape and children crowd the tidy-up shelf. He backs away and mostly uses gestures. What would help first?",
       "o": [
-        "Offer a breathing picture and explain it gently while the group continues unchanged.",
-        "Take him to a feelings display to choose a word before planning the transition.",
-        "Reduce noise and crowding, offer a quieter supervised position, and use his familiar gesture or cue for one real next step."
+        "Explain a breathing picture while the room stays the same.",
+        "Take him to a feelings display to choose a word before helping.",
+        "Reduce noise and crowding, stay with him in a quieter spot and use a familiar gesture or object to show one next step."
       ],
       "a": 2,
-      "why": "This changes the demand and keeps communication and support accessible. A tool alone leaves the crowd and noise unchanged. Afterwards, demonstrate the cue during an easier transition, ask the family about gestures, and record adult follow-through and Leo’s comfort and participation."
+      "why": "Fewer children at the shelf and less chair noise change the difficult situation. A picture alone does not. Later, check which gestures Leo uses and whether staff made the changes and he could comfortably reach the next activity."
     },
     {
-      "q": "Fictional example: Two-year-old Priya finds a different adult at arrival. She clings to her caregiver, turns away and pushes aside the adult’s offered hand. What is the strongest next response?",
+      "q": "Two-year-old Priya finds a different adult at arrival. She clings to her caregiver, turns away and pushes aside the adult’s hand. What should happen next?",
       "o": [
-        "Offer a cuddle instead and explain that the adult is here to help.",
-        "Give comfortable space, stay available with few words and use the familiar family-agreed arrival routine without demanding touch or speech.",
-        "Begin a short lesson on two ways to feel calm so she has a choice."
+        "Offer a cuddle instead and explain that the adult can help.",
+        "Give her space, stay nearby with few words and follow the arrival routine agreed with the family.",
+        "Teach two new ways to calm down so she can choose."
       ],
       "a": 1,
-      "why": "A toddler can decline touch and still need responsive support. Reduce pressure, preserve care and supervision, and prepare a predictable backup routine with the family. A new coping lesson or another imposed touch is poorly matched to this moment."
+      "why": "Priya can decline touch and still need company. Stop the touch, keep care and supervision in place and use the known arrival routine. Plan for an absent familiar adult with the family and teacher."
     },
     {
-      "q": "Fictional example: Five-year-old Ben lifts a chair while distressed after a game ends. Other children are close and another adult is available. What should guide the first response?",
+      "q": "Five-year-old Ben lifts a chair while upset after a game ends. Children are nearby and another adult is available. What should guide the first response?",
       "o": [
-        "Use a longer reassuring explanation while asking the colleague to find a feelings chart.",
-        "Begin rehearsing a familiar coping routine before involving other staff.",
-        "Call agreed trained support, maintain supervision and help create safe space for others under the local emergency plan."
+        "Give a longer explanation and send the colleague for a feelings chart.",
+        "Practise a calming routine before involving other staff.",
+        "Call the agreed trained help, keep children supervised and help create safe space under school procedures."
       ],
       "a": 2,
-      "why": "Protecting people and obtaining appropriate help come before teaching. The actual action depends on current local procedures and the environment. This course gives no physical-intervention technique or authority. Rehearse staff communication through discussion, never dangerous behaviour."
+      "why": "Protect people and get the right help before teaching. The safe action depends on the room and current procedures. This course does not teach or authorise holding techniques. Practise the staff conversation, never the dangerous behaviour."
     },
     {
-      "q": "Fictional example: Four-year-old Sofia uses a help card in a calm lesson. At snack her lid is stuck, she cries and pushes the box away, and the card is in a drawer. Which response best links immediate help and future teaching?",
+      "q": "Four-year-old Sofia uses a help card during a calm lesson. At snack, her lid is stuck. She cries and pushes the box away; the card is in a drawer. What should staff do?",
       "o": [
-        "Help in response to her current communication; then put the cue at snack, model it in manageable opportunities and ensure adults respond.",
-        "Bring the card and repeat the lesson before opening the box so the signal becomes clear.",
-        "Replace it with several new cards and ask her which would be easiest to use."
+        "Help now, then put the familiar card at snack, show its use during easy practice and make sure adults respond.",
+        "Fetch the card and repeat the lesson before opening the box.",
+        "Replace it with several new cards and ask which she prefers."
       ],
       "a": 0,
-      "why": "A skill needs meaning, access, a real opportunity and reliable adult response. Do not withhold help while seeking a correct cue. Demonstrate a nonspoken request and show how a familiar substitute will respond; assess access to snack, not just reduced crying."
+      "why": "Sofia is already showing she needs help. Open the box without waiting for the right card response. Later, put the card where it is needed and show a substitute adult how to respond. Check whether Sofia can get help and eat her snack."
     },
     {
-      "q": "Fictional example: Five-year-old Noah withdraws during large-group singing, but his caregiver says he sings at home. Which opening best supports a testable shared plan?",
+      "q": "Five-year-old Noah moves away during large-group singing. His caregiver says he sings at home. Which opening would help staff and family make a useful plan?",
       "o": [
-        "“We’ll practise naming feelings more often, then see whether he joins.”",
-        "“He enjoys songs he chooses in small groups. He moves away in the large group. What helps at home? Could we compare a quieter supported option and review his comfort and participation?”",
-        "“If we count only the times he leaves, we can decide whether the plan works.”"
+        "“We’ll practise naming feelings more often, then see if he joins.”",
+        "“He enjoys chosen songs in a small group here, but moves away in the large group. What helps at home? Could we try a quieter place with an adult nearby and compare how he feels and joins in?”",
+        "“We’ll count how often he leaves to decide whether the plan works.”"
       ],
       "a": 1,
-      "why": "A strength, factual context, family knowledge and a concrete adult adjustment make a useful starting point. Name an owner and review point, check whether staff delivered the change, and act sooner if health, safety or safeguarding concerns arise."
+      "why": "Start with a strength, describe what you saw and ask the family. Agree who makes the change and when to review. Check whether it happened and whether Noah was comfortable and able to enjoy singing. Seek help sooner for growing health, safety or child-protection concerns."
     }
   ],
   "declarations": [
-    "I will respond to distress with dignity, accessible communication and adult co-regulation, while keeping everyone safe.",
-    "I will adapt routines and expectations to the child’s development, communication and sensory needs, and teach skills when the child is ready.",
-    "I will not use humiliation, threats, isolation, forced eye contact, forced affection or withdrawal of necessary care to obtain compliance.",
-    "I will follow current school safeguarding, supervision and emergency procedures, seek trained help and stay within my role. This course does not teach or authorise restraint.",
-    "I understand that this certificate records online learning only. I will use the school’s approved systems for real concerns, support plans and family communication, never this course."
+    "I will treat an upset child with dignity, use communication they understand and offer calm adult help while keeping people safe.",
+    "I will adapt routines and tasks to the child’s needs, including communication, sound, touch and movement, and teach when they can join in.",
+    "I will not shame, threaten or isolate a child, force eye contact or affection, or withhold necessary care to make them do something.",
+    "I will follow current school safeguarding, supervision and emergency procedures, get trained help and stay within my role. This course does not teach or permit restraint.",
+    "I understand this certificate records online learning only. I will use approved school systems for real concerns, support plans and family messages, never this course."
   ],
   "localReadiness": [
     {
-      "title": "Know the child and the routine",
-      "text": "Learn the child’s usual cues, interests, communication, sensory preferences and care plan. Use broad age guidance without milestone tests. Staff responsible for infants also need approved safe-handling, safe-sleep and care training; this course does not supply it."
+      "title": "Know this child",
+      "text": "Ask the teacher about the child’s usual gestures, words, interests, comfort and care plan. These examples start at 12 months; ages are planning guides, not tests. Anyone giving personal care also needs the school’s approved handling, care and rest/sleep training."
     },
     {
-      "title": "Know your own support",
-      "text": "Agree a help signal and demonstrate who stays with the child and who supervises the group. Obtain acknowledgement before a handover. Prepare a backup adult and the minimum useful information; never simply walk away."
+      "title": "Know who can help you",
+      "text": "Agree how to call for help, who stays with the child and who watches the group. Name a backup. Practise asking and waiting for a clear reply before handing over; do not simply walk away."
     },
     {
-      "title": "Make the environment usable",
-      "text": "Check noise, waiting, crowding, movement and communication access. Demonstrate a cue where it will be used, completion and a real change of plan. Prepare supervised quieter options with clear exits, age-safe resources and support when the preferred space is occupied."
+      "title": "Check the room and routine",
+      "text": "Look for noisy chairs, crowded shelves or long waits. Show a familiar picture or object where it is needed, what happens next and a change of plan. Check quieter places, safe exits, age-safe resources and who stays nearby, including when the usual spot is occupied."
     },
     {
-      "title": "Agree consistent, flexible responses",
-      "text": "Decide what staff do when the child communicates help or break. Demonstrate a short response, processing time and an alternative when touch or a tool is declined. Never require speech, eye contact, breathing or calm appearance before care or support."
+      "title": "Agree how adults respond",
+      "text": "Know what happens when a child asks for help or a break. Practise a few words and a pause. Be ready to offer space or another support if touch or a tool is declined. Care must not depend on speaking, eye contact, breathing or looking calm."
     },
     {
-      "title": "Know the help and reporting routes",
-      "text": "Confirm your ELS/inclusion lead, safeguarding lead, independent alternative route, first-aid support and emergency process. Urgent risk needs prompt help, not another behaviour strategy."
+      "title": "Know urgent help and reporting routes",
+      "text": "Find the teacher or inclusion/ELS lead for extra support, the safeguarding lead for child-protection concerns, the alternative reporting route and the first-aid/emergency process. Urgent danger needs help now."
     },
     {
-      "title": "Review with evidence and families",
-      "text": "Separate the observed sequence, possible explanations and next adult test. Record whether support was delivered, the child’s comfort, communication and access, and family information in approved secure systems. Name a review owner; seek advice sooner for persistent, increasing or urgent concerns."
+      "title": "Review with the family",
+      "text": "Write what you saw separately from possible explanations, using approved secure records. Check what adults changed and whether the child could ask for help, feel comfortable and enjoy activities. Agree who reviews with the family and when. Ask for advice sooner if concerns grow."
     }
   ],
   "practical": {
-    "title": "Team co-regulation practice guide",
-    "intro": "Use fictional cases for a short adult-to-adult rehearsal, with a colleague or by narrating both roles. The module activities introduce the skills; a later supervised team rehearsal and practice review can check how they work locally. Online completion alone does not show practical competence.",
+    "title": "Practise helping a child together",
+    "intro": "For adults supporting children from 12 months through age 6. Use fictional examples with a colleague, or say both adult roles aloud. Co-regulation means helping a child through a difficult feeling with calm adult support. This guide supports practice and discussion; completing the online course does not prove practical skill.",
     "instructions": [
-      "Choose Imani’s infant cue response only if relevant to your role, Priya’s arrival, Leo’s tidy-up, Sofia’s snack or Noah’s singing. State the child’s communication and present capacity; do not imitate a real child’s distress.",
-      "Agree who speaks, who supervises and how help is summoned. Demonstrate words, a cue and one environmental adjustment. Never stage danger, practise restraint or rehearse infant handling from this course.",
-      "The observer introduces one change: touch is declined, the cue is missing, the quiet space is occupied or the usual adult is absent. Demonstrate how support remains available; pause whenever a participant wishes.",
-      "Compare what the adult did with the criteria below. Record one specific strength and one action to improve. If working alone, say or write the exact response and check each step honestly.",
-      "With the relevant local lead, choose one safe ordinary-practice adjustment and a review point. A later supervised observation should check adult delivery and child access. Keep real child details out of this course and use approved secure records."
+      "Read this example first: at tidy-up, Leo covers his ears. One adult agrees to watch the group; another stays nearby. Staff reduce noise and send fewer children to the shelf. The adult shows Leo his familiar basket: “One block here,” then shows the next activity. If he needs a pause, they stay together in the agreed quieter spot.",
+      "Choose Imani’s arrival at 14 months, Priya’s arrival, Leo’s tidy-up, Sofia’s snack or Noah’s singing. Say how the child shows what they need. For example, Imani turns away and pushes the noisy toy aside; the adult stops it and checks care needs.",
+      "Agree who speaks, who watches the group and how to get help. Show your words, a familiar object/picture/sign and one change, such as fewer children at the shelf. Never act out aggression, practise restraint or rehearse handling a child from this course.",
+      "Your partner adds a change: touch is declined, a picture is missing, the quieter seat is occupied or the usual adult is absent. Show another way to help. Anyone can pause the practice. If alone, describe both adults’ actions.",
+      "Use the checks below. Name one action that helped and one to improve. With the teacher or relevant lead, agree a safe small change to try and when to review it through supervised practice. Keep real children’s details out of this course and use approved secure records."
     ],
     "criteria": [
       {
-        "area": "1. Demonstrate preparation and access",
+        "area": "1. Make the routine easier",
         "items": [
-          "Shows a meaningful cue at its point of use, pairs it with the actual step, marks completion and demonstrates an honest change of plan.",
-          "Makes one concrete environmental adjustment and identifies an accessible supervised alternative if the preferred space is unavailable.",
-          "Matches the first response to present capacity: infant cue-and-care support within role, toddler concrete help or an older child’s accessible next step."
+          "Shows a known object or picture while doing the step, then shows what comes next. For example: show the tidy-up basket, say “One block here,” then show the next activity. If the shelf is blocked, show the real alternative.",
+          "Changes something practical, such as fewer children at the shelf, and identifies another safe place with adult support if the quieter spot is occupied.",
+          "Matches help to the child: familiar comfort and one simple step for 12 months to under 18 months; practical help for an older toddler; a next step the older child can manage."
         ]
       },
       {
-        "area": "2. Demonstrate the first response",
+        "area": "2. Offer help the child can use",
         "items": [
-          "States an observable cue, uses one or two short warm sentences, pauses and avoids crowding.",
-          "Accepts a gesture, symbol, sign, device or other understandable signal and demonstrates the promised help/break response.",
-          "Changes course when touch, breathing or a tool is declined, while maintaining supervision, necessary care and adult availability."
+          "Says what they notice, uses a few warm words, pauses and gives the child space.",
+          "Accepts the child’s gesture, sign, picture, device or words. Shows the actual help or break that follows.",
+          "Stops an unwanted offer of touch, breathing or a tool and offers another way to help. Care, supervision and adult company remain available."
         ]
       },
       {
-        "area": "3. Demonstrate safe teamwork",
+        "area": "3. Work safely with other adults",
         "items": [
-          "Requests a colleague’s specific role, receives acknowledgement and hands over the useful cue, support and supervision information.",
-          "Locates the current urgent-support, first-aid/emergency, safeguarding and backup routes, and states when each takes priority.",
-          "Keeps the rehearsal non-physical and within role limits; no restraint, seclusion, forced isolation, humiliation or withholding care."
+          "Asks a colleague for a clear job, waits for agreement and shares what happened, what helped and who watches each group.",
+          "Can find the current safety, first-aid/emergency and safeguarding routes, including backups, and say when urgent help is needed.",
+          "Keeps practice non-physical and within role limits. Does not practise restraint, locking a child away, forced isolation, humiliation or withholding care."
         ]
       },
       {
-        "area": "4. Demonstrate teaching and review",
+        "area": "4. Teach later and check what helped",
         "items": [
-          "Offers a low-pressure return before discussion or repair, without requiring an apology or emotional performance.",
-          "Models one useful skill in settled play, invites an optional turn and places the established support in a real routine with an adult response.",
-          "Separates facts from possible explanations, names an adult change and review owner, and checks comfort, communication, participation and adult follow-through with the family."
+          "Offers a supported return without requiring an apology, explanation or repair first. Helps put things right later, when the child is ready.",
+          "Shows one useful action in comfortable play, offers a turn without pressure and puts the familiar support in the real routine with an adult ready to respond.",
+          "Keeps facts and guesses separate, names what an adult will change and who will review it, and checks the child’s comfort, communication and enjoyment with the family."
         ]
       }
     ],
     "decisionOptions": [
       "Agree one small change and a review date",
-      "Arrange coaching or additional support",
-      "Seek the relevant school lead’s advice before changing the child’s plan"
+      "Arrange coaching or more support",
+      "Ask the relevant school lead before changing the child’s plan"
     ],
-    "footer": "This guide supports discussion, coaching and supervised practice. It is not a competence licence or a scored clinical assessment. Only the setting can establish role permissions, approve individual plans and supply required care, safeguarding or intervention training."
+    "footer": "Use this guide for discussion, coaching and supervised practice. It is not permission to carry out a procedure or proof of professional competence. The school must approve individual plans and role responsibilities and provide required care, safeguarding and safety training."
   },
   "visualGuides": [
     {
       "id": "adult-anchor",
       "module": 1,
       "title": "Be the steady adult",
-      "intro": "An original first-response aid. Match help to present capacity; these are adult decisions, not stages a child must pass through.",
+      "intro": "A child’s tower falls and blocks scatter. Check safety, offer company and make one small next step easier. The child does not have to work through a fixed set of stages.",
       "steps": [
         {
           "title": "Notice yourself",
-          "text": "Notice your voice, pace and tension. Take a comfortable pause if it is safe.",
+          "text": "Is your voice getting faster or sharper? Notice tense hands. Take a brief pause if it is safe.",
           "icon": "notice"
         },
         {
-          "title": "Steady your response",
-          "text": "Lower the volume, soften your posture and choose fewer words. Calm presence takes practice.",
+          "title": "Use a steadier voice",
+          "text": "Slow your next sentence and lower your volume: “That fell down. I can stay here.”",
           "icon": "pause"
         },
         {
-          "title": "Connect without pressure",
-          "text": "Stay available at a distance the child can tolerate. Offer warmth without insisting on touch or eye contact.",
+          "title": "Stay nearby without pressure",
+          "text": "Give the child comfortable space. Offer company without insisting on touch or eye contact.",
           "icon": "support"
         },
         {
-          "title": "Make one helpful change",
-          "text": "Reduce one demand or source of overload. Offer an accessible choice that you can honour.",
+          "title": "Make one thing easier",
+          "text": "Move the audience on or offer one block together. Offer only choices you can provide; the child may prefer a break.",
           "icon": "choice"
         },
         {
-          "title": "Bring in support",
-          "text": "Ask a colleague for a specific role, obtain acknowledgement and hand over the cue, useful support and supervision arrangement before stepping away.",
+          "title": "Ask for clear help",
+          "text": "“Can you watch the group? I’ll stay with Amira.” Wait for agreement. Before handing over, share what happened, what helped and who is supervising.",
           "icon": "people"
         }
       ]
@@ -214,32 +214,32 @@
     {
       "id": "early-response",
       "module": 3,
-      "title": "Less pressure, more support",
-      "intro": "Imagine a child covering their ears and moving away as the class lines up. Rehearse a response before distress grows.",
+      "title": "Less pressure, more help",
+      "intro": "A child covers their ears and moves away as the class lines up. Make the line less crowded and offer a quieter place with an adult nearby.",
       "steps": [
         {
-          "title": "Notice the cue",
-          "text": "Describe what you see: hands over ears, backing away, fewer words. Do not guess an intention.",
+          "title": "Notice what you see",
+          "text": "Hands cover ears; the child backs away or uses fewer words. Describe these actions without guessing why.",
           "icon": "notice"
         },
         {
-          "title": "Change the conditions",
-          "text": "Reduce noise and crowding. Offer a supervised quieter position or staggered transition.",
+          "title": "Change the difficult part",
+          "text": "Reduce noise and crowding. With the teacher, arrange a quieter waiting place or let smaller groups move at a time. Keep supervision clear.",
           "icon": "zones"
         },
         {
-          "title": "Use a brief script",
-          "text": "“It’s noisy. I’m here. We can wait here together.” Allow time for the child to process.",
+          "title": "Say a few words, then wait",
+          "text": "You might say, “It’s noisy. I’m here. We can wait here together.” Give the child time to understand or respond.",
           "icon": "voice"
         },
         {
-          "title": "Make communication work",
-          "text": "Use the child’s established help/break gesture or cue and honour the request. If the preferred place is occupied, provide another safe supervised option.",
+          "title": "Respond to the child’s message",
+          "text": "Accept their usual help or break gesture, picture or device. Show the actual help. If the usual seat is occupied, offer another safe place with adult support.",
           "icon": "choice"
         },
         {
-          "title": "Notice the response",
-          "text": "If a tool or touch is declined, reduce pressure and adapt while staying available. If risk or health concern grows, use the relevant local response immediately.",
+          "title": "Watch and adjust",
+          "text": "If touch or a tool is declined, stop that offer, give space and remain available. Use the school’s safety or health response immediately if risk or a health concern grows.",
           "icon": "plan"
         }
       ]
@@ -247,32 +247,32 @@
     {
       "id": "recovery",
       "module": 4,
-      "title": "Recovery is part of the support",
-      "intro": "The difficult moment may have passed, but readiness to talk or learn can return slowly. Avoid rushing to correction.",
+      "title": "Keep helping after the difficult moment",
+      "intro": "A child is quiet after an upsetting event. Check comfort and care first. They can return to play with help before discussing or putting things right.",
       "steps": [
         {
-          "title": "Keep support available",
-          "text": "Maintain supervision, a calm environment and necessary care. Do not withdraw comfort as a consequence.",
+          "title": "Keep care and company available",
+          "text": "Keep the child supervised, reduce noise or pressure and meet care needs. Comfort is not a reward to remove.",
           "icon": "support"
         },
         {
-          "title": "Offer, do not insist",
-          "text": "Offer the child’s familiar calming supports. Breathing, touch or talking may not help every child.",
+          "title": "Offer familiar support",
+          "text": "Offer a known toy, company or space. A child may not want breathing, touch or talking; offer another way to help.",
           "icon": "choice"
         },
         {
-          "title": "Wait for readiness",
-          "text": "Watch for the child’s usual signs of comfort and engagement. Do not demand an immediate explanation or apology.",
+          "title": "Look for interest, without rushing",
+          "text": "Watch for the child’s usual signs of comfort or interest in play. Silence alone does not mean they are ready for questions.",
           "icon": "listen"
         },
         {
-          "title": "Reconnect and repair",
-          "text": "When ready, support a manageable repair and a small return to activity. Keep useful support available; another child need not accept affection or comfort anyone.",
+          "title": "Help the child return",
+          "text": "Offer watching or one easy step into play. No apology, explanation or repair is required first. Later, when ready, help put things right. Another child need not accept affection.",
           "icon": "repeat"
         },
         {
-          "title": "Review the adult plan",
-          "text": "Separate facts from guesses. Check what adults actually changed, how the child communicated and participated, and what the child and family report. Agree a review; escalate sooner when needed.",
+          "title": "Review what adults did",
+          "text": "Write facts separately from guesses. Did adults make the planned change? Could the child ask for help and enjoy activities? Compare with the family and teacher; seek advice sooner if worries grow.",
           "icon": "plan"
         }
       ]
@@ -285,9 +285,9 @@
       "publisher": "Center on the Developing Child at Harvard University",
       "url": "https://developingchild.harvard.edu/resources/videos/how-to-5-steps-for-brain-building-serve-and-return/",
       "durationLabel": "Short how-to video; optional",
-      "summary": "Adults notice a child’s interest, respond, add language, take turns and follow changes in attention. The practical message is responsive back-and-forth interaction, not demanding eye contact or a particular response.",
-      "prompt": "Notice one child cue, the adult’s response and the pause before another turn. Describe how the same exchange can work without speech or required eye contact.",
-      "accessibility": "The official page provides explanatory text and several language options. This course summary is a text alternative; player captions and availability may vary.",
+      "summary": "Adults notice what interests a child, respond and wait for another turn. For example, a child points to a toy; the adult names it and pauses. The child can answer through a gesture or sound. Speech and eye contact are not required. Examples involving children below 12 months are background only; this course’s practice starts at 12 months.",
+      "prompt": "Look for what the child does, how the adult answers and when the adult waits. Then describe a similar exchange using a gesture instead of speech.",
+      "accessibility": "The official page has explanatory text and several language options. You can use the summary here for the task without watching; player captions and availability may vary.",
       "verifiedHosting": "Official Harvard page links to its YouTube player. The page and video title were verified; playback was not independently tested.",
       "moduleId": "m1",
       "module": 1
@@ -298,9 +298,9 @@
       "publisher": "Department for Education, England",
       "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
       "durationLabel": "Short practitioner explainer; optional",
-      "summary": "Practitioners discuss emotionally safe relationships, recognising feelings, giving children time and supporting adults to reflect. Examples include separation and conflict over a toy. The emphasis is attuned support and returning to problem-solving when the child is ready.",
-      "prompt": "Identify a moment for comfort now and a different moment for teaching later. What demand would you change alongside the adult’s words?",
-      "accessibility": "A full transcript is available on the official page beneath the Vimeo video.",
+      "summary": "Adults discuss helping children feel safe, noticing feelings and giving them time. Examples include saying goodbye to a caregiver and wanting the same toy. Comfort and practical help come first; a conversation about solving the problem can wait until the child can join in.",
+      "prompt": "Find one moment for comfort now and one for teaching later. Give a practical change too, such as less waiting or fewer children around the toy.",
+      "accessibility": "A full transcript is on the official page below the Vimeo video. You can also use this course summary for the task.",
       "verifiedHosting": "Official DfE page and linked Vimeo player verified. Player title: EYFS Personal, social and emotional development – Emotions.",
       "moduleId": "m3",
       "module": 3
@@ -311,9 +311,9 @@
       "publisher": "Center on the Developing Child at Harvard University",
       "url": "https://developingchild.harvard.edu/resources/videos/video-building-core-capabilities-life/",
       "durationLabel": "5 minutes; optional",
-      "summary": "This animated explainer describes executive-function and self-regulation skills across life, how practice supports them and how stress can make them harder to use. Treat its visual metaphors as illustrations, not a literal diagnosis of what is happening in an individual child’s brain.",
-      "prompt": "Choose one practical way to reduce a demand for an adult and child. Distinguish this action from a claim that you know the child’s brain state.",
-      "accessibility": "The official page includes an explanatory text summary and English and Japanese video options. This course summary is also a text alternative.",
+      "summary": "This animation explains skills such as remembering a plan, waiting and changing approach. Practice can help these skills; stress can make them harder to use. The brain pictures illustrate ideas. They cannot tell you what is happening inside a particular child’s brain.",
+      "prompt": "Choose one way to make a task easier for the adult and child, such as giving one instruction instead of several. Describe the change you can see, rather than guessing a brain state.",
+      "accessibility": "The official page has a written summary and English and Japanese video options. You can use the summary here for the task without watching.",
       "verifiedHosting": "Official Harvard page verifies title and five-minute duration and links to its YouTube player; playback was not independently tested.",
       "moduleId": "m5",
       "module": 5
@@ -324,9 +324,9 @@
       "publisher": "Child Mind Institute",
       "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
       "durationLabel": "6 minutes 26 seconds; optional adult viewing",
-      "summary": "An official child-facing episode for ages 3–5. Course text alternative: big feelings are allowed and a trusted adult can help. Explore different familiar supports during comfortable moments; a child can use their preferred communication to seek help. No coping technique is compulsory.",
-      "prompt": "Choose one coping option in the episode. Demonstrate how you would offer it without requiring breathing, speech or touch, and what you would do if it were declined. Name a settled moment for teaching it.",
-      "accessibility": "The official page links free educator/caregiver resources. This course summary provides a text alternative to the adult learning task; playback and caption availability were not independently tested.",
+      "summary": "This episode is made for children aged 3–5; the optional course task is for adults. Main message: big feelings are allowed and a trusted adult can help. Try familiar ways to feel more comfortable during easy moments. Asking through a gesture or device counts, and no calming technique is compulsory.",
+      "prompt": "Choose one activity shown and say how you would offer it. Then explain what you would do if the child declined, and when you could practise later without pressure. Do not require breathing, speech or touch.",
+      "accessibility": "The official page links free resources for educators and caregivers. You can use this course summary for the adult task without watching. Playback and captions were not independently tested.",
       "verifiedHosting": "Official Child Mind Institute episode page, linked YouTube player and displayed 6:26 duration verified on 6 October 2026. Companion educator materials were read; playback was not independently tested.",
       "moduleId": "m5",
       "module": 5
@@ -337,9 +337,9 @@
       "publisher": "Raising Children Network; My Toddler and Me series from Karitane and UNSW",
       "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
       "durationLabel": "Short toddler feelings video; optional adult viewing",
-      "summary": "Course text alternative: a toddler may need closeness at one moment and more space at another. Remain responsive when touch is declined; use the child’s cues to adjust support and leave explanation or practice until they can engage.",
-      "prompt": "What changes when the toddler does not want touch? Rehearse one short response, a comfortable distance and a way to remain available. Compare with Priya’s arrival.",
-      "accessibility": "A full transcript is available on the official page and was read. This course summary also supplies a text alternative. Playback and captions were not independently tested.",
+      "summary": "A toddler may want closeness one moment and space the next. If they push an offered hand away, stop the touch and stay available: “I can sit here.” Watch their response. Save explanation or practice for a moment when they can join in.",
+      "prompt": "Compare the example with Priya’s arrival. Practise a few words you could use if she declines touch. Show where you would stay so she has space and you can still help.",
+      "accessibility": "A full transcript is available on the official page and was read. You can also use this summary for the task. Playback and captions were not independently tested.",
       "verifiedHosting": "Official Raising Children Network page, transcript and Karitane/UNSW attribution verified on 6 October 2026. The video is republished with permission; no exact runtime is asserted.",
       "moduleId": "m3",
       "module": 3
@@ -370,8 +370,8 @@
       "publisher": "Center on the Developing Child at Harvard University",
       "jurisdiction": "United States",
       "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-      "claim": "Age-adapted play offers practice in attention, remembering and flexible action; informs the original infant exchange, toddler imitation and preschool puppet activities.",
-      "accessNote": "Official guide landing page and 6–18-month, 18–36-month and 3–5-year PDFs checked on 6 October 2026. Original guide publication: 2014. Age suggestions and games are not milestone tests or a validated treatment; a 2024 upload path is not a new research date."
+      "claim": "Age-adapted play offers practice in attention, remembering and flexible action; informs the original 12-months-to-under-18-month response-and-pause activity, older-toddler imitation and preschool puppet activities.",
+      "accessNote": "Official guide landing page and 6–18-month, 18–36-month and 3–5-year PDFs checked on 6 October 2026. Use only the developmentally suitable 12-months-plus activities in this course; the broader source includes younger babies. Original guide publication: 2014. The activities are not milestone tests or a validated treatment; a 2024 upload path is not a new research date. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "harvard-serve",
@@ -380,7 +380,7 @@
       "jurisdiction": "United States",
       "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/",
       "claim": "Responsive back-and-forth exchanges with caring adults support early communication and social development.",
-      "accessNote": "Official page or resource content checked on 6 October 2026."
+      "accessNote": "Official page or resource content checked on 6 October 2026. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "acecqa-regulation",
@@ -479,7 +479,7 @@
       "jurisdiction": "United States",
       "url": "https://headstart.gov/mental-health/article/understanding-childrens-behavior-communication",
       "claim": "Supports relationship-based family partnership and interpreting behaviour in context for children from birth to five.",
-      "accessNote": "Official page or resource content checked on 6 October 2026."
+      "accessNote": "Official page or resource content checked on 6 October 2026. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "acf-snapshots",
@@ -524,7 +524,7 @@
       "jurisdiction": "United States",
       "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
       "claim": "Supports cue-responsive infant care, familiar relationships and emerging self-regulation alongside substantial adult dependence.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. Professional practice guidance, not an evaluation of this course. No account was needed for the page."
+      "accessNote": "Official page or linked document checked on 6 October 2026. Professional practice guidance, not an evaluation of this course. No account was needed for the page. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "ztt-toddlers",
@@ -551,7 +551,7 @@
       "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
       "claim": "Supports observing invitations to interact, pause cues and changing engagement, while checking the individual and family context.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. Official 0–18-month guide and English printable were read. The pictures are linked, not copied; individual cues are not diagnostic tests."
+      "accessNote": "The official guide covers 0–18 months and includes younger babies. For this course, use the cue-observation principles relevant to children from 12 months; the pictures are linked, not copied. Individual cues are not diagnostic tests. Page and English printable checked on 6 October 2026. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "rcn-baby-care",
@@ -559,8 +559,8 @@
       "publisher": "Raising Children Network",
       "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/babies/behaviour/crying/soothing-a-crying-baby",
-      "claim": "Supports checking care, comfort, pain or illness, asking for adult help and never shaking a baby.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. Not imported as feeding, swaddling, handling, medical or sleep training. Approved care and safe-sleep procedures remain necessary."
+      "claim": "Background only: supports checking care, comfort, pain or illness, asking for adult help and never shaking a child. It is not an under-12-month practical assignment.",
+      "accessNote": "Background source retained for provenance: this provider page focuses on babies, including under-12-months. It is not an assigned practical activity for the 12-months-plus course. Current care follows the individual plan and approved setting procedures; no handling, feeding or sleep technique is taught here."
     },
     {
       "id": "rcn-overstimulation",
@@ -569,7 +569,7 @@
       "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/toddlers/behaviour/common-concerns/overstimulation",
       "claim": "Supports individual variation in tolerance and reducing competing sound, activity or handling while observing the response.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. The course excludes wrapping, pram covering and sling instructions, and does not prescribe sensory treatment."
+      "accessNote": "Official page or linked document checked on 6 October 2026. The course excludes wrapping, pram covering and sling instructions, and does not prescribe sensory treatment. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "rcn-toddler-feelings",
@@ -649,8 +649,8 @@
       "publisher": "National Center for Pyramid Model Innovations",
       "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/document/things-that-will-help-me-stay-calm-infants-pdf/",
-      "claim": "Supports responsive adult interaction, cue observation and familiar care routines for infants.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. Official page and one-page PDF read without login. The adult applies guidance; infants are not expected to operate a chart. This is not safe-sleep training."
+      "claim": "Background only: explains responsive adult interaction, noticing a child’s signals and familiar care routines for infants. It is not an under-12-month practical assignment.",
+      "accessNote": "Background source retained for provenance, not an assigned practical activity for children below the course’s 12-month starting point. Use the age-appropriate toddler routines and the child’s approved care plan. The source was read without login; it is not safe-sleep training."
     },
     {
       "id": "ncpmi-responsive-routines",
@@ -659,7 +659,7 @@
       "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/wp-content/uploads/2023/04/responsive_routines_inventory.pdf",
       "claim": "Supports flexible infant/toddler routines, family partnership, primary caregiving and supported arrival.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. Eight-page PDF read; document date is 22 September 2023. It does not replace current safe-care, safe-sleep or toileting procedures."
+      "accessNote": "Official page or linked document checked on 6 October 2026. Eight-page PDF read; document date is 22 September 2023. It does not replace current safe-care, safe-sleep or toileting procedures. Any material about children below 12 months is background only; current course practice starts at 12 months."
     },
     {
       "id": "ncpmi-visuals-2025",
@@ -729,7 +729,6 @@
     "2": [
       "ncpmi-visuals-2025",
       "ncpmi-responsive-routines",
-      "rcn-baby-care",
       "rcn-overstimulation",
       "nice-autism",
       "cd-visual-schedule",
@@ -746,7 +745,6 @@
       "acecqa-discipline",
       "dfe-mental-health",
       "safeguarding",
-      "ncpmi-infant",
       "rcn-toddler-feelings"
     ],
     "5": [
@@ -802,9 +800,8 @@
     },
     {
       "title": "Local safety and individual judgement remain essential",
-      "text": "Research-informed support does not replace approved infant care, individual communication plans, supervision, health assessment, emergency response or safeguarding. Source age bands differ; this course’s broad planning groups are not milestone tests. The course selectively excludes forced touch or gaze, withholding care, ignoring distress, improvised restrictive techniques and clinical treatment instructions.",
+      "text": "Research-informed support for children from 12 months does not replace approved care procedures, individual communication plans, supervision, health assessment, emergency response or safeguarding. Some reference sources cover younger babies; these remain background rather than under-12-month practical assignments. Course age bands are broad planning guides, not milestone tests. The course excludes forced touch or gaze, withholding care, ignoring distress, improvised restrictive techniques and clinical treatment instructions.",
       "sourceIds": [
-        "rcn-baby-care",
         "ncpmi-responsive-routines",
         "nice-autism",
         "safeguarding"

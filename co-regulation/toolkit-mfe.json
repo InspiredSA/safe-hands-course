@@ -1,257 +1,257 @@
 {
-  "title": "Bann ti zouti. Bann aksion adilt kler.",
-  "intro": "Servi sa bann lexanp orizinal la pou personel pratike ek planifie. Swazir bann mo, obze, sinbol, sign ouswa kominikasion ogmante ek alternativ (AAC) ki zanfan-la deza servi; enn sinbol inprime pa otomatikman ena enn sans pou li. Servi bann lexanp imaziner isi ek gard bann dosie reel dan sistem ki ou lekol finn aprouve.",
-  "ageTitle": "Adapte travay adilt-la, pa zis letiket laz-la",
-  "ageNote": "Sa bann gran group pou planifikasion-la pa bann test bann etap devlopman ni bann diagnoz. Kominikasion, lintere ek kapasite aktiel zanfan-la gid soutien-la. Parti siplemanter pou bann bebe konsern zis personel ki travay dan enn servis kot zot rol otorize inklir swin bebe. Gid 3–6 an inklir bann zanfan sis an ek li bizin adapte pou sak zanfan.",
+  "title": "Ki pou fer. Ki pou dir.",
+  "intro": "Swazir enn lide ki al avek zanfan-la ek routinn-la. Demann ansegnan-la ki bann mo, zimaz, sign ouswa laparey pou kominike zanfan-la deza servi. Pa atann ki enn zanfan konpran enn nouvo zimaz deswit. Servi bann lexanp ki finn invante lor sa paz-la; gard bann vre dosie zanfan dan plas sir ki lekol abitie servi.",
+  "ageTitle": "Bann zanfan diferan laz bizin diferan led",
+  "ageNote": "Sa bann gid-la koumans depi 12 mwa. Bann zanfan pa aprann dan mem vites: get zanfan-la osi, pa zis so laz. Dernie group-la inklir bann zanfan sis an. Swiv plan ki finn dakor pou sak zanfan ek ou rol dan lekol. Sa bann kart-la pa ansegn kouma nouri, lev ouswa fer dormi enn zanfan.",
   "ageCards": [
     {
       "id": "infant-support",
-      "title": "Parti siplemanter pou bebe: depi nesans ziska mwins ki 18 mwa",
-      "adultExpectation": "Donn laplipar soutien pou regilasion. Remark bann nouvo signal ek bann fason bebe-la pe koumans kalme limem, san atann ki li repran li tousel ouswa ki li demann led avek bann mo.",
-      "before": "Aprann bann signal ki lafami rekonet; prevwar bann swin familie ek enn lot adilt pou ranplas ou si bizin. Verifye bann bezwen swin individiel ek evit ki ena tro boukou tapaz ouswa ki plizier dimounn manipil bebe-la anmemtan.",
-      "during": "Reponn vit avek enn lavwa familie ek bann swin adapte. Redwir bann stimilasion anplis. Adapte rekonfor dapre bann signal bebe-la ek swiv bann prosedir swin an sekirite. Swiv bann prosedir aprouve pou manipil bebe-la ek pou so somey an sekirite; zame sekwe enn bebe. Sa kart-la pa ansegn sa bann prosedir-la.",
-      "after": "Retourn dan enn interaksion familie kan so lintere revini. Bann adilt examinn seki finn ede; bebe-la pa bizin enn diskision pou repas seki finn arive.",
-      "script": "« Mo tann twa. Mo la. Anou pran enn ti moman pli trankil. »",
-      "activityTitle": "Reponn ek fer enn poz",
-      "activity": "Pandan enn zwe kot bebe-la santi li alez, reponn enn son ouswa enn mouvman, apre atann. Rekoumanse tanki li anvi; fer enn poz kan so lintere sanze. Pa bizin kontak viziel ni enn kantite tour fixe."
+      "title": "Bann pli tipti: depi 12 mwa ziska avan 18 mwa",
+      "adultExpectation": "Donn boukou led adilt. Zanfan-la kapav avans so lame, montre avek ledwa, pous enn zafer ouswa fer enn son pou dir ou seki li bizin. Pa demann li marse, koze ouswa nom enn lemosion avan ou ed li.",
+      "before": "Demann fami-la ek ansegnan-la ki bann sign zanfan-la abitie vedir. Verifye si li bizin manze, bwar, sanz kous, repo ouswa rekonfor. Gard prosenn aktivite-la sinp ek diminie tapaz anplis.",
+      "during": "Remark sign zanfan-la. Aret bann son ouswa zwe anplis ek propoz enn rekonfor ki li kone. Montre enn ti prosenn letap si li pare. Swiv bann reg lekol pou swen. Pa souk enn zanfan zame ek pa kouver so figir.",
+      "after": "Propoz enn zwe ki li kone ouswa enn aktivite sinp kan zanfan-la montre lintere. Montre enn aksion ek atann. Zanfan-la pa bizin explik seki finn pase. Bann adilt kapav koz lor seki finn ede.",
+      "script": "“Ena tapaz. Mo la.” [Montre enn zwe trankil ki li kone ek atann.]",
+      "activityTitle": "Kopie enn aksion ek atann",
+      "activity": "Kan zanfan-la alez, swiv so lintere dan enn gran zwe ki an sekirite pou so laz. Kopie ouswa nom enn aksion, apre atann enn son, enn sign ouswa enn mouvman. Kontigne si zanfan-la anvi. Arete si li detourn li ouswa li pa alez. Vey zanfan-la ek bann materyel toutlong."
     },
     {
       "id": "toddler-support",
-      "title": "Bann tipti zanfan: 18 mwa ziska mwins ki 3 an",
-      "adultExpectation": "Atann bann preferans for ek enn kontrol bann inpilsion ki ankor varye. Mem si enn zanfan konpran enn limit, sa pa vedir li kapav aplik li regilierman kan li dan detres.",
-      "before": "Montre prosenn letap familie; ofer enn ti swa reel. Redwir letan atann ek prepar enn fason aksesib pou demann led.",
-      "during": "Rekonet so difikilte dan enn fraz kourt ek donn enn led pratik. Gard tou dimounn an sekirite. Si li refiz kontak fizik, res disponib dan enn distans kot li santi li alez.",
-      "after": "Ed zanfan-la retourn zwe. Montre enn sel alternativ itil kan li kapav partisipe; evit enn long explikasion.",
-      "script": "« To ti anvi sa kamion-la. Mo kapav asiz isi. » Plitar, kan li pare: « Mo kapav ed twa. To kapav montre mwa. »",
-      "activityTitle": "Nounours bizin led",
-      "activity": "Servi enn zwe ki adapte ek sir pou so laz ek enn panie pou montre enn signal led familie, apre fer enn aksion ansam. Swiv lide tipti zanfan-la; zame refiz led ziska ki li donn repons korek."
+      "title": "Bann tipti: depi 18 mwa ziska avan 3 an",
+      "adultExpectation": "Atann ki zanfan-la anvi sertin zafer bien for ek ki li bizin led kan bann zafer pa pase kouma li anvi. Konn enn reg pa vedir ki enn tipti zanfan kapav swiv li kan li boulverse.",
+      "before": "Montre seki pou vini apre. Propoz enn ti swa ki ou kapav respekte, par exanp ki panye li pou sarye. Evit fer li atann lontan ek gard enn fason ki li kone pou demann led.",
+      "during": "Servi enn fraz kourt ek ed li an pratik. Gard toulede zanfan an sekirite si ena enn dezakor. Si zanfan-la pa anvi enn kallin, res pre san fors li pou gagn kontak fizik.",
+      "after": "Ed zanfan-la retourn zwe. Pli tar, montre enn aksion itil, par exanp amenn enn zwe ki finn bloke kot enn adilt. Gard explikasion-la kourt.",
+      "script": "“To ti anvi sa kamion-la. Mo kapav asiz isi.” Pli tar: “Mo kapav ede. To kapav montre mwa.”",
+      "activityTitle": "Ed nounours-la",
+      "activity": "Servi enn nounours ek enn panye ki an sekirite pou laz zanfan-la. Montre kouma nounours-la demann led avek enn mo ouswa enn sign ki zanfan-la kone. Ed nounours-la met enn zwe ladan. Les zanfan-la partisipe ouswa gete. Pa refiz led pandan ki ou pe atann zanfan-la kopie sign-la."
     },
     {
       "id": "preschool-support",
-      "title": "Preskoler ek premie lane lekol: 3–6 an",
-      "adultExpectation": "Ankouraz devlopman bann mo pou lemosion, bann plan partaze ek rezolision bann problem ansam. Gard soutien adilt disponib kan li pli difisil pou zanfan-la servi sa bann kapasite-la.",
-      "before": "Pratik enn aksion itil pandan enn zwe kot zanfan-la santi li alez. Anons enn sanzman alavans ek rann bann soutien kominikasion disponib kot bizin zot.",
-      "during": "Redwir bann demann ek bann kestion ki pa neseser. Rekonet difikilte-la, fer enn poz ek ofer enn soutien familie. Swiv bann prosedir sekirite lokal si risk-la ogmante.",
-      "after": "Get vit seki finn ede ek pratik enn prosenn letap. Ed li repar seki finn arive dan enn fason ki li kapav fer, san demann enn exkiz kouma kondisyon pou rezwenn group-la.",
-      "script": "« To ti anvi fini to konstriksion. Nou kapav gard bann pies isi. » Plitar: « Ki ti kapav ed twa kan nou pou ranz bann zafer demin? »",
-      "activityTitle": "De lafin pou enn marionet",
-      "activity": "Enn marionet anvi rant dan enn zwe. Propoz de solision sir avek bann zwe, zes, sinbol ouswa mo. Zanfan kapav zis obzerve; personn pa oblize zwe enn lemosion ouswa rakont enn levennman reel."
+      "title": "Preskoler ek bann premie lane: 3–6 an",
+      "adultExpectation": "Boukou zanfan kapav koz lor bann lemosion ouswa fer enn ti plan kan zot alez. Zot kapav ankor bizin boukou plis led kan zot boulverse.",
+      "before": "Montre enn aksion itil pandan enn zwe. Prepar zanfan-la pou enn sanzman avek bann mo ouswa zimaz ki li kone. Gard bann zimaz, sign ouswa laparey pou demann led kot li bizin zot.",
+      "during": "Poz mwins kestion ek rann prosenn letap-la pli tipti. Dir seki finn arive, atann enn moman ek propoz led ki li kone. Si sitiasion-la vinn danzere, swiv bann letap lekol pou sekirite ek apel led.",
+      "after": "Kan zanfan-la pare, koz enn ti moman lor seki finn ede. Montre enn zafer pou eseye prosenn fwa. Ed li repar seki finn abime, par exanp rekonstrir enn latour ki finn tonbe, san obliz li demann pardon avan li kapav revinn partisipe.",
+      "script": "“To ti anvi fini to konstriksion. Nou kapav gard sa bann pies-la.” Pli tar: “Ki kapav ed twa kan nou ranze dime?”",
+      "activityTitle": "Montre de lafin avek bann marionet",
+      "activity": "Enn marionet anvi rant dan enn zwe. Montre enn fason sir ki li kapav demann led. Invit bann zanfan esey enn lot lafin avek bann zwe, zimaz, sign ouswa mo. Zot kapav zis gete osi. Pa demann zot zwe enn vre levennman ki finn boulvers zot."
     }
   ],
-  "phaseTitle": "Swazir travay ki neseser dan sa moman-la",
-  "phaseNote": "Sa bann desizion-la pou bann adilt; pa bann letap fixe ki tou zanfan bizin swiv. Enn zanfan kapav bizin soutien ankor nenport kan. Enn danze grav, enn ka ki kapav enn irzans medikal ouswa enn konsern lor proteksion zanfan pas avan.",
+  "phaseTitle": "Swazir led ki zanfan-la bizin aster",
+  "phaseNote": "Enn zanfan kapav bizin rekonfor ankor mem si li ti paret alez. Pena enn lord fixe ni enn limit letan. Si enn dimounn an danze, enn zanfan kapav bien malad ouswa ou per ki enn dimounn finn fer li ditor, rod led atraver bann letap lekol pou bann ka irzan ouswa pou proteksion zanfan.",
   "phases": [
     {
       "id": "before",
-      "title": "Avan: fasilit akse",
+      "title": "Avan: rann routinn-la pli fasil",
       "icon": "plan",
       "actions": [
-        "Anons prosenn letap avek enn reper familie.",
-        "Redwir letan atann, lafoul ek bann tapaz ki melanze.",
-        "Pratik enn signal led aksesib pandan enn zwe kot zanfan-la santi li alez."
+        "Montre seki pou vini apre avek enn zafer ki zanfan-la kone.",
+        "Fer mwins zanfan atann ansam; diminie tapaz anplis.",
+        "Kan zanfan-la alez, montre enn fason pou demann led."
       ],
-      "script": "« Apre sa paz-la, nou pou dezene. Mo pou montre twa kot nou pe ale. »"
+      "script": "“Apre sa paz-la, dezene. Mo pou montre twa kot nou pe ale.”"
     },
     {
       "id": "during",
-      "title": "Pandan: sekirite ek lien",
+      "title": "Pandan ki li boulverse: gard sekirite ek ede",
       "icon": "support",
       "actions": [
-        "Verifye bann danze imedia, douler, maladi ek bann bezwen swin irzan.",
-        "Deside kisannla pou vey group-la; enn sel adilt koze.",
-        "Ofer enn sanzman pratik ek enn fraz kourt, apre fer enn poz."
+        "Verifye si ena enn danze, enn douler, enn maladi ouswa enn swen ki bizin fer vit.",
+        "Demann enn koleg vey group-la si ou bizin res avek zanfan-la. Les enn sel adilt koze.",
+        "Fer enn sanzman itil, servi enn fraz kourt ek atann."
       ],
-      "script": "« Ena tapaz. Mo kapav res pre. »"
+      "script": "“Ena tapaz. Mo kapav res pre.”"
     },
     {
       "id": "recovery",
-      "title": "Kan li pe repran li: rekonfor ek retour dan group",
+      "title": "Kan li pe santi li pli alez: ed li revinn partisipe",
       "icon": "listen",
       "actions": [
-        "Gard soutien ek bann swin neseser disponib.",
-        "Ofer enn fason pou obzerve ouswa rezwenn group-la san demann boukou zefor.",
-        "Pa exiz enn exkiz, enn mo pou nom enn lemosion ouswa enn explikasion avan li retourne."
+        "Kontign propoz rekonfor, swen ek led adilt.",
+        "Propoz enn ti premie letap, par exanp get lezot akote ou.",
+        "Pa demann enn pardon, enn explikasion ouswa enn mo pou enn lemosion avan zanfan-la kapav retourne."
       ],
-      "script": "« To kapav gete akote mwa. Ena plas kan to anvi vini. »"
+      "script": "“To kapav gete akote mwa. Ena plas kan to anvi vini.”"
     },
     {
       "id": "later",
-      "title": "Plitar: ansegne, repare, regete",
+      "title": "Pli tar: montre seki pou eseye prosenn fwa",
       "icon": "repeat",
       "actions": [
-        "Pratik enn alternativ itil kan zanfan-la kapav partisipe.",
-        "Ed li fer enn ti aksion reparasion ki ena sans; pran swin separeman bann dimounn ki finn blese.",
-        "Sanz enn aksion adilt ouswa enn eleman lanvironnman ek verifye si sa finn ede."
+        "Kan zanfan-la kapav partisipe, pratik enn aksion itil.",
+        "Ed li repar ditor dan enn ti fason. Okip enn zanfan ki finn blese ouswa gagn per separeman.",
+        "Avek ansegnan-la, swazir enn sanzman ki bann adilt pou fer ek gete si li ede."
       ],
-      "script": "« Prosenn fwa mo kapav ed twa. Eski nou pratik kouma montre ki bizin led avek marionet-la? »"
+      "script": "“Prosenn fwa mo kapav ede. Nou montre marionet-la kouma demann led?”"
     }
   ],
-  "visualTitle": "Bann lexanp kominikasion orizinal",
-  "visualNote": "Entrodwir sa bann lide-la kan bann zanfan santi zot alez. Adapte zot avek lekip ki soutenir kominikasion zanfan-la ek so lafami. Sa bann lexanp-la pa enn evaliasion AAC ni bann materyel enn program avek enn mark.",
+  "visualTitle": "Montre zanfan-la seki pou vini apre",
+  "visualNote": "Esey bann zimaz ouswa lobze kan zanfan-la alez. Servi bann ki li kone. Si ou pa sir ki li konpran, demann ansegnan-la. Kontign servi bann sign ouswa laparey pou kominike ki finn dakor pou li.",
   "nowLabel": "Aster",
   "nextLabel": "Apre",
-  "nowExample": "Zwe",
-  "nextExample": "Ranz bann zafer avek enn adilt",
+  "nowExample": "Pe zwe avek bann blok",
+  "nextExample": "Met bann blok dan bwat avek enn adilt",
   "sequenceSteps": [
-    "Swazir de obze, foto ouswa sinbol ki sa zanfan-la rekonet.",
-    "Montre ek dir aktivite aktiel-la. Montre prosenn letap avan sanzman-la.",
-    "Kan moman tranzision arive, montre ankor ek ed li fer enn ti aksion ki li kapav fer.",
-    "Indike ansam ki aktivite-la fini. Si plan-la sanze, montre sanzman-la onetman."
+    "Demann ansegnan-la ki bann zimaz ouswa lobze zanfan-la kone. Swazir enn pou seki pe pase aster ek enn pou seki pou vini apre.",
+    "Montre premie-la: “Nou pe zwe avek bann blok.” Montre prosenn-la: “Apre nou pou met zot dan bwat ansam.”",
+    "Kan ler pou sanze arive, montre prosenn zimaz-la ankor. Ed zanfan-la ramas enn blok.",
+    "Met zimaz zwe ki finn fini la akote, ouswa ramas so lobze, apre montre prosenn zimaz ouswa lobze. Adilt-la kapav fer sa; zanfan-la pa oblize bouz li. Si plan-la sanze, sanz zimaz-la ek dir seki pou arive dan so plas."
   ],
-  "sequenceWarning": "Aster/apre donn bann linformasion ki vre. Pa servi li pou dir « dabor konport twa bien, apre to gagn manze, swin, kominikasion ouswa rekonfor ».",
+  "sequenceWarning": "Bann zimaz-la montre zanfan-la seki pou arive. Zot pa bann rekonpans. Pa fer manze, delo, led pou al twalet, kominikasion ouswa rekonfor depann lor fini enn travay ouswa enn sertin konportman.",
   "signalCards": [
     {
       "id": "help",
       "label": "Led",
       "icon": "support",
-      "childExample": "Enn zes, enn obze, enn sign, enn zimaz ouswa enn mesaz lor enn aparey kapav vedir « ed mwa ».",
-      "adultAction": "Remark li ek reponn: « Mo kapav ed twa. » Pa atann enn fraz parfe ouswa ki li montre avek so ledwa dan enn fason parfe."
+      "childExample": "Enn zanfan kapav donn ou enn zwe, montre avek ledwa, fer enn son ouswa servi enn mo, sign, zimaz ouswa laparey ki li kone.",
+      "adultAction": "Remark so demann ek ede: “Mo kapav ede.” Pa atann enn mo ouswa enn sign parfe."
     },
     {
       "id": "break",
-      "label": "Poz",
+      "label": "Enn poz",
       "icon": "pause",
-      "childExample": "Servi fason familie zanfan-la pou demann enn poz.",
-      "adultAction": "Ofer enn poz anba sirveyans ek res disponib. Si demann exak-la pa kapav realize an sekirite, rekonet li ek propoz enn alternativ ki posib."
+      "childExample": "Servi fason ki zanfan-la abitie demann enn poz.",
+      "adultAction": "Propoz enn poz pandan ki enn adilt kontign vey ek ede. Si demann presi-la pa sir ouswa pa posib, dir li sa dan enn fason sinp ek propoz enn zafer ki ou kapav fer."
     },
     {
       "id": "stop",
-      "label": "Aret / non",
+      "label": "Arete / non",
       "icon": "voice",
-      "childExample": "Tourn ledo ouswa repous enn lame kapav vedir « pa sa ».",
-      "adultAction": "Fer enn poz dan aktivite ouswa kontak fizik ki ou pe propoze kan sa sir, redwir presion ek res disponib. Bann swin neseser swiv plan individiel aprouve; demann led personel forme si pa kapav donn sa bann swin-la an sekirite. Sa kart-la pa otoriz servi lafors."
+      "childExample": "Kan zanfan-la detourn li ouswa pous ou lame, sa kapav vedir “pa sa”.",
+      "adultAction": "Aret seki ou pe propoze si li sir pou fer sa. Donn zanfan-la plis lespas ek res disponib. Si li difisil pou donn li enn swen neseser, demann ansegnan-la ouswa enn koleg forme led ek swiv plan swen-la. Sa kart-la pa donn lotorizasion pou servi lafors."
     }
   ],
-  "spaceTitle": "Prepar enn opsion pli trankil ki donn soutien",
+  "spaceTitle": "Propoz enn plas pli trankil avek enn adilt pre",
   "spaceSteps": [
-    "Verifye ki bann adilt kapav trouv zanfan-la, ki enn adilt disponib, ki akse posib ek ki bann regleman sirveyans lekol respekte.",
-    "Swazir avek zanfan-la ek so lafami de-trwa resours familie ki adapte ek sir pou so laz; pa ankonbre lespas-la.",
-    "Prezante li dan enn moman trankil ek montre enn ti vizit ki reste opsionel.",
-    "Propoz li ouswa redwir bann stimilasion kot zanfan-la deza ete. Zame trenn enn zanfan, blok li dan enn kwin ouswa anferm li.",
-    "Soutenir so retour kan li kapav partisipe, mem si li zis obzerve akote enn adilt. Pena okenn letan fixe, seri respirasion ouswa exkiz obligatwar."
+    "Demann ansegnan-la kot enn zanfan kapav gagn mwins tapaz pandan ki enn adilt kontign trouv ek ed li. Zanfan-la bizin kapav rantre ek sorti avek led ki li abitie servi pou bouze; pa blok sime sorti-la. Met zot dakor lor kisannla vey lezot zanfan.",
+    "Gard plas-la sinp. Servi de-trwa zafer ki zanfan-la kone ek ki an sekirite pou so laz. Verifye ki pena bann ti pies ouswa lezot zafer ki kapav bles li.",
+    "Kan zanfan-la alez, montre li plas-la: “To kapav vinn isi avek mwa si ena tro boukou tapaz.”",
+    "Kan zanfan-la boulverse, propoz plas-la. Si li pa anvi bouze, gete si ou kapav diminie tapaz kot li ete. Pa trenn li, kwins li ouswa anferm li.",
+    "Ed zanfan-la rant dan aktivite-la ankor kan li kapav. Get lezot akote enn adilt kapav enn premie letap. Pa obliz li atann enn timer fini, fer enn lexersis respirasion ouswa demann pardon avan li kapav ale."
   ],
-  "spaceWarning": "Enn lespas pli trankil enn opsion; li pa enn pinision, enn plas kot avoy tou zanfan ki boulverse ouswa enn ranplasman pou soutien adilt. Lekipman sensoriel spesialize bizin enn evaliasion adapte, enn formasion ek enn plan ki finn dakor.",
-  "planTitle": "Lexanp explike: tranzision Leo kan bizin ranz bann zafer",
-  "planNote": "Antierman imaziner. Sa enn plan ordiner pou fasilit akse ek partisipasion; li pa enn evaliasion fonksionel ni enn diagnoz.",
+  "spaceWarning": "Enn plas pli trankil se enn fason pou ede, pa enn pinision. Res disponib pou zanfan-la. Pa servi bann lekipman spesial pou bann sansasion amwin ki bon profesionel-la ek lekol finn dakor kouma servi zot ek ou finn gagn formasion neseser.",
+  "planTitle": "Enn lexanp plan: ed Leo kan ler pou ranze",
+  "planNote": "Sa lexanp-la finn invante. Li montre enn ti sanzman ki bann adilt kapav eseye. Li pa dir nou avek sertitid kifer Leo boulverse.",
   "planRows": [
     [
-      "Bann pwin for ek kominikasion",
-      "Leo kontan konstrir ek li kominike avek so ledwa ek bann zes familie. Demann lafami-la ki bann reper ek sign dan lang lakaz ena sans pou li."
+      "Seki Leo kontan ek kouma li demande",
+      "Leo kontan bann blok. Li souvan montre avek ledwa ouswa servi bann sign. Demann so fami ek so ansegnan ki bann mo ek sign li kone."
     ],
     [
-      "Konteks ek bann premie signal",
-      "Kan bann zanfan pe ranz zot bann zafer dan lafoul, bann sez fer tapaz kan zot bouze ek plizier zanfan al ver bann letazer ansam. Leo kouver so zorey ek rekile."
+      "Moman difisil-la",
+      "Kan ler pou ranze, bann sez fer tapaz ek plizier zanfan rasanble pre bann letazer. Leo kouver so zorey ek rekile."
     ],
     [
-      "Avan",
-      "Adilt responsab-la montre enn reper familie pou ranz bann zafer ek ofer enn panie. Enn koleg organiz enn sel ti group al kot bann letazer alafwa. Redwir tapaz bann sez ki frot ater kan sa posib."
+      "Avan ler pou ranze",
+      "Montre Leo zimaz ouswa lobze ki li kone pou ler ranze. Propoz enn panye. Enn adilt anvway enn ti group kot bann letazer pandan ki enn lot vey lezot. Bouz bann sez avek mwins tapaz si posib."
     ],
     [
-      "Pandan",
-      "Enn adilt dir: « Ena tapaz. Nou kapav atann isi ansam. » Ofer enn plas pli trankil anba sirveyans ouswa redwir lafoul kot Leo ete. Pa exiz enn repons avek bann mo."
+      "Kan Leo boulverse",
+      "Les enn sel adilt dir: “Ena tapaz. Nou kapav atann isi ansam.” Propoz enn plas pli trankil avek enn adilt pre, ouswa fer mwins dimounn rasanble kot Leo ete. Pa obliz li koze."
     ],
     [
-      "Kan li pe repran li",
-      "Ofer enn retour ki pa demann boukou zefor: sarye enn zafer avek enn adilt ouswa obzerve depi enn plas pre. Pena exkiz ni mo pou nom enn lemosion ki obligatwar."
+      "Kan li pare pou revinn partisipe",
+      "Propoz enn ti letap: sarye enn lobze ansam, ouswa gete akote enn adilt. Li pa bizin demann pardon ouswa nom enn lemosion avan."
     ],
     [
-      "Ansegne plitar",
-      "Montre enn signal familie pou led/poz avek enn marionet ek reponn vit. Gard reper-la kot bizin servi li ek aksepte fason Leo deza kominike."
+      "Seki pou pratike pli tar",
+      "Servi enn marionet pou montre sign led ouswa poz ki Leo kone. Montre adilt-la reponn. Gard sa fason pou demande la disponib kan ler ranze ek aksepte bann fason ki Leo deza servi pou kominike."
     ],
     [
-      "Kisannla ek kisannla pou ranplase",
-      "Responsab klas-la verifye reper-la; koleg ki finn dezigne vey group-la. Dapre bann prosedir lekol, met zot dakor lor adilt reel ki pou ranplase ek signal pou demann led."
+      "Kisannla fer ki zafer",
+      "Ansegnan-la met zot dakor lor kisannla montre zimaz-la, kisannla vey group-la ek kisannla kapav ede si premie adilt-la pa la. Pratik sign lekol pou demann enn koleg led."
     ],
     [
-      "Si bann konsern lor risk, lasante ouswa proteksion zanfan aparet",
-      "Apel soutien forme ki finn prevwar ek kontign vey zanfan-la ek group-la. Enn danze grav ouswa enn ka ki kapav enn irzans medikal bizin swiv prosedir irzans/premie sekour imedia. Bann konsern lor proteksion zanfan swiv prosedir proteksion zanfan san atann enn revizion routinn. Sa plan-la pa otoriz enn intervansion fizik."
+      "Si enn dimounn kapav blese ouswa malad",
+      "Gagn led enn dimounn forme ki finn deziye ek kontign vey zanfan-la ek group-la. Swiv bann letap premie sekour ouswa ka irzan pou enn danze grav ouswa enn maladi grav. Signal enn inkietid lor sekirite zanfan deswit atraver kontak lekol. Pa atann enn revizion plan pli tar ek pa esey enn teknik pou tini zanfan-la."
     ],
     [
-      "Reget plan-la",
-      "Apre plizier tranzision ordiner, demann si bann adilt finn fer bann sanzman prevwar, si Leo finn kapav kominike ek si li finn partisip avek plis konfor. Demann led pli boner si risk ouswa konsern-la ogmante."
+      "Verifye si sa finn ede",
+      "Apre de-trwa moman ranze ordiner, demande: Eski nou finn servi zimaz-la ek bann pli ti group? Eski Leo ti kapav demann led ek partisipe pli alez? Demann so fami seki zot finn remarke. Rod led pli boner si ou trakase."
     ]
   ],
-  "observationTitle": "Bann fe, bann explikasion posib, prosenn aksion",
+  "observationTitle": "Ekrir seki ou finn trouve, apre seki ou kapav eseye",
   "observationRows": [
     [
-      "Obzervasion",
-      "Sis zanfan finn al kot bann letazer ansam pandan ki bann sez ti pe bouze. Leo finn kouver so zorey ek asiz akote latab. Adilt-la finn aret poz bann kestion ek finn fer group-la avanse. Avek adilt-la pre ar li, Leo finn montre plas pli trankil-la avek so ledwa."
+      "Seki nou finn trouve ek tande",
+      "Sis zanfan finn ariv kot bann letazer pandan ki bann sez ti pe bouze. Leo finn kouver so zorey ek asiz pre enn latab. Adilt-la finn aret poz bann kestion ek finn fer group-la avanse. Avek adilt-la pre, Leo finn montre plas pli trankil-la avek so ledwa."
     ],
     [
-      "Bann explikasion posib",
-      "Tapaz, lafoul ouswa enn prosenn letap ki pa kler kapav finn kontribie. Enn lot bezwen swin ouswa lasante osi posib. Sa obzervasion-la pa etabli enn koz ouswa enn diagnoz."
+      "Seki kapav pe rann sa difisil",
+      "Tapaz, lafoul ouswa pa kone ki pou vini apre kapav ena enn lefe. Leo kapav osi bizin enn swen ouswa li kapav malad. Sa enn sel lexanp-la pa dir nou lakoz."
     ],
     [
-      "Prosenn aksion adilt",
-      "Eseye fer bann zanfan ranz zot bann zafer par ti group ek servi enn reper familie. Demann lafami-la lor bann zes Leo. Verifye si sanzman-la amelior akse, konfor ek partisipasion."
+      "Seki bann adilt pou eseye",
+      "Fer enn pli ti group kot bann letazer ek montre enn sign ki li kone pou ler ranze. Demann fami-la ki bann sign Leo vedir. Gete si li pli alez ek li kapav partisipe."
     ],
     [
-      "Enn pli bon kestion pou reget plan-la",
-      "Eski soutien-la ti disponib ek finn servi? Eski zanfan-la ti kapav kominike ek partisipe? Mwins kriz tousel pa ase si aster zanfan-la pe repliye lor limem ouswa pe exkli."
+      "Seki pou verifye",
+      "Eski bann adilt finn donn led ki zot ti prevwar? Eski Leo ti kapav kominike ek zwe? Mwins larm tousel pa prouve ki plan-la ede si aster li pas plis letan tousel."
     ]
   ],
-  "blankTitle": "Planifie enn routinn avek ou lekip",
-  "blankNote": "Diskit enn lexanp imaziner, ouswa inprim sa gid vid la ek servi zis prosesis sekirize ki ou lekol finn aprouve pou enn plan ki konsern enn vre zanfan. Sa paz-la pa kolekte ni anrezistre bann linformasion lor zanfan.",
+  "blankTitle": "Fer enn plan sinp pou enn routinn",
+  "blankNote": "Pratike avek enn lexanp ki finn invante. Si ou inprim sa pou enn vre zanfan, swiv bann reg lekol pou ekrir ek gard bann dosie zanfan. Sa paz-la pa kolekte ni anrezistre detay enn zanfan.",
   "blankPrompts": [
-    "Enn pwin for ek enn fason familie pou kominike",
-    "Enn routinn difisil ek enn premie signal ki ou kapav obzerve",
-    "Enn sanzman dan aksion adilt ouswa lanvironnman avan sa",
-    "Enn premie fraz kourt ek enn opsion soutien sir",
-    "Sirveyans group-la, ranplasman ek fason pou gagn led irzan",
-    "Enn kapasite pou ansegne plitar ek kouma rann li aksesib",
-    "Kouma zanfan-la/lafami-la pou kontribie; kisannla pou reget plan-la ek kan"
+    "Ki zanfan-la kontan? Kouma li demann led?",
+    "Ki moman lazourne difisil? Ki ou trouv zanfan-la fer?",
+    "Ki bann adilt kapav sanze avan sa moman-la?",
+    "Ki ou pou dir an premie? Ki led ou kapav propoze?",
+    "Kisannla vey group-la? Kisannla ou apele pou led ouswa enn ka irzan?",
+    "Ki ti zafer ou kapav montre zanfan-la pli tar, kan li alez?",
+    "Ki zanfan-la ek so fami propoze? Kisannla pou verifye plan-la, ek kan?"
   ],
-  "resourceTitle": "Swazir enn zouti ofisiel pou enn lobzektif kler",
-  "resourceIntro": "Get bann resours avan ou servi zot avek bann zanfan. Kapav telecharg enn resours gratis pa vedir li dan domenn piblik. Bann materyel exteryer kapav ena bann propozision ki andeor limit sa formasion-la; servi bann prekosision ek bann prosedir lekol aprouve ki finn ansegne isi. Pa kopie, met enn lot mark ouswa tradir bann ilistrasion proteze.",
+  "resourceTitle": "Plis lide bann lorganizasion ki nou finn servi kouma sours",
+  "resourceIntro": "Demann ansegnan-la ki resours al avek ou bann zanfan. Lir ouswa get zot avan ou servi zot avek enn zanfan. Sertin koz lor bann bebe pli zenn ouswa bann zanfan pli gran: swazir bann lexanp ki al avek ou lekol. Gard bann reg sekirite sa formasion-la. Bann telechargman gratis kapav ankor ena drwa doter; servi bann lien ofisiel.",
   "resources": [
     {
-      "title": "Baby cues: picture guide",
+      "title": "Bann sign bebe ek tipti zanfan: servi depi 12 mwa",
       "publisher": "Raising Children Network",
       "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-      "use": "Obzerv enn signal ki invit interaksion ek enn signal ki kapav demann enn poz; diskit seki ou ti pou verifye apre.",
-      "access": "Paz ek version pou inprime gratis; bann lien ver plizier tradiksion disponib. Zis pou parti siplemanter pou bebe."
+      "use": "Get enn sign ki al avek enn zanfan depi 12 mwa ziska avan 18 mwa. Ki li kapav vedir, ek ki ou ti pou eseye apre?",
+      "access": "Gid ek dokiman inprimab gratis ki kouver 0–18 mwa, avek bann lien ver bann tradiksion. Swazir zis bann konsey ki al avek 12 mwa ouswa plis; bann lexanp bebe pli zenn se bann linformasion anplis, pa bann aktivite sa formasion-la."
     },
     {
       "title": "Using visuals in the early learning environment",
       "publisher": "NCPMI",
       "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-      "use": "Swazir enn routinn toulezour familie ek pratik kouma montre, servi ek met azour so sekans viziel.",
-      "access": "Paz ofisiel ek PDF gratis, Zin 2025. Servi sekans-la pou fasilit akse, zame pou refiz bann swin neseser."
+      "use": "Swazir enn routinn, par exanp ler ranze. Pratik montre seki pou vini apre, ed zanfan-la fer li ek sanz zimaz-la si plan-la sanze.",
+      "access": "Paz ofisiel ek PDF gratis, Zin 2025. Servi bann zimaz pou ed zanfan-la partisipe, zame pou refiz enn swen neseser."
     },
     {
       "title": "Having Big Feelings: educator guide",
       "publisher": "Child Mind Institute",
       "url": "https://childmind.org/wp-content/uploads/2024/01/hmtkprek-educator-guide-eng-having-big-feelings.pdf",
-      "use": "Planifie enn pratik opsionel pou fer fas avek bann lemosion dan enn moman trankil, avek bann alternativ ki servi zes/AAC ek ki pa demann kontak fizik.",
-      "access": "Gid gratis trwa paz pou lansegnman preskoler; li pa enn aktivite pou bebe ni enn program klinik."
+      "use": "Demann ansegnan-la swazir enn lide pou enn zwe kan zanfan-la alez. Montre kouma enn zanfan kapav partisipe san koze, san kontak fizik ek san fer enn lexersis respirasion.",
+      "access": "Gid gratis trwa paz pou preskoler; servi zis bann aktivite ki al avek seki zanfan-la kapav fer. Li pa enn program swen medikal."
     },
     {
       "title": "Executive-function activity guides",
       "publisher": "Harvard Center on the Developing Child",
       "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-      "use": "Swazir enn zwe adapte avek devlopman zanfan-la, enn version pli fasil ek enn signal ki zanfan-la kapav servi pou arete.",
-      "access": "Bann gid gratis par group laz, pibliye pou premie fwa an 2014. Bann zwe donn lokazion pratike; zot pa garanti bann lefe pli larz."
+      "use": "Swazir enn zwe pou enn zanfan depi 12 mwa. Rann li pli fasil si bizin. Deside ki sign pou montre ou ki zanfan-la anvi arete.",
+      "access": "Bann gid gratis par laz, premie piblikasion an 2014. Sours-la inklir bann bebe pli zenn; pou sa formasion-la, swazir bann aktivite adapte pou 12 mwa ouswa plis. Bann zwe donn enn lokazion pratike; zot pa garanti lezot progre."
     },
     {
       "title": "It Takes Two: co-regulation",
       "publisher": "ZERO TO THREE",
       "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-      "use": "Konpar enn soutien pou bebe baze lor so bann signal ek bann swin avek bann swa enn tipti zanfan ki gagn soutien enn adilt.",
-      "access": "Gidans profesionel gratis. Kan enn bebe koumans kalme limem, sa pa vedir li bizin zer so detres tousel."
+      "use": "Konpar led ki enn zanfan depi 12 mwa ziska avan 18 mwa bizin avek bann ti swa ki enn tipti zanfan pli gran kapav fer.",
+      "access": "Bann konsey gratis pou personel, ki kouver enn pli gran kantite laz. Mem kan enn tipti zanfan koumans fer bann zafer tousel, sa pa vedir ki li bizin fer fas avek enn moman difisil tousel. Bann lexanp pratik sa formasion-la koumans depi 12 mwa."
     },
     {
       "title": "Feeling Faces",
       "publisher": "Conscious Discipline",
       "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-      "use": "Prepar enn konversasion opsionel lor bann lemosion. Aksepte linsirtitid, respekte lavi prive ek permet kominikasion san bann mo.",
-      "access": "Paz ofisiel ek PDF ti aksesib gratis. Bann ilistrasion mark-la aksesib par lien; zot pa finn kopie. Enn figir pa prouv enn lemosion."
+      "use": "Servi enn zimaz pou koz lor seki enn personaz dan enn zistwar kapav santi. Aksepte “Mo pa kone” ouswa okenn repons. Pa demann enn zanfan nom so prop lemosion avan ou ed li.",
+      "access": "Paz ofisiel ek PDF ti aksesib gratis. Nou donn enn lien ver bann zimaz sa mark-la, nou pa finn kopie zot. Enn figir pa prouve ki lemosion enn dimounn pe santi."
     },
     {
       "title": "Visual Daily Schedule",
       "publisher": "Conscious Discipline",
       "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-      "use": "Examinn lexanp enn sekans vizib dan enn program; konpar li avek lexanp orizinal aster/apre lao.",
-      "access": "Kapav bizin enn kont gratis. Sa resours avek enn mark la pa enn prev indepandan pou tou bann deklarasion program-la."
+      "use": "Get lexanp bann zimaz ki montre bann aktivite lazourne. Konpar li avek lexanp sinp aster/apre lao.",
+      "access": "Kapav bizin enn kont gratis. Sa resours enn mark presi la pa enn prev indepandan pou tou bann rezilta ki program-la dir li amene."
     }
   ]
 }

@@ -1,772 +1,772 @@
 window.COURSE_TOOLKIT={
   "en": {
-    "title": "Small tools. Clear adult actions.",
-    "intro": "Use these original examples for staff rehearsal and planning. Choose the child’s established words, objects, symbols, signs or AAC; a printed symbol is not automatically meaningful. Use fictional examples here and keep real records in your school’s approved system.",
-    "ageTitle": "Change the adult job, not just the age label",
-    "ageNote": "These broad planning groups are not milestone tests or diagnoses. Current communication, interests and capacity guide support. The infant extension is only for staff whose setting and authorised role include infant care. The 3–6 guide includes six-year-olds and still needs individual adaptation.",
+    "title": "What to do. What to say.",
+    "intro": "Choose one idea that fits the child and the routine. Ask the teacher which words, pictures, signs or device the child already uses. Do not expect a child to understand a new picture straight away. Use made-up examples on this page; keep real child records in the school’s usual safe place.",
+    "ageTitle": "Children of different ages need different help",
+    "ageNote": "These guides start at 12 months. Children learn at different speeds, so watch the child as well as checking their age. The oldest group includes six-year-olds. Follow each child’s agreed plan and your role at school. These cards do not teach feeding, lifting or sleep procedures.",
     "ageCards": [
       {
         "id": "infant-support",
-        "title": "Infant extension: birth to under 18 months",
-        "adultExpectation": "Provide most of the regulation support. Notice emerging signals and self-soothing without expecting independent recovery or a spoken request.",
-        "before": "Learn family-recognised cues; plan familiar caregiving and a backup adult. Check individual care needs and avoid competing noise and handling.",
-        "during": "Respond promptly with a familiar voice and appropriate care. Pause extra stimulation. Adjust comfort to the baby's cues and follow safe-care procedures. Follow approved handling and safe-sleep procedures; never shake a baby. This card does not teach those procedures.",
-        "after": "Return to familiar interaction when interest returns. Adults review what helped; the baby does not need a debrief.",
-        "script": "“I hear you. I'm here. Let's have a quieter moment.”",
-        "activityTitle": "Answer and pause",
-        "activity": "Answer one sound or movement during comfortable play, then wait. Repeat while welcome; pause when interest shifts. No required eye contact or number of turns."
+        "title": "Younger toddlers: 12 months to under 18 months",
+        "adultExpectation": "Give plenty of adult help. The child may reach, point, push something away or make sounds to tell you what they need. Do not require walking, speaking or naming a feeling before you help.",
+        "before": "Ask the family and teacher what the child’s signals usually mean. Check food, drink, nappy, rest and comfort needs. Keep the next activity simple and reduce extra noise.",
+        "during": "Notice the child’s signal. Stop extra sounds or toys and offer familiar comfort. Show one small next step if the child is ready. Follow school care rules. Never shake a child or cover their face.",
+        "after": "Offer a familiar toy or simple activity when the child shows interest. Show one action and wait. The child does not need to explain what happened. Adults can talk about what helped.",
+        "script": "“It’s noisy. I’m here.” [Show a familiar quiet play choice and wait.]",
+        "activityTitle": "Copy one action and wait",
+        "activity": "When the child is settled, follow their interest in a large, age-safe toy. Copy or name one action, then wait for a sound, gesture or movement. Continue if the child wants to. Stop if they turn away or become uncomfortable. Watch the child and the materials throughout."
       },
       {
         "id": "toddler-support",
         "title": "Toddlers: 18 months to under 3 years",
-        "adultExpectation": "Expect strong preferences with uneven impulse control. Understanding a limit does not mean reliably applying it while distressed.",
-        "before": "Show the next familiar step; offer a genuine small choice. Reduce waiting and prepare an accessible way to ask for help.",
-        "during": "Use a brief acknowledgment and practical help. Keep people safe. If touch is declined, stay available at a comfortable distance.",
-        "after": "Help the child return to play. Model one useful alternative when they can join; avoid a long explanation.",
-        "script": "“You wanted that truck. I can sit here.” Later, when ready: “I can help. You can show me.”",
-        "activityTitle": "Teddy needs help",
-        "activity": "Use an age-safe toy and basket to model a familiar help signal, then do one action together. Follow the toddler's idea; never withhold assistance for a correct response."
+        "adultExpectation": "Expect strong wishes and a need for help when things go wrong. Knowing a rule does not mean a young child can follow it while upset.",
+        "before": "Show what will happen next. Offer a small choice you can keep, such as which basket to carry. Avoid a long wait and have a familiar way for the child to ask for help.",
+        "during": "Use a short sentence and practical help. Keep both children safe if there is a disagreement. If the child does not want a cuddle, stay nearby without forcing touch.",
+        "after": "Help the child return to play. Later, show one useful action, such as bringing a stuck toy to an adult. Keep the explanation short.",
+        "script": "“You wanted that truck. I can sit here.” Later: “I can help. You can show me.”",
+        "activityTitle": "Help the teddy",
+        "activity": "Use an age-safe teddy and basket. Show how teddy asks for help using the child’s familiar word, sign or gesture. Help teddy put one toy in. Let the child join or watch. Do not withhold help while waiting for the child to copy the signal."
       },
       {
         "id": "preschool-support",
         "title": "Preschool and early years: 3–6 years",
-        "adultExpectation": "Invite growing emotion language, shared plans and problem-solving. Keep adult support available when those skills are harder to use.",
-        "before": "Rehearse one helpful action in settled play. Preview a change and make communication supports available where they are needed.",
-        "during": "Reduce demands and unnecessary questions. Acknowledge the difficulty, pause and offer familiar support. Follow local safety procedures if risk increases.",
-        "after": "Briefly explore what helped and practise one next step. Support a manageable repair without demanding an apology as the price of rejoining.",
-        "script": "“You wanted to finish your building. We can save the pieces here.” Later: “What could help at tidy-up tomorrow?”",
-        "activityTitle": "Two puppet endings",
-        "activity": "A puppet wants to join play. Invite two safe solutions using toys, gestures, symbols or words. Observing is welcome; no child must perform an emotion or disclose a real incident."
+        "adultExpectation": "Many children can talk about feelings or make a simple plan when settled. They may still need much more help when upset.",
+        "before": "Show one helpful action in play. Warn the child about a change using words or pictures they know. Keep help pictures, signs or devices where the child needs them.",
+        "during": "Ask fewer questions and make the next step smaller. Say what happened, pause and offer familiar help. If the situation becomes unsafe, use the school’s safety steps and call for help.",
+        "after": "When the child is ready, briefly talk about what helped. Show one thing to try next time. Help repair harm, such as rebuilding a knocked-over tower, without forcing an apology before the child can rejoin.",
+        "script": "“You wanted to finish your building. We can save these pieces.” Later: “What could help when we tidy up tomorrow?”",
+        "activityTitle": "Show two puppet endings",
+        "activity": "A puppet wants to join a game. Show one safe way it could ask for help. Invite the children to try another ending with toys, pictures, gestures or words. They can watch instead. Do not ask them to act out a real upsetting event."
       }
     ],
-    "phaseTitle": "Choose the job this moment needs",
-    "phaseNote": "These are adult decisions, not fixed stages every child must follow. A child can need support again at any point. Serious danger, suspected medical emergency or a safeguarding concern takes priority.",
+    "phaseTitle": "Choose what the child needs now",
+    "phaseNote": "A child may need comfort again after seeming settled. There is no set order or time limit. If someone is in danger, a child may be seriously ill or you are worried someone has harmed a child, get help through the school’s emergency or child-safety reporting steps.",
     "phases": [
       {
         "id": "before",
-        "title": "Before: make access easier",
+        "title": "Before: make the routine easier",
         "icon": "plan",
         "actions": [
-          "Preview the next step with a familiar cue.",
-          "Reduce waiting, crowding and competing noise.",
-          "Practise one accessible help signal in comfortable play."
+          "Show what will happen next using something the child knows.",
+          "Have fewer children waiting together; reduce extra noise.",
+          "When the child is settled, show one way to ask for help."
         ],
         "script": "“After this page, lunch. I’ll show you where we’re going.”"
       },
       {
         "id": "during",
-        "title": "During: safety and connection",
+        "title": "While upset: keep safe and help",
         "icon": "support",
         "actions": [
-          "Check immediate danger, pain, illness and urgent care needs.",
-          "Agree who covers the group; use one adult voice.",
-          "Offer one practical change and a short sentence, then pause."
+          "Check for danger, pain, illness or an urgent care need.",
+          "Ask a colleague to watch the group if you need to stay with the child. Let one adult do the talking.",
+          "Make one useful change, use a short sentence and wait."
         ],
         "script": "“It’s noisy. I can stay nearby.”"
       },
       {
         "id": "recovery",
-        "title": "Recovery: comfort and re-entry",
+        "title": "As they settle: help them rejoin",
         "icon": "listen",
         "actions": [
-          "Keep support and necessary care available.",
-          "Offer a low-demand way to observe or join.",
-          "Do not require an apology, feeling label or explanation before returning."
+          "Keep comfort, care and adult help available.",
+          "Offer a small first step, such as watching beside you.",
+          "Do not require an apology, an explanation or a feeling word before the child can return."
         ],
         "script": "“You can watch beside me. There’s room when you want to join.”"
       },
       {
         "id": "later",
-        "title": "Later: teach, repair, review",
+        "title": "Later: show what to try next time",
         "icon": "repeat",
         "actions": [
-          "Practise one helpful alternative when the child can engage.",
-          "Support a small meaningful repair; care for anyone hurt separately.",
-          "Change one adult/environment action and review whether it helped."
+          "When the child can join in, practise one useful action.",
+          "Help repair any harm in a small way. Care for a hurt or frightened child separately.",
+          "With the teacher, choose one change adults will make and check whether it helps."
         ],
-        "script": "“Next time I can help. Shall we practise showing help with the puppet?”"
+        "script": "“Next time I can help. Shall we show the puppet how to ask?”"
       }
     ],
-    "visualTitle": "Original communication examples",
-    "visualNote": "Introduce these ideas while children are settled. Adapt them with the child’s communication team and family. These examples are not an AAC assessment or branded programme materials.",
+    "visualTitle": "Show the child what happens next",
+    "visualNote": "Try the pictures or objects when the child is settled. Use ones the child knows. If you are unsure what they understand, ask the teacher. Keep using any agreed signs or communication device.",
     "nowLabel": "Now",
     "nextLabel": "Next",
-    "nowExample": "Play",
-    "nextExample": "Tidy up with an adult",
+    "nowExample": "Playing with blocks",
+    "nextExample": "Put blocks in the box with an adult",
     "sequenceSteps": [
-      "Choose two objects, photographs or symbols that this child recognises.",
-      "Show and say the current activity. Show the next step before the change.",
-      "At the transition, point again and help with one manageable action.",
-      "Mark the finished activity together. Show a change honestly if the plan changes."
+      "Ask the teacher which pictures or objects the child knows. Choose one for what is happening now and one for what comes next.",
+      "Point to the first one: “We’re playing with blocks.” Point to the next: “Then we’ll put them in the box together.”",
+      "When it is time to change, show the next picture again. Help the child put one block away.",
+      "Move the finished-play picture aside, or put its object away, then show the next picture or object. The adult can do this; the child does not have to move it. If the plan changes, change the picture and say what will happen instead."
     ],
-    "sequenceWarning": "Now/next gives truthful information. Do not turn it into “first behave, then food, care, communication or comfort”.",
+    "sequenceWarning": "The pictures tell the child what will happen. They are not rewards. Never make food, water, toilet help, communication or comfort depend on finishing a task or behaving a certain way.",
     "signalCards": [
       {
         "id": "help",
         "label": "Help",
         "icon": "support",
-        "childExample": "A gesture, object, sign, picture or device message can mean “help”.",
-        "adultAction": "Notice and respond: “I can help.” Do not wait for a perfect phrase or point."
+        "childExample": "A child might hand you a toy, point, make a sound or use a familiar word, sign, picture or device.",
+        "adultAction": "Notice the request and help: “I can help.” Do not wait for a perfect word or gesture."
       },
       {
         "id": "break",
         "label": "Break",
         "icon": "pause",
-        "childExample": "Use the child’s familiar way to ask for a pause.",
-        "adultAction": "Offer a supervised pause and stay available. If the exact request cannot happen safely, acknowledge it and offer a workable alternative."
+        "childExample": "Use the child’s usual way of asking for a pause.",
+        "adultAction": "Offer a pause with an adult still watching and helping. If the exact request is not safe or possible, say so simply and offer something you can do."
       },
       {
         "id": "stop",
         "label": "Stop / no",
         "icon": "voice",
-        "childExample": "Turning away or moving a hand away can communicate “not that”.",
-        "adultAction": "Pause the offered activity or touch when safe, reduce pressure and remain available. Necessary care follows the approved individual plan; request trained help if it cannot be provided safely. This card does not authorise force."
+        "childExample": "Turning away or moving your hand away may mean “not that”.",
+        "adultAction": "Stop what you are offering if it is safe to do so. Give the child more space and stay available. If needed care is difficult, ask the teacher or trained colleague for help and follow the care plan. This card does not give permission to use force."
       }
     ],
-    "spaceTitle": "Set up a supportive quieter option",
+    "spaceTitle": "Offer a quieter place with an adult nearby",
     "spaceSteps": [
-      "Check sightlines, adult availability, access and school supervision requirements.",
-      "Choose a few age-safe familiar resources with the child and family; avoid overcrowding the space.",
-      "Introduce it during settled time and model an optional short visit.",
-      "Offer it or reduce stimulation where the child already is. Never drag, corner or lock a child in.",
-      "Support return when the child can participate, including watching beside an adult. There is no required timer, breathing sequence or apology."
+      "Ask the teacher where a child can have less noise while an adult still sees and helps them. The child must be able to enter and leave with their usual movement support; keep the way out clear. Agree who watches the other children.",
+      "Keep the space simple. Use a few familiar, age-safe things. Check for small parts or anything else that could hurt the child.",
+      "When the child is settled, show the place: “You can come here with me if it’s too noisy.”",
+      "When the child is upset, offer the place. If they do not want to move, see whether you can make things quieter where they are. Do not drag, corner or lock them in.",
+      "Help the child join in again when they can. Watching beside an adult may be a first step. Do not make them finish a timer, breathing exercise or apology before they can leave."
     ],
-    "spaceWarning": "A quieter space is one option, not a punishment, a place to send every upset child or a substitute for adult support. Specialist sensory equipment needs the appropriate assessment, training and agreed plan.",
-    "planTitle": "Worked example: Leo’s tidy-up transition",
-    "planNote": "Entirely fictional. This is an ordinary access-support plan, not a functional assessment or a diagnosis.",
+    "spaceWarning": "A quieter place is a way to help, not a punishment. Stay available to the child. Do not use special sensory equipment unless the right professional and school have agreed how it should be used and you have the training.",
+    "planTitle": "Worked example: helping Leo at tidy-up",
+    "planNote": "This example is made up. It shows a small change adults can try. It does not tell us for certain why Leo is upset.",
     "planRows": [
       [
-        "Strengths and communication",
-        "Leo enjoys building and communicates through pointing and familiar gestures. Ask the family which home-language cues and signs are meaningful."
+        "What Leo enjoys and how he asks",
+        "Leo enjoys blocks. He often points or uses gestures. Ask his family and teacher which words and signs he knows."
       ],
       [
-        "Context and early cues",
-        "During crowded tidy-up, chairs scrape and several children reach the shelves together. Leo covers his ears and moves back."
+        "The difficult moment",
+        "At tidy-up, chairs scrape and several children crowd around the shelves. Leo covers his ears and moves back."
       ],
       [
-        "Before",
-        "The lead adult shows a familiar tidy-up cue and offers one basket. A colleague arranges one small group at the shelves at a time. Reduce chair-scraping noise where practical."
+        "Before tidy-up",
+        "Show Leo the picture or object he knows for tidy-up. Offer one basket. One adult sends a small group to the shelves while another watches the rest. Move chairs more quietly if possible."
       ],
       [
-        "During",
-        "One adult says, “It’s noisy. We can wait here together.” Offer a quieter supervised position or reduce the crowd where Leo is. Do not require a spoken answer."
+        "When Leo is upset",
+        "Let one adult say, “It’s noisy. We can wait here together.” Offer a quieter place with an adult nearby, or reduce the crowd where Leo is. Do not require him to speak."
       ],
       [
-        "Recovery",
-        "Offer a low-demand return: carrying one item with an adult or watching nearby. No apology or feelings label is required."
+        "When he is ready to rejoin",
+        "Offer one small step: carry one item together, or watch beside an adult. He does not have to apologise or name a feeling first."
       ],
       [
-        "Teach later",
-        "Model a familiar help/break signal with a puppet and respond promptly. Keep the cue at the point of use and accept Leo’s existing communication."
+        "What to practise later",
+        "Use a puppet to show Leo’s familiar help or break signal. Show the adult responding. Keep that signal available at tidy-up and accept the ways Leo already communicates."
       ],
       [
-        "Who and backup",
-        "The classroom lead checks the cue; the named colleague covers the group. Agree the actual backup adult and help signal through school procedures."
+        "Who does what",
+        "The teacher agrees who shows the picture, who watches the group and who can help if the first adult is absent. Practise the school’s signal for asking a colleague for help."
       ],
       [
-        "If risk, health or safeguarding concerns emerge",
-        "Summon the agreed trained support and maintain child/group supervision. Serious danger or suspected medical emergency follows the emergency/first-aid route immediately. Safeguarding concerns follow the safeguarding route without waiting for a routine review. This plan does not authorise physical intervention."
+        "If someone may be hurt or unwell",
+        "Get the agreed trained help and keep the child and group supervised. Follow first-aid/emergency steps for serious danger or illness. Report a child-safety concern straight away through the school’s route. Do not wait for a later plan review or try a holding technique."
       ],
       [
-        "Review",
-        "After several ordinary transitions, ask whether the adult changes happened, whether Leo could communicate and whether participation was more comfortable. Seek help sooner if risk or concern increases."
+        "Check whether it helped",
+        "After a few ordinary tidy-up times, ask: Did we use the picture and smaller groups? Could Leo ask for help and join in more comfortably? Ask his family what they noticed. Seek help sooner if you are worried."
       ]
     ],
-    "observationTitle": "Facts, possible explanations, next action",
+    "observationTitle": "Write what you saw, then what you might try",
     "observationRows": [
       [
-        "Observation",
-        "Six children reached the shelves together as chairs moved. Leo covered his ears and sat by the table. The adult stopped asking questions and moved the group on. With the adult nearby, Leo pointed towards the quieter spot."
+        "What we saw and heard",
+        "Six children reached the shelves while chairs were moving. Leo covered his ears and sat by a table. The adult stopped asking questions and moved the group on. With the adult nearby, Leo pointed towards the quieter place."
       ],
       [
-        "Possible explanations",
-        "Noise, crowding or an unclear next step may have contributed. Another care or health need is also possible. This observation does not establish a cause or diagnosis."
+        "What might be making it hard",
+        "The noise, crowd or uncertainty about what comes next might matter. Leo might also need care or be unwell. This one example does not tell us the cause."
       ],
       [
-        "Next adult action",
-        "Try staggered tidy-up and one familiar cue. Ask the family about Leo’s gestures. Check whether the change improves access, comfort and participation."
+        "What adults will try",
+        "Have a smaller group at the shelves and show one familiar tidy-up cue. Ask the family what Leo’s gestures mean. Watch whether he is more comfortable and able to join in."
       ],
       [
-        "Better review question",
-        "Was the support available and used? Could the child communicate and join in? Fewer outbursts alone are not enough if the child is now withdrawn or excluded."
+        "What to check",
+        "Did adults give the help they planned? Could Leo communicate and join play? Less crying alone does not prove the plan helps if he now spends more time alone."
       ]
     ],
-    "blankTitle": "Plan one routine with your team",
-    "blankNote": "Discuss a fictional example, or print this blank guide and use only your approved secure school process for any real child plan. This page does not collect or save child information.",
+    "blankTitle": "Make a simple plan for one routine",
+    "blankNote": "Practise with a made-up example. If you print this for a real child, follow the school’s rules for writing and storing child records. This page does not collect or save a child’s details.",
     "blankPrompts": [
-      "A strength and a familiar way to communicate",
-      "One difficult routine and observable early cue",
-      "One adult/environment change before it",
-      "One short first sentence and a safe support option",
-      "Group supervision, backup and urgent-help route",
-      "One skill to teach later and how to make it available",
-      "How the child/family will contribute; who reviews and when"
+      "What does the child enjoy? How do they ask for help?",
+      "Which part of the day is hard? What do you see the child do?",
+      "What can adults change before that part of the day?",
+      "What will you say first? What help can you offer?",
+      "Who watches the group? Who do you call for help or an emergency?",
+      "What small skill can you show the child later, when settled?",
+      "What do the child and family suggest? Who will check the plan, and when?"
     ],
-    "resourceTitle": "Choose an official tool for a clear purpose",
-    "resourceIntro": "Preview resources before using them with children. Free-to-download does not mean public domain. External materials may contain suggestions outside this course’s boundaries; use the safeguards and approved school procedures taught here. Do not copy, rebrand or translate protected artwork.",
+    "resourceTitle": "Extra ideas from the source organisations",
+    "resourceIntro": "Ask the teacher which resources fit your children. Read or watch them before using them with a child. Some cover younger babies or older children, so choose examples for your setting. Keep the safety rules in this course. Free downloads can still be protected by copyright; use the official links.",
     "resources": [
       {
-        "title": "Baby cues: picture guide",
+        "title": "Baby and toddler cues: use from 12 months",
         "publisher": "Raising Children Network",
         "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-        "use": "Observe one invitation cue and one possible pause cue; discuss what you would check next.",
-        "access": "Free page and printable; several translated versions linked. Infant extension only."
+        "use": "Look at one signal that fits a child aged 12 months to under 18 months. What might it mean, and what would you try next?",
+        "access": "Free broader 0–18-month guide and printable, with translated versions linked. Select only relevant 12-months-plus guidance; younger-baby examples are background, not course activities."
       },
       {
         "title": "Using visuals in the early learning environment",
         "publisher": "NCPMI",
         "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-        "use": "Choose a familiar daily routine and rehearse showing, using and updating its visual sequence.",
+        "use": "Choose one routine, such as tidy-up. Practise showing what comes next, helping the child do it and changing the picture if the plan changes.",
         "access": "Free official page and PDF, June 2025. Use sequencing for access, never to withhold necessary care."
       },
       {
         "title": "Having Big Feelings: educator guide",
         "publisher": "Child Mind Institute",
         "url": "https://childmind.org/wp-content/uploads/2024/01/hmtkprek-educator-guide-eng-having-big-feelings.pdf",
-        "use": "Plan one optional coping practice for a settled moment, with gesture/AAC and no-touch alternatives.",
-        "access": "Free three-page guide for preschool teaching; not an infant activity or a clinical programme."
+        "use": "Ask the teacher to choose one idea for settled play. Show how a child could join without speaking, touching or doing a breathing exercise.",
+        "access": "Free three-page guide for preschool teaching; use only developmentally suitable activities. It is not a clinical programme."
       },
       {
         "title": "Executive-function activity guides",
         "publisher": "Harvard Center on the Developing Child",
         "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-        "use": "Choose a developmentally suitable game, an easier version and a child stop cue.",
-        "access": "Free age-banded guides, originally published in 2014. Games offer practice, not guaranteed wider effects."
+        "use": "Choose a game for a child from 12 months. Make it easier if needed. Decide what would tell you the child wants to stop.",
+        "access": "Free age-banded guides, originally published in 2014. The source includes younger babies; select suitable 12-months-plus activities for this course. Games offer practice, not guaranteed wider effects."
       },
       {
         "title": "It Takes Two: co-regulation",
         "publisher": "ZERO TO THREE",
         "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-        "use": "Compare an infant’s cue-and-care support with a toddler’s adult-supported choices.",
-        "access": "Free professional guidance. Emerging self-soothing does not mean an infant should manage distress alone."
+        "use": "Compare the help a child aged 12 months to under 18 months needs with the simple choices an older toddler might use.",
+        "access": "Free professional guidance covering a broader developmental range. Emerging independence does not mean a young child should manage distress alone; this course’s practical examples begin at 12 months."
       },
       {
         "title": "Feeling Faces",
         "publisher": "Conscious Discipline",
         "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-        "use": "Preview an optional feelings conversation. Allow uncertainty, privacy and nonspoken communication.",
+        "use": "Use a picture to talk about a story character’s possible feelings. Accept “I don’t know” or no answer. Do not require a child to name their own feeling before you help.",
         "access": "Official page and PDF were freely accessible. Branded artwork is linked, not copied. A face does not prove a feeling."
       },
       {
         "title": "Visual Daily Schedule",
         "publisher": "Conscious Discipline",
         "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-        "use": "Explore one programme’s example of a visible sequence; compare it with the original now/next example above.",
+        "use": "Look at the example of pictures showing a day’s activities. Compare it with the simple now/next example above.",
         "access": "Free account may be required. This branded resource is not independent evidence for all programme claims."
       }
     ]
   },
   "fr": {
-    "title": "De petits outils. Des actions claires pour l’adulte.",
-    "intro": "Utilisez ces exemples originaux pour vous entraîner entre collègues et préparer votre accompagnement. Choisissez les mots, objets, symboles, signes ou moyens de communication alternative et améliorée (CAA) déjà utilisés par l’enfant ; un symbole imprimé n’a pas automatiquement de sens pour lui. Utilisez ici des exemples fictifs et conservez les dossiers réels dans le système approuvé par votre école.",
-    "ageTitle": "Adapter le rôle de l’adulte, pas seulement l’étiquette d’âge",
-    "ageNote": "Ces grands groupes servent à préparer le soutien, pas à tester des étapes du développement ni à poser un diagnostic. La communication, les intérêts et les capacités actuelles guident l’accompagnement. Le complément sur les nourrissons s’adresse uniquement au personnel dont le cadre de travail et les fonctions autorisées incluent leur prise en charge. Le guide des 3–6 ans inclut les enfants de six ans et doit toujours être adapté à chacun.",
+    "title": "Quoi faire. Quoi dire.",
+    "intro": "Choisissez une idée adaptée à l’enfant et au moment de la journée. Demandez à l’enseignant quels mots, images, signes ou appareil l’enfant utilise déjà pour communiquer. N’attendez pas qu’il comprenne tout de suite une nouvelle image. Utilisez des situations inventées sur cette page ; gardez les vrais dossiers d’enfants dans l’endroit sûr prévu par l’école.",
+    "ageTitle": "L’aide nécessaire change avec l’âge",
+    "ageNote": "Ces repères commencent à 12 mois. Les enfants apprennent à des rythmes différents : observez l’enfant, pas seulement son âge. Le groupe le plus âgé comprend les enfants de six ans. Suivez le plan d’aide convenu pour chaque enfant et les limites de votre rôle à l’école. Ces fiches n’enseignent pas comment nourrir, porter ou coucher un enfant.",
     "ageCards": [
       {
         "id": "infant-support",
-        "title": "Complément sur les nourrissons : de la naissance à moins de 18 mois",
-        "adultExpectation": "Assurer l’essentiel du soutien à la régulation. Repérer les signaux qui apparaissent et les gestes d’auto-apaisement, sans attendre que le bébé se calme seul ou formule une demande orale.",
-        "before": "Apprendre à reconnaître les signaux identifiés par la famille ; prévoir des soins familiers et un adulte relais. Vérifier les besoins individuels de soins et éviter les bruits et manipulations qui se cumulent.",
-        "during": "Répondre rapidement avec une voix familière et des soins adaptés. Interrompre les stimulations supplémentaires. Ajuster le réconfort aux signaux du bébé et suivre les procédures de soins sécurisés. Appliquer les procédures approuvées pour porter et manipuler les bébés et assurer leur sécurité pendant le sommeil ; ne jamais secouer un bébé. Cette fiche n’enseigne pas ces procédures.",
-        "after": "Reprendre les interactions familières lorsque l’intérêt revient. Les adultes examinent ce qui a aidé ; le bébé n’a pas besoin d’un échange de bilan.",
-        "script": "« Je t’entends. Je suis là. Prenons un moment plus tranquille. »",
-        "activityTitle": "Répondre, puis faire une pause",
-        "activity": "Pendant un jeu agréable, répondre à un son ou à un mouvement, puis attendre. Recommencer tant que l’échange est bienvenu ; faire une pause lorsque l’intérêt se déplace. Aucun contact visuel ni nombre de tours n’est exigé."
+        "title": "Les plus petits : de 12 mois à moins de 18 mois",
+        "adultExpectation": "Apportez beaucoup d’aide. L’enfant peut tendre la main, pointer, repousser un objet ou faire des sons pour montrer ce dont il a besoin. N’exigez pas qu’il marche, parle ou nomme une émotion avant de l’aider.",
+        "before": "Demandez à la famille et à l’enseignant ce que ses gestes veulent généralement dire. Vérifiez ses besoins : manger, boire, changer de couche, se reposer ou être réconforté. Prévoyez une suite simple et réduisez le bruit inutile.",
+        "during": "Remarquez ce que l’enfant vous montre. Arrêtez les sons ou jouets supplémentaires et proposez un réconfort qu’il connaît. Montrez une petite étape suivante s’il est prêt. Suivez les règles de soin de l’école. Ne secouez jamais un enfant et ne couvrez jamais son visage.",
+        "after": "Proposez un jouet connu ou une activité simple quand l’enfant s’y intéresse. Montrez une action et attendez. Il n’a pas besoin d’expliquer ce qui s’est passé. Les adultes peuvent discuter de ce qui l’a aidé.",
+        "script": "« Il y a du bruit. Je suis là. » [Montrez un jeu calme qu’il connaît, puis attendez.]",
+        "activityTitle": "Copier une action, puis attendre",
+        "activity": "Quand l’enfant est calme et disponible, suivez son intérêt pour un gros jouet sans danger pour son âge. Copiez ou nommez une action, puis attendez un son, un geste ou un mouvement. Continuez s’il le souhaite. Arrêtez s’il se détourne ou semble mal à l’aise. Surveillez l’enfant et le matériel tout au long du jeu."
       },
       {
         "id": "toddler-support",
-        "title": "Tout-petits : de 18 mois à moins de 3 ans",
-        "adultExpectation": "S’attendre à des préférences marquées et à un contrôle des impulsions encore variable. Comprendre une limite ne signifie pas pouvoir la respecter de façon fiable en situation de détresse.",
-        "before": "Montrer la prochaine étape familière ; proposer un petit choix réel. Réduire l’attente et prévoir un moyen accessible de demander de l’aide.",
-        "during": "Reconnaître brièvement la difficulté et apporter une aide concrète. Assurer la sécurité de chacun. Si l’enfant refuse le contact physique, rester disponible à une distance qui lui convient.",
-        "after": "Aider l’enfant à reprendre le jeu. Montrer une autre façon de faire utile lorsqu’il peut participer ; éviter une longue explication.",
-        "script": "« Tu voulais ce camion. Je peux m’asseoir ici. » Plus tard, quand l’enfant est prêt : « Je peux t’aider. Tu peux me montrer. »",
-        "activityTitle": "Nounours a besoin d’aide",
-        "activity": "Avec un jouet adapté à l’âge et un panier, montrer un signal familier de demande d’aide, puis réaliser une action ensemble. Suivre l’idée du tout-petit ; ne jamais attendre une réponse correcte pour apporter de l’aide."
+        "title": "Les tout-petits : de 18 mois à moins de 3 ans",
+        "adultExpectation": "Attendez-vous à des envies fortes et à un besoin d’aide quand quelque chose se passe mal. Connaître une règle ne veut pas dire qu’un jeune enfant peut la suivre quand il est bouleversé.",
+        "before": "Montrez ce qui va se passer ensuite. Proposez un petit choix que vous pourrez respecter, par exemple le panier à porter. Évitez une longue attente. Prévoyez un moyen connu de demander de l’aide.",
+        "during": "Utilisez une phrase courte et une aide concrète. En cas de désaccord, protégez les deux enfants. Si l’enfant ne veut pas de câlin, restez près de lui sans imposer de contact.",
+        "after": "Aidez l’enfant à revenir au jeu. Plus tard, montrez une action utile, comme apporter un jouet coincé à un adulte. Expliquez brièvement.",
+        "script": "« Tu voulais ce camion. Je peux m’asseoir ici. » Plus tard : « Je peux t’aider. Tu peux me montrer. »",
+        "activityTitle": "Aider le nounours",
+        "activity": "Utilisez un nounours et un panier adaptés à l’âge. Montrez comment le nounours demande de l’aide avec un mot, un signe ou un geste connu de l’enfant. Aidez le nounours à ranger un jouet. Laissez l’enfant participer ou regarder. Ne retardez pas votre aide pour qu’il copie d’abord le signal."
       },
       {
         "id": "preschool-support",
-        "title": "Maternelle et début de scolarité : de 3 à 6 ans",
-        "adultExpectation": "Encourager l’enrichissement du vocabulaire des émotions, les projets partagés et la recherche de solutions. Garder le soutien de l’adulte disponible lorsque ces compétences deviennent plus difficiles à mobiliser.",
-        "before": "S’entraîner à une action utile dans un jeu serein. Annoncer un changement et mettre les aides à la communication à disposition là où elles sont nécessaires.",
-        "during": "Réduire les exigences et les questions inutiles. Reconnaître la difficulté, faire une pause et proposer un soutien familier. Suivre les procédures locales de sécurité si le risque augmente.",
-        "after": "Explorer brièvement ce qui a aidé et s’entraîner à une prochaine étape. Accompagner une réparation à la portée de l’enfant sans exiger des excuses pour le laisser rejoindre le groupe.",
-        "script": "« Tu voulais terminer ta construction. Nous pouvons garder les pièces ici. » Plus tard : « Qu’est-ce qui pourrait t’aider à ranger demain ? »",
-        "activityTitle": "Deux fins pour une histoire de marionnette",
-        "activity": "Une marionnette veut rejoindre un jeu. Inviter à proposer deux solutions sûres avec des jouets, des gestes, des symboles ou des mots. Il est tout à fait possible de simplement observer ; aucun enfant ne doit jouer une émotion ni raconter un incident réel."
+        "title": "Maternelle et petite enfance : de 3 à 6 ans",
+        "adultExpectation": "Beaucoup d’enfants peuvent parler des émotions ou prévoir une action simple quand ils sont calmes. Ils peuvent encore avoir besoin de beaucoup plus d’aide quand ils sont bouleversés.",
+        "before": "Montrez une action utile pendant un jeu. Annoncez un changement avec des mots ou des images connus. Gardez les images, signes ou appareils de communication là où l’enfant en a besoin.",
+        "during": "Posez moins de questions et proposez une étape plus petite. Dites ce qui s’est passé, attendez et offrez une aide connue. Si la situation devient dangereuse, suivez les règles de sécurité de l’école et appelez de l’aide.",
+        "after": "Quand l’enfant est prêt, parlez brièvement de ce qui l’a aidé. Montrez une chose à essayer la prochaine fois. Aidez à réparer, par exemple à reconstruire une tour renversée, sans exiger d’excuses avant qu’il puisse rejoindre le groupe.",
+        "script": "« Tu voulais finir ta construction. On peut garder ces pièces. » Plus tard : « Qu’est-ce qui pourrait t’aider quand on rangera demain ? »",
+        "activityTitle": "Montrer deux fins avec une marionnette",
+        "activity": "Une marionnette veut rejoindre un jeu. Montrez une façon sans danger de demander de l’aide. Invitez les enfants à essayer une autre fin avec des jouets, des images, des gestes ou des mots. Ils peuvent aussi regarder. Ne leur demandez pas de rejouer un événement réel qui les a bouleversés."
       }
     ],
-    "phaseTitle": "Choisir l’action adaptée à ce moment",
-    "phaseNote": "Il s’agit de décisions de l’adulte, pas d’étapes fixes que chaque enfant doit suivre. Un enfant peut avoir de nouveau besoin de soutien à tout moment. Un danger grave, une suspicion d’urgence médicale ou une inquiétude relevant de la protection de l’enfance sont prioritaires.",
+    "phaseTitle": "Choisissez l’aide dont l’enfant a besoin maintenant",
+    "phaseNote": "Un enfant peut avoir de nouveau besoin de réconfort après avoir semblé calme. Il n’y a ni ordre imposé ni durée limite. Si quelqu’un est en danger, si un enfant semble gravement malade ou si vous craignez que quelqu’un lui ait fait du mal, demandez de l’aide selon les étapes d’urgence ou de protection de l’enfance de votre école.",
     "phases": [
       {
         "id": "before",
-        "title": "Avant : faciliter l’accès et la participation",
+        "title": "Avant : faciliter ce moment de la journée",
         "icon": "plan",
         "actions": [
-          "Annoncer la prochaine étape avec un repère familier.",
-          "Réduire l’attente, les rassemblements serrés et les bruits qui se cumulent.",
-          "S’entraîner à un signal accessible de demande d’aide pendant un jeu agréable."
+          "Montrez la suite avec quelque chose que l’enfant connaît.",
+          "Faites attendre moins d’enfants ensemble ; réduisez le bruit inutile.",
+          "Quand l’enfant est calme et disponible, montrez une façon de demander de l’aide."
         ],
-        "script": "« Après cette page, c’est le déjeuner. Je vais te montrer où nous allons. »"
+        "script": "« Après cette page, on va déjeuner. Je vais te montrer où on va. »"
       },
       {
         "id": "during",
-        "title": "Pendant : sécurité et lien",
+        "title": "Quand c’est difficile : protéger et aider",
         "icon": "support",
         "actions": [
-          "Vérifier les dangers immédiats, la douleur, une éventuelle maladie et les besoins de soins urgents.",
-          "Convenir de qui prend en charge le groupe ; laisser un seul adulte parler.",
-          "Proposer un changement concret et une phrase courte, puis faire une pause."
+          "Vérifiez s’il y a un danger, une douleur, une maladie ou un besoin de soin urgent.",
+          "Demandez à un collègue de surveiller le groupe si vous devez rester avec l’enfant. Laissez un seul adulte parler.",
+          "Changez une chose utile, dites une phrase courte, puis attendez."
         ],
         "script": "« Il y a du bruit. Je peux rester près de toi. »"
       },
       {
         "id": "recovery",
-        "title": "Retour au calme : réconfort et reprise",
+        "title": "Quand il se calme : l’aider à rejoindre les autres",
         "icon": "listen",
         "actions": [
-          "Garder le soutien et les soins nécessaires disponibles.",
-          "Proposer une façon peu exigeante d’observer ou de participer.",
-          "Ne pas exiger d’excuses, de nommer une émotion ou de donner une explication avant de revenir."
+          "Continuez à proposer du réconfort, des soins et l’aide d’un adulte.",
+          "Proposez un petit premier pas, comme regarder près de vous.",
+          "N’exigez ni excuse, ni explication, ni mot pour nommer son émotion avant de lui permettre de revenir."
         ],
-        "script": "« Tu peux regarder à côté de moi. Il y a de la place quand tu voudras participer. »"
+        "script": "« Tu peux regarder à côté de moi. Il y a de la place quand tu veux venir. »"
       },
       {
         "id": "later",
-        "title": "Plus tard : enseigner, réparer, faire le point",
+        "title": "Plus tard : montrer quoi essayer la prochaine fois",
         "icon": "repeat",
         "actions": [
-          "S’entraîner à une autre façon de faire utile lorsque l’enfant peut participer.",
-          "Accompagner une petite réparation qui a du sens ; prendre soin séparément de toute personne blessée.",
-          "Modifier une action de l’adulte ou un élément de l’environnement, puis vérifier si cela a aidé."
+          "Quand l’enfant peut participer, entraînez-vous à une action utile.",
+          "Aidez à réparer par un petit geste. Occupez-vous séparément d’un enfant blessé ou effrayé.",
+          "Avec l’enseignant, choisissez un changement que feront les adultes et vérifiez s’il aide."
         ],
-        "script": "« La prochaine fois, je peux t’aider. On s’entraîne à montrer qu’on a besoin d’aide avec la marionnette ? »"
+        "script": "« La prochaine fois, je peux t’aider. On montre à la marionnette comment demander ? »"
       }
     ],
-    "visualTitle": "Exemples originaux de supports de communication",
-    "visualNote": "Présentez ces idées lorsque les enfants sont sereins. Adaptez-les avec la famille et les professionnels qui accompagnent la communication de l’enfant. Ces exemples ne constituent ni une évaluation en CAA ni des supports de programmes de marque.",
+    "visualTitle": "Montrez à l’enfant ce qui vient ensuite",
+    "visualNote": "Essayez les images ou les objets quand l’enfant est calme et disponible. Utilisez ceux qu’il connaît. Si vous ne savez pas ce qu’il comprend, demandez à l’enseignant. Continuez à utiliser les signes ou l’appareil de communication prévus pour lui.",
     "nowLabel": "Maintenant",
     "nextLabel": "Ensuite",
-    "nowExample": "Jouer",
-    "nextExample": "Ranger avec un adulte",
+    "nowExample": "Jouer avec les cubes",
+    "nextExample": "Ranger les cubes dans la boîte avec un adulte",
     "sequenceSteps": [
-      "Choisir deux objets, photographies ou symboles que cet enfant reconnaît.",
-      "Montrer et nommer l’activité en cours. Montrer la prochaine étape avant le changement.",
-      "Au moment de la transition, montrer de nouveau le repère et aider à réaliser une action à la portée de l’enfant.",
-      "Indiquer ensemble que l’activité est terminée. Si le programme change, montrer honnêtement ce changement."
+      "Demandez à l’enseignant quelles images ou quels objets l’enfant connaît. Choisissez-en un pour ce qui se passe maintenant et un pour la suite.",
+      "Montrez le premier : « On joue avec les cubes. » Montrez le suivant : « Ensuite, on les mettra ensemble dans la boîte. »",
+      "Au moment de changer d’activité, montrez à nouveau l’image de la suite. Aidez l’enfant à ranger un cube.",
+      "Mettez de côté l’image du jeu terminé, ou rangez son objet, puis montrez l’image ou l’objet suivant. L’adulte peut le faire ; l’enfant n’a pas à le déplacer. Si le programme change, changez l’image et dites ce qui se passera à la place."
     ],
-    "sequenceWarning": "Le support « maintenant/ensuite » donne une information fiable. Ne le transformez pas en « d’abord tu te comportes bien, ensuite tu as droit à la nourriture, aux soins, à la communication ou au réconfort ».",
+    "sequenceWarning": "Les images montrent ce qui va se passer. Ce ne sont pas des récompenses. Ne conditionnez jamais la nourriture, l’eau, l’aide aux toilettes, la communication ou le réconfort à la fin d’une tâche ou à un comportement particulier.",
     "signalCards": [
       {
         "id": "help",
         "label": "Aide",
         "icon": "support",
-        "childExample": "Un geste, un objet, un signe, une image ou un message sur un appareil peut signifier « aide ».",
-        "adultAction": "Repérer la demande et y répondre : « Je peux t’aider. » Ne pas attendre une phrase parfaite ou un pointage précis."
+        "childExample": "Un enfant peut vous tendre un jouet, pointer, faire un son ou utiliser un mot, un signe, une image ou un appareil connu.",
+        "adultAction": "Remarquez sa demande et aidez-le : « Je peux t’aider. » N’attendez pas un mot ou un geste parfait."
       },
       {
         "id": "break",
         "label": "Pause",
         "icon": "pause",
-        "childExample": "Utiliser le moyen familier de l’enfant pour demander une pause.",
-        "adultAction": "Proposer une pause sous surveillance et rester disponible. Si la demande précise ne peut pas être satisfaite en sécurité, la reconnaître et proposer une autre possibilité réalisable."
+        "childExample": "Utilisez sa façon habituelle de demander une pause.",
+        "adultAction": "Proposez une pause en gardant un adulte présent pour surveiller et aider. Si sa demande exacte n’est pas possible ou sûre, dites-le simplement et proposez une aide possible."
       },
       {
         "id": "stop",
         "label": "Stop / non",
         "icon": "voice",
-        "childExample": "Se détourner ou repousser une main peut vouloir dire « pas ça ».",
-        "adultAction": "Interrompre l’activité ou le contact physique proposés lorsque cela ne présente pas de danger, réduire la pression et rester disponible. Les soins nécessaires suivent le plan individuel approuvé ; demander l’aide de personnel formé s’ils ne peuvent pas être assurés en sécurité. Cette fiche n’autorise pas l’usage de la force."
+        "childExample": "Se détourner ou repousser votre main peut vouloir dire « pas ça ».",
+        "adultAction": "Arrêtez ce que vous proposez si cela ne crée pas de danger. Donnez plus d’espace à l’enfant et restez disponible. Si un soin nécessaire est difficile, demandez l’aide de l’enseignant ou d’un collègue formé et suivez le plan de soin. Cette fiche n’autorise pas l’usage de la force."
       }
     ],
-    "spaceTitle": "Aménager une possibilité de retrait au calme avec du soutien",
+    "spaceTitle": "Proposez un endroit plus calme avec un adulte à proximité",
     "spaceSteps": [
-      "Vérifier la visibilité, la disponibilité des adultes, l’accès et les exigences de surveillance de l’école.",
-      "Choisir avec l’enfant et sa famille quelques ressources familières, sans danger pour son âge ; éviter de surcharger l’espace.",
-      "Présenter cet espace pendant un moment serein et montrer qu’on peut y faire une courte visite facultative.",
-      "Le proposer ou réduire les stimulations là où l’enfant se trouve déjà. Ne jamais traîner un enfant, le coincer ni l’enfermer.",
-      "Accompagner le retour lorsque l’enfant peut participer, y compris en observant à côté d’un adulte. Aucun temps imposé, exercice de respiration ni excuse n’est exigé."
+      "Demandez à l’enseignant où l’enfant peut trouver moins de bruit tout en restant visible et aidé par un adulte. Il doit pouvoir entrer et sortir avec son aide habituelle pour se déplacer ; laissez le passage de sortie libre. Prévoyez qui surveille les autres enfants.",
+      "Gardez un espace simple avec quelques objets connus et adaptés à l’âge. Vérifiez l’absence de petites pièces ou d’autres dangers.",
+      "Quand l’enfant est calme et disponible, montrez l’endroit : « Tu peux venir ici avec moi s’il y a trop de bruit. »",
+      "Quand l’enfant est bouleversé, proposez cet endroit. S’il ne veut pas bouger, voyez si vous pouvez réduire le bruit là où il est. Ne le traînez pas, ne le coincez pas et ne l’enfermez pas.",
+      "Aidez l’enfant à participer à nouveau dès qu’il le peut. Regarder près d’un adulte peut être un premier pas. N’exigez pas la fin d’un minuteur, d’un exercice de respiration ou des excuses avant qu’il puisse partir."
     ],
-    "spaceWarning": "Un espace plus calme est une possibilité parmi d’autres, pas une punition, un lieu où envoyer chaque enfant bouleversé ni un substitut au soutien d’un adulte. Les équipements sensoriels spécialisés nécessitent une évaluation adaptée, une formation et un plan convenu.",
-    "planTitle": "Exemple détaillé : la transition vers le rangement pour Leo",
-    "planNote": "Exemple entièrement fictif. Il s’agit d’un plan courant pour faciliter l’accès et la participation, pas d’une évaluation fonctionnelle ni d’un diagnostic.",
+    "spaceWarning": "Un endroit plus calme sert à aider, pas à punir. Restez disponible pour l’enfant. N’utilisez pas de matériel sensoriel spécialisé sans l’accord du professionnel compétent et de l’école sur son utilisation, ni sans la formation nécessaire.",
+    "planTitle": "Exemple rempli : aider Leo au rangement",
+    "planNote": "Cet exemple est inventé. Il montre un petit changement que les adultes peuvent essayer. Il ne nous dit pas avec certitude pourquoi Leo est bouleversé.",
     "planRows": [
       [
-        "Points forts et communication",
-        "Leo aime les constructions et communique en montrant du doigt et par des gestes familiers. Demander à la famille quels repères dans la langue du foyer et quels signes ont du sens pour lui."
+        "Ce que Leo aime et comment il demande",
+        "Leo aime les cubes. Il pointe ou fait souvent des gestes. Demandez à sa famille et à l’enseignant quels mots et signes il connaît."
       ],
       [
-        "Contexte et premiers signaux",
-        "Pendant le rangement, dans un espace encombré, les chaises raclent le sol et plusieurs enfants s’approchent des étagères en même temps. Leo se couvre les oreilles et recule."
+        "Le moment difficile",
+        "Au rangement, les chaises raclent le sol et plusieurs enfants se pressent autour des étagères. Leo se bouche les oreilles et recule."
       ],
       [
-        "Avant",
-        "L’adulte référent montre un repère familier de rangement et propose un panier. Un collègue organise le passage d’un seul petit groupe à la fois aux étagères. Réduire autant que possible le bruit des chaises qui raclent le sol."
+        "Avant le rangement",
+        "Montrez à Leo l’image ou l’objet qu’il connaît pour le rangement. Proposez un panier. Un adulte envoie un petit groupe vers les étagères pendant qu’un autre surveille le reste du groupe. Déplacez les chaises plus doucement si possible."
       ],
       [
-        "Pendant",
-        "Un seul adulte dit : « Il y a du bruit. Nous pouvons attendre ici ensemble. » Proposer un endroit plus calme sous surveillance ou réduire le rassemblement là où se trouve Leo. Ne pas exiger de réponse orale."
+        "Quand Leo est bouleversé",
+        "Laissez un seul adulte dire : « Il y a du bruit. On peut attendre ici ensemble. » Proposez un endroit plus calme avec un adulte à proximité, ou réduisez le nombre d’enfants autour de Leo. Ne l’obligez pas à parler."
       ],
       [
-        "Retour au calme",
-        "Proposer un retour peu exigeant : porter un objet avec un adulte ou observer à proximité. Aucune excuse ni désignation d’une émotion n’est exigée."
+        "Quand il est prêt à revenir",
+        "Proposez un petit pas : porter un objet ensemble ou regarder près d’un adulte. Il n’a pas à s’excuser ni à nommer une émotion avant de revenir."
       ],
       [
-        "Enseigner plus tard",
-        "Montrer avec une marionnette un signal familier de demande d’aide ou de pause et y répondre rapidement. Garder le repère à l’endroit où il sera utilisé et accepter les moyens de communication actuels de Leo."
+        "Ce qu’on essaiera plus tard",
+        "Avec une marionnette, montrez le signal connu de Leo pour demander de l’aide ou une pause. Montrez la réponse de l’adulte. Gardez ce signal disponible au rangement et acceptez les façons dont Leo communique déjà."
       ],
       [
-        "Responsabilités et relais",
-        "Le responsable de classe vérifie le repère ; le collègue désigné prend en charge le groupe. Désigner l’adulte relais et convenir du signal d’appel à l’aide selon les procédures de l’école."
+        "Qui fait quoi",
+        "L’enseignant prévoit qui montre l’image, qui surveille le groupe et qui remplace le premier adulte en son absence. Entraînez-vous à utiliser le signal de l’école pour demander l’aide d’un collègue."
       ],
       [
-        "Si un risque, un problème de santé ou une inquiétude relevant de la protection de l’enfance apparaît",
-        "Faire appel au personnel formé prévu et maintenir la surveillance de l’enfant et du groupe. En cas de danger grave ou de suspicion d’urgence médicale, appliquer immédiatement la procédure d’urgence et de premiers secours. Toute inquiétude relevant de la protection de l’enfance doit suivre la procédure de protection sans attendre un réexamen de routine. Ce plan n’autorise aucune intervention physique."
+        "Si quelqu’un risque d’être blessé ou malade",
+        "Demandez l’aide du personnel formé prévu et continuez à surveiller l’enfant et le groupe. Suivez les étapes de premiers secours ou d’urgence en cas de danger grave ou de maladie sérieuse. Signalez tout de suite une inquiétude pour la sécurité d’un enfant selon les règles de l’école. N’attendez pas une réunion de suivi et n’essayez pas de technique pour immobiliser l’enfant."
       ],
       [
-        "Réexamen",
-        "Après plusieurs transitions ordinaires, se demander si les adultes ont appliqué les changements prévus, si Leo a pu communiquer et s’il était plus à l’aise pour participer. Demander de l’aide plus tôt si le risque ou l’inquiétude augmente."
+        "Vérifier si cela a aidé",
+        "Après quelques rangements ordinaires, demandez : avons-nous utilisé l’image et les petits groupes ? Leo a-t-il pu demander de l’aide et participer plus facilement ? Demandez à sa famille ce qu’elle a remarqué. Demandez de l’aide plus tôt si vous êtes inquiet."
       ]
     ],
-    "observationTitle": "Faits, explications possibles, prochaine action",
+    "observationTitle": "Notez ce que vous avez vu, puis ce que vous pourriez essayer",
     "observationRows": [
       [
-        "Observation",
-        "Six enfants se sont approchés des étagères en même temps pendant le déplacement des chaises. Leo s’est couvert les oreilles et s’est assis près de la table. L’adulte a cessé de poser des questions et a fait avancer le groupe. L’adulte restant à proximité, Leo a montré du doigt l’endroit plus calme."
+        "Ce que nous avons vu et entendu",
+        "Six enfants sont arrivés aux étagères pendant qu’on déplaçait les chaises. Leo s’est bouché les oreilles et s’est assis près d’une table. L’adulte a arrêté de poser des questions et a fait avancer le groupe. Avec l’adulte près de lui, Leo a pointé vers l’endroit plus calme."
       ],
       [
-        "Explications possibles",
-        "Le bruit, le rassemblement ou le manque de clarté sur la prochaine étape ont pu contribuer à la difficulté. Un autre besoin de soins ou de santé est également possible. Cette observation ne permet pas d’établir une cause ni un diagnostic."
+        "Ce qui pourrait rendre ce moment difficile",
+        "Le bruit, le monde ou le fait de ne pas savoir ce qui vient ensuite peuvent compter. Leo peut aussi avoir besoin d’un soin ou être malade. Cet exemple seul ne permet pas de connaître la cause."
       ],
       [
-        "Prochaine action de l’adulte",
-        "Essayer d’échelonner le rangement et d’utiliser un seul repère familier. Interroger la famille sur les gestes de Leo. Vérifier si le changement améliore l’accès, le confort et la participation."
+        "Ce que les adultes vont essayer",
+        "Prévoir un plus petit groupe aux étagères et montrer un repère connu pour le rangement. Demander à la famille ce que veulent dire les gestes de Leo. Observer s’il est plus à l’aise et peut mieux participer."
       ],
       [
-        "Une meilleure question pour faire le point",
-        "Le soutien était-il disponible et utilisé ? L’enfant pouvait-il communiquer et participer ? Une diminution des crises ne suffit pas si l’enfant est désormais en retrait ou exclu."
+        "Ce qu’il faut vérifier",
+        "Les adultes ont-ils apporté l’aide prévue ? Leo a-t-il pu communiquer et jouer ? Moins de pleurs ne suffit pas à montrer que le plan aide s’il passe maintenant plus de temps seul."
       ]
     ],
-    "blankTitle": "Préparer une routine avec votre équipe",
-    "blankNote": "Discutez d’un exemple fictif, ou imprimez cette trame vierge et utilisez uniquement la procédure sécurisée approuvée par votre école pour tout plan concernant un enfant réel. Cette page ne recueille ni n’enregistre d’informations sur les enfants.",
+    "blankTitle": "Préparer un plan simple pour un moment de la journée",
+    "blankNote": "Entraînez-vous avec une situation inventée. Si vous imprimez ce document pour un enfant réel, suivez les règles de l’école pour écrire et conserver les dossiers d’enfants. Cette page ne recueille ni n’enregistre de détails sur un enfant.",
     "blankPrompts": [
-      "Un point fort et un moyen familier de communiquer",
-      "Une routine difficile et un premier signal observable",
-      "Un changement dans l’action de l’adulte ou l’environnement avant cette routine",
-      "Une première phrase courte et une possibilité de soutien sûre",
-      "La surveillance du groupe, le relais et la procédure pour obtenir une aide urgente",
-      "Une compétence à enseigner plus tard et les moyens de la rendre utilisable",
-      "La contribution de l’enfant et de sa famille ; la personne chargée du réexamen et sa date"
+      "Qu’aime l’enfant ? Comment demande-t-il de l’aide ?",
+      "Quel moment de la journée est difficile ? Que voyez-vous l’enfant faire ?",
+      "Que peuvent changer les adultes avant ce moment ?",
+      "Que direz-vous d’abord ? Quelle aide pouvez-vous proposer ?",
+      "Qui surveille le groupe ? Qui appelez-vous pour de l’aide ou une urgence ?",
+      "Quelle petite action pourrez-vous montrer à l’enfant plus tard, quand il sera calme ?",
+      "Que proposent l’enfant et sa famille ? Qui vérifiera le plan, et quand ?"
     ],
-    "resourceTitle": "Choisir un outil officiel dans un but précis",
-    "resourceIntro": "Consultez les ressources avant de les utiliser avec les enfants. Un téléchargement gratuit ne signifie pas que le contenu appartient au domaine public. Les documents externes peuvent contenir des suggestions qui dépassent le cadre de cette formation ; appliquez les précautions et les procédures scolaires approuvées enseignées ici. Ne copiez pas, ne modifiez pas la marque et ne traduisez pas les illustrations protégées.",
+    "resourceTitle": "D’autres idées des organismes sources",
+    "resourceIntro": "Demandez à l’enseignant quelles ressources conviennent à vos enfants. Lisez-les ou regardez-les avant de les utiliser avec un enfant. Certaines concernent de plus jeunes bébés ou des enfants plus âgés : choisissez ce qui convient à votre école. Gardez les règles de sécurité de cette formation. Même gratuit, un document peut être protégé par le droit d’auteur ; utilisez les liens officiels.",
     "resources": [
       {
-        "title": "Baby cues: picture guide",
+        "title": "Baby and toddler cues : à utiliser dès 12 mois",
         "publisher": "Raising Children Network",
         "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-        "use": "Repérer un signal d’invitation à l’échange et un possible signal de pause ; discuter de ce que vous vérifieriez ensuite.",
-        "access": "Page et document imprimable gratuits ; liens vers plusieurs traductions. Complément sur les nourrissons uniquement."
+        "use": "Choisissez un signal adapté à un enfant de 12 mois à moins de 18 mois. Que pourrait-il vouloir dire, et qu’essaieriez-vous ensuite ?",
+        "access": "Guide gratuit plus large sur les 0–18 mois, avec version imprimable et liens vers des traductions. Choisissez seulement les conseils utiles à partir de 12 mois ; les exemples pour les bébés plus jeunes sont des informations de fond, pas des activités de cette formation."
       },
       {
         "title": "Using visuals in the early learning environment",
         "publisher": "NCPMI",
         "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-        "use": "Choisir une routine quotidienne familière et s’entraîner à montrer, utiliser et mettre à jour sa séquence visuelle.",
-        "access": "Page officielle et PDF gratuits, juin 2025. Utiliser la séquence pour faciliter l’accès et la participation, jamais pour priver l’enfant de soins nécessaires."
+        "use": "Choisissez un moment, comme le rangement. Entraînez-vous à montrer la suite, à aider l’enfant à la faire et à changer l’image si le programme change.",
+        "access": "Page officielle et PDF gratuits, juin 2025. Utilisez les images pour aider à comprendre la suite, jamais pour priver l’enfant de soins nécessaires."
       },
       {
         "title": "Having Big Feelings: educator guide",
         "publisher": "Child Mind Institute",
         "url": "https://childmind.org/wp-content/uploads/2024/01/hmtkprek-educator-guide-eng-having-big-feelings.pdf",
-        "use": "Préparer un exercice facultatif pour faire face aux émotions pendant un moment serein, avec des possibilités utilisant les gestes ou la CAA et sans contact physique.",
-        "access": "Guide gratuit de trois pages pour l’enseignement préscolaire ; il ne s’agit ni d’une activité pour nourrissons ni d’un programme clinique."
+        "use": "Demandez à l’enseignant de choisir une idée pour un jeu calme. Montrez comment un enfant pourrait participer sans parler, sans contact physique et sans exercice de respiration.",
+        "access": "Guide gratuit de trois pages pour la maternelle ; choisissez seulement les activités adaptées aux capacités de l’enfant. Ce n’est pas un programme clinique."
       },
       {
         "title": "Executive-function activity guides",
         "publisher": "Harvard Center on the Developing Child",
         "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-        "use": "Choisir un jeu adapté au développement, une version plus simple et un signal permettant à l’enfant de dire stop.",
-        "access": "Guides gratuits par tranche d’âge, publiés initialement en 2014. Les jeux permettent de s’exercer, sans garantir des effets plus larges."
+        "use": "Choisissez un jeu pour un enfant dès 12 mois. Simplifiez-le si besoin. Décidez à quels signes vous verrez qu’il veut arrêter.",
+        "access": "Guides gratuits par âge, publiés à l’origine en 2014. La source couvre aussi les bébés plus jeunes ; choisissez des activités adaptées aux 12 mois et plus pour cette formation. Les jeux permettent de s’entraîner, sans garantir des effets plus larges."
       },
       {
         "title": "It Takes Two: co-regulation",
         "publisher": "ZERO TO THREE",
         "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-        "use": "Comparer un accompagnement du nourrisson fondé sur ses signaux et les soins avec des choix proposés à un tout-petit et soutenus par l’adulte.",
-        "access": "Conseils professionnels gratuits. Les premiers gestes d’auto-apaisement ne signifient pas qu’un nourrisson devrait gérer seul sa détresse."
+        "use": "Comparez l’aide nécessaire à un enfant de 12 mois à moins de 18 mois avec les choix simples qu’un tout-petit plus âgé pourrait utiliser.",
+        "access": "Conseils professionnels gratuits couvrant davantage d’âges. Un début d’autonomie ne veut pas dire qu’un jeune enfant doit affronter seul un moment de détresse ; les exemples pratiques de cette formation commencent à 12 mois."
       },
       {
         "title": "Feeling Faces",
         "publisher": "Conscious Discipline",
         "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-        "use": "Préparer un échange facultatif sur les émotions. Accepter l’incertitude, le souhait de garder certaines choses pour soi et la communication non orale.",
-        "access": "La page officielle et le PDF étaient accessibles gratuitement. Un lien renvoie aux illustrations de marque, qui ne sont pas copiées. Une expression du visage ne prouve pas une émotion."
+        "use": "Avec une image, parlez de ce qu’un personnage d’histoire pourrait ressentir. Acceptez « Je ne sais pas » ou aucune réponse. N’exigez pas qu’un enfant nomme sa propre émotion avant de l’aider.",
+        "access": "La page officielle et le PDF étaient accessibles gratuitement. Les illustrations de la marque sont proposées par lien, sans être copiées. Un visage ne prouve pas une émotion."
       },
       {
         "title": "Visual Daily Schedule",
         "publisher": "Conscious Discipline",
         "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-        "use": "Explorer l’exemple de séquence visible proposé par un programme ; le comparer à l’exemple original « maintenant/ensuite » ci-dessus.",
-        "access": "Un compte gratuit peut être nécessaire. Cette ressource de marque ne constitue pas une preuve indépendante de l’ensemble des affirmations du programme."
+        "use": "Regardez l’exemple d’images montrant les activités de la journée. Comparez-le avec l’exemple simple « maintenant / ensuite » ci-dessus.",
+        "access": "Un compte gratuit peut être nécessaire. Cette ressource de marque ne constitue pas une preuve indépendante de toutes les promesses du programme."
       }
     ]
   },
   "mfe": {
-    "title": "Bann ti zouti. Bann aksion adilt kler.",
-    "intro": "Servi sa bann lexanp orizinal la pou personel pratike ek planifie. Swazir bann mo, obze, sinbol, sign ouswa kominikasion ogmante ek alternativ (AAC) ki zanfan-la deza servi; enn sinbol inprime pa otomatikman ena enn sans pou li. Servi bann lexanp imaziner isi ek gard bann dosie reel dan sistem ki ou lekol finn aprouve.",
-    "ageTitle": "Adapte travay adilt-la, pa zis letiket laz-la",
-    "ageNote": "Sa bann gran group pou planifikasion-la pa bann test bann etap devlopman ni bann diagnoz. Kominikasion, lintere ek kapasite aktiel zanfan-la gid soutien-la. Parti siplemanter pou bann bebe konsern zis personel ki travay dan enn servis kot zot rol otorize inklir swin bebe. Gid 3–6 an inklir bann zanfan sis an ek li bizin adapte pou sak zanfan.",
+    "title": "Ki pou fer. Ki pou dir.",
+    "intro": "Swazir enn lide ki al avek zanfan-la ek routinn-la. Demann ansegnan-la ki bann mo, zimaz, sign ouswa laparey pou kominike zanfan-la deza servi. Pa atann ki enn zanfan konpran enn nouvo zimaz deswit. Servi bann lexanp ki finn invante lor sa paz-la; gard bann vre dosie zanfan dan plas sir ki lekol abitie servi.",
+    "ageTitle": "Bann zanfan diferan laz bizin diferan led",
+    "ageNote": "Sa bann gid-la koumans depi 12 mwa. Bann zanfan pa aprann dan mem vites: get zanfan-la osi, pa zis so laz. Dernie group-la inklir bann zanfan sis an. Swiv plan ki finn dakor pou sak zanfan ek ou rol dan lekol. Sa bann kart-la pa ansegn kouma nouri, lev ouswa fer dormi enn zanfan.",
     "ageCards": [
       {
         "id": "infant-support",
-        "title": "Parti siplemanter pou bebe: depi nesans ziska mwins ki 18 mwa",
-        "adultExpectation": "Donn laplipar soutien pou regilasion. Remark bann nouvo signal ek bann fason bebe-la pe koumans kalme limem, san atann ki li repran li tousel ouswa ki li demann led avek bann mo.",
-        "before": "Aprann bann signal ki lafami rekonet; prevwar bann swin familie ek enn lot adilt pou ranplas ou si bizin. Verifye bann bezwen swin individiel ek evit ki ena tro boukou tapaz ouswa ki plizier dimounn manipil bebe-la anmemtan.",
-        "during": "Reponn vit avek enn lavwa familie ek bann swin adapte. Redwir bann stimilasion anplis. Adapte rekonfor dapre bann signal bebe-la ek swiv bann prosedir swin an sekirite. Swiv bann prosedir aprouve pou manipil bebe-la ek pou so somey an sekirite; zame sekwe enn bebe. Sa kart-la pa ansegn sa bann prosedir-la.",
-        "after": "Retourn dan enn interaksion familie kan so lintere revini. Bann adilt examinn seki finn ede; bebe-la pa bizin enn diskision pou repas seki finn arive.",
-        "script": "« Mo tann twa. Mo la. Anou pran enn ti moman pli trankil. »",
-        "activityTitle": "Reponn ek fer enn poz",
-        "activity": "Pandan enn zwe kot bebe-la santi li alez, reponn enn son ouswa enn mouvman, apre atann. Rekoumanse tanki li anvi; fer enn poz kan so lintere sanze. Pa bizin kontak viziel ni enn kantite tour fixe."
+        "title": "Bann pli tipti: depi 12 mwa ziska avan 18 mwa",
+        "adultExpectation": "Donn boukou led adilt. Zanfan-la kapav avans so lame, montre avek ledwa, pous enn zafer ouswa fer enn son pou dir ou seki li bizin. Pa demann li marse, koze ouswa nom enn lemosion avan ou ed li.",
+        "before": "Demann fami-la ek ansegnan-la ki bann sign zanfan-la abitie vedir. Verifye si li bizin manze, bwar, sanz kous, repo ouswa rekonfor. Gard prosenn aktivite-la sinp ek diminie tapaz anplis.",
+        "during": "Remark sign zanfan-la. Aret bann son ouswa zwe anplis ek propoz enn rekonfor ki li kone. Montre enn ti prosenn letap si li pare. Swiv bann reg lekol pou swen. Pa souk enn zanfan zame ek pa kouver so figir.",
+        "after": "Propoz enn zwe ki li kone ouswa enn aktivite sinp kan zanfan-la montre lintere. Montre enn aksion ek atann. Zanfan-la pa bizin explik seki finn pase. Bann adilt kapav koz lor seki finn ede.",
+        "script": "“Ena tapaz. Mo la.” [Montre enn zwe trankil ki li kone ek atann.]",
+        "activityTitle": "Kopie enn aksion ek atann",
+        "activity": "Kan zanfan-la alez, swiv so lintere dan enn gran zwe ki an sekirite pou so laz. Kopie ouswa nom enn aksion, apre atann enn son, enn sign ouswa enn mouvman. Kontigne si zanfan-la anvi. Arete si li detourn li ouswa li pa alez. Vey zanfan-la ek bann materyel toutlong."
       },
       {
         "id": "toddler-support",
-        "title": "Bann tipti zanfan: 18 mwa ziska mwins ki 3 an",
-        "adultExpectation": "Atann bann preferans for ek enn kontrol bann inpilsion ki ankor varye. Mem si enn zanfan konpran enn limit, sa pa vedir li kapav aplik li regilierman kan li dan detres.",
-        "before": "Montre prosenn letap familie; ofer enn ti swa reel. Redwir letan atann ek prepar enn fason aksesib pou demann led.",
-        "during": "Rekonet so difikilte dan enn fraz kourt ek donn enn led pratik. Gard tou dimounn an sekirite. Si li refiz kontak fizik, res disponib dan enn distans kot li santi li alez.",
-        "after": "Ed zanfan-la retourn zwe. Montre enn sel alternativ itil kan li kapav partisipe; evit enn long explikasion.",
-        "script": "« To ti anvi sa kamion-la. Mo kapav asiz isi. » Plitar, kan li pare: « Mo kapav ed twa. To kapav montre mwa. »",
-        "activityTitle": "Nounours bizin led",
-        "activity": "Servi enn zwe ki adapte ek sir pou so laz ek enn panie pou montre enn signal led familie, apre fer enn aksion ansam. Swiv lide tipti zanfan-la; zame refiz led ziska ki li donn repons korek."
+        "title": "Bann tipti: depi 18 mwa ziska avan 3 an",
+        "adultExpectation": "Atann ki zanfan-la anvi sertin zafer bien for ek ki li bizin led kan bann zafer pa pase kouma li anvi. Konn enn reg pa vedir ki enn tipti zanfan kapav swiv li kan li boulverse.",
+        "before": "Montre seki pou vini apre. Propoz enn ti swa ki ou kapav respekte, par exanp ki panye li pou sarye. Evit fer li atann lontan ek gard enn fason ki li kone pou demann led.",
+        "during": "Servi enn fraz kourt ek ed li an pratik. Gard toulede zanfan an sekirite si ena enn dezakor. Si zanfan-la pa anvi enn kallin, res pre san fors li pou gagn kontak fizik.",
+        "after": "Ed zanfan-la retourn zwe. Pli tar, montre enn aksion itil, par exanp amenn enn zwe ki finn bloke kot enn adilt. Gard explikasion-la kourt.",
+        "script": "“To ti anvi sa kamion-la. Mo kapav asiz isi.” Pli tar: “Mo kapav ede. To kapav montre mwa.”",
+        "activityTitle": "Ed nounours-la",
+        "activity": "Servi enn nounours ek enn panye ki an sekirite pou laz zanfan-la. Montre kouma nounours-la demann led avek enn mo ouswa enn sign ki zanfan-la kone. Ed nounours-la met enn zwe ladan. Les zanfan-la partisipe ouswa gete. Pa refiz led pandan ki ou pe atann zanfan-la kopie sign-la."
       },
       {
         "id": "preschool-support",
-        "title": "Preskoler ek premie lane lekol: 3–6 an",
-        "adultExpectation": "Ankouraz devlopman bann mo pou lemosion, bann plan partaze ek rezolision bann problem ansam. Gard soutien adilt disponib kan li pli difisil pou zanfan-la servi sa bann kapasite-la.",
-        "before": "Pratik enn aksion itil pandan enn zwe kot zanfan-la santi li alez. Anons enn sanzman alavans ek rann bann soutien kominikasion disponib kot bizin zot.",
-        "during": "Redwir bann demann ek bann kestion ki pa neseser. Rekonet difikilte-la, fer enn poz ek ofer enn soutien familie. Swiv bann prosedir sekirite lokal si risk-la ogmante.",
-        "after": "Get vit seki finn ede ek pratik enn prosenn letap. Ed li repar seki finn arive dan enn fason ki li kapav fer, san demann enn exkiz kouma kondisyon pou rezwenn group-la.",
-        "script": "« To ti anvi fini to konstriksion. Nou kapav gard bann pies isi. » Plitar: « Ki ti kapav ed twa kan nou pou ranz bann zafer demin? »",
-        "activityTitle": "De lafin pou enn marionet",
-        "activity": "Enn marionet anvi rant dan enn zwe. Propoz de solision sir avek bann zwe, zes, sinbol ouswa mo. Zanfan kapav zis obzerve; personn pa oblize zwe enn lemosion ouswa rakont enn levennman reel."
+        "title": "Preskoler ek bann premie lane: 3–6 an",
+        "adultExpectation": "Boukou zanfan kapav koz lor bann lemosion ouswa fer enn ti plan kan zot alez. Zot kapav ankor bizin boukou plis led kan zot boulverse.",
+        "before": "Montre enn aksion itil pandan enn zwe. Prepar zanfan-la pou enn sanzman avek bann mo ouswa zimaz ki li kone. Gard bann zimaz, sign ouswa laparey pou demann led kot li bizin zot.",
+        "during": "Poz mwins kestion ek rann prosenn letap-la pli tipti. Dir seki finn arive, atann enn moman ek propoz led ki li kone. Si sitiasion-la vinn danzere, swiv bann letap lekol pou sekirite ek apel led.",
+        "after": "Kan zanfan-la pare, koz enn ti moman lor seki finn ede. Montre enn zafer pou eseye prosenn fwa. Ed li repar seki finn abime, par exanp rekonstrir enn latour ki finn tonbe, san obliz li demann pardon avan li kapav revinn partisipe.",
+        "script": "“To ti anvi fini to konstriksion. Nou kapav gard sa bann pies-la.” Pli tar: “Ki kapav ed twa kan nou ranze dime?”",
+        "activityTitle": "Montre de lafin avek bann marionet",
+        "activity": "Enn marionet anvi rant dan enn zwe. Montre enn fason sir ki li kapav demann led. Invit bann zanfan esey enn lot lafin avek bann zwe, zimaz, sign ouswa mo. Zot kapav zis gete osi. Pa demann zot zwe enn vre levennman ki finn boulvers zot."
       }
     ],
-    "phaseTitle": "Swazir travay ki neseser dan sa moman-la",
-    "phaseNote": "Sa bann desizion-la pou bann adilt; pa bann letap fixe ki tou zanfan bizin swiv. Enn zanfan kapav bizin soutien ankor nenport kan. Enn danze grav, enn ka ki kapav enn irzans medikal ouswa enn konsern lor proteksion zanfan pas avan.",
+    "phaseTitle": "Swazir led ki zanfan-la bizin aster",
+    "phaseNote": "Enn zanfan kapav bizin rekonfor ankor mem si li ti paret alez. Pena enn lord fixe ni enn limit letan. Si enn dimounn an danze, enn zanfan kapav bien malad ouswa ou per ki enn dimounn finn fer li ditor, rod led atraver bann letap lekol pou bann ka irzan ouswa pou proteksion zanfan.",
     "phases": [
       {
         "id": "before",
-        "title": "Avan: fasilit akse",
+        "title": "Avan: rann routinn-la pli fasil",
         "icon": "plan",
         "actions": [
-          "Anons prosenn letap avek enn reper familie.",
-          "Redwir letan atann, lafoul ek bann tapaz ki melanze.",
-          "Pratik enn signal led aksesib pandan enn zwe kot zanfan-la santi li alez."
+          "Montre seki pou vini apre avek enn zafer ki zanfan-la kone.",
+          "Fer mwins zanfan atann ansam; diminie tapaz anplis.",
+          "Kan zanfan-la alez, montre enn fason pou demann led."
         ],
-        "script": "« Apre sa paz-la, nou pou dezene. Mo pou montre twa kot nou pe ale. »"
+        "script": "“Apre sa paz-la, dezene. Mo pou montre twa kot nou pe ale.”"
       },
       {
         "id": "during",
-        "title": "Pandan: sekirite ek lien",
+        "title": "Pandan ki li boulverse: gard sekirite ek ede",
         "icon": "support",
         "actions": [
-          "Verifye bann danze imedia, douler, maladi ek bann bezwen swin irzan.",
-          "Deside kisannla pou vey group-la; enn sel adilt koze.",
-          "Ofer enn sanzman pratik ek enn fraz kourt, apre fer enn poz."
+          "Verifye si ena enn danze, enn douler, enn maladi ouswa enn swen ki bizin fer vit.",
+          "Demann enn koleg vey group-la si ou bizin res avek zanfan-la. Les enn sel adilt koze.",
+          "Fer enn sanzman itil, servi enn fraz kourt ek atann."
         ],
-        "script": "« Ena tapaz. Mo kapav res pre. »"
+        "script": "“Ena tapaz. Mo kapav res pre.”"
       },
       {
         "id": "recovery",
-        "title": "Kan li pe repran li: rekonfor ek retour dan group",
+        "title": "Kan li pe santi li pli alez: ed li revinn partisipe",
         "icon": "listen",
         "actions": [
-          "Gard soutien ek bann swin neseser disponib.",
-          "Ofer enn fason pou obzerve ouswa rezwenn group-la san demann boukou zefor.",
-          "Pa exiz enn exkiz, enn mo pou nom enn lemosion ouswa enn explikasion avan li retourne."
+          "Kontign propoz rekonfor, swen ek led adilt.",
+          "Propoz enn ti premie letap, par exanp get lezot akote ou.",
+          "Pa demann enn pardon, enn explikasion ouswa enn mo pou enn lemosion avan zanfan-la kapav retourne."
         ],
-        "script": "« To kapav gete akote mwa. Ena plas kan to anvi vini. »"
+        "script": "“To kapav gete akote mwa. Ena plas kan to anvi vini.”"
       },
       {
         "id": "later",
-        "title": "Plitar: ansegne, repare, regete",
+        "title": "Pli tar: montre seki pou eseye prosenn fwa",
         "icon": "repeat",
         "actions": [
-          "Pratik enn alternativ itil kan zanfan-la kapav partisipe.",
-          "Ed li fer enn ti aksion reparasion ki ena sans; pran swin separeman bann dimounn ki finn blese.",
-          "Sanz enn aksion adilt ouswa enn eleman lanvironnman ek verifye si sa finn ede."
+          "Kan zanfan-la kapav partisipe, pratik enn aksion itil.",
+          "Ed li repar ditor dan enn ti fason. Okip enn zanfan ki finn blese ouswa gagn per separeman.",
+          "Avek ansegnan-la, swazir enn sanzman ki bann adilt pou fer ek gete si li ede."
         ],
-        "script": "« Prosenn fwa mo kapav ed twa. Eski nou pratik kouma montre ki bizin led avek marionet-la? »"
+        "script": "“Prosenn fwa mo kapav ede. Nou montre marionet-la kouma demann led?”"
       }
     ],
-    "visualTitle": "Bann lexanp kominikasion orizinal",
-    "visualNote": "Entrodwir sa bann lide-la kan bann zanfan santi zot alez. Adapte zot avek lekip ki soutenir kominikasion zanfan-la ek so lafami. Sa bann lexanp-la pa enn evaliasion AAC ni bann materyel enn program avek enn mark.",
+    "visualTitle": "Montre zanfan-la seki pou vini apre",
+    "visualNote": "Esey bann zimaz ouswa lobze kan zanfan-la alez. Servi bann ki li kone. Si ou pa sir ki li konpran, demann ansegnan-la. Kontign servi bann sign ouswa laparey pou kominike ki finn dakor pou li.",
     "nowLabel": "Aster",
     "nextLabel": "Apre",
-    "nowExample": "Zwe",
-    "nextExample": "Ranz bann zafer avek enn adilt",
+    "nowExample": "Pe zwe avek bann blok",
+    "nextExample": "Met bann blok dan bwat avek enn adilt",
     "sequenceSteps": [
-      "Swazir de obze, foto ouswa sinbol ki sa zanfan-la rekonet.",
-      "Montre ek dir aktivite aktiel-la. Montre prosenn letap avan sanzman-la.",
-      "Kan moman tranzision arive, montre ankor ek ed li fer enn ti aksion ki li kapav fer.",
-      "Indike ansam ki aktivite-la fini. Si plan-la sanze, montre sanzman-la onetman."
+      "Demann ansegnan-la ki bann zimaz ouswa lobze zanfan-la kone. Swazir enn pou seki pe pase aster ek enn pou seki pou vini apre.",
+      "Montre premie-la: “Nou pe zwe avek bann blok.” Montre prosenn-la: “Apre nou pou met zot dan bwat ansam.”",
+      "Kan ler pou sanze arive, montre prosenn zimaz-la ankor. Ed zanfan-la ramas enn blok.",
+      "Met zimaz zwe ki finn fini la akote, ouswa ramas so lobze, apre montre prosenn zimaz ouswa lobze. Adilt-la kapav fer sa; zanfan-la pa oblize bouz li. Si plan-la sanze, sanz zimaz-la ek dir seki pou arive dan so plas."
     ],
-    "sequenceWarning": "Aster/apre donn bann linformasion ki vre. Pa servi li pou dir « dabor konport twa bien, apre to gagn manze, swin, kominikasion ouswa rekonfor ».",
+    "sequenceWarning": "Bann zimaz-la montre zanfan-la seki pou arive. Zot pa bann rekonpans. Pa fer manze, delo, led pou al twalet, kominikasion ouswa rekonfor depann lor fini enn travay ouswa enn sertin konportman.",
     "signalCards": [
       {
         "id": "help",
         "label": "Led",
         "icon": "support",
-        "childExample": "Enn zes, enn obze, enn sign, enn zimaz ouswa enn mesaz lor enn aparey kapav vedir « ed mwa ».",
-        "adultAction": "Remark li ek reponn: « Mo kapav ed twa. » Pa atann enn fraz parfe ouswa ki li montre avek so ledwa dan enn fason parfe."
+        "childExample": "Enn zanfan kapav donn ou enn zwe, montre avek ledwa, fer enn son ouswa servi enn mo, sign, zimaz ouswa laparey ki li kone.",
+        "adultAction": "Remark so demann ek ede: “Mo kapav ede.” Pa atann enn mo ouswa enn sign parfe."
       },
       {
         "id": "break",
-        "label": "Poz",
+        "label": "Enn poz",
         "icon": "pause",
-        "childExample": "Servi fason familie zanfan-la pou demann enn poz.",
-        "adultAction": "Ofer enn poz anba sirveyans ek res disponib. Si demann exak-la pa kapav realize an sekirite, rekonet li ek propoz enn alternativ ki posib."
+        "childExample": "Servi fason ki zanfan-la abitie demann enn poz.",
+        "adultAction": "Propoz enn poz pandan ki enn adilt kontign vey ek ede. Si demann presi-la pa sir ouswa pa posib, dir li sa dan enn fason sinp ek propoz enn zafer ki ou kapav fer."
       },
       {
         "id": "stop",
-        "label": "Aret / non",
+        "label": "Arete / non",
         "icon": "voice",
-        "childExample": "Tourn ledo ouswa repous enn lame kapav vedir « pa sa ».",
-        "adultAction": "Fer enn poz dan aktivite ouswa kontak fizik ki ou pe propoze kan sa sir, redwir presion ek res disponib. Bann swin neseser swiv plan individiel aprouve; demann led personel forme si pa kapav donn sa bann swin-la an sekirite. Sa kart-la pa otoriz servi lafors."
+        "childExample": "Kan zanfan-la detourn li ouswa pous ou lame, sa kapav vedir “pa sa”.",
+        "adultAction": "Aret seki ou pe propoze si li sir pou fer sa. Donn zanfan-la plis lespas ek res disponib. Si li difisil pou donn li enn swen neseser, demann ansegnan-la ouswa enn koleg forme led ek swiv plan swen-la. Sa kart-la pa donn lotorizasion pou servi lafors."
       }
     ],
-    "spaceTitle": "Prepar enn opsion pli trankil ki donn soutien",
+    "spaceTitle": "Propoz enn plas pli trankil avek enn adilt pre",
     "spaceSteps": [
-      "Verifye ki bann adilt kapav trouv zanfan-la, ki enn adilt disponib, ki akse posib ek ki bann regleman sirveyans lekol respekte.",
-      "Swazir avek zanfan-la ek so lafami de-trwa resours familie ki adapte ek sir pou so laz; pa ankonbre lespas-la.",
-      "Prezante li dan enn moman trankil ek montre enn ti vizit ki reste opsionel.",
-      "Propoz li ouswa redwir bann stimilasion kot zanfan-la deza ete. Zame trenn enn zanfan, blok li dan enn kwin ouswa anferm li.",
-      "Soutenir so retour kan li kapav partisipe, mem si li zis obzerve akote enn adilt. Pena okenn letan fixe, seri respirasion ouswa exkiz obligatwar."
+      "Demann ansegnan-la kot enn zanfan kapav gagn mwins tapaz pandan ki enn adilt kontign trouv ek ed li. Zanfan-la bizin kapav rantre ek sorti avek led ki li abitie servi pou bouze; pa blok sime sorti-la. Met zot dakor lor kisannla vey lezot zanfan.",
+      "Gard plas-la sinp. Servi de-trwa zafer ki zanfan-la kone ek ki an sekirite pou so laz. Verifye ki pena bann ti pies ouswa lezot zafer ki kapav bles li.",
+      "Kan zanfan-la alez, montre li plas-la: “To kapav vinn isi avek mwa si ena tro boukou tapaz.”",
+      "Kan zanfan-la boulverse, propoz plas-la. Si li pa anvi bouze, gete si ou kapav diminie tapaz kot li ete. Pa trenn li, kwins li ouswa anferm li.",
+      "Ed zanfan-la rant dan aktivite-la ankor kan li kapav. Get lezot akote enn adilt kapav enn premie letap. Pa obliz li atann enn timer fini, fer enn lexersis respirasion ouswa demann pardon avan li kapav ale."
     ],
-    "spaceWarning": "Enn lespas pli trankil enn opsion; li pa enn pinision, enn plas kot avoy tou zanfan ki boulverse ouswa enn ranplasman pou soutien adilt. Lekipman sensoriel spesialize bizin enn evaliasion adapte, enn formasion ek enn plan ki finn dakor.",
-    "planTitle": "Lexanp explike: tranzision Leo kan bizin ranz bann zafer",
-    "planNote": "Antierman imaziner. Sa enn plan ordiner pou fasilit akse ek partisipasion; li pa enn evaliasion fonksionel ni enn diagnoz.",
+    "spaceWarning": "Enn plas pli trankil se enn fason pou ede, pa enn pinision. Res disponib pou zanfan-la. Pa servi bann lekipman spesial pou bann sansasion amwin ki bon profesionel-la ek lekol finn dakor kouma servi zot ek ou finn gagn formasion neseser.",
+    "planTitle": "Enn lexanp plan: ed Leo kan ler pou ranze",
+    "planNote": "Sa lexanp-la finn invante. Li montre enn ti sanzman ki bann adilt kapav eseye. Li pa dir nou avek sertitid kifer Leo boulverse.",
     "planRows": [
       [
-        "Bann pwin for ek kominikasion",
-        "Leo kontan konstrir ek li kominike avek so ledwa ek bann zes familie. Demann lafami-la ki bann reper ek sign dan lang lakaz ena sans pou li."
+        "Seki Leo kontan ek kouma li demande",
+        "Leo kontan bann blok. Li souvan montre avek ledwa ouswa servi bann sign. Demann so fami ek so ansegnan ki bann mo ek sign li kone."
       ],
       [
-        "Konteks ek bann premie signal",
-        "Kan bann zanfan pe ranz zot bann zafer dan lafoul, bann sez fer tapaz kan zot bouze ek plizier zanfan al ver bann letazer ansam. Leo kouver so zorey ek rekile."
+        "Moman difisil-la",
+        "Kan ler pou ranze, bann sez fer tapaz ek plizier zanfan rasanble pre bann letazer. Leo kouver so zorey ek rekile."
       ],
       [
-        "Avan",
-        "Adilt responsab-la montre enn reper familie pou ranz bann zafer ek ofer enn panie. Enn koleg organiz enn sel ti group al kot bann letazer alafwa. Redwir tapaz bann sez ki frot ater kan sa posib."
+        "Avan ler pou ranze",
+        "Montre Leo zimaz ouswa lobze ki li kone pou ler ranze. Propoz enn panye. Enn adilt anvway enn ti group kot bann letazer pandan ki enn lot vey lezot. Bouz bann sez avek mwins tapaz si posib."
       ],
       [
-        "Pandan",
-        "Enn adilt dir: « Ena tapaz. Nou kapav atann isi ansam. » Ofer enn plas pli trankil anba sirveyans ouswa redwir lafoul kot Leo ete. Pa exiz enn repons avek bann mo."
+        "Kan Leo boulverse",
+        "Les enn sel adilt dir: “Ena tapaz. Nou kapav atann isi ansam.” Propoz enn plas pli trankil avek enn adilt pre, ouswa fer mwins dimounn rasanble kot Leo ete. Pa obliz li koze."
       ],
       [
-        "Kan li pe repran li",
-        "Ofer enn retour ki pa demann boukou zefor: sarye enn zafer avek enn adilt ouswa obzerve depi enn plas pre. Pena exkiz ni mo pou nom enn lemosion ki obligatwar."
+        "Kan li pare pou revinn partisipe",
+        "Propoz enn ti letap: sarye enn lobze ansam, ouswa gete akote enn adilt. Li pa bizin demann pardon ouswa nom enn lemosion avan."
       ],
       [
-        "Ansegne plitar",
-        "Montre enn signal familie pou led/poz avek enn marionet ek reponn vit. Gard reper-la kot bizin servi li ek aksepte fason Leo deza kominike."
+        "Seki pou pratike pli tar",
+        "Servi enn marionet pou montre sign led ouswa poz ki Leo kone. Montre adilt-la reponn. Gard sa fason pou demande la disponib kan ler ranze ek aksepte bann fason ki Leo deza servi pou kominike."
       ],
       [
-        "Kisannla ek kisannla pou ranplase",
-        "Responsab klas-la verifye reper-la; koleg ki finn dezigne vey group-la. Dapre bann prosedir lekol, met zot dakor lor adilt reel ki pou ranplase ek signal pou demann led."
+        "Kisannla fer ki zafer",
+        "Ansegnan-la met zot dakor lor kisannla montre zimaz-la, kisannla vey group-la ek kisannla kapav ede si premie adilt-la pa la. Pratik sign lekol pou demann enn koleg led."
       ],
       [
-        "Si bann konsern lor risk, lasante ouswa proteksion zanfan aparet",
-        "Apel soutien forme ki finn prevwar ek kontign vey zanfan-la ek group-la. Enn danze grav ouswa enn ka ki kapav enn irzans medikal bizin swiv prosedir irzans/premie sekour imedia. Bann konsern lor proteksion zanfan swiv prosedir proteksion zanfan san atann enn revizion routinn. Sa plan-la pa otoriz enn intervansion fizik."
+        "Si enn dimounn kapav blese ouswa malad",
+        "Gagn led enn dimounn forme ki finn deziye ek kontign vey zanfan-la ek group-la. Swiv bann letap premie sekour ouswa ka irzan pou enn danze grav ouswa enn maladi grav. Signal enn inkietid lor sekirite zanfan deswit atraver kontak lekol. Pa atann enn revizion plan pli tar ek pa esey enn teknik pou tini zanfan-la."
       ],
       [
-        "Reget plan-la",
-        "Apre plizier tranzision ordiner, demann si bann adilt finn fer bann sanzman prevwar, si Leo finn kapav kominike ek si li finn partisip avek plis konfor. Demann led pli boner si risk ouswa konsern-la ogmante."
+        "Verifye si sa finn ede",
+        "Apre de-trwa moman ranze ordiner, demande: Eski nou finn servi zimaz-la ek bann pli ti group? Eski Leo ti kapav demann led ek partisipe pli alez? Demann so fami seki zot finn remarke. Rod led pli boner si ou trakase."
       ]
     ],
-    "observationTitle": "Bann fe, bann explikasion posib, prosenn aksion",
+    "observationTitle": "Ekrir seki ou finn trouve, apre seki ou kapav eseye",
     "observationRows": [
       [
-        "Obzervasion",
-        "Sis zanfan finn al kot bann letazer ansam pandan ki bann sez ti pe bouze. Leo finn kouver so zorey ek asiz akote latab. Adilt-la finn aret poz bann kestion ek finn fer group-la avanse. Avek adilt-la pre ar li, Leo finn montre plas pli trankil-la avek so ledwa."
+        "Seki nou finn trouve ek tande",
+        "Sis zanfan finn ariv kot bann letazer pandan ki bann sez ti pe bouze. Leo finn kouver so zorey ek asiz pre enn latab. Adilt-la finn aret poz bann kestion ek finn fer group-la avanse. Avek adilt-la pre, Leo finn montre plas pli trankil-la avek so ledwa."
       ],
       [
-        "Bann explikasion posib",
-        "Tapaz, lafoul ouswa enn prosenn letap ki pa kler kapav finn kontribie. Enn lot bezwen swin ouswa lasante osi posib. Sa obzervasion-la pa etabli enn koz ouswa enn diagnoz."
+        "Seki kapav pe rann sa difisil",
+        "Tapaz, lafoul ouswa pa kone ki pou vini apre kapav ena enn lefe. Leo kapav osi bizin enn swen ouswa li kapav malad. Sa enn sel lexanp-la pa dir nou lakoz."
       ],
       [
-        "Prosenn aksion adilt",
-        "Eseye fer bann zanfan ranz zot bann zafer par ti group ek servi enn reper familie. Demann lafami-la lor bann zes Leo. Verifye si sanzman-la amelior akse, konfor ek partisipasion."
+        "Seki bann adilt pou eseye",
+        "Fer enn pli ti group kot bann letazer ek montre enn sign ki li kone pou ler ranze. Demann fami-la ki bann sign Leo vedir. Gete si li pli alez ek li kapav partisipe."
       ],
       [
-        "Enn pli bon kestion pou reget plan-la",
-        "Eski soutien-la ti disponib ek finn servi? Eski zanfan-la ti kapav kominike ek partisipe? Mwins kriz tousel pa ase si aster zanfan-la pe repliye lor limem ouswa pe exkli."
+        "Seki pou verifye",
+        "Eski bann adilt finn donn led ki zot ti prevwar? Eski Leo ti kapav kominike ek zwe? Mwins larm tousel pa prouve ki plan-la ede si aster li pas plis letan tousel."
       ]
     ],
-    "blankTitle": "Planifie enn routinn avek ou lekip",
-    "blankNote": "Diskit enn lexanp imaziner, ouswa inprim sa gid vid la ek servi zis prosesis sekirize ki ou lekol finn aprouve pou enn plan ki konsern enn vre zanfan. Sa paz-la pa kolekte ni anrezistre bann linformasion lor zanfan.",
+    "blankTitle": "Fer enn plan sinp pou enn routinn",
+    "blankNote": "Pratike avek enn lexanp ki finn invante. Si ou inprim sa pou enn vre zanfan, swiv bann reg lekol pou ekrir ek gard bann dosie zanfan. Sa paz-la pa kolekte ni anrezistre detay enn zanfan.",
     "blankPrompts": [
-      "Enn pwin for ek enn fason familie pou kominike",
-      "Enn routinn difisil ek enn premie signal ki ou kapav obzerve",
-      "Enn sanzman dan aksion adilt ouswa lanvironnman avan sa",
-      "Enn premie fraz kourt ek enn opsion soutien sir",
-      "Sirveyans group-la, ranplasman ek fason pou gagn led irzan",
-      "Enn kapasite pou ansegne plitar ek kouma rann li aksesib",
-      "Kouma zanfan-la/lafami-la pou kontribie; kisannla pou reget plan-la ek kan"
+      "Ki zanfan-la kontan? Kouma li demann led?",
+      "Ki moman lazourne difisil? Ki ou trouv zanfan-la fer?",
+      "Ki bann adilt kapav sanze avan sa moman-la?",
+      "Ki ou pou dir an premie? Ki led ou kapav propoze?",
+      "Kisannla vey group-la? Kisannla ou apele pou led ouswa enn ka irzan?",
+      "Ki ti zafer ou kapav montre zanfan-la pli tar, kan li alez?",
+      "Ki zanfan-la ek so fami propoze? Kisannla pou verifye plan-la, ek kan?"
     ],
-    "resourceTitle": "Swazir enn zouti ofisiel pou enn lobzektif kler",
-    "resourceIntro": "Get bann resours avan ou servi zot avek bann zanfan. Kapav telecharg enn resours gratis pa vedir li dan domenn piblik. Bann materyel exteryer kapav ena bann propozision ki andeor limit sa formasion-la; servi bann prekosision ek bann prosedir lekol aprouve ki finn ansegne isi. Pa kopie, met enn lot mark ouswa tradir bann ilistrasion proteze.",
+    "resourceTitle": "Plis lide bann lorganizasion ki nou finn servi kouma sours",
+    "resourceIntro": "Demann ansegnan-la ki resours al avek ou bann zanfan. Lir ouswa get zot avan ou servi zot avek enn zanfan. Sertin koz lor bann bebe pli zenn ouswa bann zanfan pli gran: swazir bann lexanp ki al avek ou lekol. Gard bann reg sekirite sa formasion-la. Bann telechargman gratis kapav ankor ena drwa doter; servi bann lien ofisiel.",
     "resources": [
       {
-        "title": "Baby cues: picture guide",
+        "title": "Bann sign bebe ek tipti zanfan: servi depi 12 mwa",
         "publisher": "Raising Children Network",
         "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-        "use": "Obzerv enn signal ki invit interaksion ek enn signal ki kapav demann enn poz; diskit seki ou ti pou verifye apre.",
-        "access": "Paz ek version pou inprime gratis; bann lien ver plizier tradiksion disponib. Zis pou parti siplemanter pou bebe."
+        "use": "Get enn sign ki al avek enn zanfan depi 12 mwa ziska avan 18 mwa. Ki li kapav vedir, ek ki ou ti pou eseye apre?",
+        "access": "Gid ek dokiman inprimab gratis ki kouver 0–18 mwa, avek bann lien ver bann tradiksion. Swazir zis bann konsey ki al avek 12 mwa ouswa plis; bann lexanp bebe pli zenn se bann linformasion anplis, pa bann aktivite sa formasion-la."
       },
       {
         "title": "Using visuals in the early learning environment",
         "publisher": "NCPMI",
         "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-        "use": "Swazir enn routinn toulezour familie ek pratik kouma montre, servi ek met azour so sekans viziel.",
-        "access": "Paz ofisiel ek PDF gratis, Zin 2025. Servi sekans-la pou fasilit akse, zame pou refiz bann swin neseser."
+        "use": "Swazir enn routinn, par exanp ler ranze. Pratik montre seki pou vini apre, ed zanfan-la fer li ek sanz zimaz-la si plan-la sanze.",
+        "access": "Paz ofisiel ek PDF gratis, Zin 2025. Servi bann zimaz pou ed zanfan-la partisipe, zame pou refiz enn swen neseser."
       },
       {
         "title": "Having Big Feelings: educator guide",
         "publisher": "Child Mind Institute",
         "url": "https://childmind.org/wp-content/uploads/2024/01/hmtkprek-educator-guide-eng-having-big-feelings.pdf",
-        "use": "Planifie enn pratik opsionel pou fer fas avek bann lemosion dan enn moman trankil, avek bann alternativ ki servi zes/AAC ek ki pa demann kontak fizik.",
-        "access": "Gid gratis trwa paz pou lansegnman preskoler; li pa enn aktivite pou bebe ni enn program klinik."
+        "use": "Demann ansegnan-la swazir enn lide pou enn zwe kan zanfan-la alez. Montre kouma enn zanfan kapav partisipe san koze, san kontak fizik ek san fer enn lexersis respirasion.",
+        "access": "Gid gratis trwa paz pou preskoler; servi zis bann aktivite ki al avek seki zanfan-la kapav fer. Li pa enn program swen medikal."
       },
       {
         "title": "Executive-function activity guides",
         "publisher": "Harvard Center on the Developing Child",
         "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-        "use": "Swazir enn zwe adapte avek devlopman zanfan-la, enn version pli fasil ek enn signal ki zanfan-la kapav servi pou arete.",
-        "access": "Bann gid gratis par group laz, pibliye pou premie fwa an 2014. Bann zwe donn lokazion pratike; zot pa garanti bann lefe pli larz."
+        "use": "Swazir enn zwe pou enn zanfan depi 12 mwa. Rann li pli fasil si bizin. Deside ki sign pou montre ou ki zanfan-la anvi arete.",
+        "access": "Bann gid gratis par laz, premie piblikasion an 2014. Sours-la inklir bann bebe pli zenn; pou sa formasion-la, swazir bann aktivite adapte pou 12 mwa ouswa plis. Bann zwe donn enn lokazion pratike; zot pa garanti lezot progre."
       },
       {
         "title": "It Takes Two: co-regulation",
         "publisher": "ZERO TO THREE",
         "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-        "use": "Konpar enn soutien pou bebe baze lor so bann signal ek bann swin avek bann swa enn tipti zanfan ki gagn soutien enn adilt.",
-        "access": "Gidans profesionel gratis. Kan enn bebe koumans kalme limem, sa pa vedir li bizin zer so detres tousel."
+        "use": "Konpar led ki enn zanfan depi 12 mwa ziska avan 18 mwa bizin avek bann ti swa ki enn tipti zanfan pli gran kapav fer.",
+        "access": "Bann konsey gratis pou personel, ki kouver enn pli gran kantite laz. Mem kan enn tipti zanfan koumans fer bann zafer tousel, sa pa vedir ki li bizin fer fas avek enn moman difisil tousel. Bann lexanp pratik sa formasion-la koumans depi 12 mwa."
       },
       {
         "title": "Feeling Faces",
         "publisher": "Conscious Discipline",
         "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-        "use": "Prepar enn konversasion opsionel lor bann lemosion. Aksepte linsirtitid, respekte lavi prive ek permet kominikasion san bann mo.",
-        "access": "Paz ofisiel ek PDF ti aksesib gratis. Bann ilistrasion mark-la aksesib par lien; zot pa finn kopie. Enn figir pa prouv enn lemosion."
+        "use": "Servi enn zimaz pou koz lor seki enn personaz dan enn zistwar kapav santi. Aksepte “Mo pa kone” ouswa okenn repons. Pa demann enn zanfan nom so prop lemosion avan ou ed li.",
+        "access": "Paz ofisiel ek PDF ti aksesib gratis. Nou donn enn lien ver bann zimaz sa mark-la, nou pa finn kopie zot. Enn figir pa prouve ki lemosion enn dimounn pe santi."
       },
       {
         "title": "Visual Daily Schedule",
         "publisher": "Conscious Discipline",
         "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-        "use": "Examinn lexanp enn sekans vizib dan enn program; konpar li avek lexanp orizinal aster/apre lao.",
-        "access": "Kapav bizin enn kont gratis. Sa resours avek enn mark la pa enn prev indepandan pou tou bann deklarasion program-la."
+        "use": "Get lexanp bann zimaz ki montre bann aktivite lazourne. Konpar li avek lexanp sinp aster/apre lao.",
+        "access": "Kapav bizin enn kont gratis. Sa resours enn mark presi la pa enn prev indepandan pou tou bann rezilta ki program-la dir li amene."
       }
     ]
   }

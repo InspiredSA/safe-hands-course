@@ -1,212 +1,212 @@
 {
   "meta": [
     {
-      "title": "Commencer par créer le lien",
-      "sub": "Adapter le soutien attentif aux nourrissons, aux tout-petits et aux enfants de 3 à 6 ans ; choisir le rôle de l’adulte avant, pendant et après la détresse.",
+      "title": "Commencer par le lien avec l’enfant",
+      "sub": "Aider les enfants de 12 mois à 6 ans avant, pendant et après une émotion difficile.",
       "time": 10
     },
     {
-      "title": "Rendre la journée plus facile à vivre",
-      "sub": "Montrer un emploi du temps qui a du sens, modifier une exigence réelle de transition et présenter une possibilité de soutien sous surveillance.",
+      "title": "Faciliter la journée",
+      "sub": "Montrer la suite, faciliter les moments animés et proposer un endroit plus calme avec l’aide d’un adulte.",
       "time": 10
     },
     {
-      "title": "Intervenir avant que la détresse augmente",
-      "sub": "Répondre brièvement, respecter le refus du contact ou des outils et faire en sorte que les demandes d’aide ou de pause entraînent une action de l’adulte.",
+      "title": "Aider avant que la difficulté grandisse",
+      "sub": "Remarquer le besoin d’aide, respecter le refus de contact et répondre aux demandes d’aide ou de pause.",
       "time": 10
     },
     {
-      "title": "Assurer la sécurité de tous, puis renouer le lien",
-      "sub": "Répéter un relais sûr entre adultes, préserver les soins et la surveillance, et distinguer le retour au calme des apprentissages ultérieurs.",
+      "title": "Protéger chacun, puis reprendre le lien",
+      "sub": "Savoir quand demander une aide urgente, maintenir la surveillance et réconforter après le danger.",
       "time": 10
     },
     {
-      "title": "Enseigner des compétences dans les jeux du quotidien",
-      "sub": "Montrer une compétence accessible, soutenir son utilisation dans une vraie routine et adapter le jeu aux signaux de l’enfant.",
+      "title": "Apprendre par les jeux du quotidien",
+      "sub": "Montrer une action utile dans le jeu, aider l’enfant à l’utiliser dans la journée et arrêter si le jeu devient désagréable.",
       "time": 10
     },
     {
-      "title": "Construire le plan ensemble",
-      "sub": "Utiliser une observation renseignée et le plan détaillé de rangement de Leo pour répartir les actions des adultes, examiner l’accès et demander l’aide appropriée.",
+      "title": "Préparer le plan ensemble",
+      "sub": "Utiliser des observations claires et ce que sait la famille pour prévoir ce que les adultes essaieront et quand demander plus d’aide.",
       "time": 10
     }
   ],
   "practice": [
     {
-      "q": "Exemple fictif : Imani, huit mois, tend les bras vers un éducateur familier, puis se détourne et s’agite lorsque deux adultes parlent et qu’un jouet musical se met en marche. Quelle réponse correspond le mieux à ses capacités actuelles ?",
+      "q": "Imani, quatorze mois, tend les bras vers un adulte connu. Quand deux adultes parlent en même temps et qu’un jouet musical démarre, elle se détourne, le repousse et s’agite. Elle utilise surtout des gestes et des sons. Que doit faire l’adulte ?",
       "o": [
-        "Proposer un autre jouet intéressant tout en poursuivant la chanson familière.",
-        "Interrompre le jouet et les conversations qui se superposent, rester attentif avec un réconfort familier et vérifier les besoins de soins et les signaux.",
-        "Présenter une image d’aide et inviter Imani à la montrer avant de décider quoi faire."
+        "Proposer un autre jouet et continuer la chanson connue.",
+        "Arrêter le jouet et les paroles supplémentaires, offrir un réconfort connu et vérifier les soins ou l’aide nécessaires.",
+        "Montrer une nouvelle image d’aide et lui demander de pointer avant de décider quoi faire."
       ],
       "a": 1,
-      "why": "L’adulte adapte les stimulations et vérifie les besoins de soins au lieu d’attendre une démonstration de capacité d’apaisement du nourrisson. Une tête détournée peut inviter à une pause ; ce n’est ni un diagnostic ni la preuve que l’interaction n’est pas bienvenue. Comparez avec Amira : toutes deux ont besoin d’une aide attentive et adaptée, mais Imani n’a besoin ni d’une explication orale ni d’une leçon de résolution de problème. Suivez les procédures approuvées de soins aux nourrissons."
+      "why": "Imani montre déjà qu’elle a peut-être besoin d’une pause. Réduisez le bruit, proposez un réconfort connu et vérifiez les besoins de soin. Observez avant de montrer une petite étape suivante. Comme Amira, elle a besoin d’aide ; elle n’a pas à expliquer une émotion ni à résoudre un problème."
     },
     {
-      "q": "Exemple fictif : Leo, trois ans, se couvre les oreilles tandis que les chaises raclent le sol et que les enfants se regroupent autour des étagères de rangement. Il recule et communique surtout par gestes. Quel premier aménagement répond le plus directement aux obstacles observés ?",
+      "q": "Leo, trois ans, se bouche les oreilles quand les chaises raclent le sol et que les enfants se pressent devant l’étagère de rangement. Il recule et utilise surtout des gestes. Qu’est-ce qui l’aiderait d’abord ?",
       "o": [
-        "Proposer une image de respiration et l’expliquer doucement pendant que le groupe continue sans changement.",
-        "L’emmener devant un affichage des émotions pour qu’il choisisse un mot avant de préparer la transition.",
-        "Réduire le bruit et le rassemblement, proposer un endroit plus calme sous surveillance et utiliser son geste ou repère familier pour une véritable prochaine étape."
+        "Expliquer une image de respiration sans rien changer dans la salle.",
+        "L’emmener devant un affichage d’émotions pour choisir un mot avant de l’aider.",
+        "Réduire le bruit et le nombre d’enfants autour, rester avec lui dans un endroit plus calme et utiliser un geste ou un objet connus pour montrer une étape suivante."
       ],
       "a": 2,
-      "why": "Cela modifie l’exigence tout en gardant la communication et le soutien accessibles. Un outil seul laisse le rassemblement et le bruit inchangés. Ensuite, montrez le repère pendant une transition plus facile, interrogez la famille sur les gestes et consignez la mise en œuvre par les adultes ainsi que le confort et la participation de Leo."
+      "why": "Moins d’enfants devant l’étagère et moins de bruit de chaises changent la situation difficile. Une image seule ne le fait pas. Plus tard, vérifiez les gestes qu’utilise Leo, si le personnel a fait les changements et s’il a pu passer à l’activité suivante sans difficulté."
     },
     {
-      "q": "Exemple fictif : à son arrivée, Priya, deux ans, trouve un adulte différent. Elle s’accroche à l’adulte qui l’accompagne, se détourne et repousse la main tendue. Quelle est la meilleure réponse suivante ?",
+      "q": "Priya, deux ans, trouve un autre adulte à l’arrivée. Elle s’agrippe à la personne qui l’accompagne, se détourne et repousse la main de l’adulte. Que faire ensuite ?",
       "o": [
-        "Proposer plutôt un câlin et expliquer que l’adulte est là pour aider.",
-        "Lui laisser un espace confortable, rester disponible avec peu de mots et utiliser la routine d’arrivée familière convenue avec la famille, sans exiger de contact physique ni de parole.",
-        "Commencer une courte leçon sur deux façons de se sentir calme afin qu’elle ait le choix."
+        "Proposer plutôt un câlin et expliquer que l’adulte peut aider.",
+        "Lui laisser de l’espace, rester à proximité avec peu de mots et suivre l’accueil convenu avec la famille.",
+        "Enseigner deux nouvelles façons de se calmer pour qu’elle choisisse."
       ],
       "a": 1,
-      "why": "Un tout-petit peut refuser le contact physique tout en ayant besoin d’un soutien attentif et adapté. Réduisez la pression, maintenez les soins et la surveillance, et préparez avec la famille une routine de remplacement prévisible. Une nouvelle leçon d’apaisement ou un autre contact imposé conviennent mal à cet instant."
+      "why": "Priya peut refuser le contact tout en ayant besoin de compagnie. Arrêtez le contact, maintenez les soins et la surveillance, et utilisez l’accueil connu. Avec la famille et l’enseignant, prévoyez quoi faire si l’adulte habituel est absent."
     },
     {
-      "q": "Exemple fictif : Ben, cinq ans, soulève une chaise alors qu’il est en détresse après la fin d’un jeu. D’autres enfants sont proches et un autre adulte est disponible. Qu’est-ce qui doit guider la première réponse ?",
+      "q": "Ben, cinq ans, soulève une chaise alors qu’il est bouleversé par la fin d’un jeu. Des enfants sont proches et un autre adulte est disponible. Qu’est-ce qui doit guider la première réponse ?",
       "o": [
-        "Donner une explication rassurante plus longue tout en demandant au collègue de chercher un tableau des émotions.",
-        "Commencer à répéter une routine familière d’apaisement avant de faire intervenir d’autres membres du personnel.",
-        "Appeler le personnel formé prévu, maintenir la surveillance et aider à créer un espace sûr pour les autres selon le plan d’urgence local."
+        "Donner une explication plus longue et envoyer le collègue chercher une affiche d’émotions.",
+        "Faire un exercice de retour au calme avant d’impliquer d’autres membres du personnel.",
+        "Appeler les personnes formées prévues, maintenir la surveillance et aider à créer un espace sûr selon les règles de l’école."
       ],
       "a": 2,
-      "why": "Protéger les personnes et obtenir une aide adaptée passe avant l’apprentissage. L’action réelle dépend des procédures locales en vigueur et de l’environnement. Cette formation ne donne aucune technique ni autorisation d’intervention physique. Répétez la communication entre adultes par la discussion, jamais des comportements dangereux."
+      "why": "Protégez les personnes et demandez la bonne aide avant d’enseigner. L’action sûre dépend de la salle et des règles actuelles. Cette formation n’enseigne ni n’autorise de techniques d’immobilisation. Entraînez-vous à la conversation entre adultes, jamais au comportement dangereux."
     },
     {
-      "q": "Exemple fictif : Sofia, quatre ans, utilise une carte d’aide dans une séance calme. Au goûter, son couvercle est coincé, elle pleure et repousse la boîte, et la carte est dans un tiroir. Quelle réponse relie le mieux l’aide immédiate et l’apprentissage futur ?",
+      "q": "Sofia, quatre ans, utilise une carte d’aide pendant une leçon calme. Au goûter, son couvercle est coincé. Elle pleure et repousse la boîte ; la carte est dans un tiroir. Que doit faire le personnel ?",
       "o": [
-        "Aider en réponse à sa communication actuelle ; puis placer le repère au goûter, montrer son usage dans des occasions à sa portée et veiller à ce que les adultes répondent.",
-        "Apporter la carte et répéter la leçon avant d’ouvrir la boîte pour clarifier le signal.",
-        "La remplacer par plusieurs nouvelles cartes et lui demander laquelle serait la plus facile à utiliser."
+        "Aider maintenant, puis mettre la carte connue au goûter, montrer son utilisation dans un entraînement facile et veiller à la réponse des adultes.",
+        "Aller chercher la carte et répéter la leçon avant d’ouvrir la boîte.",
+        "La remplacer par plusieurs nouvelles cartes et demander laquelle elle préfère."
       ],
       "a": 0,
-      "why": "Une compétence a besoin de sens, d’accès, d’une véritable occasion et d’une réponse fiable de l’adulte. Ne retenez pas l’aide en attendant un signal correct. Montrez une demande non orale et la manière dont un remplaçant familier y répondra ; évaluez l’accès au goûter, pas seulement la diminution des pleurs."
+      "why": "Sofia montre déjà qu’elle a besoin d’aide. Ouvrez la boîte sans attendre une bonne réponse avec la carte. Plus tard, mettez la carte là où elle est nécessaire et montrez à un adulte remplaçant comment répondre. Vérifiez si Sofia peut recevoir de l’aide et manger son goûter."
     },
     {
-      "q": "Exemple fictif : Noah, cinq ans, se met en retrait pendant le chant en grand groupe, mais l’adulte qui l’accompagne dit qu’il chante à la maison. Quelle entrée en matière favorise le mieux un plan partagé dont on pourra examiner les effets ?",
+      "q": "Noah, cinq ans, s’éloigne quand le grand groupe chante. La personne qui s’occupe de lui dit qu’il chante à la maison. Quelle phrase d’ouverture aiderait le personnel et la famille à faire un plan utile ?",
       "o": [
-        "« Nous nous entraînerons à nommer les émotions plus souvent, puis nous verrons s’il participe. »",
-        "« Il aime les chansons qu’il choisit en petit groupe. Il s’éloigne dans le grand groupe. Qu’est-ce qui l’aide à la maison ? Pourrions-nous comparer une possibilité plus calme avec du soutien et faire le point sur son confort et sa participation ? »",
-        "« Si nous comptons uniquement les fois où il s’en va, nous pourrons décider si le plan fonctionne. »"
+        "« On va s’entraîner à nommer les émotions plus souvent, puis voir s’il participe. »",
+        "« Ici, il aime les chansons choisies en petit groupe, mais s’éloigne dans le grand groupe. Qu’est-ce qui aide à la maison ? Pourrions-nous essayer un endroit plus calme avec un adulte à proximité et comparer comment il se sent et participe ? »",
+        "« On va compter le nombre de fois où il part pour décider si le plan fonctionne. »"
       ],
       "a": 1,
-      "why": "Un point fort, un contexte factuel, les connaissances de la famille et un aménagement concret par l’adulte constituent un bon point de départ. Désignez un responsable et un moment de réexamen, vérifiez si le personnel a appliqué le changement et agissez plus tôt si des inquiétudes de santé, de sécurité ou de protection de l’enfance apparaissent."
+      "why": "Commencez par un point fort, décrivez ce que vous avez vu et demandez l’avis de la famille. Prévoyez qui fait le changement et quand faire le point. Vérifiez si le changement a eu lieu et si Noah était à l’aise et pouvait apprécier le chant. Demandez de l’aide plus tôt si les inquiétudes de santé, de sécurité ou de protection de l’enfance augmentent."
     }
   ],
   "declarations": [
-    "Je répondrai à la détresse avec dignité, une communication accessible et la corégulation par l’adulte, tout en assurant la sécurité de chacun.",
-    "J’adapterai les routines et les attentes au développement de l’enfant et à ses besoins de communication et sensoriels, et j’enseignerai les compétences lorsque l’enfant sera prêt.",
-    "Je n’utiliserai ni humiliation, ni menaces, ni isolement, ni contact visuel imposé, ni marques d’affection imposées, ni privation des soins nécessaires pour obtenir l’obéissance.",
-    "Je suivrai les procédures scolaires en vigueur de protection de l’enfance, de surveillance et d’urgence, demanderai une aide qualifiée et resterai dans les limites de mon rôle. Cette formation n’enseigne ni n’autorise la contention.",
-    "Je comprends que cette attestation concerne uniquement l’apprentissage en ligne. Pour les inquiétudes réelles, les plans d’accompagnement et la communication avec les familles, j’utiliserai les systèmes approuvés de l’école, jamais cette formation."
+    "Je traiterai avec dignité un enfant bouleversé, utiliserai des moyens de communication qu’il comprend et proposerai une aide calme tout en protégeant chacun.",
+    "J’adapterai les activités et les tâches aux besoins de l’enfant, notamment pour la communication, le bruit, le contact et le mouvement, et lui apprendrai des choses quand il pourra participer.",
+    "Je n’humilierai pas, ne menacerai pas et n’isolerai pas un enfant. Je n’imposerai ni regard dans les yeux ni affection et ne le priverai pas de soins nécessaires pour obtenir quelque chose.",
+    "Je suivrai les règles actuelles de l’école pour la protection de l’enfance, la surveillance et les urgences. Je demanderai l’aide de personnes formées et resterai dans mon rôle. Cette formation n’enseigne ni n’autorise la contention.",
+    "Je comprends que cette attestation porte seulement sur l’apprentissage en ligne. J’utiliserai les systèmes autorisés de l’école pour les inquiétudes réelles, les plans d’aide et les messages aux familles, jamais cette formation."
   ],
   "localReadiness": [
     {
-      "title": "Connaître l’enfant et la routine",
-      "text": "Apprenez à connaître les signaux habituels, les intérêts, la communication, les préférences sensorielles et le plan de soins de l’enfant. Utilisez les grands repères d’âge sans tester des étapes du développement. Le personnel chargé de nourrissons a également besoin d’une formation approuvée à leur manipulation, à la sécurité pendant le sommeil et aux soins ; cette formation-ci ne l’apporte pas."
+      "title": "Connaître cet enfant",
+      "text": "Demandez à l’enseignant quels sont ses gestes, mots, intérêts, réconforts et plan de soin habituels. Ces exemples commencent à 12 mois ; les âges servent à préparer, pas à tester. Toute personne qui donne des soins personnels a aussi besoin de la formation autorisée par l’école pour le portage, les soins, le repos et le sommeil."
     },
     {
-      "title": "Connaître vos propres soutiens",
-      "text": "Convenez d’un signal d’aide et montrez qui reste avec l’enfant et qui surveille le groupe. Obtenez une confirmation avant le relais. Prévoyez un adulte relais et les informations minimales utiles ; ne vous éloignez jamais simplement sans transmission."
+      "title": "Savoir qui peut vous aider",
+      "text": "Prévoyez comment appeler de l’aide, qui reste avec l’enfant et qui surveille le groupe. Désignez un remplaçant. Entraînez-vous à demander et à attendre une réponse claire avant de passer le relais ; ne partez pas simplement."
     },
     {
-      "title": "Rendre l’environnement accessible",
-      "text": "Vérifiez le bruit, l’attente, les rassemblements serrés, les déplacements et l’accès à la communication. Montrez un repère là où il sera utilisé, la fin d’une étape et un véritable changement de programme. Préparez des possibilités plus calmes sous surveillance avec des sorties dégagées, des ressources sûres pour l’âge et du soutien lorsque l’espace préféré est occupé."
+      "title": "Vérifier la salle et la journée",
+      "text": "Repérez les chaises bruyantes, les étagères bondées ou les longues attentes. Montrez une image ou un objet connus là où ils servent, la suite et un changement de programme. Vérifiez les endroits plus calmes, les sorties sûres, le matériel adapté à l’âge et qui reste à proximité, y compris si la place habituelle est occupée."
     },
     {
-      "title": "Convenir de réponses cohérentes et souples",
-      "text": "Décidez de ce que fait le personnel lorsque l’enfant communique une demande d’aide ou de pause. Montrez une réponse courte, un temps pour comprendre et une autre possibilité lorsqu’un contact ou un outil est refusé. N’exigez jamais de parole, de contact visuel, de respiration ni d’apparence calme avant d’apporter des soins ou du soutien."
+      "title": "Prévoir ensemble la réponse des adultes",
+      "text": "Sachez ce qui se passe quand l’enfant demande de l’aide ou une pause. Essayez quelques mots, puis attendez. Soyez prêt à donner de l’espace ou à proposer une autre aide s’il refuse le contact ou un outil. Les soins ne doivent dépendre ni de paroles, ni du regard dans les yeux, ni de respiration, ni d’une apparence calme."
     },
     {
-      "title": "Connaître les circuits d’aide et de signalement",
-      "text": "Confirmez l’identité du responsable ELS/inclusion et du responsable de la protection de l’enfance, le circuit indépendant alternatif, l’aide aux premiers secours et la procédure d’urgence. Un risque urgent nécessite une aide rapide, pas une nouvelle stratégie comportementale."
+      "title": "Connaître les contacts d’urgence et de signalement",
+      "text": "Trouvez l’enseignant ou le responsable inclusion/ELS pour une aide supplémentaire, le responsable de protection de l’enfance, l’autre personne à prévenir et les étapes de premiers secours ou d’urgence. Un danger urgent demande de l’aide maintenant."
     },
     {
-      "title": "Faire le point avec les faits et les familles",
-      "text": "Distinguez la séquence observée, les explications possibles et le prochain essai de l’adulte. Consignez dans les systèmes sécurisés approuvés la réalisation du soutien, le confort, la communication et l’accès de l’enfant, ainsi que les informations de la famille. Désignez un responsable du réexamen ; demandez conseil plus tôt si les inquiétudes persistent, augmentent ou deviennent urgentes."
+      "title": "Faire le point avec la famille",
+      "text": "Notez séparément ce que vous avez vu et les explications possibles, dans les dossiers sécurisés autorisés. Vérifiez ce qu’ont changé les adultes et si l’enfant a pu demander de l’aide, se sentir à l’aise et profiter des activités. Prévoyez qui fait le point avec la famille et quand. Demandez conseil plus tôt si les inquiétudes augmentent."
     }
   ],
   "practical": {
-    "title": "Guide de pratique de la corégulation en équipe",
-    "intro": "Utilisez des situations fictives pour une courte répétition entre adultes, avec un collègue ou en énonçant les deux rôles. Les activités des modules présentent les compétences ; un entraînement ultérieur supervisé en équipe et un réexamen des pratiques peuvent vérifier leur fonctionnement local. La réussite en ligne ne prouve pas à elle seule la compétence pratique.",
+    "title": "S’entraîner ensemble à aider un enfant",
+    "intro": "Pour les adultes qui accompagnent les enfants de 12 mois à 6 ans. Utilisez des exemples inventés avec un collègue, ou dites les deux rôles à voix haute. La corégulation, c’est aider un enfant à traverser une émotion difficile grâce au soutien calme d’un adulte. Ce guide aide à s’entraîner et à discuter ; terminer la formation en ligne ne prouve pas une compétence pratique.",
     "instructions": [
-      "Choisissez la réponse aux signaux du nourrisson Imani uniquement si cela concerne vos fonctions, l’arrivée de Priya, le rangement de Leo, le goûter de Sofia ou le chant de Noah. Précisez la communication et les capacités actuelles de l’enfant ; n’imitez pas la détresse d’un enfant réel.",
-      "Convenez de qui parle, de qui surveille et de la manière d’appeler de l’aide. Montrez des paroles, un repère et un aménagement de l’environnement. Ne mettez jamais en scène un danger, ne pratiquez aucune contention et ne répétez aucune manipulation de nourrisson à partir de cette formation.",
-      "L’observateur introduit un changement : le contact est refusé, le repère manque, l’espace calme est occupé ou l’adulte habituel est absent. Montrez comment le soutien reste disponible ; faites une pause dès qu’un participant le souhaite.",
-      "Comparez l’action de l’adulte aux critères ci-dessous. Notez un point fort précis et une action à améliorer. Si vous travaillez seul, dites ou écrivez la réponse exacte et vérifiez honnêtement chaque étape.",
-      "Avec le responsable local concerné, choisissez un aménagement sûr de la pratique ordinaire et un moment de réexamen. Une observation ultérieure supervisée devrait vérifier les actions effectives des adultes et l’accès de l’enfant. Ne saisissez pas de détails sur des enfants réels dans cette formation et utilisez les dossiers sécurisés approuvés."
+      "Lisez d’abord cet exemple : au rangement, Leo se bouche les oreilles. Un adulte accepte de surveiller le groupe ; un autre reste près de lui. Le personnel réduit le bruit et envoie moins d’enfants à l’étagère. L’adulte montre à Leo son panier connu : « Un cube ici », puis l’activité suivante. S’il a besoin d’une pause, ils restent ensemble dans l’endroit plus calme prévu.",
+      "Choisissez l’arrivée d’Imani à 14 mois, l’arrivée de Priya, le rangement de Leo, le goûter de Sofia ou le chant de Noah. Dites comment l’enfant montre son besoin. Par exemple, Imani se détourne et repousse le jouet bruyant ; l’adulte l’arrête et vérifie les besoins de soin.",
+      "Prévoyez qui parle, qui surveille le groupe et comment demander de l’aide. Montrez vos mots, un objet, une image ou un signe connus et un changement, comme moins d’enfants à l’étagère. Ne jouez jamais une agression, n’essayez pas de contention et ne vous entraînez pas à porter ou déplacer un enfant à partir de cette formation.",
+      "Votre partenaire ajoute un changement : l’enfant refuse le contact, une image manque, le siège calme est occupé ou l’adulte habituel est absent. Montrez une autre façon d’aider. Chacun peut faire une pause. Si vous êtes seul, décrivez les actions des deux adultes.",
+      "Utilisez les points ci-dessous. Nommez une action qui a aidé et une à améliorer. Avec l’enseignant ou le bon responsable, prévoyez un petit changement sûr à essayer et quand le revoir lors d’un entraînement supervisé. Gardez les détails sur les vrais enfants hors de cette formation et utilisez les dossiers sécurisés autorisés."
     ],
     "criteria": [
       {
-        "area": "1. Montrer la préparation et l’accès",
+        "area": "1. Faciliter ce moment de la journée",
         "items": [
-          "Montre un repère qui a du sens là où il sera utilisé, l’associe à l’étape réelle, indique la fin de l’étape et montre honnêtement un changement de programme.",
-          "Réalise un aménagement concret de l’environnement et identifie une autre possibilité accessible sous surveillance si l’espace préféré est indisponible.",
-          "Adapte la première réponse aux capacités actuelles : soutien aux signaux et aux soins du nourrisson dans les limites de ses fonctions, aide concrète au tout-petit ou prochaine étape accessible pour un enfant plus âgé."
+          "Montre un objet ou une image connus en faisant l’étape, puis montre la suite. Par exemple : montrer le panier de rangement, dire « Un cube ici », puis montrer l’activité suivante. Si l’accès à l’étagère est bloqué, montrer la solution réellement possible.",
+          "Change une chose concrète, par exemple moins d’enfants à l’étagère, et prévoit un autre endroit sûr avec l’aide d’un adulte si le coin calme est occupé.",
+          "Adapte l’aide à l’enfant : réconfort connu et petite étape de 12 mois à moins de 18 mois ; aide concrète pour un tout-petit plus âgé ; prochaine étape à la portée de l’enfant plus grand."
         ]
       },
       {
-        "area": "2. Montrer la première réponse",
+        "area": "2. Proposer une aide que l’enfant peut utiliser",
         "items": [
-          "Énonce un signal observable, utilise une ou deux phrases courtes et chaleureuses, fait une pause et évite d’envahir l’espace.",
-          "Accepte un geste, un symbole, un signe, un appareil ou tout autre signal compréhensible et montre la réponse promise à la demande d’aide ou de pause.",
-          "Adapte son approche lorsque le contact, la respiration ou un outil sont refusés, tout en maintenant la surveillance, les soins nécessaires et la disponibilité de l’adulte."
+          "Dit ce qu’il remarque, utilise quelques mots bienveillants, attend et laisse de l’espace.",
+          "Accepte le geste, le signe, l’image, l’appareil ou les mots de l’enfant. Montre l’aide ou la pause qui suit réellement.",
+          "Arrête une proposition de contact, de respiration ou d’outil que l’enfant refuse et propose une autre aide. Les soins, la surveillance et la compagnie d’un adulte restent disponibles."
         ]
       },
       {
-        "area": "3. Montrer un travail d’équipe sûr",
+        "area": "3. Travailler avec les autres adultes en sécurité",
         "items": [
-          "Demande à un collègue un rôle précis, reçoit sa confirmation et lui transmet les informations utiles sur le repère, le soutien et l’organisation de la surveillance.",
-          "Retrouve les procédures actuelles de soutien urgent, de premiers secours et d’urgence, de protection de l’enfance et de relais, et précise quand chacune est prioritaire.",
-          "Maintient une répétition sans contact physique et dans les limites des fonctions ; aucune contention, mise à l’isolement en espace fermé, autre forme d’isolement forcé, humiliation ni privation de soins."
+          "Demande une tâche claire à un collègue, attend son accord et transmet ce qui s’est passé, ce qui a aidé et qui surveille chaque groupe.",
+          "Sait trouver les contacts et étapes actuels de sécurité, de premiers secours, d’urgence et de protection de l’enfance, avec les remplaçants, et dire quand il faut une aide urgente.",
+          "Garde un entraînement sans techniques physiques et dans les limites de son rôle. Ne pratique ni contention, ni enfermement, ni isolement forcé, ni humiliation, ni privation de soins."
         ]
       },
       {
-        "area": "4. Montrer l’apprentissage et le réexamen",
+        "area": "4. Apprendre plus tard et vérifier ce qui a aidé",
         "items": [
-          "Propose un retour sans pression avant la discussion ou la réparation, sans exiger d’excuses ni de démonstration émotionnelle.",
-          "Montre une compétence utile dans un jeu serein, invite à un tour facultatif et place le soutien établi dans une vraie routine avec une réponse de l’adulte.",
-          "Distingue les faits des explications possibles, désigne un changement de l’adulte et un responsable du réexamen, et examine avec la famille le confort, la communication, la participation et la mise en œuvre par les adultes."
+          "Propose un retour avec de l’aide sans exiger d’abord d’excuses, d’explication ou de réparation. Aide à réparer plus tard, quand l’enfant est prêt.",
+          "Montre une action utile dans un jeu agréable, propose un tour sans pression et place l’aide connue dans la vraie activité, avec un adulte prêt à répondre.",
+          "Sépare les faits des suppositions, dit ce que l’adulte changera et qui fera le point, et vérifie avec la famille le confort, la communication et le plaisir de l’enfant."
         ]
       }
     ],
     "decisionOptions": [
-      "Convenir d’un petit changement et d’une date de suivi",
-      "Organiser un accompagnement ou un soutien supplémentaire",
-      "Demander conseil au responsable scolaire compétent avant de modifier le plan de l’enfant"
+      "Prévoir un petit changement et une date pour faire le point",
+      "Prévoir des conseils ou davantage d’aide",
+      "Consulter le bon responsable de l’école avant de modifier le plan de l’enfant"
     ],
-    "footer": "Ce guide soutient les échanges, l’accompagnement des pratiques et la pratique supervisée. Il ne délivre pas une autorisation d’exercer et ne constitue pas une évaluation clinique notée. Seul l’établissement peut définir les permissions liées aux fonctions, approuver les plans individuels et fournir les formations requises aux soins, à la protection de l’enfance ou aux interventions."
+    "footer": "Utilisez ce guide pour discuter, recevoir des conseils et vous entraîner sous supervision. Il ne donne pas l’autorisation de réaliser un geste et ne prouve pas une compétence professionnelle. L’école doit approuver les plans individuels et les responsabilités, et assurer les formations nécessaires aux soins, à la protection de l’enfance et à la sécurité."
   },
   "visualGuides": [
     {
       "id": "adult-anchor",
       "module": 1,
-      "title": "Être un adulte stable",
-      "intro": "Une aide originale pour la première réponse. Adaptez l’aide aux capacités actuelles ; il s’agit de décisions de l’adulte, pas d’étapes que l’enfant doit franchir.",
+      "title": "Rester l’adulte calme",
+      "intro": "La tour d’un enfant tombe et les cubes se dispersent. Vérifiez la sécurité, restez disponible et facilitez une petite étape suivante. L’enfant n’a pas à suivre une série fixe d’étapes.",
       "steps": [
         {
           "title": "Vous observer",
-          "text": "Observez votre voix, votre rythme et votre tension. Prenez un moment de pause confortable si cela peut se faire en sécurité.",
+          "text": "Votre voix devient-elle plus rapide ou plus sèche ? Remarquez si vos mains sont tendues. Faites une courte pause si c’est possible sans danger.",
           "icon": "notice"
         },
         {
-          "title": "Stabiliser votre réponse",
-          "text": "Baissez le volume de votre voix, assouplissez votre posture et utilisez moins de mots. Une présence calme se travaille.",
+          "title": "Parler plus calmement",
+          "text": "Ralentissez votre prochaine phrase et baissez la voix : « C’est tombé. Je peux rester ici. »",
           "icon": "pause"
         },
         {
-          "title": "Créer le lien sans pression",
-          "text": "Restez disponible à une distance que l’enfant peut tolérer. Offrez de la chaleur sans insister sur le toucher ou le contact visuel.",
+          "title": "Rester proche sans pression",
+          "text": "Laissez assez d’espace à l’enfant. Proposez votre présence sans exiger de contact ni de regard dans les yeux.",
           "icon": "support"
         },
         {
-          "title": "Faire un changement utile",
-          "text": "Réduisez une demande ou une source de surcharge. Offrez un choix accessible que vous pourrez respecter.",
+          "title": "Faciliter une chose",
+          "text": "Faites avancer les personnes qui regardent, ou proposez un cube à poser ensemble. Offrez seulement des choix que vous pouvez tenir ; l’enfant peut préférer une pause.",
           "icon": "choice"
         },
         {
-          "title": "Faire appel au soutien",
-          "text": "Demandez un rôle précis à un collègue, obtenez sa confirmation et transmettez le repère, le soutien utile et l’organisation de la surveillance avant de vous éloigner.",
+          "title": "Demander une aide précise",
+          "text": "« Tu peux surveiller le groupe ? Je reste avec Amira. » Attendez l’accord. Avant de passer le relais, dites ce qui s’est passé, ce qui a aidé et qui surveille.",
           "icon": "people"
         }
       ]
@@ -214,32 +214,32 @@
     {
       "id": "early-response",
       "module": 3,
-      "title": "Moins de pression, plus de soutien",
-      "intro": "Imaginez un enfant qui se bouche les oreilles et s’éloigne pendant que la classe se met en rang. Entraînez-vous à répondre avant que sa détresse augmente.",
+      "title": "Moins de pression, plus d’aide",
+      "intro": "Un enfant se bouche les oreilles et s’éloigne quand la classe se met en rang. Réduisez le nombre d’enfants serrés dans le rang et proposez un endroit plus calme avec un adulte à proximité.",
       "steps": [
         {
-          "title": "Observer le signal",
-          "text": "Décrivez ce que vous voyez : mains sur les oreilles, recul, moins de paroles. Ne supposez pas d’intention.",
+          "title": "Observer ce que vous voyez",
+          "text": "L’enfant se bouche les oreilles, recule ou utilise moins de mots. Décrivez ces actions sans deviner pourquoi.",
           "icon": "notice"
         },
         {
-          "title": "Changer les conditions",
-          "text": "Réduisez le bruit et la promiscuité. Proposez une place plus calme sous surveillance ou une transition décalée.",
+          "title": "Changer ce qui est difficile",
+          "text": "Réduisez le bruit et le monde autour. Avec l’enseignant, prévoyez un endroit d’attente plus calme ou faites avancer de plus petits groupes. Précisez qui surveille.",
           "icon": "zones"
         },
         {
-          "title": "Utiliser une phrase brève",
-          "text": "« Il y a du bruit. Je suis là. On peut attendre ici ensemble. » Laissez à l’enfant le temps de comprendre.",
+          "title": "Dire quelques mots, puis attendre",
+          "text": "Vous pourriez dire : « Il y a du bruit. Je suis là. On peut attendre ici ensemble. » Laissez à l’enfant le temps de comprendre ou de répondre.",
           "icon": "voice"
         },
         {
-          "title": "Rendre la communication efficace",
-          "text": "Utilisez le geste ou repère d’aide ou de pause déjà établi de l’enfant et répondez à la demande. Si le lieu préféré est occupé, proposez une autre possibilité sûre sous surveillance.",
+          "title": "Répondre au message de l’enfant",
+          "text": "Acceptez le geste, l’image ou l’appareil qu’il utilise habituellement pour demander de l’aide ou une pause. Montrez l’aide réelle. Si le siège habituel est occupé, proposez un autre endroit sûr avec l’aide d’un adulte.",
           "icon": "choice"
         },
         {
-          "title": "Observer la réponse",
-          "text": "Si un outil ou un contact physique est refusé, réduisez la pression et adaptez-vous tout en restant disponible. Si le risque ou l’inquiétude de santé augmente, appliquez immédiatement la procédure locale correspondante.",
+          "title": "Observer et adapter",
+          "text": "Si l’enfant refuse le contact ou un outil, arrêtez cette proposition, donnez de l’espace et restez disponible. Utilisez immédiatement les étapes de sécurité ou de santé de l’école si le risque ou l’inquiétude médicale augmente.",
           "icon": "plan"
         }
       ]
@@ -247,32 +247,32 @@
     {
       "id": "recovery",
       "module": 4,
-      "title": "La récupération fait partie du soutien",
-      "intro": "Le moment difficile est peut-être passé, mais la disponibilité pour parler ou apprendre peut revenir lentement. Évitez de vous précipiter vers la correction.",
+      "title": "Continuer à aider après le moment difficile",
+      "intro": "Un enfant est silencieux après un événement bouleversant. Vérifiez d’abord le confort et les besoins de soin. Il peut revenir au jeu avec de l’aide avant de discuter ou de réparer.",
       "steps": [
         {
-          "title": "Garder le soutien disponible",
-          "text": "Maintenez la surveillance, un environnement calme et les soins nécessaires. Ne retirez pas le réconfort en guise de conséquence.",
+          "title": "Garder les soins et la présence disponibles",
+          "text": "Maintenez la surveillance, réduisez le bruit ou la pression et répondez aux besoins de soin. Le réconfort n’est pas une récompense à retirer.",
           "icon": "support"
         },
         {
-          "title": "Proposer, sans insister",
-          "text": "Proposez les soutiens familiers qui aident l’enfant à s’apaiser. La respiration, le toucher ou la parole n’aident pas tous les enfants.",
+          "title": "Proposer une aide connue",
+          "text": "Proposez un jouet connu, votre présence ou de l’espace. L’enfant peut ne vouloir ni respiration, ni contact, ni discussion ; proposez une autre aide.",
           "icon": "choice"
         },
         {
-          "title": "Attendre que l’enfant soit prêt",
-          "text": "Observez ses signes habituels de confort et de participation. N’exigez pas immédiatement une explication ou des excuses.",
+          "title": "Chercher l’intérêt sans presser",
+          "text": "Observez les signes habituels de confort ou d’intérêt pour le jeu. Le silence seul ne veut pas dire que l’enfant est prêt pour des questions.",
           "icon": "listen"
         },
         {
-          "title": "Renouer le lien et réparer",
-          "text": "Lorsque l’enfant est prêt, accompagnez une réparation à sa portée et une petite reprise de l’activité. Gardez les soutiens utiles disponibles ; un autre enfant n’a pas à accepter une marque d’affection ni à réconforter quiconque.",
+          "title": "Aider l’enfant à revenir",
+          "text": "Proposez de regarder ou de faire une petite étape facile vers le jeu. N’exigez d’abord ni excuse, ni explication, ni réparation. Aidez à réparer plus tard, quand l’enfant est prêt. Un autre enfant n’a pas à accepter des gestes d’affection.",
           "icon": "repeat"
         },
         {
-          "title": "Revoir le plan des adultes",
-          "text": "Séparez les faits des suppositions. Vérifiez ce que les adultes ont réellement changé, comment l’enfant a communiqué et participé, et ce qu’en disent l’enfant et sa famille. Convenez d’un réexamen ; demandez une aide supplémentaire plus tôt si nécessaire.",
+          "title": "Revoir ce qu’ont fait les adultes",
+          "text": "Notez les faits séparément des suppositions. Les adultes ont-ils fait le changement prévu ? L’enfant a-t-il pu demander de l’aide et profiter des activités ? Comparez avec la famille et l’enseignant ; demandez conseil plus tôt si les inquiétudes augmentent.",
           "icon": "plan"
         }
       ]
@@ -281,14 +281,14 @@
   "videos": [
     {
       "id": "v1",
-      "title": "Mode d’emploi : cinq étapes d’échanges réciproques pour soutenir le développement cérébral",
+      "title": "Mode d’emploi : 5 étapes pour échanger à tour de rôle et soutenir le développement du cerveau",
       "publisher": "Center on the Developing Child at Harvard University",
       "url": "https://developingchild.harvard.edu/resources/videos/how-to-5-steps-for-brain-building-serve-and-return/",
       "durationLabel": "Courte vidéo pratique ; facultative",
-      "summary": "Les adultes repèrent ce qui intéresse l’enfant, y répondent, ajoutent des mots, échangent à tour de rôle et suivent les changements de son attention. Le message pratique est de favoriser des échanges réciproques attentifs, sans exiger un contact visuel ou une réponse précise.",
-      "prompt": "Repérez un signal de l’enfant, la réponse de l’adulte et la pause avant le tour suivant. Décrivez comment le même échange peut fonctionner sans parole ni contact visuel obligatoire.",
-      "accessibility": "La page officielle propose un texte explicatif et plusieurs options linguistiques. Le résumé de cette formation constitue une alternative textuelle ; les sous-titres du lecteur et la disponibilité peuvent varier.",
-      "verifiedHosting": "La page officielle de Harvard renvoie à son lecteur YouTube. La page et le titre de la vidéo ont été vérifiés ; la lecture n’a pas été testée de manière indépendante.",
+      "summary": "L’adulte repère ce qui intéresse l’enfant, répond, puis attend son tour. Par exemple, l’enfant montre un jouet ; l’adulte le nomme et fait une pause. L’enfant peut répondre par un geste ou un son. Il n’a pas besoin de parler ni de regarder l’adulte dans les yeux. Les exemples avec des enfants de moins de 12 mois servent seulement à comprendre le sujet ; les activités pratiques de la formation commencent à 12 mois.",
+      "prompt": "Repérez ce que fait l’enfant, comment l’adulte répond et quand il attend. Décrivez ensuite un échange semblable avec un geste à la place de la parole.",
+      "accessibility": "La page officielle propose des explications écrites et plusieurs langues. Vous pouvez faire l’activité à partir de ce résumé sans regarder la vidéo. La disponibilité de la vidéo et des sous-titres peut varier.",
+      "verifiedHosting": "La page officielle de Harvard renvoie à son lecteur YouTube. La page et le titre de la vidéo ont été vérifiés ; son fonctionnement n’a pas été testé directement.",
       "moduleId": "m1",
       "module": 1
     },
@@ -297,24 +297,24 @@
       "title": "L’importance des émotions dans le cadre anglais pour la petite enfance (EYFS)",
       "publisher": "Department for Education, England",
       "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
-      "durationLabel": "Courte explication destinée aux professionnels ; facultative",
-      "summary": "Des professionnels abordent les relations qui apportent une sécurité émotionnelle, la reconnaissance des émotions, le temps à laisser aux enfants et le soutien à la réflexion des adultes. Les exemples comprennent la séparation et un conflit autour d’un jouet. L’accent est mis sur un accompagnement ajusté à l’enfant et sur le retour à la résolution de problèmes lorsqu’il est prêt.",
-      "prompt": "Repérez un moment pour réconforter maintenant et un autre pour enseigner plus tard. Quelle exigence modifieriez-vous en plus des paroles de l’adulte ?",
-      "accessibility": "Une transcription complète est disponible sur la page officielle, sous la vidéo Vimeo.",
-      "verifiedHosting": "La page officielle du DfE et le lecteur Vimeo auquel elle renvoie ont été vérifiés. Titre du lecteur : Développement personnel, social et émotionnel dans l’EYFS – Les émotions (EYFS Personal, social and emotional development – Emotions).",
+      "durationLabel": "Courte vidéo explicative pour les professionnels ; facultative",
+      "summary": "Des adultes expliquent comment aider les enfants à se sentir en sécurité, reconnaître leurs émotions et leur laisser du temps. Les exemples portent sur la séparation avec un adulte familier et sur deux enfants qui veulent le même jouet. Le réconfort et l’aide concrète viennent d’abord. On peut attendre que l’enfant puisse participer avant de parler d’une solution.",
+      "prompt": "Repérez un moment où réconforter tout de suite et un autre où apprendre quelque chose plus tard. Proposez aussi un changement concret, comme réduire l’attente ou le nombre d’enfants autour du jouet.",
+      "accessibility": "Le texte complet de la vidéo se trouve sur la page officielle, sous le lecteur Vimeo. Vous pouvez aussi faire l’activité à partir de ce résumé.",
+      "verifiedHosting": "La page officielle du DfE et le lecteur Vimeo associé ont été vérifiés. Titre dans le lecteur : EYFS Personal, social and emotional development – Emotions.",
       "moduleId": "m3",
       "module": 3
     },
     {
       "id": "v3",
-      "title": "Comment les enfants et les adultes peuvent développer des compétences fondamentales pour la vie",
+      "title": "Comment les enfants et les adultes peuvent développer des capacités utiles au quotidien",
       "publisher": "Center on the Developing Child at Harvard University",
       "url": "https://developingchild.harvard.edu/resources/videos/video-building-core-capabilities-life/",
       "durationLabel": "5 minutes ; facultative",
-      "summary": "Cette animation explicative présente les fonctions exécutives et les compétences d’autorégulation tout au long de la vie, la manière dont la pratique les soutient et celle dont le stress peut rendre leur utilisation plus difficile. Considérez ses métaphores visuelles comme des illustrations, et non comme un diagnostic littéral de ce qui se passe dans le cerveau d’un enfant en particulier.",
-      "prompt": "Choisissez une façon concrète d’alléger une exigence pour un adulte et un enfant. Distinguez cette action de l’affirmation que vous connaissez l’état cérébral de l’enfant.",
-      "accessibility": "La page officielle comprend un résumé explicatif écrit ainsi que des versions vidéo en anglais et en japonais. Le résumé de cette formation constitue également une alternative textuelle.",
-      "verifiedHosting": "La page officielle de Harvard confirme le titre et la durée de cinq minutes, et renvoie à son lecteur YouTube ; la lecture n’a pas été testée de manière indépendante.",
+      "summary": "Cette animation explique des capacités comme se souvenir d’un plan, attendre et changer de façon de faire. S’entraîner peut aider à les développer ; le stress peut rendre leur utilisation plus difficile. Les images du cerveau illustrent des idées. Elles ne montrent pas ce qui se passe dans le cerveau d’un enfant en particulier.",
+      "prompt": "Choisissez une façon de rendre une tâche plus facile pour l’adulte et l’enfant, par exemple donner une seule consigne au lieu de plusieurs. Décrivez le changement que vous pouvez observer, sans deviner ce qui se passe dans le cerveau.",
+      "accessibility": "La page officielle propose un résumé écrit et des vidéos en anglais et en japonais. Vous pouvez faire l’activité à partir de ce résumé sans regarder la vidéo.",
+      "verifiedHosting": "La page officielle de Harvard confirme le titre et la durée de 5 minutes, et renvoie à son lecteur YouTube. Le fonctionnement de la vidéo n’a pas été testé directement.",
       "moduleId": "m5",
       "module": 5
     },
@@ -324,23 +324,23 @@
       "publisher": "Child Mind Institute",
       "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
       "durationLabel": "6 minutes 26 secondes ; visionnage facultatif pour les adultes",
-      "summary": "Un épisode officiel destiné aux enfants de 3 à 5 ans. Alternative textuelle de la formation : les émotions fortes sont permises et un adulte de confiance peut aider. Explorez différents soutiens familiers pendant des moments agréables ; un enfant peut utiliser son moyen de communication préféré pour demander de l’aide. Aucune technique d’apaisement n’est obligatoire.",
-      "prompt": "Choisissez une possibilité pour faire face aux émotions dans l’épisode. Montrez comment vous la proposeriez sans exiger de respiration, de parole ni de contact physique, et ce que vous feriez en cas de refus. Nommez un moment serein pour l’enseigner.",
-      "accessibility": "La page officielle propose des liens vers des ressources gratuites pour éducateurs et adultes accompagnants. Ce résumé de formation fournit une alternative textuelle à l’activité d’apprentissage pour adultes ; la lecture et la disponibilité des sous-titres n’ont pas été testées indépendamment.",
-      "verifiedHosting": "La page officielle de l’épisode du Child Mind Institute, le lecteur YouTube lié et la durée affichée de 6 min 26 s ont été vérifiés le 6 octobre 2026. Les documents d’accompagnement pour éducateurs ont été lus ; la lecture de la vidéo n’a pas été testée indépendamment.",
+      "summary": "Cet épisode est destiné aux enfants de 3–5 ans ; l’activité facultative de la formation s’adresse aux adultes. L’idée principale : les émotions fortes sont permises et un adulte de confiance peut aider. Explorez des façons familières de se sentir mieux pendant des moments faciles. Demander de l’aide avec un geste ou un appareil de communication compte aussi. Aucune technique d’apaisement n’est obligatoire.",
+      "prompt": "Choisissez une activité montrée dans la vidéo et expliquez comment vous la proposeriez. Dites ensuite ce que vous feriez si l’enfant refusait et à quel moment vous pourriez vous entraîner plus tard, sans pression. N’imposez ni exercice de respiration, ni parole, ni contact physique.",
+      "accessibility": "La page officielle donne accès à des ressources gratuites pour les professionnels et les adultes qui accompagnent les enfants. Ce résumé permet de faire l’activité pour adultes sans regarder la vidéo. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement.",
+      "verifiedHosting": "La page officielle de l’épisode du Child Mind Institute, le lecteur YouTube associé et la durée affichée de 6:26 ont été vérifiés le 6 octobre 2026. Les documents pour les professionnels ont été lus ; le fonctionnement de la vidéo n’a pas été testé directement.",
       "moduleId": "m5",
       "module": 5
     },
     {
       "id": "v5",
-      "title": "Helping toddlers learn about feelings",
+      "title": "Aider les tout-petits à découvrir les émotions",
       "publisher": "Raising Children Network; My Toddler and Me series from Karitane and UNSW",
       "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
       "durationLabel": "Courte vidéo sur les émotions des tout-petits ; visionnage facultatif pour les adultes",
-      "summary": "Alternative textuelle de la formation : un tout-petit peut avoir besoin de proximité à un moment et de davantage d’espace à un autre. Restez attentif et disponible lorsque le contact physique est refusé ; utilisez les signaux de l’enfant pour ajuster le soutien et attendez qu’il puisse participer avant d’expliquer ou de s’entraîner.",
-      "prompt": "Qu’est-ce qui change lorsque le tout-petit ne veut pas de contact physique ? Répétez une réponse courte, une distance confortable et une façon de rester disponible. Comparez avec l’arrivée de Priya.",
-      "accessibility": "Une transcription complète est disponible sur la page officielle et a été lue. Ce résumé de formation fournit également une alternative textuelle. La lecture et les sous-titres n’ont pas été testés indépendamment.",
-      "verifiedHosting": "La page officielle du Raising Children Network, la transcription et l’attribution à Karitane/UNSW ont été vérifiées le 6 octobre 2026. La vidéo est republiée avec autorisation ; aucune durée exacte n’est affirmée.",
+      "summary": "Un tout-petit peut vouloir de la proximité, puis avoir besoin d’espace. S’il repousse la main que vous lui proposez, cessez le contact et restez disponible : « Je peux m’asseoir ici. » Observez sa réaction. Gardez les explications et l’entraînement pour un moment où il peut participer.",
+      "prompt": "Comparez cet exemple avec l’arrivée de Priya. Entraînez-vous à dire quelques mots si elle refuse le contact physique. Montrez où vous resteriez pour lui laisser de l’espace tout en pouvant l’aider.",
+      "accessibility": "Le texte complet de la vidéo est disponible sur la page officielle et a été lu. Vous pouvez aussi faire l’activité à partir de ce résumé. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement.",
+      "verifiedHosting": "La page officielle du Raising Children Network, le texte de la vidéo et son attribution à Karitane/UNSW ont été vérifiés le 6 octobre 2026. La vidéo est republiée avec autorisation ; aucune durée exacte n’est annoncée.",
       "moduleId": "m3",
       "module": 3
     }
@@ -348,372 +348,372 @@
   "sources": [
     {
       "id": "eef-regulation",
-      "title": "Autorégulation et fonctions exécutives : banque de données probantes sur la petite enfance",
+      "title": "Self-regulation and executive function: Early Years Evidence Store",
       "publisher": "Education Endowment Foundation",
-      "jurisdiction": "Angleterre",
+      "jurisdiction": "England",
       "url": "https://educationendowmentfoundation.org.uk/early-years/evidence-store/self-regulation-and-executive-function",
-      "claim": "Définit les compétences de régulation associées ; soutient l’enseignement, l’exemple donné par l’adulte, la pratique répétée et l’adaptation de l’étayage de l’adulte à l’enfant et au contexte.",
+      "claim": "Explique les capacités qui aident l’enfant à gérer ses émotions, son attention et ses actions. Recommande de montrer, d’expliquer, de s’entraîner plusieurs fois et d’adapter l’aide de l’adulte à l’enfant et à la situation.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "eef-evidence",
-      "title": "Programme de recherche : autorégulation et fonctions exécutives dans la petite enfance",
+      "title": "Research Agenda: Self-Regulation and Executive Function in the Early Years",
       "publisher": "Education Endowment Foundation",
-      "jurisdiction": "Angleterre",
+      "jurisdiction": "England",
       "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-self-regulation-and-executive-function-sref-in-the-early-years",
-      "claim": "Explique le caractère limité et inégal des données probantes sur la petite enfance, notamment les lacunes concernant les enfants les plus jeunes et les interventions de corégulation.",
+      "claim": "Explique que les recherches sur la petite enfance sont encore peu nombreuses et couvrent certains sujets mieux que d’autres. Il manque notamment des études sur les plus jeunes enfants et sur la corégulation, c’est-à-dire l’aide de l’adulte pour gérer les émotions et les actions.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "harvard-activities",
-      "title": "Guide d’activités : développer et exercer les fonctions exécutives chez les enfants, de la petite enfance à l’adolescence",
+      "title": "Activities Guide: Enhancing and Practicing Executive Function Skills with Children from Infancy to Adolescence",
       "publisher": "Center on the Developing Child at Harvard University",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-      "claim": "Le jeu adapté à l’âge permet de pratiquer l’attention, la mémorisation et l’adaptation des actions ; il éclaire les activités originales d’échange avec un nourrisson, d’imitation avec un tout-petit et de marionnettes en préscolaire.",
-      "accessNote": "La page officielle du guide et les PDF pour les 6–18 mois, 18–36 mois et 3–5 ans ont été vérifiés le 6 octobre 2026. Publication originale du guide : 2014. Les suggestions d’âge et les jeux ne sont ni des tests d’étapes du développement ni un traitement validé ; un chemin de téléchargement daté de 2024 n’est pas une nouvelle date de recherche."
+      "claim": "Les jeux adaptés à l’âge permettent de s’exercer à faire attention, à se souvenir et à changer de façon de faire. Ils ont inspiré trois activités originales de la formation : répondre puis attendre avec les enfants de 12 à moins de 18 mois, imiter avec les tout-petits plus âgés et jouer avec des marionnettes en maternelle.",
+      "accessNote": "La page officielle du guide et les PDF pour les 6–18 mois, 18–36 mois et 3–5 ans ont été vérifiés le 6 octobre 2026. Le guide couvre aussi les bébés plus jeunes : dans cette formation, choisissez seulement les activités adaptées au développement des enfants de 12 mois et plus. Le guide a été publié en 2014. Les activités ne sont ni des tests du développement ni un traitement dont l’efficacité a été démontrée. La date 2024 dans l’adresse du fichier indique sa mise en ligne, pas une nouvelle recherche. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "harvard-serve",
-      "title": "Échanges réciproques (« Serve and Return »)",
+      "title": "Serve and Return",
       "publisher": "Center on the Developing Child at Harvard University",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/",
-      "claim": "Des échanges réciproques attentifs avec des adultes bienveillants soutiennent le développement précoce de la communication et des compétences sociales.",
-      "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
+      "claim": "Des échanges où l’adulte bienveillant répond à l’enfant, puis lui laisse son tour, aident à développer la communication et les relations avec les autres.",
+      "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "acecqa-regulation",
-      "title": "Fiche d’information QA5 : aider les enfants à réguler leur propre comportement",
+      "title": "QA5 information sheet: Supporting children to regulate their own behaviour",
       "publisher": "Australian Children’s Education and Care Quality Authority",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://www.acecqa.gov.au/qa5-information-sheet-supporting-children-regulate-their-own-behaviour",
-      "claim": "Souligne l’importance des relations chaleureuses, des capacités fluctuantes, de la régulation de l’adulte, de la réflexion sur l’environnement et de l’enseignement des compétences dans les moments de calme.",
+      "claim": "Souligne l’importance de relations chaleureuses et rappelle que les capacités de l’enfant varient selon les moments. L’adulte doit aussi gérer ses propres réactions, réfléchir à ce qui entoure l’enfant et lui apprendre de nouvelles façons de faire pendant les moments calmes.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "acecqa-discipline",
-      "title": "Fiche d’information QA5 : pratiques disciplinaires inappropriées",
+      "title": "QA5 information sheet: Inappropriate discipline",
       "publisher": "Australian Children’s Education and Care Quality Authority",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://www.acecqa.gov.au/qa5-information-sheet-inappropriate-discipline",
-      "claim": "Distingue le retour au calme accompagné de la punition et identifie les pratiques disciplinaires inappropriées. Les dispositions juridiques concernent son cadre australien ; cette formation ne les présente pas comme des règles de droit universelles.",
+      "claim": "Distingue l’aide au retour au calme de la punition et décrit les pratiques disciplinaires inadaptées. Les règles de droit citées concernent l’Australie. La formation ne les présente pas comme des lois valables partout.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "acecqa-self-regulation",
-      "title": "Élément 5.2.2 : autorégulation",
+      "title": "Element 5.2.2: Self-regulation",
       "publisher": "Australian Children’s Education and Care Quality Authority",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://www.acecqa.gov.au/element-522-self-regulation",
-      "claim": "Soutient l’expression des émotions, la résolution des conflits, la réflexion des professionnels de l’éducation et le partenariat avec les familles et les autres professionnels.",
+      "claim": "Encourage à aider les enfants à exprimer leurs émotions et à résoudre les conflits. Invite les adultes à réfléchir à leurs pratiques et à travailler avec les familles et les autres professionnels.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "acecqa-inclusion",
-      "title": "Inclusion et pratiques inclusives",
+      "title": "Inclusion and inclusive practice",
       "publisher": "Australian Children’s Education and Care Quality Authority",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://www.acecqa.gov.au/latest-news/inclusion-and-inclusive-practice",
-      "claim": "Décrit une corégulation attentive grâce à une présence disponible, un ton doux et des choix respectueux du rythme et des besoins de l’enfant.",
+      "claim": "Décrit comment aider l’enfant grâce à une présence disponible, une voix douce et des choix qui respectent son rythme et ses besoins.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "nice-autism",
-      "title": "Trouble du spectre de l’autisme chez les moins de 19 ans : soutien et accompagnement, recommandations 1.1.9 et 1.4",
+      "title": "Autism spectrum disorder in under 19s: support and management, recommendations 1.1.9 and 1.4",
       "publisher": "National Institute for Health and Care Excellence",
-      "jurisdiction": "Royaume-Uni",
+      "jurisdiction": "United Kingdom",
       "url": "https://www.nice.org.uk/guidance/cg170/chapter/recommendations",
-      "claim": "Recommande de prêter attention à la communication, à l’environnement sensoriel, à la prévisibilité, aux facteurs de santé possibles et à un accompagnement individualisé éclairé par les connaissances de la famille. Les recommandations cliniques n’autorisent pas les professionnels de l’éducation à poser un diagnostic ou à prescrire.",
+      "claim": "Recommande de prendre en compte la communication, les bruits et autres sensations, les repères prévisibles et les éventuels problèmes de santé. L’aide doit être adaptée à l’enfant avec les connaissances de sa famille. Ces recommandations de santé n’autorisent pas les professionnels de l’éducation à poser un diagnostic ou à prescrire un traitement.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "ncpmi-visuals",
-      "title": "Supports visuels pour les routines, les emplois du temps et les transitions",
+      "title": "Visual Supports for Routines, Schedules, and Transitions",
       "publisher": "National Center for Pyramid Model Innovations, University of South Florida",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://www.challengingbehavior.org/document/visual-supports-for-routines-schedules-and-transitions/",
-      "claim": "Propose des outils pour les emplois du temps visuels, les cartes de routines et les supports « d’abord / ensuite ».",
+      "claim": "Propose des emplois du temps en images, des cartes pour les moments du quotidien et des supports « d’abord / ensuite ».",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "ncpmi-calm",
-      "title": "Aidez-nous à rester calmes",
+      "title": "Help Us Stay Calm",
       "publisher": "National Center for Pyramid Model Innovations",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://www.challengingbehavior.org/docs/Stay-Calm_Infographic.pdf",
-      "claim": "Encourage les adultes à réguler leurs propres réactions, à réfléchir et à renouer le lien avant d’utiliser l’interaction comme occasion d’apprentissage.",
+      "claim": "Encourage l’adulte à gérer ses propres réactions, à réfléchir à la situation et à rétablir le lien avec l’enfant avant de lui apprendre une nouvelle façon de faire.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "ncpmi-response",
-      "title": "Conseils pour répondre aux comportements difficiles chez les jeunes enfants",
+      "title": "Tips for Responding to Challenging Behavior in Young Children",
       "publisher": "Strain, Joseph, Hemmeter, Barton and Fox; hosted by NCPMI",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/wp-content/uploads/2025/02/2017-01-PEP-Tips.pdf",
-      "claim": "Les stratégies de réponse doivent accompagner une prévention et un enseignement délibérés, plutôt que les remplacer.",
+      "claim": "Les façons de réagir aux comportements difficiles doivent compléter un travail préparé à l’avance pour prévenir les difficultés et apprendre de nouvelles façons de faire. Elles ne remplacent pas ce travail.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "ncpmi-teaching",
-      "title": "Tu as réussi ! Enseigner les compétences sociales et émotionnelles",
+      "title": "You Got It! Teaching Social and Emotional Skills",
       "publisher": "Fox and Lentini; hosted by NCPMI",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/docs/YouGotIt_Teaching-Social-Emotional-Skills.pdf",
-      "claim": "Étaye la présentation, la pratique répétée qui a du sens, les retours précis et la généralisation entre contextes ; éclaire la séquence montrer–répéter–utiliser dans la vraie routine de la formation.",
-      "accessNote": "Article officiel de sept pages de Fox et Lentini, novembre 2006, vérifié le 6 octobre 2026. L’hébergement actuel ne constitue pas une nouvelle date de publication. Les exemples centrés sur la parole ou le guidage physique ne priment pas sur les garanties d’accès à la communication, de consentement et de soins."
+      "claim": "Recommande de présenter une nouvelle façon de faire, de s’y exercer plusieurs fois dans des situations utiles, de dire précisément ce qui aide et de l’utiliser dans différents moments du quotidien. A inspiré la suite « montrer, s’entraîner, utiliser dans la vraie situation » de cette formation.",
+      "accessNote": "Article officiel de 7 pages de Fox et Lentini, publié en novembre 2006 et vérifié le 6 octobre 2026. Sa présence sur le site actuel ne change pas sa date de publication. Même si certains exemples privilégient la parole ou le guidage physique, il faut respecter le moyen de communication de l’enfant, son accord et ses besoins de soins."
     },
     {
       "id": "ncpmi-emotions",
-      "title": "Stratégies d’enseignement des compétences sociales et émotionnelles : enrichir le vocabulaire des émotions",
+      "title": "Social Emotional Teaching Strategies: Enhancing Emotional Vocabulary",
       "publisher": "Center on the Social and Emotional Foundations for Early Learning; hosted by NCPMI",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/docs/ttyc/TTYC_A_EnhancingEmotVoc.pdf",
-      "claim": "Décrit le vocabulaire des émotions, l’exemple donné par l’adulte, les jeux de rôle et la pratique à partir d’histoires comme des composantes d’un enseignement plus large des compétences sociales et émotionnelles.",
+      "claim": "Présente les mots des émotions, l’exemple donné par l’adulte, les jeux de rôle et les histoires comme des moyens d’apprendre à vivre avec ses émotions et avec les autres.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "headstart-communication",
-      "title": "Comprendre le comportement des enfants comme un moyen de communication",
+      "title": "Understanding Children’s Behavior as Communication",
       "publisher": "Office of Head Start, Administration for Children and Families",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://headstart.gov/mental-health/article/understanding-childrens-behavior-communication",
-      "claim": "Soutient un partenariat avec les familles fondé sur la relation et une interprétation des comportements dans leur contexte chez les enfants de la naissance à cinq ans.",
-      "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
+      "claim": "Encourage une relation de confiance avec les familles et invite à comprendre le comportement en tenant compte de la situation de l’enfant, de la naissance à 5 ans.",
+      "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "acf-snapshots",
-      "title": "Stratégies pour soutenir l’autorégulation : série de fiches synthétiques",
+      "title": "Strategies for Supporting Self-Regulation: Snapshot Series",
       "publisher": "Office of Head Start / Administration for Children and Families",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://headstart.gov/mental-health/article/strategies-supporting-self-regulation-snapshot-series",
-      "claim": "Présente la corégulation par l’adulte et renvoie vers des ressources pratiques adaptées à l’âge, fondées sur les rapports de l’ACF sur l’autorégulation et le stress toxique.",
-      "accessNote": "Titre et description officiels vérifiés dans les résultats de recherche indexés ; l’accès direct a renvoyé une erreur 403. Lecture complémentaire, qui ne constitue l’unique fondement d’aucune affirmation de la formation."
+      "claim": "Présente l’aide de l’adulte pour gérer les émotions et les actions, avec des liens vers des ressources adaptées à différents âges. S’appuie sur les rapports de l’ACF intitulés Self-Regulation and Toxic Stress.",
+      "accessNote": "Le titre et la description officiels ont été vérifiés dans les résultats de recherche. L’accès direct a renvoyé une erreur 403. Il s’agit d’une lecture complémentaire : aucune affirmation de la formation ne repose uniquement sur cette source."
     },
     {
       "id": "dfe-emotions",
-      "title": "Aide aux professionnels de la petite enfance : les émotions",
+      "title": "Help for early years providers: Emotions",
       "publisher": "Department for Education",
-      "jurisdiction": "Angleterre",
+      "jurisdiction": "England",
       "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
-      "claim": "Soutient un accompagnement émotionnel empathique, le recours au langage et aux supports visuels, la réflexion et les connaissances des familles. Comprend la transcription d’une vidéo officielle.",
+      "claim": "Encourage à accueillir les émotions avec compréhension, à utiliser les mots et les images qui aident l’enfant, à réfléchir à sa pratique et à s’appuyer sur ce que sait la famille. La page comprend le texte complet d’une vidéo officielle.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "dfe-mental-health",
-      "title": "La santé mentale des jeunes enfants",
+      "title": "Mental health for early years children",
       "publisher": "Department for Education, developed with early-years and health professionals",
-      "jurisdiction": "Angleterre",
+      "jurisdiction": "England",
       "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/mental-health-for-early-years-children",
-      "claim": "Aborde les fonctionnements individuels, les changements nécessitant un soutien, le partenariat avec les familles et les professionnels, ainsi que le recours aux circuits de protection de l’enfance.",
+      "claim": "Aborde les habitudes propres à chaque enfant, les changements qui demandent de l’aide, le travail avec les familles et les professionnels, et les démarches de protection de l’enfance lorsqu’une inquiétude doit être signalée.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "safeguarding",
-      "title": "Assurer la sécurité des enfants dans l’éducation 2026 : première partie – aperçu pour l’ensemble du personnel",
+      "title": "Keeping children safe in education 2026: part one – overview for all staff",
       "publisher": "Department for Education",
-      "jurisdiction": "Angleterre",
+      "jurisdiction": "England",
       "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2/part-one-overview-for-all-staff",
-      "claim": "Exige une action rapide, le recours aux circuits locaux de protection de l’enfance et la tenue de dossiers ; un danger immédiat nécessite une réponse d’urgence. Cet aperçu propre à l’Angleterre complète les recommandations intégrales sans les remplacer. Utilisez l’équivalent en vigueur dans votre pays ou région.",
+      "claim": "Demande d’agir rapidement, de suivre les démarches locales de protection de l’enfance et de garder une trace écrite. Un danger immédiat nécessite une réponse d’urgence. Ce résumé concerne l’Angleterre et complète le guide intégral sans le remplacer. Utilisez les consignes en vigueur dans votre pays ou votre région.",
       "accessNote": "Page officielle ou contenu de la ressource vérifiés le 6 octobre 2026."
     },
     {
       "id": "ztt-coregulation",
       "title": "It Takes Two: The Role of Co-Regulation in Building Self-Regulation Skills",
       "publisher": "ZERO TO THREE",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-      "claim": "Étaye les soins aux nourrissons attentifs à leurs signaux, les relations familières et l’émergence de l’autorégulation avec une dépendance encore importante à l’adulte.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Recommandations de pratique professionnelle, pas une évaluation de cette formation. Aucun compte n’était nécessaire pour consulter la page."
+      "claim": "Encourage à répondre aux signes donnés par les bébés et à s’appuyer sur des adultes familiers. Les premières capacités à gérer leurs réactions se développent alors qu’ils ont encore beaucoup besoin de l’adulte.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Il s’agit de conseils professionnels, pas d’une évaluation de cette formation. Aucun compte n’était nécessaire pour lire la page. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "ztt-toddlers",
       "title": "Helping Toddlers Develop Self-Control From 24–36 Months",
       "publisher": "ZERO TO THREE",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://www.zerotothree.org/resource/developing-self-control-from-24-36-months/",
-      "claim": "Étaye le contrôle des impulsions encore en développement, les paroles brèves soutenues par des gestes et les tours de rôle partagés à la portée de l’enfant. Les groupes d’âge de la formation sont des repères de préparation, pas des seuils de performance.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Utiliser de manière sélective la discussion sur le développement. La formation exclut les câlins par surprise, le blocage physique et les suggestions de temps seul."
+      "claim": "Rappelle que les tout-petits apprennent encore à retenir une impulsion. Conseille des phrases courtes accompagnées de gestes et des tours de rôle à leur portée. Les tranches d’âge de la formation aident à préparer les activités ; elles ne fixent pas ce que chaque enfant doit réussir.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ne reprenez que les conseils sur le développement adaptés à cette formation. Les câlins par surprise, le blocage physique et les propositions de laisser l’enfant seul en sont exclus."
     },
     {
       "id": "ztt-tantrums",
       "title": "Toddler Tantrums 101: Why They Happen and What You Can Do",
       "publisher": "ZERO TO THREE",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://www.zerotothree.org/resource/toddler-tantrums-101-why-they-happen-and-what-you-can-do/",
-      "claim": "Étaye la préparation, les choix réels, les limites brèves et le lien attentif, sans promettre un calme immédiat.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La formation ne reprend ni seuils catégoriques liés aux anniversaires ni affirmation selon laquelle la colère devrait être déchargée."
+      "claim": "Encourage à préparer l’enfant, à lui donner de vrais choix, à poser des limites en peu de mots et à rester en lien avec lui. Ne promet pas un retour au calme immédiat.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La formation ne reprend pas de règles rigides sur ce qu’un enfant doit savoir faire à son anniversaire, ni l’idée qu’il doit « évacuer » sa colère."
     },
     {
       "id": "rcn-cues",
       "title": "Baby and toddler cues: in pictures",
       "publisher": "Raising Children Network",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-      "claim": "Étaye l’observation des invitations à interagir, des signaux de pause et de l’évolution de la participation, tout en vérifiant le contexte individuel et familial.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le guide officiel pour les 0–18 mois et le document imprimable anglais ont été lus. Les images sont accessibles par lien et ne sont pas copiées ; les signaux individuels ne sont pas des tests diagnostiques."
+      "claim": "Invite à observer quand l’enfant cherche un échange, quand il a besoin d’une pause et comment sa participation change. Ces signes se comprennent avec ce que l’on sait de l’enfant et de sa famille.",
+      "accessNote": "Le guide officiel couvre les 0–18 mois, y compris les bébés plus jeunes. Pour cette formation, retenez les conseils d’observation adaptés aux enfants à partir de 12 mois. Les images sont accessibles par lien, sans être copiées. Un signe isolé ne permet pas de poser un diagnostic. La page et la version imprimable en anglais ont été vérifiées le 6 octobre 2026. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "rcn-baby-care",
       "title": "Soothing a crying baby: in pictures",
       "publisher": "Raising Children Network",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/babies/behaviour/crying/soothing-a-crying-baby",
-      "claim": "Étaye la vérification des besoins de soins, du confort, de la douleur ou d’une éventuelle maladie, la demande d’aide à un adulte et l’interdiction de secouer un bébé.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le contenu n’est pas repris comme formation à l’alimentation, à l’emmaillotage, à la manipulation, aux soins médicaux ou au sommeil. Les procédures approuvées de soins et de sécurité pendant le sommeil restent nécessaires."
+      "claim": "Pour comprendre le sujet uniquement : rappelle de vérifier les besoins de soins et de confort, une douleur ou une maladie possible, de demander l’aide d’un adulte et de ne jamais secouer un enfant. Ce n’est pas une activité pratique à réaliser avec les moins de 12 mois.",
+      "accessNote": "Cette source est conservée pour indiquer l’origine des conseils. Elle concerne les bébés, y compris ceux de moins de 12 mois, et ne fait pas partie des activités pratiques de cette formation à partir de 12 mois. Les soins suivent le plan individuel de l’enfant et les procédures approuvées de l’établissement. Aucune technique pour porter l’enfant, le nourrir ou le faire dormir n’est enseignée ici."
     },
     {
       "id": "rcn-overstimulation",
       "title": "Overstimulated baby, toddler or child: signs and what to do",
       "publisher": "Raising Children Network",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/toddlers/behaviour/common-concerns/overstimulation",
-      "claim": "Étaye la variation individuelle de la tolérance et la réduction des sons, activités ou manipulations qui se cumulent, tout en observant la réaction.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La formation exclut les instructions d’enveloppement, de couverture de landau et de portage en écharpe, et ne prescrit aucun traitement sensoriel."
+      "claim": "Rappelle que chaque enfant supporte différemment les bruits, les activités et les contacts physiques. Propose de réduire ce qui se cumule autour de lui et d’observer sa réaction.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La formation exclut les consignes pour emmailloter un enfant, couvrir un landau ou utiliser une écharpe de portage. Elle ne prescrit aucun traitement des difficultés sensorielles. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "rcn-toddler-feelings",
       "title": "Helping toddlers learn about feelings",
       "publisher": "Raising Children Network; Karitane and UNSW",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/toddlers/videos/supporting-toddler-feelings",
-      "claim": "Étaye une proximité attentive, le respect d’un tout-petit qui refuse le contact physique et la reprise de l’apprentissage lorsque la participation est possible.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La transcription officielle complète a été lue ; l’attribution de la page a été vérifiée. La lecture et les sous-titres n’ont pas été testés indépendamment."
+      "claim": "Encourage à adapter sa proximité aux besoins du tout-petit, à respecter son refus du contact physique et à reprendre les explications ou l’entraînement lorsqu’il peut participer.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le texte complet de la vidéo a été lu et les organismes indiqués sur la page ont été vérifiés. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement."
     },
     {
       "id": "rcn-preschool-play",
       "title": "Emotions and play: preschoolers",
       "publisher": "Raising Children Network",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/preschoolers/play-learning/play-preschooler-development/emotions-play-preschoolers",
-      "claim": "Étaye les jeux de faire semblant, l’émergence du langage des émotions et une participation variable soutenue par l’adulte pendant les années préscolaires.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La tranche de 3 à 5 ans de la source est un repère général, pas une évaluation validée des étapes du développement. Les activités originales de la formation s’adaptent aussi à chaque enfant de six ans."
+      "claim": "Encourage les jeux de faire semblant et l’apprentissage des mots des émotions chez les enfants de maternelle. La participation varie et reste soutenue par l’adulte.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La tranche de 3–5 ans est un repère général, pas un test validé du développement. Les activités originales de la formation peuvent aussi être adaptées à chaque enfant de 6 ans."
     },
     {
       "id": "rcn-help-routes",
       "title": "Self-regulation in children and teenagers",
       "publisher": "Raising Children Network",
-      "jurisdiction": "Australie",
+      "jurisdiction": "Australia",
       "url": "https://raisingchildren.net.au/toddlers/development/toddlers-social-emotional-development/self-regulation",
-      "claim": "Étaye des compétences dépendantes du contexte et le recours à des conseils professionnels en cas d’inquiétude persistante, de retrait, de danger ou d’impact sur la vie quotidienne.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Les descriptions australiennes d’orientation vers des professionnels nécessitent une adaptation locale ; les voies d’urgence et de protection de l’enfance viennent des procédures actuelles de l’établissement."
+      "claim": "Rappelle que les capacités de l’enfant dépendent aussi de la situation. Conseille de demander un avis professionnel en cas d’inquiétude persistante, de retrait, de danger ou de difficultés qui touchent la vie quotidienne.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Les démarches australiennes pour demander un avis doivent être adaptées au lieu où vous travaillez. Pour les urgences et la protection de l’enfance, suivez les procédures en vigueur dans votre établissement."
     },
     {
       "id": "cmi-coregulation",
       "title": "What Is Co-Regulation?",
       "publisher": "Child Mind Institute",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://childmind.org/article/what-is-co-regulation/",
-      "claim": "Étaye la conscience de soi de l’adulte, l’exemple donné, les différentes manifestations de détresse et la présentation de soutiens familiers avant une crise.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Conseils au public relus par un clinicien. La formation exclut le contact visuel ou physique obligatoire et ne déduit pas d’effets des neurones miroirs ou des hormones dans une interaction individuelle."
+      "claim": "Invite l’adulte à repérer ses propres réactions et à montrer des façons de faire. Rappelle que la détresse se manifeste de différentes manières et conseille de faire découvrir des aides familières avant une crise.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ces conseils destinés au public ont été relus par un professionnel de santé. La formation n’impose ni regard ni contact physique. Elle ne prétend pas savoir comment les cellules du cerveau ou les hormones de l’enfant réagissent lors d’un échange."
     },
     {
       "id": "cmi-skill-practice",
       "title": "How Can We Help Kids With Self-Regulation?",
       "publisher": "Child Mind Institute",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://childmind.org/article/can-help-kids-self-regulation/",
-      "claim": "Étaye une pratique à la portée de l’enfant d’une compétence précise et un accompagnement de l’adulte ajusté progressivement.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Ce n’est ni une norme de compétence fondée sur les anniversaires ni la preuve qu’un réconfort attentif crée une dépendance."
+      "claim": "Encourage à s’exercer à une capacité précise, avec une difficulté à la portée de l’enfant et une aide de l’adulte ajustée peu à peu.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ce n’est pas une liste de capacités à atteindre à un âge précis. Ce n’est pas non plus une preuve que réconforter un enfant selon ses besoins le rend dépendant."
     },
     {
       "id": "cmi-prek-guide",
       "title": "Healthy Minds, Thriving Kids Pre-K: Educator Guide",
       "publisher": "Child Mind Institute",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://childmind.org/wp-content/uploads/2024/03/hmtkprek-educator-guide-eng.pdf",
-      "claim": "Étaye l’exemple donné par l’adulte, les pratiques courtes répétées et l’usage des compétences dans les routines quotidiennes. L’exemple de Sofia ajoute des vérifications explicites de l’accès à la communication et de la réponse de l’adulte.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le guide complet de 21 pages a été lu. Les supports d’un programme de marque ne prouvent pas que cette formation adaptée pour le personnel a été évaluée. Liens uniquement ; aucune illustration de l’organisme n’est reproduite."
+      "claim": "Encourage l’adulte à montrer comment faire, à proposer des entraînements courts et répétés et à réutiliser ces capacités au quotidien. L’exemple de Sofia dans cette formation ajoute des vérifications sur les moyens de communication de l’enfant et sur la réponse de l’adulte.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le guide complet de 21 pages a été lu. Les supports de ce programme ne prouvent pas que cette formation adaptée aux professionnels a été évaluée. Ils sont accessibles par lien ; aucune illustration de l’organisme n’est reproduite."
     },
     {
       "id": "cmi-big-feelings",
       "title": "Having Big Feelings: Healthy Minds, Thriving Kids Pre-K",
       "publisher": "Child Mind Institute",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
-      "claim": "Propose une vidéo préscolaire facultative et des ressources pour éducateurs afin d’explorer les émotions et différentes façons d’y faire face pendant des moments agréables.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page officielle de l’épisode et la durée de 6 min 26 s ont été vérifiées. Une activité de visionnage pour adultes et une alternative textuelle sont fournies ; la lecture et les sous-titres n’ont pas été testés indépendamment."
+      "claim": "Propose une vidéo facultative pour les enfants de maternelle et des ressources pour les adultes. Elles permettent de parler des émotions et d’explorer différentes aides pendant des moments où l’enfant se sent bien.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page officielle de l’épisode et la durée de 6:26 ont été vérifiées. La formation propose une activité de visionnage pour adultes et un résumé qui permet de la faire sans regarder. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement."
     },
     {
       "id": "cmi-seek-care",
       "title": "Should I Get Care for My Child?",
       "publisher": "Child Mind Institute",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://childmind.org/article/should-i-get-care-for-my-child/",
-      "claim": "Étaye des observations précises de la fréquence, de l’intensité, de la durée, du contexte et de la participation pour envisager des conseils supplémentaires.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Ce n’est ni un seuil scolaire d’orientation ni un guide d’urgence. N’attendez pas un mois, un nombre fixe d’incidents ou un diagnostic avant de demander l’aide nécessaire."
+      "claim": "Conseille de noter à quelle fréquence une difficulté survient, son intensité, sa durée, la situation et ses effets sur la participation de l’enfant pour réfléchir à l’aide supplémentaire à demander.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Ce n’est ni une règle scolaire indiquant quand demander un avis, ni un guide d’urgence. N’attendez pas un mois, un nombre précis d’incidents ou un diagnostic pour demander l’aide nécessaire."
     },
     {
       "id": "ncpmi-infant",
       "title": "Things That Will Help Me Stay Calm – Infants",
       "publisher": "National Center for Pyramid Model Innovations",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/document/things-that-will-help-me-stay-calm-infants-pdf/",
-      "claim": "Étaye les interactions attentives de l’adulte, l’observation des signaux et les routines de soins familières pour les nourrissons.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page officielle et le PDF d’une page ont été lus sans connexion. L’adulte applique les conseils ; on n’attend pas des nourrissons qu’ils utilisent un tableau. Ce n’est pas une formation à la sécurité pendant le sommeil."
+      "claim": "Pour comprendre le sujet uniquement : explique comment l’adulte répond au bébé, repère ses signes et s’appuie sur des soins familiers. Ce n’est pas une activité pratique à réaliser avec les moins de 12 mois.",
+      "accessNote": "Cette source est conservée pour indiquer l’origine des conseils. Elle ne constitue pas une activité pratique pour les enfants de moins de 12 mois, âge de début de la formation. Utilisez les habitudes adaptées aux tout-petits et le plan de soins approuvé de l’enfant. La source a été lue sans connexion à un compte ; ce n’est pas une formation à la sécurité du sommeil."
     },
     {
       "id": "ncpmi-responsive-routines",
       "title": "Responsive Routines Inventory",
       "publisher": "National Center for Pyramid Model Innovations",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/wp-content/uploads/2023/04/responsive_routines_inventory.pdf",
-      "claim": "Étaye les routines souples pour nourrissons et tout-petits, le partenariat avec les familles, un adulte de soins référent et une arrivée accompagnée.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le PDF de huit pages a été lu ; le document est daté du 22 septembre 2023. Il ne remplace pas les procédures actuelles de soins sécurisés, de sécurité pendant le sommeil ou d’accès aux toilettes."
+      "claim": "Encourage des habitudes quotidiennes souples pour les bébés et les tout-petits, le travail avec les familles, un adulte de soins référent et une arrivée accompagnée.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le PDF de 8 pages a été lu ; il est daté du 22 septembre 2023. Il ne remplace pas les procédures actuelles pour les soins, la sécurité du sommeil ou l’accès aux toilettes. Les passages sur les enfants de moins de 12 mois servent uniquement à comprendre le sujet. Les activités pratiques de cette formation commencent à 12 mois."
     },
     {
       "id": "ncpmi-visuals-2025",
       "title": "Using Visuals to Support Children in the Early Learning Environment",
       "publisher": "National Center for Pyramid Model Innovations",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-      "claim": "Étaye les images qui ont du sens, les emplois du temps accessibles là où ils sont utilisés, l’indication de la fin des activités et des changements, et les libellés dans une langue familière.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page et le guide de sept pages de juin 2025 ont été lus sans connexion. Les outils « maintenant/ensuite » expliquent des séquences fidèles à la réalité ; les besoins essentiels, le lien et la communication ne sont jamais des récompenses conditionnelles. Uniquement des illustrations originales de la formation."
+      "claim": "Conseille des images que l’enfant comprend, un emploi du temps accessible là où il en a besoin, des repères pour montrer qu’une activité est finie ou qu’un changement est prévu, et des mots dans une langue familière.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page et le guide de 7 pages de juin 2025 ont été lus sans connexion à un compte. Les outils « maintenant / ensuite » de la formation montrent ce qui va réellement se passer. Les besoins essentiels, la présence de l’adulte et les moyens de communiquer ne sont jamais des récompenses à gagner. La formation utilise uniquement ses propres illustrations."
     },
     {
       "id": "ncpmi-routine-plan",
       "title": "Teaching Tools for Young Children: Using Function-Informed Support to Address Challenging Behavior within Routines, fourth edition",
       "publisher": "Lentini and colleagues; National Center for Pyramid Model Innovations",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://challengingbehavior.org/wp-content/uploads/2025/06/ttyc_guide.pdf",
-      "claim": "Étaye la prévention propre à une routine, l’apprentissage, la réponse de l’adulte, le partenariat familial et le suivi, qui éclairent la structure du plan original de Leo.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. Le guide de 91 pages de juin 2025 a été lu. Il ne forme pas à déterminer la fonction d’un comportement, ne remplace pas une évaluation formelle et ne suffit pas face à des inquiétudes graves et persistantes. Lien uniquement ; plan original de la formation, pas un modèle copié."
+      "claim": "Conseille de préparer chaque moment du quotidien : prévenir les difficultés, enseigner une autre façon de faire, prévoir la réponse de l’adulte, travailler avec la famille et suivre ce qui change. A inspiré la structure du plan original de Leo.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. Le guide de 91 pages de juin 2025 a été lu. Il ne forme pas à déterminer la raison d’un comportement, ne remplace pas une évaluation professionnelle et ne suffit pas face à des difficultés graves et persistantes. Le guide est accessible par lien. Le plan de la formation est original ; ce n’est pas un modèle copié."
     },
     {
       "id": "cd-visual-schedule",
       "title": "Visual Daily Schedule",
       "publisher": "Conscious Discipline",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-      "claim": "Exemple de routines visibles et prévisibles d’un programme identifié. Permet d’explorer l’utilisation concrète d’un emploi du temps ; la formation exige par ailleurs une communication individuelle qui a du sens.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La description publique a été lue ; un compte gratuit peut être nécessaire pour le téléchargement. La formation ne copie pas le document imprimable et ne reprend pas une affirmation universelle selon laquelle les enfants pensent uniquement en images."
+      "claim": "Exemple d’un programme nommé, qui rend les moments du quotidien visibles et prévisibles. Permet de réfléchir à l’utilisation concrète d’un emploi du temps. La formation demande aussi, selon ses propres règles, une communication que chaque enfant comprend.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La description publique a été lue ; un compte gratuit peut être nécessaire pour télécharger le document. La formation ne copie pas ce document et ne reprend pas l’idée que tous les enfants pensent uniquement en images."
     },
     {
       "id": "cd-supported-space",
       "title": "Toddler Bedroom: Safe Place",
       "publisher": "Conscious Discipline",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
-      "claim": "Exemple de marque d’apaisement soutenu par l’adulte et d’apprentissage de l’usage d’un espace avant la détresse. Éclaire la réflexion sur la disponibilité de l’adulte, sans imposer de séquence.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page publique a été lue ; la lecture de la vidéo n’a pas été testée. Safe Place et les étapes associées sont des supports de marque, pas des preuves indépendantes d’efficacité. Aucun personnage ni texte copié, aucune respiration ni aucun contact physique imposés."
+      "claim": "Exemple d’un programme qui propose un espace où l’adulte aide l’enfant à s’apaiser. Son utilisation est apprise avant les moments de détresse. Sert à réfléchir à la disponibilité de l’adulte, sans imposer une suite d’étapes.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page publique a été lue ; le fonctionnement de la vidéo n’a pas été testé. Safe Place et ses étapes appartiennent à ce programme : ils ne constituent pas une preuve indépendante d’efficacité. Aucun personnage ni texte n’est copié. Aucun exercice de respiration ni contact physique n’est imposé."
     },
     {
       "id": "cd-feelings",
       "title": "Feeling Faces: Happy, Sad, Angry, Scared",
       "publisher": "Conscious Discipline",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-      "claim": "Propose des illustrations facultatives d’un programme pour échanger sur les émotions. La formation accepte l’incertitude, la confidentialité, plusieurs interprétations et la communication non orale.",
-      "accessNote": "Page officielle ou document lié vérifié le 6 octobre 2026. La page officielle et le PDF de cinq pages ont été ouverts sans connexion. Les illustrations protégées de l’organisme ne sont ni incluses, ni traduites, ni présentées sous une autre marque. Nommer une émotion n’est jamais exigé pour recevoir du réconfort."
+      "claim": "Propose des illustrations facultatives pour parler des émotions. Dans la formation, l’enfant peut ne pas savoir ce qu’il ressent, garder ses émotions pour lui ou communiquer sans parler. Une image peut être comprise de plusieurs façons.",
+      "accessNote": "Page officielle ou document lié vérifiés le 6 octobre 2026. La page officielle et le PDF de 5 pages ont été ouverts sans connexion à un compte. Les illustrations protégées de l’organisme ne sont ni reproduites, ni traduites, ni présentées sous une autre marque. Un enfant n’a jamais besoin de nommer son émotion pour recevoir du réconfort."
     },
     {
       "id": "cd-evaluation",
       "title": "Preschool Promise Child Assessments Technical Report 2017–2018",
       "publisher": "Mary Fuhs, University of Dayton (September 2018); linked by Conscious Discipline",
-      "jurisdiction": "États-Unis",
+      "jurisdiction": "United States",
       "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
-      "claim": "Rapporte une association entre la fidélité de mise en œuvre et les scores de fonctions exécutives au printemps dans 45 classes participantes en 2017–2018, après ajustement sur les covariables mesurées.",
-      "accessNote": "Rapport de 23 pages accessible par un lien officiel, vérifié le 6 octobre 2026. Il décrit un contrat local avec Learn to Earn Dayton ; le fait que Conscious Discipline fournisse un lien ne signifie pas que le programme l’a commandé. Cette évaluation observationnelle n’est ni un test randomisé de chaque pratique, ni un essai de cette formation, ni la preuve d’un mécanisme cérébral."
+      "claim": "Dans 45 classes participantes en 2017–2018, le rapport observe un lien entre l’application du programme comme prévu et les résultats du printemps pour les capacités à se concentrer, à garder une consigne en tête et à adapter ses actions. L’analyse tient compte des autres facteurs mesurés.",
+      "accessNote": "Le rapport de 23 pages, accessible par un lien officiel, a été vérifié le 6 octobre 2026. Il décrit un contrat local avec Learn to Earn Dayton. Le fait que Conscious Discipline y renvoie ne signifie pas que le programme l’a commandé. L’étude observe un lien : elle ne teste pas chaque pratique en répartissant les classes au hasard. Elle n’évalue pas cette formation et ne prouve pas un mécanisme dans le cerveau."
     }
   ],
   "moduleSources": {
@@ -729,7 +729,6 @@
     "2": [
       "ncpmi-visuals-2025",
       "ncpmi-responsive-routines",
-      "rcn-baby-care",
       "rcn-overstimulation",
       "nice-autism",
       "cd-visual-schedule",
@@ -746,7 +745,6 @@
       "acecqa-discipline",
       "dfe-mental-health",
       "safeguarding",
-      "ncpmi-infant",
       "rcn-toddler-feelings"
     ],
     "5": [
@@ -771,8 +769,8 @@
   },
   "evidenceNotes": [
     {
-      "title": "Recommandations professionnelles et applications originales en classe",
-      "text": "ZERO TO THREE, Child Mind Institute, NCPMI, les ressources d’activités de Harvard et Raising Children Network proposent des explications professionnelles, des synthèses et des exemples pratiques. Ils éclairent les décisions enseignées aux adultes, mais ne constituent pas des essais de ces phrases, jeux ou outils. Toutes les situations, formulations et présentations d’outils de la formation sont originales ; aucun organisme ne cautionne cette formation.",
+      "title": "Des conseils professionnels et des activités originales",
+      "text": "ZERO TO THREE, Child Mind Institute, NCPMI, les ressources d’activités de Harvard et Raising Children Network proposent des explications, des résumés de connaissances et des exemples pratiques. Ils aident à choisir les réponses de l’adulte enseignées ici. Ils ne sont pas des études qui testent les phrases, jeux ou outils de cette formation. Toutes les situations, formulations et présentations d’outils sont originales. Aucun de ces organismes n’a approuvé cette formation.",
       "sourceIds": [
         "ztt-coregulation",
         "cmi-coregulation",
@@ -782,8 +780,8 @@
       ]
     },
     {
-      "title": "Les supports de marque sont des exemples, pas des preuves indépendantes",
-      "text": "Conscious Discipline est un programme éducatif identifié. Les ressources choisies éclairent la réflexion sur la prévisibilité, les espaces soutenus par un adulte et le vocabulaire des émotions. Ses étapes, personnages et explications des états cérébraux de marque ne sont ni adoptés comme cadre diagnostique ni copiés dans la formation. Les supports Pre-K du Child Mind Institute sont eux aussi identifiés comme un programme, sans être présentés comme une évaluation indépendante de cette formation. L’accès gratuit n’autorise pas une réutilisation sans limites.",
+      "title": "Les supports de programme sont des exemples, pas des preuves indépendantes",
+      "text": "Conscious Discipline est un programme éducatif nommé. Les ressources choisies aident à réfléchir aux repères prévisibles, aux espaces où l’adulte reste disponible et aux mots des émotions. Ses étapes, personnages et explications du cerveau ne sont ni copiés ici ni utilisés pour poser un diagnostic. Les supports Pre-K du Child Mind Institute sont eux aussi présentés comme ceux d’un programme. Ils ne constituent pas une évaluation indépendante de cette formation. Un accès gratuit ne donne pas le droit de tout réutiliser.",
       "sourceIds": [
         "cd-visual-schedule",
         "cd-supported-space",
@@ -792,8 +790,8 @@
       ]
     },
     {
-      "title": "Recherche indépendante et limites des conclusions",
-      "text": "La synthèse des données probantes et le programme de recherche de l’EEF examinent l’ensemble des connaissances, séparément des supports pratiques des organismes. Les données sur les interventions en petite enfance restent limitées et inégales ; celles propres à la corégulation et aux enfants plus jeunes présentent des lacunes. Un rapport lié par Conscious Discipline décrit une association observationnelle ajustée dans 45 classes, pas un test randomisé de pratiques individuelles. Aucune de ces sources ne valide indépendamment cette formation de 75 minutes, ne garantit un résultat ni n’établit un effet neuronal à partir d’une phrase.",
+      "title": "Ce que les recherches permettent de dire, et leurs limites",
+      "text": "La synthèse et les priorités de recherche de l’EEF examinent les études disponibles, séparément des outils pratiques des organismes. Les recherches sur les aides proposées en petite enfance restent peu nombreuses et couvrent certains sujets mieux que d’autres. Il manque notamment des études sur l’aide de l’adulte pour gérer les émotions et sur les plus jeunes enfants. Un rapport accessible depuis Conscious Discipline observe un lien dans 45 classes, en tenant compte d’autres facteurs mesurés. Il ne teste pas chaque pratique en répartissant les classes au hasard. Aucune de ces sources ne valide indépendamment cette formation de 75 minutes, ne garantit un résultat ni ne prouve qu’une phrase produit un effet précis dans le cerveau.",
       "sourceIds": [
         "eef-regulation",
         "eef-evidence",
@@ -801,18 +799,17 @@
       ]
     },
     {
-      "title": "La sécurité locale et le jugement individuel restent essentiels",
-      "text": "Un soutien éclairé par la recherche ne remplace pas les soins approuvés aux nourrissons, les plans individuels de communication, la surveillance, l’évaluation de santé, la réponse d’urgence ou la protection de l’enfance. Les tranches d’âge des sources diffèrent ; les grands groupes de préparation de cette formation ne sont pas des tests d’étapes du développement. La formation exclut expressément le contact physique ou le regard forcés, la privation de soins, l’ignorance de la détresse, les techniques restrictives improvisées et les instructions de traitement clinique.",
+      "title": "Respecter les règles de sécurité et les besoins de chaque enfant",
+      "text": "Pour les enfants à partir de 12 mois, les conseils appuyés sur la recherche ne remplacent pas les procédures de soins approuvées, les plans individuels de communication, la surveillance, les évaluations de santé, les secours ou la protection de l’enfance. Certaines sources parlent de bébés plus jeunes : elles servent à comprendre le sujet, pas à réaliser des activités avec les moins de 12 mois. Les tranches d’âge aident à préparer les activités ; ce ne sont pas des tests du développement. La formation exclut le contact physique ou le regard imposés, la privation de soins, le fait d’ignorer la détresse, les moyens improvisés pour retenir un enfant ou limiter ses mouvements, et les consignes de traitement médical.",
       "sourceIds": [
-        "rcn-baby-care",
         "ncpmi-responsive-routines",
         "nice-autism",
         "safeguarding"
       ]
     },
     {
-      "title": "Accès, droits d’auteur et visionnage facultatif",
-      "text": "Les nouvelles pages et les nouveaux documents des organismes ont été vérifiés le 6 octobre 2026. Les nouvelles vidéos ajoutées ont été vérifiées au niveau de leurs pages, ressources d’accompagnement et transcriptions ; leur lecture n’a pas été testée indépendamment. Chaque vidéo de la formation comporte une activité de visionnage pour adultes et une alternative textuelle. Le téléchargement de l’emploi du temps de Conscious Discipline peut nécessiter un compte gratuit. Les illustrations, histoires, modèles et logos des organismes sont accessibles par des liens, plutôt que reproduits ou traduits.",
+      "title": "Accès aux ressources, droits d’auteur et vidéos facultatives",
+      "text": "Les nouvelles pages et les nouveaux documents ont été vérifiés le 6 octobre 2026. Pour les nouvelles vidéos, les vérifications ont porté sur les pages, les documents associés et les textes des vidéos ; leur fonctionnement n’a pas été testé directement. Chaque vidéo est accompagnée d’une activité pour adultes et d’un résumé permettant de la faire sans regarder. Un compte gratuit peut être nécessaire pour télécharger l’emploi du temps de Conscious Discipline. Les images, histoires, modèles et logos des organismes sont accessibles par lien ; ils ne sont ni reproduits ni traduits.",
       "sourceIds": [
         "cmi-big-feelings",
         "rcn-toddler-feelings",

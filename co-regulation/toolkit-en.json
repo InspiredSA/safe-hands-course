@@ -1,256 +1,256 @@
 {
-  "title": "Small tools. Clear adult actions.",
-  "intro": "Use these original examples for staff rehearsal and planning. Choose the child’s established words, objects, symbols, signs or AAC; a printed symbol is not automatically meaningful. Use fictional examples here and keep real records in your school’s approved system.",
-  "ageTitle": "Change the adult job, not just the age label",
-  "ageNote": "These broad planning groups are not milestone tests or diagnoses. Current communication, interests and capacity guide support. The infant extension is only for staff whose setting and authorised role include infant care. The 3–6 guide includes six-year-olds and still needs individual adaptation.",
+  "title": "What to do. What to say.",
+  "intro": "Choose one idea that fits the child and the routine. Ask the teacher which words, pictures, signs or device the child already uses. Do not expect a child to understand a new picture straight away. Use made-up examples on this page; keep real child records in the school’s usual safe place.",
+  "ageTitle": "Children of different ages need different help",
+  "ageNote": "These guides start at 12 months. Children learn at different speeds, so watch the child as well as checking their age. The oldest group includes six-year-olds. Follow each child’s agreed plan and your role at school. These cards do not teach feeding, lifting or sleep procedures.",
   "ageCards": [
     {
       "id": "infant-support",
-      "title": "Infant extension: birth to under 18 months",
-      "adultExpectation": "Provide most of the regulation support. Notice emerging signals and self-soothing without expecting independent recovery or a spoken request.",
-      "before": "Learn family-recognised cues; plan familiar caregiving and a backup adult. Check individual care needs and avoid competing noise and handling.",
-      "during": "Respond promptly with a familiar voice and appropriate care. Pause extra stimulation. Adjust comfort to the baby's cues and follow safe-care procedures. Follow approved handling and safe-sleep procedures; never shake a baby. This card does not teach those procedures.",
-      "after": "Return to familiar interaction when interest returns. Adults review what helped; the baby does not need a debrief.",
-      "script": "“I hear you. I'm here. Let's have a quieter moment.”",
-      "activityTitle": "Answer and pause",
-      "activity": "Answer one sound or movement during comfortable play, then wait. Repeat while welcome; pause when interest shifts. No required eye contact or number of turns."
+      "title": "Younger toddlers: 12 months to under 18 months",
+      "adultExpectation": "Give plenty of adult help. The child may reach, point, push something away or make sounds to tell you what they need. Do not require walking, speaking or naming a feeling before you help.",
+      "before": "Ask the family and teacher what the child’s signals usually mean. Check food, drink, nappy, rest and comfort needs. Keep the next activity simple and reduce extra noise.",
+      "during": "Notice the child’s signal. Stop extra sounds or toys and offer familiar comfort. Show one small next step if the child is ready. Follow school care rules. Never shake a child or cover their face.",
+      "after": "Offer a familiar toy or simple activity when the child shows interest. Show one action and wait. The child does not need to explain what happened. Adults can talk about what helped.",
+      "script": "“It’s noisy. I’m here.” [Show a familiar quiet play choice and wait.]",
+      "activityTitle": "Copy one action and wait",
+      "activity": "When the child is settled, follow their interest in a large, age-safe toy. Copy or name one action, then wait for a sound, gesture or movement. Continue if the child wants to. Stop if they turn away or become uncomfortable. Watch the child and the materials throughout."
     },
     {
       "id": "toddler-support",
       "title": "Toddlers: 18 months to under 3 years",
-      "adultExpectation": "Expect strong preferences with uneven impulse control. Understanding a limit does not mean reliably applying it while distressed.",
-      "before": "Show the next familiar step; offer a genuine small choice. Reduce waiting and prepare an accessible way to ask for help.",
-      "during": "Use a brief acknowledgment and practical help. Keep people safe. If touch is declined, stay available at a comfortable distance.",
-      "after": "Help the child return to play. Model one useful alternative when they can join; avoid a long explanation.",
-      "script": "“You wanted that truck. I can sit here.” Later, when ready: “I can help. You can show me.”",
-      "activityTitle": "Teddy needs help",
-      "activity": "Use an age-safe toy and basket to model a familiar help signal, then do one action together. Follow the toddler's idea; never withhold assistance for a correct response."
+      "adultExpectation": "Expect strong wishes and a need for help when things go wrong. Knowing a rule does not mean a young child can follow it while upset.",
+      "before": "Show what will happen next. Offer a small choice you can keep, such as which basket to carry. Avoid a long wait and have a familiar way for the child to ask for help.",
+      "during": "Use a short sentence and practical help. Keep both children safe if there is a disagreement. If the child does not want a cuddle, stay nearby without forcing touch.",
+      "after": "Help the child return to play. Later, show one useful action, such as bringing a stuck toy to an adult. Keep the explanation short.",
+      "script": "“You wanted that truck. I can sit here.” Later: “I can help. You can show me.”",
+      "activityTitle": "Help the teddy",
+      "activity": "Use an age-safe teddy and basket. Show how teddy asks for help using the child’s familiar word, sign or gesture. Help teddy put one toy in. Let the child join or watch. Do not withhold help while waiting for the child to copy the signal."
     },
     {
       "id": "preschool-support",
       "title": "Preschool and early years: 3–6 years",
-      "adultExpectation": "Invite growing emotion language, shared plans and problem-solving. Keep adult support available when those skills are harder to use.",
-      "before": "Rehearse one helpful action in settled play. Preview a change and make communication supports available where they are needed.",
-      "during": "Reduce demands and unnecessary questions. Acknowledge the difficulty, pause and offer familiar support. Follow local safety procedures if risk increases.",
-      "after": "Briefly explore what helped and practise one next step. Support a manageable repair without demanding an apology as the price of rejoining.",
-      "script": "“You wanted to finish your building. We can save the pieces here.” Later: “What could help at tidy-up tomorrow?”",
-      "activityTitle": "Two puppet endings",
-      "activity": "A puppet wants to join play. Invite two safe solutions using toys, gestures, symbols or words. Observing is welcome; no child must perform an emotion or disclose a real incident."
+      "adultExpectation": "Many children can talk about feelings or make a simple plan when settled. They may still need much more help when upset.",
+      "before": "Show one helpful action in play. Warn the child about a change using words or pictures they know. Keep help pictures, signs or devices where the child needs them.",
+      "during": "Ask fewer questions and make the next step smaller. Say what happened, pause and offer familiar help. If the situation becomes unsafe, use the school’s safety steps and call for help.",
+      "after": "When the child is ready, briefly talk about what helped. Show one thing to try next time. Help repair harm, such as rebuilding a knocked-over tower, without forcing an apology before the child can rejoin.",
+      "script": "“You wanted to finish your building. We can save these pieces.” Later: “What could help when we tidy up tomorrow?”",
+      "activityTitle": "Show two puppet endings",
+      "activity": "A puppet wants to join a game. Show one safe way it could ask for help. Invite the children to try another ending with toys, pictures, gestures or words. They can watch instead. Do not ask them to act out a real upsetting event."
     }
   ],
-  "phaseTitle": "Choose the job this moment needs",
-  "phaseNote": "These are adult decisions, not fixed stages every child must follow. A child can need support again at any point. Serious danger, suspected medical emergency or a safeguarding concern takes priority.",
+  "phaseTitle": "Choose what the child needs now",
+  "phaseNote": "A child may need comfort again after seeming settled. There is no set order or time limit. If someone is in danger, a child may be seriously ill or you are worried someone has harmed a child, get help through the school’s emergency or child-safety reporting steps.",
   "phases": [
     {
       "id": "before",
-      "title": "Before: make access easier",
+      "title": "Before: make the routine easier",
       "icon": "plan",
       "actions": [
-        "Preview the next step with a familiar cue.",
-        "Reduce waiting, crowding and competing noise.",
-        "Practise one accessible help signal in comfortable play."
+        "Show what will happen next using something the child knows.",
+        "Have fewer children waiting together; reduce extra noise.",
+        "When the child is settled, show one way to ask for help."
       ],
       "script": "“After this page, lunch. I’ll show you where we’re going.”"
     },
     {
       "id": "during",
-      "title": "During: safety and connection",
+      "title": "While upset: keep safe and help",
       "icon": "support",
       "actions": [
-        "Check immediate danger, pain, illness and urgent care needs.",
-        "Agree who covers the group; use one adult voice.",
-        "Offer one practical change and a short sentence, then pause."
+        "Check for danger, pain, illness or an urgent care need.",
+        "Ask a colleague to watch the group if you need to stay with the child. Let one adult do the talking.",
+        "Make one useful change, use a short sentence and wait."
       ],
       "script": "“It’s noisy. I can stay nearby.”"
     },
     {
       "id": "recovery",
-      "title": "Recovery: comfort and re-entry",
+      "title": "As they settle: help them rejoin",
       "icon": "listen",
       "actions": [
-        "Keep support and necessary care available.",
-        "Offer a low-demand way to observe or join.",
-        "Do not require an apology, feeling label or explanation before returning."
+        "Keep comfort, care and adult help available.",
+        "Offer a small first step, such as watching beside you.",
+        "Do not require an apology, an explanation or a feeling word before the child can return."
       ],
       "script": "“You can watch beside me. There’s room when you want to join.”"
     },
     {
       "id": "later",
-      "title": "Later: teach, repair, review",
+      "title": "Later: show what to try next time",
       "icon": "repeat",
       "actions": [
-        "Practise one helpful alternative when the child can engage.",
-        "Support a small meaningful repair; care for anyone hurt separately.",
-        "Change one adult/environment action and review whether it helped."
+        "When the child can join in, practise one useful action.",
+        "Help repair any harm in a small way. Care for a hurt or frightened child separately.",
+        "With the teacher, choose one change adults will make and check whether it helps."
       ],
-      "script": "“Next time I can help. Shall we practise showing help with the puppet?”"
+      "script": "“Next time I can help. Shall we show the puppet how to ask?”"
     }
   ],
-  "visualTitle": "Original communication examples",
-  "visualNote": "Introduce these ideas while children are settled. Adapt them with the child’s communication team and family. These examples are not an AAC assessment or branded programme materials.",
+  "visualTitle": "Show the child what happens next",
+  "visualNote": "Try the pictures or objects when the child is settled. Use ones the child knows. If you are unsure what they understand, ask the teacher. Keep using any agreed signs or communication device.",
   "nowLabel": "Now",
   "nextLabel": "Next",
-  "nowExample": "Play",
-  "nextExample": "Tidy up with an adult",
+  "nowExample": "Playing with blocks",
+  "nextExample": "Put blocks in the box with an adult",
   "sequenceSteps": [
-    "Choose two objects, photographs or symbols that this child recognises.",
-    "Show and say the current activity. Show the next step before the change.",
-    "At the transition, point again and help with one manageable action.",
-    "Mark the finished activity together. Show a change honestly if the plan changes."
+    "Ask the teacher which pictures or objects the child knows. Choose one for what is happening now and one for what comes next.",
+    "Point to the first one: “We’re playing with blocks.” Point to the next: “Then we’ll put them in the box together.”",
+    "When it is time to change, show the next picture again. Help the child put one block away.",
+    "Move the finished-play picture aside, or put its object away, then show the next picture or object. The adult can do this; the child does not have to move it. If the plan changes, change the picture and say what will happen instead."
   ],
-  "sequenceWarning": "Now/next gives truthful information. Do not turn it into “first behave, then food, care, communication or comfort”.",
+  "sequenceWarning": "The pictures tell the child what will happen. They are not rewards. Never make food, water, toilet help, communication or comfort depend on finishing a task or behaving a certain way.",
   "signalCards": [
     {
       "id": "help",
       "label": "Help",
       "icon": "support",
-      "childExample": "A gesture, object, sign, picture or device message can mean “help”.",
-      "adultAction": "Notice and respond: “I can help.” Do not wait for a perfect phrase or point."
+      "childExample": "A child might hand you a toy, point, make a sound or use a familiar word, sign, picture or device.",
+      "adultAction": "Notice the request and help: “I can help.” Do not wait for a perfect word or gesture."
     },
     {
       "id": "break",
       "label": "Break",
       "icon": "pause",
-      "childExample": "Use the child’s familiar way to ask for a pause.",
-      "adultAction": "Offer a supervised pause and stay available. If the exact request cannot happen safely, acknowledge it and offer a workable alternative."
+      "childExample": "Use the child’s usual way of asking for a pause.",
+      "adultAction": "Offer a pause with an adult still watching and helping. If the exact request is not safe or possible, say so simply and offer something you can do."
     },
     {
       "id": "stop",
       "label": "Stop / no",
       "icon": "voice",
-      "childExample": "Turning away or moving a hand away can communicate “not that”.",
-      "adultAction": "Pause the offered activity or touch when safe, reduce pressure and remain available. Necessary care follows the approved individual plan; request trained help if it cannot be provided safely. This card does not authorise force."
+      "childExample": "Turning away or moving your hand away may mean “not that”.",
+      "adultAction": "Stop what you are offering if it is safe to do so. Give the child more space and stay available. If needed care is difficult, ask the teacher or trained colleague for help and follow the care plan. This card does not give permission to use force."
     }
   ],
-  "spaceTitle": "Set up a supportive quieter option",
+  "spaceTitle": "Offer a quieter place with an adult nearby",
   "spaceSteps": [
-    "Check sightlines, adult availability, access and school supervision requirements.",
-    "Choose a few age-safe familiar resources with the child and family; avoid overcrowding the space.",
-    "Introduce it during settled time and model an optional short visit.",
-    "Offer it or reduce stimulation where the child already is. Never drag, corner or lock a child in.",
-    "Support return when the child can participate, including watching beside an adult. There is no required timer, breathing sequence or apology."
+    "Ask the teacher where a child can have less noise while an adult still sees and helps them. The child must be able to enter and leave with their usual movement support; keep the way out clear. Agree who watches the other children.",
+    "Keep the space simple. Use a few familiar, age-safe things. Check for small parts or anything else that could hurt the child.",
+    "When the child is settled, show the place: “You can come here with me if it’s too noisy.”",
+    "When the child is upset, offer the place. If they do not want to move, see whether you can make things quieter where they are. Do not drag, corner or lock them in.",
+    "Help the child join in again when they can. Watching beside an adult may be a first step. Do not make them finish a timer, breathing exercise or apology before they can leave."
   ],
-  "spaceWarning": "A quieter space is one option, not a punishment, a place to send every upset child or a substitute for adult support. Specialist sensory equipment needs the appropriate assessment, training and agreed plan.",
-  "planTitle": "Worked example: Leo’s tidy-up transition",
-  "planNote": "Entirely fictional. This is an ordinary access-support plan, not a functional assessment or a diagnosis.",
+  "spaceWarning": "A quieter place is a way to help, not a punishment. Stay available to the child. Do not use special sensory equipment unless the right professional and school have agreed how it should be used and you have the training.",
+  "planTitle": "Worked example: helping Leo at tidy-up",
+  "planNote": "This example is made up. It shows a small change adults can try. It does not tell us for certain why Leo is upset.",
   "planRows": [
     [
-      "Strengths and communication",
-      "Leo enjoys building and communicates through pointing and familiar gestures. Ask the family which home-language cues and signs are meaningful."
+      "What Leo enjoys and how he asks",
+      "Leo enjoys blocks. He often points or uses gestures. Ask his family and teacher which words and signs he knows."
     ],
     [
-      "Context and early cues",
-      "During crowded tidy-up, chairs scrape and several children reach the shelves together. Leo covers his ears and moves back."
+      "The difficult moment",
+      "At tidy-up, chairs scrape and several children crowd around the shelves. Leo covers his ears and moves back."
     ],
     [
-      "Before",
-      "The lead adult shows a familiar tidy-up cue and offers one basket. A colleague arranges one small group at the shelves at a time. Reduce chair-scraping noise where practical."
+      "Before tidy-up",
+      "Show Leo the picture or object he knows for tidy-up. Offer one basket. One adult sends a small group to the shelves while another watches the rest. Move chairs more quietly if possible."
     ],
     [
-      "During",
-      "One adult says, “It’s noisy. We can wait here together.” Offer a quieter supervised position or reduce the crowd where Leo is. Do not require a spoken answer."
+      "When Leo is upset",
+      "Let one adult say, “It’s noisy. We can wait here together.” Offer a quieter place with an adult nearby, or reduce the crowd where Leo is. Do not require him to speak."
     ],
     [
-      "Recovery",
-      "Offer a low-demand return: carrying one item with an adult or watching nearby. No apology or feelings label is required."
+      "When he is ready to rejoin",
+      "Offer one small step: carry one item together, or watch beside an adult. He does not have to apologise or name a feeling first."
     ],
     [
-      "Teach later",
-      "Model a familiar help/break signal with a puppet and respond promptly. Keep the cue at the point of use and accept Leo’s existing communication."
+      "What to practise later",
+      "Use a puppet to show Leo’s familiar help or break signal. Show the adult responding. Keep that signal available at tidy-up and accept the ways Leo already communicates."
     ],
     [
-      "Who and backup",
-      "The classroom lead checks the cue; the named colleague covers the group. Agree the actual backup adult and help signal through school procedures."
+      "Who does what",
+      "The teacher agrees who shows the picture, who watches the group and who can help if the first adult is absent. Practise the school’s signal for asking a colleague for help."
     ],
     [
-      "If risk, health or safeguarding concerns emerge",
-      "Summon the agreed trained support and maintain child/group supervision. Serious danger or suspected medical emergency follows the emergency/first-aid route immediately. Safeguarding concerns follow the safeguarding route without waiting for a routine review. This plan does not authorise physical intervention."
+      "If someone may be hurt or unwell",
+      "Get the agreed trained help and keep the child and group supervised. Follow first-aid/emergency steps for serious danger or illness. Report a child-safety concern straight away through the school’s route. Do not wait for a later plan review or try a holding technique."
     ],
     [
-      "Review",
-      "After several ordinary transitions, ask whether the adult changes happened, whether Leo could communicate and whether participation was more comfortable. Seek help sooner if risk or concern increases."
+      "Check whether it helped",
+      "After a few ordinary tidy-up times, ask: Did we use the picture and smaller groups? Could Leo ask for help and join in more comfortably? Ask his family what they noticed. Seek help sooner if you are worried."
     ]
   ],
-  "observationTitle": "Facts, possible explanations, next action",
+  "observationTitle": "Write what you saw, then what you might try",
   "observationRows": [
     [
-      "Observation",
-      "Six children reached the shelves together as chairs moved. Leo covered his ears and sat by the table. The adult stopped asking questions and moved the group on. With the adult nearby, Leo pointed towards the quieter spot."
+      "What we saw and heard",
+      "Six children reached the shelves while chairs were moving. Leo covered his ears and sat by a table. The adult stopped asking questions and moved the group on. With the adult nearby, Leo pointed towards the quieter place."
     ],
     [
-      "Possible explanations",
-      "Noise, crowding or an unclear next step may have contributed. Another care or health need is also possible. This observation does not establish a cause or diagnosis."
+      "What might be making it hard",
+      "The noise, crowd or uncertainty about what comes next might matter. Leo might also need care or be unwell. This one example does not tell us the cause."
     ],
     [
-      "Next adult action",
-      "Try staggered tidy-up and one familiar cue. Ask the family about Leo’s gestures. Check whether the change improves access, comfort and participation."
+      "What adults will try",
+      "Have a smaller group at the shelves and show one familiar tidy-up cue. Ask the family what Leo’s gestures mean. Watch whether he is more comfortable and able to join in."
     ],
     [
-      "Better review question",
-      "Was the support available and used? Could the child communicate and join in? Fewer outbursts alone are not enough if the child is now withdrawn or excluded."
+      "What to check",
+      "Did adults give the help they planned? Could Leo communicate and join play? Less crying alone does not prove the plan helps if he now spends more time alone."
     ]
   ],
-  "blankTitle": "Plan one routine with your team",
-  "blankNote": "Discuss a fictional example, or print this blank guide and use only your approved secure school process for any real child plan. This page does not collect or save child information.",
+  "blankTitle": "Make a simple plan for one routine",
+  "blankNote": "Practise with a made-up example. If you print this for a real child, follow the school’s rules for writing and storing child records. This page does not collect or save a child’s details.",
   "blankPrompts": [
-    "A strength and a familiar way to communicate",
-    "One difficult routine and observable early cue",
-    "One adult/environment change before it",
-    "One short first sentence and a safe support option",
-    "Group supervision, backup and urgent-help route",
-    "One skill to teach later and how to make it available",
-    "How the child/family will contribute; who reviews and when"
+    "What does the child enjoy? How do they ask for help?",
+    "Which part of the day is hard? What do you see the child do?",
+    "What can adults change before that part of the day?",
+    "What will you say first? What help can you offer?",
+    "Who watches the group? Who do you call for help or an emergency?",
+    "What small skill can you show the child later, when settled?",
+    "What do the child and family suggest? Who will check the plan, and when?"
   ],
-  "resourceTitle": "Choose an official tool for a clear purpose",
-  "resourceIntro": "Preview resources before using them with children. Free-to-download does not mean public domain. External materials may contain suggestions outside this course’s boundaries; use the safeguards and approved school procedures taught here. Do not copy, rebrand or translate protected artwork.",
+  "resourceTitle": "Extra ideas from the source organisations",
+  "resourceIntro": "Ask the teacher which resources fit your children. Read or watch them before using them with a child. Some cover younger babies or older children, so choose examples for your setting. Keep the safety rules in this course. Free downloads can still be protected by copyright; use the official links.",
   "resources": [
     {
-      "title": "Baby cues: picture guide",
+      "title": "Baby and toddler cues: use from 12 months",
       "publisher": "Raising Children Network",
       "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
-      "use": "Observe one invitation cue and one possible pause cue; discuss what you would check next.",
-      "access": "Free page and printable; several translated versions linked. Infant extension only."
+      "use": "Look at one signal that fits a child aged 12 months to under 18 months. What might it mean, and what would you try next?",
+      "access": "Free broader 0–18-month guide and printable, with translated versions linked. Select only relevant 12-months-plus guidance; younger-baby examples are background, not course activities."
     },
     {
       "title": "Using visuals in the early learning environment",
       "publisher": "NCPMI",
       "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
-      "use": "Choose a familiar daily routine and rehearse showing, using and updating its visual sequence.",
+      "use": "Choose one routine, such as tidy-up. Practise showing what comes next, helping the child do it and changing the picture if the plan changes.",
       "access": "Free official page and PDF, June 2025. Use sequencing for access, never to withhold necessary care."
     },
     {
       "title": "Having Big Feelings: educator guide",
       "publisher": "Child Mind Institute",
       "url": "https://childmind.org/wp-content/uploads/2024/01/hmtkprek-educator-guide-eng-having-big-feelings.pdf",
-      "use": "Plan one optional coping practice for a settled moment, with gesture/AAC and no-touch alternatives.",
-      "access": "Free three-page guide for preschool teaching; not an infant activity or a clinical programme."
+      "use": "Ask the teacher to choose one idea for settled play. Show how a child could join without speaking, touching or doing a breathing exercise.",
+      "access": "Free three-page guide for preschool teaching; use only developmentally suitable activities. It is not a clinical programme."
     },
     {
       "title": "Executive-function activity guides",
       "publisher": "Harvard Center on the Developing Child",
       "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
-      "use": "Choose a developmentally suitable game, an easier version and a child stop cue.",
-      "access": "Free age-banded guides, originally published in 2014. Games offer practice, not guaranteed wider effects."
+      "use": "Choose a game for a child from 12 months. Make it easier if needed. Decide what would tell you the child wants to stop.",
+      "access": "Free age-banded guides, originally published in 2014. The source includes younger babies; select suitable 12-months-plus activities for this course. Games offer practice, not guaranteed wider effects."
     },
     {
       "title": "It Takes Two: co-regulation",
       "publisher": "ZERO TO THREE",
       "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
-      "use": "Compare an infant’s cue-and-care support with a toddler’s adult-supported choices.",
-      "access": "Free professional guidance. Emerging self-soothing does not mean an infant should manage distress alone."
+      "use": "Compare the help a child aged 12 months to under 18 months needs with the simple choices an older toddler might use.",
+      "access": "Free professional guidance covering a broader developmental range. Emerging independence does not mean a young child should manage distress alone; this course’s practical examples begin at 12 months."
     },
     {
       "title": "Feeling Faces",
       "publisher": "Conscious Discipline",
       "url": "https://consciousdiscipline.com/resources/feeling-faces/",
-      "use": "Preview an optional feelings conversation. Allow uncertainty, privacy and nonspoken communication.",
+      "use": "Use a picture to talk about a story character’s possible feelings. Accept “I don’t know” or no answer. Do not require a child to name their own feeling before you help.",
       "access": "Official page and PDF were freely accessible. Branded artwork is linked, not copied. A face does not prove a feeling."
     },
     {
       "title": "Visual Daily Schedule",
       "publisher": "Conscious Discipline",
       "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
-      "use": "Explore one programme’s example of a visible sequence; compare it with the original now/next example above.",
+      "use": "Look at the example of pictures showing a day’s activities. Compare it with the simple now/next example above.",
       "access": "Free account may be required. This branded resource is not independent evidence for all programme claims."
     }
   ]
