@@ -216,11 +216,11 @@ window.COURSE={
           "blocks": [
             {
               "type": "h",
-              "text": "The noisy handwashing queue"
+              "text": "A noisy classroom transition"
             },
             {
               "type": "p",
-              "text": "Fictional example: Three-year-old Leo covers his ears near the hand dryer, backs away and then drops to the floor. The line grows behind him. He communicates mostly through gestures. No diagnosis is recorded."
+              "text": "Fictional example: Three-year-old Leo covers his ears as chairs scrape and children talk during the transition from play to tidy-up. He backs away and sits on the floor as children crowd around the storage shelves. He communicates mostly through gestures. No diagnosis is recorded."
             },
             {
               "type": "h",
@@ -256,7 +256,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "“Paper towel here.” [Show it and pause.]"
+              "text": "“We can wait here together.” [Point to a quieter, supervised spot and pause.]"
             },
             {
               "type": "p",
@@ -264,7 +264,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Afterwards, speak with the family about useful signals and preferences. Review whether smaller groups, a different route or an earlier transition helps. Record the change and its effect rather than labelling Leo."
+              "text": "Afterwards, speak with the family about useful signals and preferences. Review whether smaller groups, a familiar visual cue or a staggered tidy-up helps. Record the change and its effect rather than labelling Leo."
             }
           ]
         }

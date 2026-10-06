@@ -43,14 +43,14 @@
       "why": "Cette réponse décrit ce qui s’est passé, reconnaît les efforts et propose du soutien sans exiger une explication ou une réussite immédiate. La première tâche de l’adulte est d’assurer la sécurité et de créer le lien. Plus tard, invitez Amira à choisir entre reconstruire, modifier la construction ou faire une pause. L’objectif est d’accompagner sa participation, et non de lui donner une apparence calme le plus vite possible."
     },
     {
-      "q": "Exemple fictif : Leo, trois ans, se bouche les oreilles près du sèche-mains, recule puis se laisse tomber au sol. La file d’attente s’allonge derrière lui. Il communique principalement par gestes. Aucun diagnostic n’est consigné. Quelle adaptation serait la plus utile en premier lieu ?",
+      "q": "Exemple fictif : Leo, trois ans, se couvre les oreilles pendant le passage du jeu au rangement, alors que les chaises raclent le sol et que les enfants parlent. Il recule et s’assoit par terre tandis que les enfants se regroupent autour des étagères de rangement. Il communique surtout par gestes. Aucun diagnostic n’est consigné. Quelle adaptation serait la plus utile en premier lieu ?",
       "o": [
-        "Le maintenir dans la file jusqu’à ce qu’il s’habitue au bruit.",
+        "Le maintenir dans le groupe bruyant jusqu’à ce qu’il s’habitue au bruit.",
         "Dire à sa famille que ce comportement confirme un trouble sensoriel.",
-        "Réduire l’attroupement, proposer un moyen plus silencieux de se sécher les mains et utiliser un geste familier pour montrer l’étape suivante."
+        "Réduire le bruit et l’attroupement, proposer un endroit plus calme sous surveillance avec un adulte à proximité, et utiliser un geste ou une image familière pour montrer l’étape suivante."
       ],
       "a": 2,
-      "why": "Cette réponse tient compte des obstacles observables tout en maintenant la routine de lavage des mains et l’accès de Leo à la communication. Ensuite, échangez avec sa famille sur les signaux et les préférences utiles. Examinez si des groupes plus petits, un autre trajet ou une transition plus tôt peuvent l’aider. Consignez l’adaptation et son effet plutôt que d’étiqueter Leo."
+      "why": "Cette réponse réduit les obstacles observables tout en maintenant le soutien apporté à Leo et en lui offrant un moyen accessible de comprendre l’étape suivante. Ensuite, échangez avec la famille sur les signaux utiles et les préférences de l’enfant. Voyez si des groupes plus petits, un repère visuel familier ou un rangement échelonné peuvent aider. Consignez le changement et son effet plutôt que de coller une étiquette à Leo."
     },
     {
       "q": "Exemple fictif : Priya, deux ans, découvre en arrivant qu’un autre adulte l’accueille. Elle s’agrippe à la personne qui l’accompagne, se détourne et ne dit rien. Le personnel craint qu’elle manque l’activité du matin. Quelle réponse facilite la transition à cet instant ?",

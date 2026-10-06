@@ -44,14 +44,14 @@ window.COURSE_EXTRAS={
         "why": "This describes the event, recognises the effort and offers support without requiring immediate explanation or performance. The adult’s first job is safety and connection. Later, invite Amira to choose between rebuilding, changing the design or taking a break. The goal is supported participation, not making the child look calm as quickly as possible."
       },
       {
-        "q": "Fictional example: Three-year-old Leo covers his ears near the hand dryer, backs away and then drops to the floor. The line grows behind him. He communicates mostly through gestures. No diagnosis is recorded. What is the most useful first adjustment?",
+        "q": "Fictional example: Three-year-old Leo covers his ears as chairs scrape and children talk during the transition from play to tidy-up. He backs away and sits on the floor as children crowd around the storage shelves. He communicates mostly through gestures. No diagnosis is recorded. What is the most useful first adjustment?",
         "o": [
-          "Keep him in the queue until he gets used to the sound.",
+          "Keep him in the noisy group until he gets used to the sound.",
           "Tell his family that this behaviour confirms a sensory disorder.",
-          "Reduce crowding, offer a quieter drying option and use a familiar gesture to show the next step."
+          "Reduce noise and crowding, offer a quieter supervised spot with an adult nearby, and use a familiar gesture or picture to show the next step."
         ],
         "a": 2,
-        "why": "This addresses observable barriers while preserving the handwashing routine and Leo’s communication access. Afterwards, speak with the family about useful signals and preferences. Review whether smaller groups, a different route or an earlier transition helps. Record the change and its effect rather than labelling Leo."
+        "why": "This reduces observable barriers while keeping Leo supported and giving him an accessible way to understand the next step. Afterwards, speak with the family about useful signals and preferences. Review whether smaller groups, a familiar visual cue or a staggered tidy-up helps. Record the change and its effect rather than labelling Leo."
       },
       {
         "q": "Fictional example: Two-year-old Priya arrives to find a different adult greeting her. She clings to her caregiver, turns away and says nothing. Staff worry that she will miss the morning activity. Which response supports the immediate transition?",
@@ -539,14 +539,14 @@ window.COURSE_EXTRAS={
         "why": "Cette réponse décrit ce qui s’est passé, reconnaît les efforts et propose du soutien sans exiger une explication ou une réussite immédiate. La première tâche de l’adulte est d’assurer la sécurité et de créer le lien. Plus tard, invitez Amira à choisir entre reconstruire, modifier la construction ou faire une pause. L’objectif est d’accompagner sa participation, et non de lui donner une apparence calme le plus vite possible."
       },
       {
-        "q": "Exemple fictif : Leo, trois ans, se bouche les oreilles près du sèche-mains, recule puis se laisse tomber au sol. La file d’attente s’allonge derrière lui. Il communique principalement par gestes. Aucun diagnostic n’est consigné. Quelle adaptation serait la plus utile en premier lieu ?",
+        "q": "Exemple fictif : Leo, trois ans, se couvre les oreilles pendant le passage du jeu au rangement, alors que les chaises raclent le sol et que les enfants parlent. Il recule et s’assoit par terre tandis que les enfants se regroupent autour des étagères de rangement. Il communique surtout par gestes. Aucun diagnostic n’est consigné. Quelle adaptation serait la plus utile en premier lieu ?",
         "o": [
-          "Le maintenir dans la file jusqu’à ce qu’il s’habitue au bruit.",
+          "Le maintenir dans le groupe bruyant jusqu’à ce qu’il s’habitue au bruit.",
           "Dire à sa famille que ce comportement confirme un trouble sensoriel.",
-          "Réduire l’attroupement, proposer un moyen plus silencieux de se sécher les mains et utiliser un geste familier pour montrer l’étape suivante."
+          "Réduire le bruit et l’attroupement, proposer un endroit plus calme sous surveillance avec un adulte à proximité, et utiliser un geste ou une image familière pour montrer l’étape suivante."
         ],
         "a": 2,
-        "why": "Cette réponse tient compte des obstacles observables tout en maintenant la routine de lavage des mains et l’accès de Leo à la communication. Ensuite, échangez avec sa famille sur les signaux et les préférences utiles. Examinez si des groupes plus petits, un autre trajet ou une transition plus tôt peuvent l’aider. Consignez l’adaptation et son effet plutôt que d’étiqueter Leo."
+        "why": "Cette réponse réduit les obstacles observables tout en maintenant le soutien apporté à Leo et en lui offrant un moyen accessible de comprendre l’étape suivante. Ensuite, échangez avec la famille sur les signaux utiles et les préférences de l’enfant. Voyez si des groupes plus petits, un repère visuel familier ou un rangement échelonné peuvent aider. Consignez le changement et son effet plutôt que de coller une étiquette à Leo."
       },
       {
         "q": "Exemple fictif : Priya, deux ans, découvre en arrivant qu’un autre adulte l’accueille. Elle s’agrippe à la personne qui l’accompagne, se détourne et ne dit rien. Le personnel craint qu’elle manque l’activité du matin. Quelle réponse facilite la transition à cet instant ?",
@@ -1034,14 +1034,14 @@ window.COURSE_EXTRAS={
         "why": "Sa dekrir levennman-la, rekonet zefor-la ek ofer soutien san exiz enn explikasion ouswa enn performans imedia. Premie travay adilt-la se sekirite ek kree enn lien. Plitar, invit Amira swazir ant rekonstrir, sanz model-la ouswa pran enn poz. Lobzektif-la se partisipasion avek soutien, pa fer zanfan-la paret kalm osi vit ki posib."
       },
       {
-        "q": "Lexanp imaziner: Leo, trwa-zan, bous so zorey pre ar masinn sek lame, rekile ek apre les so lekor al ater. Lake-la vinn pli long deryer li. Li kominike sirtou avek bann zes. Pena okenn diagnostik dan so dosie. Ki premie adaptasion pli itil?",
+        "q": "Lexanp imaziner: Leo, trwa-zan, bous so zorey kan bann sez frot lor planse ek bann zanfan koze pandan tranzision depi zwe pou al ranze. Li rekile ek asiz ater pandan ki bann zanfan rasanble otour bann letazer pou ranze. Li kominike sirtou avek bann zes. Pena okenn diagnostik dan so dosie. Ki premie adaptasion pli itil?",
         "o": [
-          "Gard li dan lake-la ziska li abitie avek son-la.",
+          "Gard li dan group avek tapaz-la ziska li abitie avek son-la.",
           "Dir so fami ki sa konportman-la konfirm enn troub sansoriel.",
-          "Diminie kantite dimounn ansam, ofer enn opsion pli trankil pou sek lame ek servi enn zes ki li kone pou montre prosenn letap."
+          "Diminie tapaz ek foul, ofer enn plas pli trankil anba sirveyans avek enn adilt pre, ek servi enn zes ouswa enn zimaz ki li kone pou montre prosenn letap."
         ],
         "a": 2,
-        "why": "Sa reponn bann baryer ki kapav obzerve pandan ki routinn lave lame ek akse kominikasion Leo reste. Apre, koz avek fami-la lor bann sign ek bann preferans itil. Revize si bann pli tipti group, enn lot larout ouswa enn tranzision pli boner ede. Anrezistr sanzman-la ek so lefe olye met enn letiket lor Leo."
+        "why": "Sa diminie bann baryer ki kapav obzerve pandan ki Leo kontign gagn soutien ek enn fason aksesib pou konpran prosenn letap. Apre, koz avek fami-la lor bann sign ek bann preferans itil. Revize si bann pli tipti group, enn reper viziel ki li kone ouswa fer bann group ranze enn apre lot ede. Anrezistr sanzman-la ek so lefe olye met enn letiket lor Leo."
       },
       {
         "q": "Lexanp imaziner: Priya, de-zan, arive ek trouv enn lot adilt pe akey li. Li agrip dimounn ki pe akonpagn li, tourn so figir ek pa dir nanye. Personel trakase ki li pou rat aktivite gramatin-la. Ki repons soutenir tranzision imedia-la?",
