@@ -58,3 +58,6 @@ h1{font-size:38px;font-weight:400}
 @media(max-width:1000px){.hero{grid-template-columns:1fr}.hero-art-wrap{display:none}.support-map ol{grid-template-columns:1fr}.support-map li{display:flex;align-items:center;gap:15px;font-size:15px}.support-map li span{flex-shrink:0;margin:0}}
 @media(max-width:600px){.video-card{grid-template-columns:1fr;padding:22px}.video-icon{width:48px;height:48px}.support-map{padding:23px}.hero h1{font-size:clamp(30px,7vw,39px)}.video-card h3{font-size:21px}}
 @media print{.video-icon,.hero-art-wrap{display:none}.support-map ol{display:block}.support-map li{display:flex;gap:10px;align-items:center}.support-map li span{width:22px;height:22px;margin:0}.video-card a::after,.source-list a::after{content:' (' attr(href) ')';font-size:10px}.video-card{break-inside:avoid}}
+/* Keep secondary controls readable while hovered and at narrow widths. */
+button.secondary:hover{background:#e7f1f8;color:#122147;border-color:#7e9fb8}
+.visual-controls button{font-size:12px;line-height:1.45}
