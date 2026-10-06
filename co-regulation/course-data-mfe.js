@@ -1,0 +1,1089 @@
+window.COURSE_MFE={
+  "title": "Ed bann tipti zanfan regil zot lemosion – Nivo 1",
+  "version": "1.0",
+  "modules": [
+    {
+      "id": 1,
+      "title": "Koumans par kree enn lien",
+      "pages": [
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Dan sa modil-la"
+            },
+            {
+              "type": "li",
+              "text": "Fer diferans ant oto-regilasion ek obeisans ki paret deor."
+            },
+            {
+              "type": "li",
+              "text": "Swazir enn repons adilt ki adapte ar kapasite aktiel zanfan-la."
+            },
+            {
+              "type": "h",
+              "text": "Ki nou pe ed bann zanfan aprann?"
+            },
+            {
+              "type": "p",
+              "text": "Oto-regilasion inklir kapasite zer latansion, bann santiman ek bann aksion pandan ki enn dimounn pe travay pou atenn enn lobzektif. Bann kapasite fonksion egzekitif ed bann zanfan gard bann linformasion dan zot lespri, met enn poz avan enn aksion impulsif ek sanz zot fason fer. Sa bann kapasite-la devlope atraver lexperyans ek pratik; zot pa ariv tou devlope enn zour laniverser. Enn zanfan kapav reisi enn travay dan enn zwe ki li kone ek bizin boukou soutien kan li fatige, trakase ouswa depase."
+            },
+            {
+              "type": "p",
+              "text": "Ko-regilasion se led enn adilt ki reponn bann bezwin zanfan-la pandan ki sa bann kapasite-la ankor pe devlope. Sa kapav vedir obzerv enn sign, adapt lanvironnman, reasir ouswa ed enn zanfan fer prosenn ti letap ki li kapav fer. Lendepandans grandi ansam avek enn led lor ki kapav konte. Li pa demann bann adilt retir rekonfor kan enn zanfan ankor bizin li."
+            },
+            {
+              "type": "h",
+              "text": "Konpran sitiasion-la avan ou ziz zanfan-la"
+            },
+            {
+              "type": "p",
+              "text": "Enn zanfan ki pa fer tapaz pa neseserman alez, ek enn zanfan ranpli avek lenerzi pa neseserman dan detres. Get so fason abitie kominike ek partisipe. Demande: Ki finn pase? Ki kapav difisil? Ki soutien disponib? Enn obzervasion kouma “Maya finn bous so zorey kan lamizik finn koumanse” pli itil ki “Maya pe fer so difisil.” Enn obzervasion invit ou esey enn sanzman."
+            },
+            {
+              "type": "p",
+              "text": "Pa pran enn sel insidan kouma prev enn lintansion, kalite ledikasion bann paran, enn tromatism ouswa enn diagnostik. Kiryozite pa retir bann limit: bann zanfan ankor bizin bann adilt protez bann dimounn ek ed repar bann ditor. Li sanz pwin depar-la, depi blam ver soutien."
+            },
+            {
+              "type": "h",
+              "text": "Ou stabilite se enn responsabilite ekip"
+            },
+            {
+              "type": "p",
+              "text": "Obzerv ou prop bann sign lavertisman: koze pli vit, lame sere ouswa anvi diskite. Relaks ou pozision lekor, fer ou prosenn fraz pli kourt ek demann enn koleg led boner kan neseser. Si ou bizin elwagne, organiz enn rele bien kler pou ki sirveyans kontigne. Bien-et personel depann osi lor ase personel, bann poz, preparasion ek soutien pou reflesi lor pratik, pa zis lor volonte enn dimounn."
+            },
+            {
+              "type": "p",
+              "text": "Ou pa bizin paret san lemosion. Enn fason itil repar se: “Mo lavwa finn vinn tro for. Mo pou koz pli dousman. Anou rekoumanse.” Pa met zanfan-la dan rol rekonfort ouswa regil lemosion adilt-la."
+            },
+            {
+              "type": "p",
+              "text": "Avan enn peryod bien ranpli, dakor lor enn signal sinp pou demann enn koleg led. Repet fason pas rele pandan enn diskision abitie ant personel: kisannla res avek zanfan-la, kisannla soutenir group-la, ek kouma adilt ki pe retourne resevwar bann linformasion esansiel. Enn travay an ekip bien kler rann enn repons stab pli realist."
+            },
+            {
+              "type": "h",
+              "text": "Gard an tet"
+            },
+            {
+              "type": "li",
+              "text": "Kapasite sanze avek konteks."
+            },
+            {
+              "type": "li",
+              "text": "Donn soutien avan atann lendepandans."
+            },
+            {
+              "type": "li",
+              "text": "Bann adilt kapav repar zot prop bann erer."
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Enn latour tonbe"
+            },
+            {
+              "type": "p",
+              "text": "Lexanp imaziner: Amira, katran, pe konstrir enn latour. Li tonbe pandan enn lapremidi bien ranpli. Li pous bann blok ater ek dir, “Mo pa kapav!” Yer li ti rekonstrir enn latour parey tousel."
+            },
+            {
+              "type": "h",
+              "text": "Re-ekrir san met enn letiket"
+            },
+            {
+              "type": "li",
+              "text": "Pans enn lexanp imaziner ki dimounn dekrir kouma “pe rod latansion” ouswa “pe defi lotorite.”"
+            },
+            {
+              "type": "li",
+              "text": "Ekrir zis seki enn obzervater kapav trouve ouswa tande."
+            },
+            {
+              "type": "li",
+              "text": "Nom de bezwin posib san deside ki enn ladan se lakoz."
+            },
+            {
+              "type": "li",
+              "text": "Swazir enn aksion adilt itil ki ti pou an sekirite dan toulede explikasion."
+            },
+            {
+              "type": "p",
+              "text": "Ki ariv ou ton kan ou ranplas enn zizman par enn deskripsion ki kapav obzerve?"
+            },
+            {
+              "type": "h",
+              "text": "Bann eleman enn bon repons"
+            },
+            {
+              "type": "p",
+              "text": "“Sa finn tonbe. To finn travay dir.”"
+            },
+            {
+              "type": "p",
+              "text": "“Bann blok res ba pou gard dimounn an sekirite.”"
+            },
+            {
+              "type": "p",
+              "text": "“Mo kapav asiz avek twa. Kan to pare, nou kapav esey enn blok ansam.”"
+            },
+            {
+              "type": "p",
+              "text": "Premie travay adilt-la se sekirite ek kree enn lien. Plitar, invit Amira swazir ant rekonstrir, sanz model-la ouswa pran enn poz. Lobzektif-la se partisipasion avek soutien, pa fer zanfan-la paret kalm osi vit ki posib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rann lazourne pli fasil pou zere",
+      "pages": [
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Dan sa modil-la"
+            },
+            {
+              "type": "li",
+              "text": "Idantifie enn demann lanvironnman ki kapav sanze."
+            },
+            {
+              "type": "li",
+              "text": "Planifie enn adaptasion inklizif san exiz enn diagnostik."
+            },
+            {
+              "type": "h",
+              "text": "Get seki pase avan"
+            },
+            {
+              "type": "p",
+              "text": "Avan swazir enn stratezi pou kalme, get lanplwa di tan ek lanvironnman. Bann long letan atann, bann tranzision avek tro boukou dimounn, bann instriksion ki pa kler ek bann sanzman sibit kapav rann enn travay abitie boukou pli difisil. Get enn moman difisil depi pwin de vi zanfan-la: ki li bizin tande, konpran, aret fer, rapel ek tolere? Enn ti adaptasion kapav pli itil ki demann ankor ek ankor plis kontrol lor limem."
+            },
+            {
+              "type": "p",
+              "text": "Kree enn seri letap previzib pandan ki ou les plas pou fleksibilite. Montre seki pe pase aster ek apre avek bann obze, foto, zes ouswa mo ki zanfan-la konpran. Donn enn lavertisman ki ena sans avan enn tranzision ek montre kan enn plan sanze. Enn lanplwa di tan viziel ede zis si bann adilt servi li avek zanfan-la; met li lao lor enn miray pa ase."
+            },
+            {
+              "type": "h",
+              "text": "Soutien sansoriel li individiel"
+            },
+            {
+              "type": "p",
+              "text": "Sertin zanfan bizin mwins tapaz, enn tigit plis lespas personel ouswa enn lot plas pou asize. Lezot benefisie bann mouvman apropriye ouswa enn larout pli trankil pou arive. Demann zanfan-la ek so fami ki itil ek obzerv repons-la. Bann gidans NICE pou bann zanfan otis met an avan bann soutien viziel ki ena sans ek bann adaptasion pou sansibilite sansoriel. Sa bann lide-la ed fer bann adaptasion reflesi; zot pa zistifie sipoze ki tou bann zanfan otis bizin mem zafer."
+            },
+            {
+              "type": "p",
+              "text": "Pa fors enn zanfan get dan lizie, gard so lame imobil, aksepte tous ouswa partisip dan enn aktivite sansoriel ki met li malalez pou montre ki li angaze. Bann mouvman repetitif ki pa fer ditor kapav ed enn zanfan santi li alez. Si enn zafer kree enn inkietid pou sekirite, soutenir enn alternativ an sekirite avek zanfan-la ek ekip konserne. Pa preskrir bann tretman sansoriel ni servi bann lekipman spesialize san enn evaliasion apropriye, enn formasion ek enn plan ki finn dakor."
+            },
+            {
+              "type": "h",
+              "text": "Konsevwar enn lespas regilasion akeyan"
+            },
+            {
+              "type": "p",
+              "text": "Ofer enn plas trankil anba sirveyans kouma enn opsion, pa enn plas kot bann zanfan oblize merit drwa sorti. Gard li dan bann dispozision sirveyans etablisman-la, avek enn adilt ki zanfan-la fer konfians disponib. Explik kouma servi li pandan enn moman kalm. Enn zanfan kapav prefer res pre ar zwe avek mwins demann olye deplase dan enn lespas separe."
+            },
+            {
+              "type": "p",
+              "text": "Verifye akse dan lapratik: eski enn zanfan kapav montre enn sinbol led, ariv kot enn resours ki li kone ek retourn dan group-la avek soutien? Pa priv enn zanfan bann bezwin debaz, bann led kominikasion ouswa bann relasion rekonfortan kouma bann konsekans. Mem loportinite kapav bizin diferan adaptasion pou diferan zanfan; lekite pa vedir tret tou dimounn egzakteman parey."
+            },
+            {
+              "type": "p",
+              "text": "Invit personel esey lespas-la zotmem ek obzerv so tapaz, seki zot kapav trouve ek so aksesibilite."
+            },
+            {
+              "type": "h",
+              "text": "Gard an tet"
+            },
+            {
+              "type": "li",
+              "text": "Sanz demann-la osi, anplis soutenir zanfan-la."
+            },
+            {
+              "type": "li",
+              "text": "Bann sipor viziel bizin ena sans ek servi ansam."
+            },
+            {
+              "type": "li",
+              "text": "Bann lespas trankil donn soutien, anba sirveyans ek pa servi kouma pinision."
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Enn lake lave lame avek tapaz"
+            },
+            {
+              "type": "p",
+              "text": "Lexanp imaziner: Leo, trwa-zan, bous so zorey pre ar masinn sek lame, rekile ek apre les so lekor al ater. Lake-la vinn pli long deryer li. Li kominike sirtou avek bann zes. Pena okenn diagnostik dan so dosie."
+            },
+            {
+              "type": "h",
+              "text": "Examinn enn tranzision"
+            },
+            {
+              "type": "li",
+              "text": "Swazir larive, ranze, al twalet ouswa dezene."
+            },
+            {
+              "type": "li",
+              "text": "Fer enn lalis avek enn demann sansoriel, enn demann kominikasion ek enn demann atann."
+            },
+            {
+              "type": "li",
+              "text": "Sanz enn ladan avek bann resours ki deza disponib ek an sekirite."
+            },
+            {
+              "type": "li",
+              "text": "Desid seki ou pou obzerve pou gete si partisipasion amelyore."
+            },
+            {
+              "type": "p",
+              "text": "Eski adaptasion-la pou res disponib enn zour difisil, ouswa eski san fer expre zot pe tret li kouma enn rekonpans?"
+            },
+            {
+              "type": "h",
+              "text": "Bann eleman enn bon repons"
+            },
+            {
+              "type": "p",
+              "text": "“Ena boukou tapaz isi.”"
+            },
+            {
+              "type": "p",
+              "text": "“Ena papie pou eswi lame isi.” [Montre li ek fer enn poz.]"
+            },
+            {
+              "type": "p",
+              "text": "“Mo pou res pre.”"
+            },
+            {
+              "type": "p",
+              "text": "Apre, koz avek fami-la lor bann sign ek bann preferans itil. Revize si bann pli tipti group, enn lot larout ouswa enn tranzision pli boner ede. Anrezistr sanzman-la ek so lefe olye met enn letiket lor Leo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Reponn avan detres ogmante",
+      "pages": [
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Dan sa modil-la"
+            },
+            {
+              "type": "li",
+              "text": "Rekonet ki detres kapav fer tapaz ouswa res trankil."
+            },
+            {
+              "type": "li",
+              "text": "Servi obzervasion, rekonet bann santiman ek ofer enn prosenn letap ki posib."
+            },
+            {
+              "type": "h",
+              "text": "Obzerv enn sanzman, pa zis enn lalis"
+            },
+            {
+              "type": "p",
+              "text": "Bann premie sign kapav inklir enn sanzman lavwa, bann kestion repetitif, bann mouvman pli vit, retir limem dan zwe ouswa vinn imobil plis ki dabitid. Konpar avek fason abitie sa zanfan-la. Evit enn seri nivo fixe kot detres monte: bann zanfan pa tou pas par mem letap, ek enn insidan ki paret tipti kapav swiv plizier lezot demann avan."
+            },
+            {
+              "type": "p",
+              "text": "Apros dan enn fason ki ena mwins sans fer zanfan-la sote ouswa santi li antoure. Diminie bann dimounn ki pe gete kan posib. Swazir enn adilt pou diriz kominikasion pandan ki bann koleg soutenir group-la an zeneral. Enn ton kalm itil, me ton tousel pa ase si demann-la, tapaz ouswa linsirtitid pa sanze."
+            },
+            {
+              "type": "h",
+              "text": "Enn repons kourt pou pratike"
+            },
+            {
+              "type": "p",
+              "text": "Esey enn seri letap kourt: dekrir seki ou remarke; rekonet seki kapav difisil; ofer enn prosenn letap disponib. Servi bann mo pridan pou bann santiman: “Sa paret frustran,” olye insiste ki ou kone seki zanfan-la pe viv andan. Les letan pou enn zes, enn regar, enn sinbol, enn mouvman ouswa bann mo. Silans kapav enn letan pou konpran, pa enn refi."
+            },
+            {
+              "type": "p",
+              "text": "Bann lexanp pou repete: “To ti anvi enn lot tour. Mo la.” “Sa sanzman-la ti inatandi. Anou get zimaz-la.” “To kapav montre led.” “Mo kapav asiz pre ouswa les twa enn tigit plis lespas.” Si de swa tro boukou, fer enn sel propozision dous ek atann. Pa repet bann kestion avek plis ek plis linsistans."
+            },
+            {
+              "type": "p",
+              "text": "Verifye ki ou bann parol onet. “To an sekirite” kapav tro boner kan enn danze ankor la; “Mo la, ek mo pe rod led” dekrir seki ou vremem pe fer. Evit promet enn rezilta ouswa enn dele ki ou pa kapav kontrole. Enn langaz ki zanfan-la kone abitie pli itil ki enn nouvo slogan."
+            },
+            {
+              "type": "h",
+              "text": "Gard limit-la san azout laont"
+            },
+            {
+              "type": "p",
+              "text": "Rekonet enn santiman pa vedir aprouv enn aksion danzere. Azout enn limit kourt: “To kontrarie. Mo pa pou les dimounn blese. Mo pe rod led.” Fer ou bann parol koresponn avek bann aksion ki ou kapav pran an sekirite dan ou rol. Evit bann menas, bann klasman konportman an piblik, sarkasm ouswa servi bann bezwin debaz pou fer enn marsandaz."
+            },
+            {
+              "type": "p",
+              "text": "Respirasion, konte, enn bwason ouswa enn obze ki zanfan-la kone kapav ofer si apropriye, me okenn stratezi pa obligatwar. Enn zanfan ki refiz enn lexersis respirasion kapav bizin mwins parol, bouze ouswa enn dimounn ki li fer konfians dan so plas. Pa transform enn zouti regilasion an enn lot demann. Retourn lor lansegnman kan partisipasion posib."
+            },
+            {
+              "type": "h",
+              "text": "Gard an tet"
+            },
+            {
+              "type": "li",
+              "text": "Kan enn zanfan retir limem, sa osi merit latansion."
+            },
+            {
+              "type": "li",
+              "text": "Ofer mwins mo ek plis lespas pou konpran."
+            },
+            {
+              "type": "li",
+              "text": "Bann santiman aksepte; bann adilt kontign protez sekirite."
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Enn lot adilt kot laport"
+            },
+            {
+              "type": "p",
+              "text": "Lexanp imaziner: Priya, de-zan, arive ek trouv enn lot adilt pe akey li. Li agrip dimounn ki pe akonpagn li, tourn so figir ek pa dir nanye. Personel trakase ki li pou rat aktivite gramatin-la."
+            },
+            {
+              "type": "h",
+              "text": "Dir mwins, ek pans vremem seki ou dir"
+            },
+            {
+              "type": "li",
+              "text": "Repet for ouswa ekrir enn repons pou enn adilt ki pe soutenir enn zanfan imaziner ki pa trouv enn zouzou li bien kontan. Si enn koleg disponib, pran sakenn zot tour."
+            },
+            {
+              "type": "li",
+              "text": "Servi pa plis ki de ti fraz, apre fer enn poz."
+            },
+            {
+              "type": "li",
+              "text": "Verifye oumem ouswa demann enn partner: eski santiman-la finn rekonet, eski prosenn letap-la ti posib, ek eski ti ena lespas pou reponn?"
+            },
+            {
+              "type": "li",
+              "text": "Refer avek enn repons an montrant avek ledwa ouswa avek enn zimaz olye koze."
+            },
+            {
+              "type": "p",
+              "text": "Ki mo ou kapav retire san perdi bienveyans ouswa limit sekirite-la?"
+            },
+            {
+              "type": "h",
+              "text": "Bann eleman enn bon repons"
+            },
+            {
+              "type": "p",
+              "text": "“Enn lot adilt azordi. Mo pou res avek twa.”"
+            },
+            {
+              "type": "p",
+              "text": "“To foto fami isi.”"
+            },
+            {
+              "type": "p",
+              "text": "“Nou kapav get bann lezot pe zwe avan.”"
+            },
+            {
+              "type": "p",
+              "text": "Dakor lor enn plan larive ki posib avek dimounn ki akonpagn zanfan-la ek ekip-la. Pa promet ki enn adilt presi pou touletan disponib. Prepar enn routinn alternativ aksesib pou ki zanfan-la pa depann lor enn garanti inposib."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gard tou dimounn an sekirite, apre retrouv lien-la",
+      "pages": [
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Dan sa modil-la"
+            },
+            {
+              "type": "li",
+              "text": "Donn priorite sekirite imedia ek bann prosedir lokal pou ka irzan."
+            },
+            {
+              "type": "li",
+              "text": "Separ letan rekiperasion avek laprantisaz ek revizion insidan ki vini apre."
+            },
+            {
+              "type": "h",
+              "text": "Kan ena enn danze imedia"
+            },
+            {
+              "type": "p",
+              "text": "Si enn zanfan riske bles limem ouswa enn lot dimounn gravman, aktiv repons ki etablisman-la finn dakor san tarde. Apel soutien deziye ki finn forme, gard sirveyans, ek deplas bann lezot zanfan ouswa bann danze kan ou kapav fer li an sekirite. Servi enn langaz kourt ek san menas ek evit antour zanfan-la ouswa blok li dan enn kwin. Kontign evalie sitiasion-la olye sipoze ki enn stratezi ki ou kone pou marse."
+            },
+            {
+              "type": "p",
+              "text": "Enn ka irzans medikal sispekte, enn blesir grav, difikilte respire ouswa enn pert konesans bizin repons premie sekour ek dirzans etablisman-la deswit. Kontakt bann servis dirzans lokal kan neseser; pa atann enn lexersis pou kalme ouswa bann paran vinn sers zanfan-la. Sa formasion-la pa ansegne ni otoriz imobiliz enn zanfan par lafors, anferm li tousel ouswa bann teknik intervansion fizik. Pa inproviz zot. Swiv lalwa aplikab, bann prosedir aktiel ou etablisman ek bann limit ou formasion."
+            },
+            {
+              "type": "h",
+              "text": "Rekipere form parti soutien-la"
+            },
+            {
+              "type": "p",
+              "text": "Kan risk imedia finn pase, diminie bann demann ek res disponib. Verifye bann blesir, konfor ek bann bezwin debaz. Enn zanfan kapav epwize, anbarase ouswa pa ankor pare pou koze. Res trankil tousel pa prev ki li finn rekipere. Get bann sign abitie ki montre li alez dan enn relasion ek ofer enn retour san prese ver enn aktivite ki li kone."
+            },
+            {
+              "type": "p",
+              "text": "Pa exiz bann exkiz, enn explikasion konplet ouswa nom enn santiman kouma enn pri pou rezwenn group-la. Kan bann zanfan pare, ed zot repar dan enn fason ki ena sans: verifye si enn dimounn bien, ed remet bann materyel an plas ouswa trouv enn fason pli an sekirite pou demann prosenn fwa. Soutenir separeman bann dimounn ki finn blese ouswa gagn per; pa atann ki zot rekonfort zanfan ki finn bles zot."
+            },
+            {
+              "type": "h",
+              "text": "Reviz insidan-la san blam"
+            },
+            {
+              "type": "p",
+              "text": "Anrezistr seri levennman ki kapav obzerve, konteks, bann dimounn konserne, bann aksion sekirite, bann blesir ouswa premie sekour, ek seki finn ede dan sistem sekirize aprouve. Fer diferans ant obzervasion ek interpretasion. Swiv bann obligasion lokal pou inform bann responsab, bann fami ek lezot servis. Partaz linformasion zis avek bann dimounn ki bizin kone, ek protez lidantite bann lezot zanfan."
+            },
+            {
+              "type": "p",
+              "text": "Enn diskision personel apre insidan-la bizin demann seki kapav sanze avan prosenn fwa: lanvironnman, moman, repons adilt, soutien kominikasion ouswa organizasion personel. Si ena okenn inkietid lor maltretans, neglizans, lexplwatasion ouswa konportman danzere enn adilt, servi bann prosedir proteksion zanfan san tarde. Pa fer ou prop lanket ouswa atann enn reyinion abitie lor plan konportman. Proteksion zanfan ek aksion dirzans ena priorite lor seri letap sa formasion-la."
+            },
+            {
+              "type": "p",
+              "text": "Bi enn revizion se amelyor sekirite ek soutien, pa etabli kisannla finn gagn enn interaksion."
+            },
+            {
+              "type": "h",
+              "text": "Gard an tet"
+            },
+            {
+              "type": "li",
+              "text": "Sekirite imedia pas avan lansegnman."
+            },
+            {
+              "type": "li",
+              "text": "Pa inproviz imobilizasion par lafors ouswa anferm enn zanfan tousel."
+            },
+            {
+              "type": "li",
+              "text": "Retrouv lien-la, repare ek reviz bann fe apre rekiperasion."
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Enn sez leve"
+            },
+            {
+              "type": "p",
+              "text": "Lexanp imaziner: Ben, sinkan, dan detres apre ki enn zwe fini. Li lev enn sez pandan ki plizier zanfan toupre. Enn lot adilt disponib. Sa enn inkietid imedia pou sekirite, pa enn zwe rol pou esey avek bann zanfan."
+            },
+            {
+              "type": "h",
+              "text": "Trouv ou prosedir lokal"
+            },
+            {
+              "type": "li",
+              "text": "Idantifie dimounn ouswa prosedir pou gagn soutien irzan bann dimounn forme."
+            },
+            {
+              "type": "li",
+              "text": "Trouv prosedir premie sekour ek kontak dirzans."
+            },
+            {
+              "type": "li",
+              "text": "Trouv responsab proteksion zanfan ouswa so ekivalan ek prosedir si sa dimounn-la pa disponib."
+            },
+            {
+              "type": "li",
+              "text": "Konfirm kot bann insidan ek inkietid anrezistre an sekirite. Si ou pa kone, demann ou responsab avan ou servi sa formasion-la kouma gid dan lapratik."
+            },
+            {
+              "type": "p",
+              "text": "Ki ou ti pou fer si koleg abitie-la ti absan?"
+            },
+            {
+              "type": "h",
+              "text": "Bann eleman enn bon repons"
+            },
+            {
+              "type": "p",
+              "text": "“Mo la. Bann dimounn bizin lespas.”"
+            },
+            {
+              "type": "p",
+              "text": "[Pou koleg-la, atraver prosedir ki finn dakor:] “Silvouple rod soutien ek ed group-la deplase an sekirite.”"
+            },
+            {
+              "type": "p",
+              "text": "Plitar, kan li pare: “Sa ti difisil. Anou gete ki pou ede kan zwe-la fini.”"
+            },
+            {
+              "type": "p",
+              "text": "Aksion ki an sekirite depann lor vre lanvironnman ek bann prosedir lokal. Pratik kominikasion ant personel atraver diskision, zame par fer bann zanfan met enn konportman danzere an senn. Insidan-la bizin amenn enn revizion planifikasion soutien ek sekirite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ansegn bann kapasite dan zwe toulezour",
+      "pages": [
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Dan sa modil-la"
+            },
+            {
+              "type": "li",
+              "text": "Planifie enn ti loportinite lansegnman pandan enn moman kalm."
+            },
+            {
+              "type": "li",
+              "text": "Remark bann progre san rekonpans zanfan-la pou kasiet so bann santiman."
+            },
+            {
+              "type": "h",
+              "text": "Ansegne avan moman difisil-la"
+            },
+            {
+              "type": "p",
+              "text": "Swazir enn kapasite itil ek montre kouma fer li. Sa kapav demann led, indik “aret,” demann enn poz ouswa esey enn lot lide. Pratik kan zanfan-la ase alez pou partisipe, avek so metod kominikasion abitie. Enn fraz koze, enn sign, enn zes ouswa enn laparey kominikasion kapav servi mem bi."
+            },
+            {
+              "type": "p",
+              "text": "Servi enn sik lansegnman sinp: montre; invit enn tour san presion; soutenir enn vre loportinite; donn enn retour presi; repete. Gard kapasite-la aksesib pandan lazourne. “To finn montre mwa led, ek nou finn ouver bwat-la ansam” donn plis linformasion ki felisit enn zanfan parski li bon ouswa trankil. Mezir akse a soutien ek partisipasion, pa zis mwins tapaz."
+            },
+            {
+              "type": "h",
+              "text": "Trwa ti aktivite orizinal"
+            },
+            {
+              "type": "p",
+              "text": "Problem maryonet: enn maryonet anvi enn zouzou ki enn lot maryonet pe servi. Invit bann zanfan swazir ant enn sinbol led, atann avek soutien ouswa enn lot aktivite. Les bann zanfan propoz diferan repons an sekirite. Bi-la se pratik, pa teste kisannla kapav resit fraz ki adilt-la prefere."
+            },
+            {
+              "type": "p",
+              "text": "Bouze ek fer enn poz: zwe enn zwe mouvman ki bann zanfan kone avek enn sign vizib pou arete. Gard bann tour kourt, adapt bann mouvman pou bann bezwin mobilite ek permet obzerve kouma enn fason partisipe. Fer defi-la amizan ek adaptab. Pa elimin bann zanfan parski zot finn rat enn sign."
+            },
+            {
+              "type": "p",
+              "text": "Esey enn lot fason: konstrir enn ti pon ansam. Kan li glise, montre kouma fer enn poz, demann led ouswa sanz enn pies. Invit zanfan-la swazir prosenn lexperyans. Zwe toulezour donn bann loportinite pou pratik latansion, rapel enn plan ek reflesi dan enn fason fleksib san transform regilasion an enn fis lexersis."
+            },
+            {
+              "type": "h",
+              "text": "Bann santiman se linformasion, pa bann not"
+            },
+            {
+              "type": "p",
+              "text": "Bann zistwar ek zimaz kapav ouver enn konversasion lor bann santiman, me bann figir pa bann repons iniversel. Demann seki enn personaz kapav santi ek permet plis ki enn posibilite. Enn zanfan kapav prefer enn sign lekor, enn zes ouswa enn ti konversasion prive olye enn tablo piblik lor santiman. Respekte “Mo pa kone” ek “Mo pa anvi dir.”"
+            },
+            {
+              "type": "p",
+              "text": "Diminie led tigit par tigit kan zanfan-la kapav zere, ek ogmant li ankor kan neseser. Si enn stratezi pa itil, reviz demann-la, aksesibilite ek moman olye fer li repete avek plis linsistans. Enn progre kapav vedir aksepte soutien pli boner, fer enn zes pou demann led ouswa retourn dan enn aktivite ki li apresie avek enn adilt."
+            },
+            {
+              "type": "p",
+              "text": "Swazir bann lexanp depi bann lintere zanfan-la pou ki pratik-la gard so sans."
+            },
+            {
+              "type": "h",
+              "text": "Gard an tet"
+            },
+            {
+              "type": "li",
+              "text": "Montre ek pratik pandan bann moman kalm."
+            },
+            {
+              "type": "li",
+              "text": "Gard bann soutien kominikasion aksesib."
+            },
+            {
+              "type": "li",
+              "text": "Donn valer bann lien, kapasite zanfan-la azir ek fer bann swa, ek partisipasion."
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Enn kart led ki res dan tirwar"
+            },
+            {
+              "type": "p",
+              "text": "Lexanp imaziner: Sofia, katran, pratik servi enn kart led pandan enn leson an ti group. Pandan goute, so bwat pa pe ouver. Li plore ek pous li lwen. Kart-la ankor dan enn tirwar klas."
+            },
+            {
+              "type": "h",
+              "text": "Planifie enn repetision de minit"
+            },
+            {
+              "type": "li",
+              "text": "Swazir enn kapasite pou demann led ouswa rezourd enn problem."
+            },
+            {
+              "type": "li",
+              "text": "Nom fason aksesib zanfan-la pou kominike li."
+            },
+            {
+              "type": "li",
+              "text": "Ekrir enn model enn fraz ek enn vre routinn pou pratik."
+            },
+            {
+              "type": "li",
+              "text": "Swazir enn retour presi ki dekrir aksion-la olye valer zanfan-la."
+            },
+            {
+              "type": "p",
+              "text": "Kouma ou pou rann kapasite-la pli fasil pou servi enn zour difisil?"
+            },
+            {
+              "type": "h",
+              "text": "Bann eleman enn bon repons"
+            },
+            {
+              "type": "p",
+              "text": "“Kouver-la bloke. Mo kapav ede.”"
+            },
+            {
+              "type": "p",
+              "text": "[Montre sinbol led ki disponib.] “To kapav montre led.”"
+            },
+            {
+              "type": "p",
+              "text": "“Nou finn ouver li ansam. To finn fer mwa kone.”"
+            },
+            {
+              "type": "p",
+              "text": "Ekip-la verifye kot bann sinbol ouswa laparey neseser, demann ekip kominikasion zanfan-la lor bann soutien ki deza etabli ek pratik dan bann routinn abitie. Enn leson reisi pa garanti ki zanfan-la pou servi kapasite-la tousel anba stres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Konstrir plan-la ansam",
+      "pages": [
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "Dan sa modil-la"
+            },
+            {
+              "type": "li",
+              "text": "Prepar enn konversasion avek respe avek fami-la, baze lor bann obzervasion."
+            },
+            {
+              "type": "li",
+              "text": "Kree enn ti plan soutien avek enn prosedir kler pou revizion ek oriantasion ver bann servis."
+            },
+            {
+              "type": "h",
+              "text": "Koumans par travay ansam"
+            },
+            {
+              "type": "p",
+              "text": "Bann fami ena konesans lor bann lintere zanfan-la, so kominikasion, so bann routinn ek seki rekonfort li lakaz. Invit zot partaz sa konesans-la san fer konpran ki lakaz finn koz difikilte-la. Rod kone ki lang ek ki bann dispozision kominikasion rann konversasion-la aksesib. Demann seki inportan pou fami-la ek zanfan-la, ek partaz osi seki personel finn obzerve."
+            },
+            {
+              "type": "p",
+              "text": "Koumans avek enn vre pwin for ek enn obzervasion konkre. Explik seki etablisman-la deza pe sanze. Demann “Ki ede?” olye “Ki ou fer kan li fer move?” Bann diferans ant lakaz ek lekol se bann linformasion itil: bann demann, bann relasion ek bann lanvironnman varye. Zot pa prev ki seki enn dimounn rakonte pa vre."
+            },
+            {
+              "type": "h",
+              "text": "Fer enn ti plan ki kapav teste"
+            },
+            {
+              "type": "p",
+              "text": "Gard plan-la ase pratik pou tou bann adilt konserne kapav servi li. Inklir bann pwin for ek preferans zanfan-la; enn kominikasion ki ena sans; bann konteks difisil; bann premie sign; bann adaptasion prevantif; enn repons adilt kourt; bann prosedir sekirite ek proteksion zanfan; ek enn plan retour dan aktivite. Dakor kisannla fer ki zafer ek kan zot pou reviz li."
+            },
+            {
+              "type": "p",
+              "text": "Swazir enn ouswa de lobzektif ki kapav obzerve, kouma “enn adilt ofer sign tranzision abitie avan dezene” ek “zanfan-la kapav gagn led ouswa enn poz.” Obzerv si sanzman-la amelyor konfor, partisipasion ek sekirite. Kantite ek dire kapav ed idantifie bann tandans, me servi zot ansam avek lexperyans zanfan-la ek pwin de vi fami-la. Zame afis bann done detres enn zanfan kouma enn not piblik."
+            },
+            {
+              "type": "p",
+              "text": "Inklir enn adilt ranplasan ek bann linformasion minimom ki enn ranplasan bizin. Revize si plan-la vremem posib pandan moman pli ranpli lazourne."
+            },
+            {
+              "type": "h",
+              "text": "Kone kan ekip-la bizin led"
+            },
+            {
+              "type": "p",
+              "text": "Demann gidans responsab inklizion ouswa bezwin adisionel etablisman-la ek bann profesionel konserne kan detres persiste, ogmante, vinn for dan enn fason inabitiel, afekte partisipasion ouswa kree bann inkietid sekirite malgre enn soutien reflesi. Enn sanzman sibit, pert bann kapasite ki zanfan-la ti deza pe servi, enn douler posib ouswa enn lot inkietid lasante merit enn diskision san tarde atraver prosedir lasante apropriye. Personel obzerve ek soutenir; bann profesionel kalifie evalie ek fer bann diagnostik."
+            },
+            {
+              "type": "p",
+              "text": "Pa atann enn diagnostik avan fer bann adaptasion aksesibilite abitie ek an sekirite. Pa promet ki enn stratezi pou geri enn difikilte ouswa rekomann enn tretman ki pa finn evalie. Inplik bann fami dan planifikasion soutien ek oriantasion ver bann servis, an swiv bann obligasion konsantman ek partaz linformasion. Si ena enn inkietid proteksion zanfan, swiv prosedir proteksion zanfan deswit; pa sipoze ki bann prosedir abitie konsantman bann paran bizin retard proteksion."
+            },
+            {
+              "type": "h",
+              "text": "Gard an tet"
+            },
+            {
+              "type": "li",
+              "text": "Konesans bann fami ek obzervasion personel bizin ansam."
+            },
+            {
+              "type": "li",
+              "text": "Bann plan bizin pratik, individiel ek kapav revize."
+            },
+            {
+              "type": "li",
+              "text": "Bann prosedir soutien, oriantasion, proteksion zanfan ek ka irzan reponn diferan bezwin."
+            }
+          ]
+        },
+        {
+          "blocks": [
+            {
+              "type": "h",
+              "text": "“Nou pa trouv sa lakaz”"
+            },
+            {
+              "type": "p",
+              "text": "Lexanp imaziner: Personel remarke ki Noah, sinkan, regilierman retir limem pandan sante an gran group ek parfwa rat aktivite-la. Dimounn ki okip li dir, “Li sante touletan lakaz.” Toulede temwaniaz kapav vre."
+            },
+            {
+              "type": "h",
+              "text": "Prepar bann trwa premie lalinn"
+            },
+            {
+              "type": "li",
+              "text": "Servi enn zanfan imaziner ek ekrir enn vre pwin for."
+            },
+            {
+              "type": "li",
+              "text": "Azout enn obzervasion avek so konteks ek san enn letiket diagnostik."
+            },
+            {
+              "type": "li",
+              "text": "Ekrir enn kestion avek kiryozite ek enn sanzman bann adilt pou eseye."
+            },
+            {
+              "type": "li",
+              "text": "Nom rol ki responsab pou revizion ek prosedir pou bann inkietid irzan."
+            },
+            {
+              "type": "p",
+              "text": "Eski plan-la demann bann adilt sanz enn zafer ki ena sans, ouswa zis demann zanfan-la konport li dan enn lot fason?"
+            },
+            {
+              "type": "h",
+              "text": "Bann eleman enn bon repons"
+            },
+            {
+              "type": "p",
+              "text": "“Nou anvi ki Noah apresie partisipe dan enn fason ki marse pou li.”"
+            },
+            {
+              "type": "p",
+              "text": "“Eski nou kapav esey enn pli tipti group ek enn fason fasil pou signal enn poz?”"
+            },
+            {
+              "type": "p",
+              "text": "“Anou konpar seki nou remarke ek reviz plan-la ansam semenn prosenn.”"
+            },
+            {
+              "type": "p",
+              "text": "Dat revizion-la se enn lexanp, pa enn interval klinik obligatwar. Dakor lor enn moman apropriye ek demann led pli boner si risk ouswa inkietid ogmante. Gete si swazir enn sante, obzerv avan ouswa partisipe depi enn plas pli trankil amelyor akse."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "q": "Enn zanfan kapav atann so tour gramatin me li gagn difikilte apre enn lapremidi bien ranpli. Ki interpretasion pli itil?",
+      "options": [
+        "Reisit gramatin-la prouve ki konportman lapremidi-la volonter.",
+        "Kapasite regilasion kapav varye avek konteks ek soutien disponib.",
+        "Zanfan-la bizin perdi akse a zwe ziska li kapav atann touletan.",
+        "Zanfan-la nepli bizin soutien enn adilt."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Bann kapasite sansib a konteks. Verifye fatig, bann demann ek soutien disponib olye pran enn reisit avan kouma prev so kapasite aster."
+    },
+    {
+      "q": "Ki deskripsion enn obzervasion pli kler?",
+      "options": [
+        "Li ti pe manipile pandan ler ranze.",
+        "Li ti anvi met tou dimounn ankoler.",
+        "Li finn kriye “non” ek al deryer letazer kan sante pou ranze finn koumanse.",
+        "Li ena enn move latitid anver sanzman."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Bann mo ek aksion ki kapav obzerve donn ekip-la enn zafer pou examine. Bann letiket ek bann sipozision lor lintansion kapav kasiet bann tandans itil."
+    },
+    {
+      "q": "Ou remarke ki ou lavwa pe vinn sek pandan enn interaksion difisil. Ki meyer prosenn letap?",
+      "options": [
+        "Fer enn poz, servi mwins mo ek organiz enn rele bien kler si ou bizin soutien.",
+        "Dir zanfan-la ki li pe met ou ankoler.",
+        "Ale deswit san dir enn lot adilt.",
+        "Insiste pou fini konversasion-la avan demann led."
+      ],
+      "answer": 0,
+      "critical": false,
+      "why": "Regilasion adilt-la inportan, ek sirveyans bizin kontigne. Enn rele planifie protez zanfan-la ek rann enn repons stab pli posib."
+    },
+    {
+      "q": "Enn zanfan rant dan detres pandan mem tranzision avek tro boukou dimounn sak zour. Ki meyer premie plan?",
+      "options": [
+        "Pratik res trankil pandan plis letan.",
+        "Azout enn tablo piblik rekonpans pou tranzision-la.",
+        "Gard routinn-la parey pou ansegn rezilians.",
+        "Diminie letan atann ek foul ki kapav evite, apre obzerve si akse amelyore."
+      ],
+      "answer": 3,
+      "critical": false,
+      "why": "Sanz enn demann dan lanvironnman se enn letap prevantif pratik. Reviz repons zanfan-la olye sipoze ki enn lexersis regilasion tousel pou rezourd difikilte-la."
+    },
+    {
+      "q": "Ki rann enn sipor viziel itil?",
+      "options": [
+        "Li ena bann kouler ek li afise lao lor miray.",
+        "Li ena sans pou zanfan-la, li disponib kan neseser ek bann adilt servi li avek li.",
+        "Li parey pou sak zanfan.",
+        "Zot introdwir li zis pandan detres."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Enn sipor viziel se enn zouti kominikasion. So valer depann lor so sans, so aksesibilite ek enn itilizasion koeran, pa lor dekorasion."
+    },
+    {
+      "q": "Ki itilizasion enn lespas trankil koresponn avek sa formasion-la?",
+      "options": [
+        "Enn opsion anba sirveyans avek soutien enn adilt ek enn retour dan aktivite avek soutien.",
+        "Enn pinision apre ki enn zanfan pa respekte enn reg.",
+        "Enn lasam kot zanfan-la pa kapav sorti avan demann exkiz.",
+        "Enn plas kot personel kit bann zanfan dan detres pou zot aprann lendepandans."
+      ],
+      "answer": 0,
+      "critical": true,
+      "why": "Bi-la se soutien ek konfor. Enn lespas regilasion pa bizin vinn izolman, lexklizion ouswa enn test ki enn zanfan bizin reisi."
+    },
+    {
+      "q": "Enn zanfan ki abitie koze boukou vinn imobil dan enn fason inabitiel ek retir limem. Ki ou bizin fer?",
+      "options": [
+        "Sipoze ki zanfan-la finn bien regile parski li trankil.",
+        "Atir latansion lor sanzman-la devan group-la.",
+        "Remark sanzman-la, pran so nouvel avek delikates ek get ki soutien neseser.",
+        "Atann enn konportman ki deranze avan reponn."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Detres kapav trankil. Konpar avek fason abitie zanfan-la ek ofer enn ti kontak san presion ek san fer bann sipozision."
+    },
+    {
+      "q": "Ki repons konbinn lanpati avek enn limit?",
+      "options": [
+        "“To kontrarie. Bann dimounn bizin an sekirite. Mo la pou ede.”",
+        "“Si to ti vremem regrete, to ti pou aret plore.”",
+        "“To kapav fer ninport ki kan to ankoler.”",
+        "“Pena okenn rezon pou santi sa.”"
+      ],
+      "answer": 0,
+      "critical": false,
+      "why": "Rekonet enn santiman ek protez sekirite kapav fer ansam. Rekonet bann santiman pa retir bann limit ek pa demann laont."
+    },
+    {
+      "q": "Enn zanfan refiz ou aktivite respirasion abitie. Ki meyer repons?",
+      "options": [
+        "Repet instriksion-la ziska zanfan-la obeir.",
+        "Retir led kominikasion zanfan-la.",
+        "Explik ki respire se sel fason pou kalme.",
+        "Ofer enn lot soutien apropriye, diminie bann demann ek les letan."
+      ],
+      "answer": 3,
+      "critical": true,
+      "why": "Bann zouti regilasion se bann opsion, pa bann travay pou obeir. Pran kont bann preferans, kominikasion ek bezwin aktiel zanfan-la."
+    },
+    {
+      "q": "Enn zanfan ena enn risk imedia pou bles enn dimounn gravman. Ki ena priorite?",
+      "options": [
+        "Terminn bann kestion refleksion.",
+        "Aktiv repons sekirite etablisman-la, apel soutien apropriye ek protez bann lezot dimounn pandan ki sirveyans kontigne.",
+        "Gagn enn explikasion verbal konplet ar zanfan-la.",
+        "Esey enn teknik pou tini enn zanfan ki ou finn trouv an-lign."
+      ],
+      "answer": 1,
+      "critical": true,
+      "why": "ESANSIEL POU SEKIRITE: Proteksion imedia ek plan repons lokal pas an premie. Sa formasion-la pa ansegne ni otoriz bann teknik intervansion fizik."
+    },
+    {
+      "q": "Enn zanfan dan detres gagn difikilte respire ouswa perdi konesans. Ki personel bizin fer?",
+      "options": [
+        "Kontign bann fraz pou kalme pandan plizier minit avan.",
+        "Atann enn manb fami arive.",
+        "Servi repons irzan premie sekour ek dirzans etablisman-la, inklir bann servis dirzans lokal kan neseser.",
+        "Tret sa kouma enn difikilte abitie pou regil bann lemosion."
+      ],
+      "answer": 2,
+      "critical": true,
+      "why": "ESANSIEL POU SEKIRITE: Bann ka irzans medikal posib bizin enn evaliasion irzan par bann dimounn forme ek enn aksion dirzans. Pa retard zot pou enn stratezi regilasion."
+    },
+    {
+      "q": "Apre sa formasion-la, ki deklarasion lor imobiliz enn zanfan par lafors ouswa anferm li tousel korek?",
+      "options": [
+        "Enn gran not dan kestioner-la otoriz toulede.",
+        "Ninport ki teknik akseptab si apel li ko-regilasion.",
+        "Enn demonstrasion video se ase formasion.",
+        "Sa formasion-la pa donn okenn lotorizasion ni teknik; pa inprovize ek swiv lalwa, bann prosedir lokal ek bann limit ou formasion."
+      ],
+      "answer": 3,
+      "critical": true,
+      "why": "ESANSIEL POU SEKIRITE: Partisip dan formasion-la pa enn formasion pou intervansion fizik. Enn pratik an sekirite demann kad lokal aplikab ek soutien bann dimounn ki finn gagn enn formasion apropriye."
+    },
+    {
+      "q": "Enn zanfan pe rekipere apre enn insidan ek li pa ankor kapav explik seki finn pase. Ki fason pli apropriye?",
+      "options": [
+        "Exiz bann exkiz avan zanfan-la kapav rezwenn group-la.",
+        "Ofer rekonfor, verifye bann bezwin ek soutenir retour-la; retourn lor laprantisaz ek reparasion kan li pare.",
+        "Poz zanfan-la bann kestion devan so bann kamarad pou ekonomiz letan.",
+        "Sipoze ki silans vedir insidan-la finn regle."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Rekipere ek reflesi plitar se de travay diferan. Res trankil tousel pa prev ki zanfan-la pare, ek bann exkiz pa bizin enn biye lantre pou retrouv so plas."
+    },
+    {
+      "q": "Kan li pli itil pou introdwir enn nouvo kapasite pou demann led?",
+      "options": [
+        "Zis pandan detres pli for.",
+        "Enn fwa ki zanfan-la nepli bizin led enn adilt.",
+        "Pandan enn aktivite kalm ek aksesib, apre avek pratik soutenir dan bann vre routinn.",
+        "Zis dan enn leson avek enn fis lexersis."
+      ],
+      "answer": 2,
+      "critical": false,
+      "why": "Montre ek pratik avan ki kapasite-la neseser dan enn ka irzan, apre soutenir so itilizasion dan bann konteks ki ena sans."
+    },
+    {
+      "q": "Enn zanfan servi bann zes olye koze. Ki konte kouma enn demann led apropriye?",
+      "options": [
+        "Zis enn fraz koze konplet.",
+        "Enn zes, sinbol, sign ouswa metod kominikasion etabli ek aksesib.",
+        "Zis metod kominikasion ki laplipar so bann kamarad servi.",
+        "Nanye ziska enn evaliasion diagnostik termine."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Kominikasion bizin aksesib. Travay avek bann soutien ki zanfan-la deza servi ek ekip kominikasion konserne."
+    },
+    {
+      "q": "Ki retour dekrir pli bien enn kapasite itil?",
+      "options": [
+        "“To bon kan to trankil.”",
+        "“Kifer to pa kapav fer sa sak fwa?”",
+        "“Twa zanfan ki konport pli bien isi.”",
+        "“To finn montre mwa led, ek nou finn rezourd problem-la ansam.”"
+      ],
+      "answer": 3,
+      "critical": false,
+      "why": "Enn retour presi idantifie aksion-la ek so lefe. Li evit ziz valer zanfan-la ouswa rekonpans li pou kasiet so bann santiman."
+    },
+    {
+      "q": "Enn dimounn ki okip zanfan-la dir ki li pa trouv mem difikilte lakaz. Ki repons pli itil?",
+      "options": [
+        "Examinn bann diferan konteks ek partaz bann obzervasion konkre avek respe.",
+        "Explik ki enn parmi bann temwaniaz bizin fos.",
+        "Konklir ki zanfan-la pe fer sanblan lekol.",
+        "Aret ofer soutien ziska fami-la dakor."
+      ],
+      "answer": 0,
+      "critical": false,
+      "why": "Diferan demann ek etablisman kapav donn diferan lexperyans. Bann obzervasion fami ek personel kapav toulede ed fer enn pli bon plan."
+    },
+    {
+      "q": "Enn obzervasion lev enn inkietid posib pou proteksion zanfan. Ki bizin arive?",
+      "options": [
+        "Atann ki plan konportman-la finn eseye pandan enn mwa.",
+        "Demann zanfan-la repet seki li finn rakonte devan tou lekip personel.",
+        "Swiv prosedir proteksion zanfan etablisman-la san tarde; servi prosedir dirzans si danze-la imedia.",
+        "Sipoze ki enn difikilte regilasion explik inkietid-la."
+      ],
+      "answer": 2,
+      "critical": true,
+      "why": "ESANSIEL POU SEKIRITE: Bann inkietid proteksion zanfan pa bizin redwir a zesion konportman. Swiv prosedir deziye-la vit ek met an ekri atraver bann sistem aprouve."
+    },
+    {
+      "q": "Ki plan soutien pli itil?",
+      "options": [
+        "Enn letiket ek enn demann ki zanfan-la fer plis zefor.",
+        "Bann obzervasion individiel, bann adaptasion adilt, enn kominikasion aksesib, bann responsabilite atribie ek enn moman revizion.",
+        "Enn tablo piblik bann insidan zanfan-la.",
+        "Enn sel stratezi ki aplike parey pou tou zanfan."
+      ],
+      "answer": 1,
+      "critical": false,
+      "why": "Enn plan pratik dir bann adilt ki pou fer, kouma gard bann dimounn an sekirite ek kouma gete si soutien-la amelyor akse ek bien-et."
+    },
+    {
+      "q": "Ki prosenn letap apropriye kan bann difikilte persiste malgre bann adaptasion reflesi?",
+      "options": [
+        "Fer enn diagnostik lakoz-la depi enn lalis an-lign.",
+        "Promet fami-la ki formasion-la pou geri li.",
+        "Retir tou soutien abitie ziska enn diagnostik arive.",
+        "Demann konsey atraver bann prosedir inklizion ouswa lasante avek fami-la, pandan ki soutien an sekirite ek swivi kontigne."
+      ],
+      "answer": 3,
+      "critical": false,
+      "why": "Bann edikater soutenir ek obzerve; bann profesionel kalifie evalie ek fer bann diagnostik. Raport bann inkietid atraver prosedir lokal apropriye san priv zanfan-la bann adaptasion aksesibilite abitie."
+    }
+  ],
+  "reference": [
+    {
+      "title": "Bi ek kad formasion",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bann ansegnan, asistan pedagozik ek adilt ki akonpagn bann tipti zanfan, sirtou laz 2–6 an. Adapt selon bann bezwin devlopman ek kominikasion olye zis laz lor kalandriye."
+        },
+        {
+          "type": "p",
+          "text": "Enn resours laprantisaz ki pran kont bann prev ek resers, prepare pou konteks Inspired ELS. Li pa enn regleman aprouve par Inspired, enn kalifikasion klinik, enn formasion proteksion zanfan ouswa enn formasion intervansion fizik. Swiv bann prosedir aktiel ou etablisman pou proteksion zanfan, inklizion, premie sekour ek ka irzan, ek bann obligasion legal lokal. Enn dosie fin formasion montre zis partisipasion dan formasion-la."
+        }
+      ]
+    },
+    {
+      "title": "Seki bann prev kapav dir nou",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Bann resers soutenir bann relasion ki reponn bann bezwin, bann lanvironnman reflesi ek pratik bann kapasite avek soutien. Bann prev pou bann program oto-regilasion presi dan tipti lanfans limite ek inegal; bann resers lor bann intervansion spesifik ko-regilasion ankor pe devlope. Sa bann lexanp pratik-la se bann ilistrasion lansegnman orizinal, pa enn protokol tretman valide ouswa enn promes bann rezilta presi."
+        }
+      ]
+    },
+    {
+      "title": "Konfidansialite ek bann dosie formasion",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Servi zis bann sitiasion imaziner. Pa rant bann detay vre zanfan, bann diagnostik, bann linformasion fami ouswa bann dosie insidan. Progre ek bann detay ki bann adilt rant res dan sa navigater-la. Formasion-la pena enn rezis santral ni enn servis imel otomatik. Gard bann vre dosie dan sistem sekirize ki ou lekol finn aprouve."
+        }
+      ]
+    }
+  ]
+};

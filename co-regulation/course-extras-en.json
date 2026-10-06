@@ -1,0 +1,495 @@
+{
+  "meta": [
+    {
+      "title": "Start with connection",
+      "sub": "Understand the skill underneath the behaviour, and the adult support that makes it possible.",
+      "time": 8
+    },
+    {
+      "title": "Make the day easier to manage",
+      "sub": "Prevent avoidable overload through predictable routines, accessible communication and individual sensory adjustments.",
+      "time": 8
+    },
+    {
+      "title": "Respond before distress grows",
+      "sub": "Notice subtle signals and practise short, respectful responses that leave space for the child.",
+      "time": 8
+    },
+    {
+      "title": "Keep everyone safe, then reconnect",
+      "sub": "Know the limits of this course, reduce immediate risk and support recovery without punishment.",
+      "time": 9
+    },
+    {
+      "title": "Teach skills in everyday play",
+      "sub": "Build a small, accessible repertoire through modelling, rehearsal and supported use.",
+      "time": 7
+    },
+    {
+      "title": "Build the plan together",
+      "sub": "Partner with families, document useful patterns and know when more support is needed.",
+      "time": 8
+    }
+  ],
+  "practice": [
+    {
+      "q": "Fictional example: Four-year-old Amira builds a tower. It collapses during a busy afternoon. She sweeps the blocks onto the floor and says, “I can’t!” Yesterday she rebuilt a similar tower independently. Which response best starts co-regulation?",
+      "o": [
+        "“You did it yesterday, so you can do it now. Pick everything up first.”",
+        "Move nearby, check the area is safe and say, “That fell down. You worked hard. I can help when you’re ready.”",
+        "Rebuild the whole tower immediately without speaking to her."
+      ],
+      "a": 1,
+      "why": "This describes the event, recognises the effort and offers support without requiring immediate explanation or performance. The adult’s first job is safety and connection. Later, invite Amira to choose between rebuilding, changing the design or taking a break. The goal is supported participation, not making the child look calm as quickly as possible."
+    },
+    {
+      "q": "Fictional example: Three-year-old Leo covers his ears near the hand dryer, backs away and then drops to the floor. The line grows behind him. He communicates mostly through gestures. No diagnosis is recorded. What is the most useful first adjustment?",
+      "o": [
+        "Keep him in the queue until he gets used to the sound.",
+        "Tell his family that this behaviour confirms a sensory disorder.",
+        "Reduce crowding, offer a quieter drying option and use a familiar gesture to show the next step."
+      ],
+      "a": 2,
+      "why": "This addresses observable barriers while preserving the handwashing routine and Leo’s communication access. Afterwards, speak with the family about useful signals and preferences. Review whether smaller groups, a different route or an earlier transition helps. Record the change and its effect rather than labelling Leo."
+    },
+    {
+      "q": "Fictional example: Two-year-old Priya arrives to find a different adult greeting her. She clings to her caregiver, turns away and says nothing. Staff worry that she will miss the morning activity. Which response supports the immediate transition?",
+      "o": [
+        "“You’re a big girl. Say goodbye and stop making a fuss.”",
+        "Use the familiar goodbye routine, show a known activity and offer a trusted adult’s support without demanding speech.",
+        "Ask her repeatedly to explain exactly why she is upset."
+      ],
+      "a": 1,
+      "why": "Predictability and responsive support address the unexpected change while respecting Priya’s communication. Agree a manageable arrival plan with the caregiver and team. Do not promise that a particular adult will always be available. Prepare an accessible backup routine so the child is not dependent on one impossible guarantee."
+    },
+    {
+      "q": "Fictional example: Five-year-old Ben is distressed after a game ends. He lifts a chair while several children are close by. Another adult is available. This is an immediate safety concern, not a role-play to try with children. What should guide the first response?",
+      "o": [
+        "Insist he explain his feelings before anyone moves.",
+        "Try a holding technique remembered from an online clip.",
+        "Call the agreed trained support and help create safe space for others, following the local emergency plan."
+      ],
+      "a": 2,
+      "why": "Protecting people, maintaining supervision and summoning appropriate help come before teaching or discussion. The safe action depends on the real environment and local procedures. Practise staff communication through discussion, never by staging dangerous behaviour with children. The incident should prompt review of support and safety planning."
+    },
+    {
+      "q": "Fictional example: Four-year-old Sofia practises a help card during a small-group lesson. At snack, her container will not open. She cries and pushes it away. The card is still in a classroom drawer. What should the adult change?",
+      "o": [
+        "Place communication support within reach and practise using it during real, manageable routines.",
+        "Withhold help until she produces the card correctly.",
+        "Conclude that Sofia has forgotten the lesson and repeat it more loudly."
+      ],
+      "a": 0,
+      "why": "A taught skill needs an accessible opportunity to be useful. Respond to Sofia’s current request for help as well as improving future access. The team checks where symbols or devices are needed, asks the child’s communication team about established supports and practises in ordinary routines. A successful lesson does not guarantee independent use under stress."
+    },
+    {
+      "q": "Fictional example: Staff notice that five-year-old Noah regularly withdraws during large-group singing and sometimes misses the activity. His caregiver says, “He sings all the time at home.” Both accounts may be accurate. Which opening best builds a useful plan?",
+      "o": [
+        "“He must be choosing to behave differently here.”",
+        "“He enjoys songs he chooses in small groups. In the large group he moves away. What is singing like at home, and what helps him feel comfortable?”",
+        "“We need a diagnosis before we can change the activity.”"
+      ],
+      "a": 1,
+      "why": "This shares a strength, describes the context and invites the family’s knowledge before selecting an adjustment. The review date is an example, not a required clinical interval. Agree a suitable time and escalate sooner if risk or concern increases. Consider whether choosing a song, observing first or joining from a quieter position improves access."
+    }
+  ],
+  "declarations": [
+    "I will respond to distress with dignity, accessible communication and adult co-regulation, while keeping everyone safe.",
+    "I will adapt routines and expectations to the child’s development, communication and sensory needs, and teach skills when the child is ready.",
+    "I will not use humiliation, threats, isolation, forced eye contact, forced affection or withdrawal of necessary care to obtain compliance.",
+    "I will follow current school safeguarding, supervision and emergency procedures, seek trained help and stay within my role. This course does not teach or authorise restraint.",
+    "I understand that this certificate records online learning only. I will use the school’s approved systems for real concerns, support plans and family communication, never this course."
+  ],
+  "localReadiness": [
+    {
+      "title": "Know the child and the routine",
+      "text": "Learn each child’s ways of communicating, interests, sensory preferences and current agreed supports. Ask families what helps without assuming the same strategy works everywhere."
+    },
+    {
+      "title": "Know your own support",
+      "text": "Agree a brief help signal with colleagues, who stays with the child and who supervises the group. If you are overwhelmed, arrange a safe handover; never simply walk away."
+    },
+    {
+      "title": "Make the environment usable",
+      "text": "Check transitions, waiting time, noise, crowding and access to movement, communication aids and a supervised quieter space. A quiet space is an optional support, never a punishment or locked room."
+    },
+    {
+      "title": "Agree consistent, flexible responses",
+      "text": "Use short familiar scripts and genuine choices. Give processing time and respect a child’s communication, including gestures or AAC. Calm appearance, stillness and eye contact are not proof of regulation."
+    },
+    {
+      "title": "Know the help and reporting routes",
+      "text": "Confirm your ELS/inclusion lead, safeguarding lead, independent alternative route, first-aid support and emergency process. Urgent risk needs prompt help, not another behaviour strategy."
+    },
+    {
+      "title": "Review with evidence and families",
+      "text": "Describe what happened before, what the child did, what adults changed and what helped. Keep records factual, brief and secure. Seek specialist input through the agreed route when needs persist, intensify or affect participation."
+    }
+  ],
+  "practical": {
+    "title": "Team co-regulation practice guide",
+    "intro": "For an adult-to-adult rehearsal or a team discussion using a fictional scenario. Choose a routine from the course and practise a calm, consistent response. The aim is supportive teamwork, not performance under pressure.",
+    "instructions": [
+      "Choose a fictional arrival, transition, noisy-room or peer-conflict scenario. Agree the child’s developmental, communication and sensory needs before starting.",
+      "Decide who will speak, who will supervise other children and how to summon help. Rehearse words, choices and environmental changes only; do not practise physical intervention.",
+      "Take turns as the supporting adult and an observer. Nobody needs to act out a real child’s distress. Pause whenever a participant wants to.",
+      "Discuss what offered dignity and access, what could add pressure and what you would do if safety changed. Use the school’s current procedures.",
+      "Choose one small change to try in ordinary practice and a date to review it. Keep any real child records in the school’s approved secure system."
+    ],
+    "criteria": [
+      {
+        "area": "1. Prepare the adult and environment",
+        "items": [
+          "Notices their own pace, voice and tension and identifies a safe handover route.",
+          "Plans group supervision, help and a quieter accessible option without isolation.",
+          "Anticipates the child’s communication, sensory and developmental needs."
+        ]
+      },
+      {
+        "area": "2. Respond to early signs",
+        "items": [
+          "Describes the observable cue without labelling the child as naughty or manipulative.",
+          "Uses a short, warm sentence, comfortable distance and processing time.",
+          "Offers genuine accessible choices, without requiring speech, eye contact, touch or breathing exercises."
+        ]
+      },
+      {
+        "area": "3. Prioritise safety during escalation",
+        "items": [
+          "Reduces demands and audience, protects other children and requests trained help when needed.",
+          "Explains emergency/safeguarding routes and the limits of this course; no restrictive technique is rehearsed.",
+          "Maintains supportive supervision and necessary care; does not use forced isolation, threats or shame."
+        ]
+      },
+      {
+        "area": "4. Recover, teach and review",
+        "items": [
+          "Allows recovery before discussion, apology or problem-solving.",
+          "Offers a manageable repair and rehearses a useful communication or coping skill when the child is ready.",
+          "Identifies one adult/environment change, a family partnership step and when to seek further support."
+        ]
+      }
+    ],
+    "decisionOptions": [
+      "Agree one small change and a review date",
+      "Arrange coaching or additional support",
+      "Seek the relevant school lead’s advice before changing the child’s plan"
+    ],
+    "footer": "Use this as a conversation starter alongside school induction and coaching. Only the school can set role permissions or approve individual plans. A completed practice sheet does not establish clinical competence or permission for restrictive intervention."
+  },
+  "visualGuides": [
+    {
+      "id": "adult-anchor",
+      "module": 1,
+      "title": "Be the steady adult",
+      "intro": "A short rehearsal for your own first response. Children’s needs and recovery patterns vary; this is not a fixed sequence they must follow.",
+      "steps": [
+        {
+          "title": "Notice yourself",
+          "text": "Notice your voice, pace and tension. Take a comfortable pause if it is safe.",
+          "icon": "notice"
+        },
+        {
+          "title": "Steady your response",
+          "text": "Lower the volume, soften your posture and choose fewer words. Calm presence takes practice.",
+          "icon": "pause"
+        },
+        {
+          "title": "Connect without pressure",
+          "text": "Stay available at a distance the child can tolerate. Offer warmth without insisting on touch or eye contact.",
+          "icon": "support"
+        },
+        {
+          "title": "Make one helpful change",
+          "text": "Reduce one demand or source of overload. Offer an accessible choice that you can honour.",
+          "icon": "choice"
+        },
+        {
+          "title": "Bring in support",
+          "text": "Ask a colleague for a safe handover when needed, with clear supervision for the child and the group.",
+          "icon": "people"
+        }
+      ]
+    },
+    {
+      "id": "early-response",
+      "module": 3,
+      "title": "Less pressure, more support",
+      "intro": "Imagine a child covering their ears and moving away as the class lines up. Rehearse a response before distress grows.",
+      "steps": [
+        {
+          "title": "Notice the cue",
+          "text": "Describe what you see: hands over ears, backing away, fewer words. Do not guess an intention.",
+          "icon": "notice"
+        },
+        {
+          "title": "Change the conditions",
+          "text": "Reduce noise and crowding. Offer a supervised quieter position or staggered transition.",
+          "icon": "zones"
+        },
+        {
+          "title": "Use a brief script",
+          "text": "“It’s noisy. I’m here. We can wait here together.” Allow time for the child to process.",
+          "icon": "voice"
+        },
+        {
+          "title": "Offer a real choice",
+          "text": "“Walk beside me or at the end?” Use a gesture, picture or familiar communication system if helpful.",
+          "icon": "choice"
+        },
+        {
+          "title": "Notice the response",
+          "text": "Stay flexible. If distress or risk grows, stop adding demands and follow the school’s support and safety plan.",
+          "icon": "plan"
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "module": 4,
+      "title": "Recovery is part of the support",
+      "intro": "The difficult moment may have passed, but readiness to talk or learn can return slowly. Avoid rushing to correction.",
+      "steps": [
+        {
+          "title": "Keep support available",
+          "text": "Maintain supervision, a calm environment and necessary care. Do not withdraw comfort as a consequence.",
+          "icon": "support"
+        },
+        {
+          "title": "Offer, do not insist",
+          "text": "Offer the child’s familiar calming supports. Breathing, touch or talking may not help every child.",
+          "icon": "choice"
+        },
+        {
+          "title": "Wait for readiness",
+          "text": "Watch for the child’s usual signs of comfort and engagement. Do not demand an immediate explanation or apology.",
+          "icon": "listen"
+        },
+        {
+          "title": "Reconnect and repair",
+          "text": "When ready, help with a manageable repair: check on a peer, rebuild together or choose another way to ask.",
+          "icon": "repeat"
+        },
+        {
+          "title": "Review the adult plan",
+          "text": "What happened before? What did we change? What helped? Share facts securely and adjust the plan with the team and family.",
+          "icon": "plan"
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "v1",
+      "title": "How-to: 5 Steps for Brain-Building Serve and Return",
+      "publisher": "Center on the Developing Child at Harvard University",
+      "url": "https://developingchild.harvard.edu/resources/videos/how-to-5-steps-for-brain-building-serve-and-return/",
+      "durationLabel": "Short how-to video; optional",
+      "summary": "Adults notice a child’s interest, respond, add language, take turns and follow changes in attention. The practical message is responsive back-and-forth interaction, not demanding eye contact or a particular response.",
+      "prompt": "What does the adult notice before deciding what to say or do?",
+      "accessibility": "The official page provides explanatory text and several language options. This course summary is a text alternative; player captions and availability may vary.",
+      "verifiedHosting": "Official Harvard page links to its YouTube player. The page and video title were verified; playback was not independently tested.",
+      "moduleId": "m1",
+      "module": 1
+    },
+    {
+      "id": "v2",
+      "title": "The importance of emotions in the early years foundation stage framework",
+      "publisher": "Department for Education, England",
+      "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
+      "durationLabel": "Short practitioner explainer; optional",
+      "summary": "Practitioners discuss emotionally safe relationships, recognising feelings, giving children time and supporting adults to reflect. Examples include separation and conflict over a toy. The emphasis is attuned support and returning to problem-solving when the child is ready.",
+      "prompt": "Where does the adult reduce pressure while keeping support available?",
+      "accessibility": "A full transcript is available on the official page beneath the Vimeo video.",
+      "verifiedHosting": "Official DfE page and linked Vimeo player verified. Player title: EYFS Personal, social and emotional development – Emotions.",
+      "moduleId": "m3",
+      "module": 3
+    },
+    {
+      "id": "v3",
+      "title": "How Children and Adults Can Build Core Capabilities for Life",
+      "publisher": "Center on the Developing Child at Harvard University",
+      "url": "https://developingchild.harvard.edu/resources/videos/video-building-core-capabilities-life/",
+      "durationLabel": "5 minutes; optional",
+      "summary": "This animated explainer describes executive-function and self-regulation skills across life, how practice supports them and how stress can make them harder to use. Treat its visual metaphors as illustrations, not a literal diagnosis of what is happening in an individual child’s brain.",
+      "prompt": "What support would make it easier for an adult and child to use their skills on a demanding day?",
+      "accessibility": "The official page includes an explanatory text summary and English and Japanese video options. This course summary is also a text alternative.",
+      "verifiedHosting": "Official Harvard page verifies title and five-minute duration and links to its YouTube player; playback was not independently tested.",
+      "moduleId": "m5",
+      "module": 5
+    }
+  ],
+  "sources": [
+    {
+      "id": "eef-regulation",
+      "title": "Self-regulation and executive function: Early Years Evidence Store",
+      "publisher": "Education Endowment Foundation",
+      "jurisdiction": "England",
+      "url": "https://educationendowmentfoundation.org.uk/early-years/evidence-store/self-regulation-and-executive-function",
+      "claim": "Defines related regulation skills; supports teaching, modelling, repeated practice and tailoring adult scaffolding to the child and context.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "eef-evidence",
+      "title": "Research Agenda: Self-Regulation and Executive Function in the Early Years",
+      "publisher": "Education Endowment Foundation",
+      "jurisdiction": "England",
+      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/research-agenda-themes-priority-areas/research-agenda-theme-self-regulation-and-executive-function-sref-in-the-early-years",
+      "claim": "Explains the limited and uneven early-years evidence base, including gaps for younger children and co-regulation interventions.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "harvard-activities",
+      "title": "Activities Guide: Enhancing and Practicing Executive Function Skills with Children from Infancy to Adolescence",
+      "publisher": "Center on the Developing Child at Harvard University",
+      "jurisdiction": "United States",
+      "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
+      "claim": "Age-adapted play and interaction provide opportunities to develop executive-function and self-regulation skills.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "harvard-serve",
+      "title": "Serve and Return",
+      "publisher": "Center on the Developing Child at Harvard University",
+      "jurisdiction": "United States",
+      "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/",
+      "claim": "Responsive back-and-forth exchanges with caring adults support early communication and social development.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "acecqa-regulation",
+      "title": "QA5 information sheet: Supporting children to regulate their own behaviour",
+      "publisher": "Australian Children’s Education and Care Quality Authority",
+      "jurisdiction": "Australia",
+      "url": "https://www.acecqa.gov.au/qa5-information-sheet-supporting-children-regulate-their-own-behaviour",
+      "claim": "Highlights warm relationships, fluctuating capacity, adult regulation, environmental reflection and calm-time skill teaching.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "acecqa-discipline",
+      "title": "QA5 information sheet: Inappropriate discipline",
+      "publisher": "Australian Children’s Education and Care Quality Authority",
+      "jurisdiction": "Australia",
+      "url": "https://www.acecqa.gov.au/qa5-information-sheet-inappropriate-discipline",
+      "claim": "Distinguishes supported cooling down from punishment and identifies inappropriate discipline. Legal details apply to its Australian framework; this course does not export them as universal law.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "acecqa-self-regulation",
+      "title": "Element 5.2.2: Self-regulation",
+      "publisher": "Australian Children’s Education and Care Quality Authority",
+      "jurisdiction": "Australia",
+      "url": "https://www.acecqa.gov.au/element-522-self-regulation",
+      "claim": "Supports emotion communication, conflict resolution, educator reflection and partnership with families and other professionals.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "acecqa-inclusion",
+      "title": "Inclusion and inclusive practice",
+      "publisher": "Australian Children’s Education and Care Quality Authority",
+      "jurisdiction": "Australia",
+      "url": "https://www.acecqa.gov.au/latest-news/inclusion-and-inclusive-practice",
+      "claim": "Describes responsive co-regulation through presence, gentle tone and choices respectful of the child’s pace and needs.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "nice-autism",
+      "title": "Autism spectrum disorder in under 19s: support and management, recommendations 1.1.9 and 1.4",
+      "publisher": "National Institute for Health and Care Excellence",
+      "jurisdiction": "United Kingdom",
+      "url": "https://www.nice.org.uk/guidance/cg170/chapter/recommendations",
+      "claim": "Recommends attention to communication, sensory environment, predictability, possible health factors and family-informed individual care. Clinical guidance does not authorise educators to diagnose or prescribe.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "ncpmi-visuals",
+      "title": "Visual Supports for Routines, Schedules, and Transitions",
+      "publisher": "National Center for Pyramid Model Innovations, University of South Florida",
+      "jurisdiction": "United States",
+      "url": "https://www.challengingbehavior.org/document/visual-supports-for-routines-schedules-and-transitions/",
+      "claim": "Provides tools for visual schedules, routine cards and first/then supports.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "ncpmi-calm",
+      "title": "Help Us Stay Calm",
+      "publisher": "National Center for Pyramid Model Innovations",
+      "jurisdiction": "United States",
+      "url": "https://www.challengingbehavior.org/docs/Stay-Calm_Infographic.pdf",
+      "claim": "Encourages adults to regulate themselves, reflect and reconnect before teaching through the interaction.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "ncpmi-response",
+      "title": "Tips for Responding to Challenging Behavior in Young Children",
+      "publisher": "Strain, Joseph, Hemmeter, Barton and Fox; hosted by NCPMI",
+      "jurisdiction": "United States",
+      "url": "https://challengingbehavior.org/wp-content/uploads/2025/02/2017-01-PEP-Tips.pdf",
+      "claim": "Response strategies belong alongside intentional prevention and teaching, rather than replacing them.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "ncpmi-teaching",
+      "title": "You Got It! Teaching Social and Emotional Skills",
+      "publisher": "Fox and Lentini; hosted by NCPMI",
+      "jurisdiction": "United States",
+      "url": "https://challengingbehavior.org/docs/YouGotIt_Teaching-Social-Emotional-Skills.pdf",
+      "claim": "Illustrates modelling, practice, specific feedback, games and stories for teaching social-emotional skills.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "ncpmi-emotions",
+      "title": "Social Emotional Teaching Strategies: Enhancing Emotional Vocabulary",
+      "publisher": "Center on the Social and Emotional Foundations for Early Learning; hosted by NCPMI",
+      "jurisdiction": "United States",
+      "url": "https://challengingbehavior.org/docs/ttyc/TTYC_A_EnhancingEmotVoc.pdf",
+      "claim": "Describes feeling vocabulary, adult modelling, role-play and story-based practice as parts of wider social-emotional teaching.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "headstart-communication",
+      "title": "Understanding Children’s Behavior as Communication",
+      "publisher": "Office of Head Start, Administration for Children and Families",
+      "jurisdiction": "United States",
+      "url": "https://headstart.gov/mental-health/article/understanding-childrens-behavior-communication",
+      "claim": "Supports relationship-based family partnership and interpreting behaviour in context for children from birth to five.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "acf-snapshots",
+      "title": "Strategies for Supporting Self-Regulation: Snapshot Series",
+      "publisher": "Office of Head Start / Administration for Children and Families",
+      "jurisdiction": "United States",
+      "url": "https://headstart.gov/mental-health/article/strategies-supporting-self-regulation-snapshot-series",
+      "claim": "Introduces adult co-regulation and links age-specific practice resources based on ACF’s Self-Regulation and Toxic Stress reports.",
+      "accessNote": "Official title and description verified in indexed source results; direct retrieval returned 403. Supplementary reading, not the sole basis for any course claim."
+    },
+    {
+      "id": "dfe-emotions",
+      "title": "Help for early years providers: Emotions",
+      "publisher": "Department for Education",
+      "jurisdiction": "England",
+      "url": "https://help-for-early-years-providers.education.gov.uk/areas-of-learning/personal-social-and-emotional-development/emotions",
+      "claim": "Supports empathetic emotional coaching, language and visual supports, reflection and family knowledge. Includes an official video transcript.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "dfe-mental-health",
+      "title": "Mental health for early years children",
+      "publisher": "Department for Education, developed with early-years and health professionals",
+      "jurisdiction": "England",
+      "url": "https://help-for-early-years-providers.education.gov.uk/health-and-wellbeing/mental-health-for-early-years-children",
+      "claim": "Covers individual patterns, changes needing support, family and professional partnership, and safeguarding escalation.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    },
+    {
+      "id": "safeguarding",
+      "title": "Keeping children safe in education 2026: part one – overview for all staff",
+      "publisher": "Department for Education",
+      "jurisdiction": "England",
+      "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2/part-one-overview-for-all-staff",
+      "claim": "Requires prompt action, local safeguarding routes and records; immediate danger needs emergency response. This England-specific overview complements rather than replaces the full guidance. Use the current equivalent in your jurisdiction.",
+      "accessNote": "Official page or resource content checked on 6 October 2026."
+    }
+  ]
+}
