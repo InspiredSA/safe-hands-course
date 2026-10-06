@@ -1,0 +1,257 @@
+{
+  "title": "Small tools. Clear adult actions.",
+  "intro": "Use these original examples for staff rehearsal and planning. Choose the child’s established words, objects, symbols, signs or AAC; a printed symbol is not automatically meaningful. Use fictional examples here and keep real records in your school’s approved system.",
+  "ageTitle": "Change the adult job, not just the age label",
+  "ageNote": "These broad planning groups are not milestone tests or diagnoses. Current communication, interests and capacity guide support. The infant extension is only for staff whose setting and authorised role include infant care. The 3–6 guide includes six-year-olds and still needs individual adaptation.",
+  "ageCards": [
+    {
+      "id": "infant-support",
+      "title": "Infant extension: birth to under 18 months",
+      "adultExpectation": "Provide most of the regulation support. Notice emerging signals and self-soothing without expecting independent recovery or a spoken request.",
+      "before": "Learn family-recognised cues; plan familiar caregiving and a backup adult. Check individual care needs and avoid competing noise and handling.",
+      "during": "Respond promptly with a familiar voice and appropriate care. Pause extra stimulation. Adjust comfort to the baby's cues and follow safe-care procedures. Follow approved handling and safe-sleep procedures; never shake a baby. This card does not teach those procedures.",
+      "after": "Return to familiar interaction when interest returns. Adults review what helped; the baby does not need a debrief.",
+      "script": "“I hear you. I'm here. Let's have a quieter moment.”",
+      "activityTitle": "Answer and pause",
+      "activity": "Answer one sound or movement during comfortable play, then wait. Repeat while welcome; pause when interest shifts. No required eye contact or number of turns."
+    },
+    {
+      "id": "toddler-support",
+      "title": "Toddlers: 18 months to under 3 years",
+      "adultExpectation": "Expect strong preferences with uneven impulse control. Understanding a limit does not mean reliably applying it while distressed.",
+      "before": "Show the next familiar step; offer a genuine small choice. Reduce waiting and prepare an accessible way to ask for help.",
+      "during": "Use a brief acknowledgment and practical help. Keep people safe. If touch is declined, stay available at a comfortable distance.",
+      "after": "Help the child return to play. Model one useful alternative when they can join; avoid a long explanation.",
+      "script": "“You wanted that truck. I can sit here.” Later, when ready: “I can help. You can show me.”",
+      "activityTitle": "Teddy needs help",
+      "activity": "Use an age-safe toy and basket to model a familiar help signal, then do one action together. Follow the toddler's idea; never withhold assistance for a correct response."
+    },
+    {
+      "id": "preschool-support",
+      "title": "Preschool and early years: 3–6 years",
+      "adultExpectation": "Invite growing emotion language, shared plans and problem-solving. Keep adult support available when those skills are harder to use.",
+      "before": "Rehearse one helpful action in settled play. Preview a change and make communication supports available where they are needed.",
+      "during": "Reduce demands and unnecessary questions. Acknowledge the difficulty, pause and offer familiar support. Follow local safety procedures if risk increases.",
+      "after": "Briefly explore what helped and practise one next step. Support a manageable repair without demanding an apology as the price of rejoining.",
+      "script": "“You wanted to finish your building. We can save the pieces here.” Later: “What could help at tidy-up tomorrow?”",
+      "activityTitle": "Two puppet endings",
+      "activity": "A puppet wants to join play. Invite two safe solutions using toys, gestures, symbols or words. Observing is welcome; no child must perform an emotion or disclose a real incident."
+    }
+  ],
+  "phaseTitle": "Choose the job this moment needs",
+  "phaseNote": "These are adult decisions, not fixed stages every child must follow. A child can need support again at any point. Serious danger, suspected medical emergency or a safeguarding concern takes priority.",
+  "phases": [
+    {
+      "id": "before",
+      "title": "Before: make access easier",
+      "icon": "plan",
+      "actions": [
+        "Preview the next step with a familiar cue.",
+        "Reduce waiting, crowding and competing noise.",
+        "Practise one accessible help signal in comfortable play."
+      ],
+      "script": "“After this page, lunch. I’ll show you where we’re going.”"
+    },
+    {
+      "id": "during",
+      "title": "During: safety and connection",
+      "icon": "support",
+      "actions": [
+        "Check immediate danger, pain, illness and urgent care needs.",
+        "Agree who covers the group; use one adult voice.",
+        "Offer one practical change and a short sentence, then pause."
+      ],
+      "script": "“It’s noisy. I can stay nearby.”"
+    },
+    {
+      "id": "recovery",
+      "title": "Recovery: comfort and re-entry",
+      "icon": "listen",
+      "actions": [
+        "Keep support and necessary care available.",
+        "Offer a low-demand way to observe or join.",
+        "Do not require an apology, feeling label or explanation before returning."
+      ],
+      "script": "“You can watch beside me. There’s room when you want to join.”"
+    },
+    {
+      "id": "later",
+      "title": "Later: teach, repair, review",
+      "icon": "repeat",
+      "actions": [
+        "Practise one helpful alternative when the child can engage.",
+        "Support a small meaningful repair; care for anyone hurt separately.",
+        "Change one adult/environment action and review whether it helped."
+      ],
+      "script": "“Next time I can help. Shall we practise showing help with the puppet?”"
+    }
+  ],
+  "visualTitle": "Original communication examples",
+  "visualNote": "Introduce these ideas while children are settled. Adapt them with the child’s communication team and family. These examples are not an AAC assessment or branded programme materials.",
+  "nowLabel": "Now",
+  "nextLabel": "Next",
+  "nowExample": "Play",
+  "nextExample": "Tidy up with an adult",
+  "sequenceSteps": [
+    "Choose two objects, photographs or symbols that this child recognises.",
+    "Show and say the current activity. Show the next step before the change.",
+    "At the transition, point again and help with one manageable action.",
+    "Mark the finished activity together. Show a change honestly if the plan changes."
+  ],
+  "sequenceWarning": "Now/next gives truthful information. Do not turn it into “first behave, then food, care, communication or comfort”.",
+  "signalCards": [
+    {
+      "id": "help",
+      "label": "Help",
+      "icon": "support",
+      "childExample": "A gesture, object, sign, picture or device message can mean “help”.",
+      "adultAction": "Notice and respond: “I can help.” Do not wait for a perfect phrase or point."
+    },
+    {
+      "id": "break",
+      "label": "Break",
+      "icon": "pause",
+      "childExample": "Use the child’s familiar way to ask for a pause.",
+      "adultAction": "Offer a supervised pause and stay available. If the exact request cannot happen safely, acknowledge it and offer a workable alternative."
+    },
+    {
+      "id": "stop",
+      "label": "Stop / no",
+      "icon": "voice",
+      "childExample": "Turning away or moving a hand away can communicate “not that”.",
+      "adultAction": "Pause the offered activity or touch when safe, reduce pressure and remain available. Necessary care follows the approved individual plan; request trained help if it cannot be provided safely. This card does not authorise force."
+    }
+  ],
+  "spaceTitle": "Set up a supportive quieter option",
+  "spaceSteps": [
+    "Check sightlines, adult availability, access and school supervision requirements.",
+    "Choose a few age-safe familiar resources with the child and family; avoid overcrowding the space.",
+    "Introduce it during settled time and model an optional short visit.",
+    "Offer it or reduce stimulation where the child already is. Never drag, corner or lock a child in.",
+    "Support return when the child can participate, including watching beside an adult. There is no required timer, breathing sequence or apology."
+  ],
+  "spaceWarning": "A quieter space is one option, not a punishment, a place to send every upset child or a substitute for adult support. Specialist sensory equipment needs the appropriate assessment, training and agreed plan.",
+  "planTitle": "Worked example: Leo’s tidy-up transition",
+  "planNote": "Entirely fictional. This is an ordinary access-support plan, not a functional assessment or a diagnosis.",
+  "planRows": [
+    [
+      "Strengths and communication",
+      "Leo enjoys building and communicates through pointing and familiar gestures. Ask the family which home-language cues and signs are meaningful."
+    ],
+    [
+      "Context and early cues",
+      "During crowded tidy-up, chairs scrape and several children reach the shelves together. Leo covers his ears and moves back."
+    ],
+    [
+      "Before",
+      "The lead adult shows a familiar tidy-up cue and offers one basket. A colleague arranges one small group at the shelves at a time. Reduce chair-scraping noise where practical."
+    ],
+    [
+      "During",
+      "One adult says, “It’s noisy. We can wait here together.” Offer a quieter supervised position or reduce the crowd where Leo is. Do not require a spoken answer."
+    ],
+    [
+      "Recovery",
+      "Offer a low-demand return: carrying one item with an adult or watching nearby. No apology or feelings label is required."
+    ],
+    [
+      "Teach later",
+      "Model a familiar help/break signal with a puppet and respond promptly. Keep the cue at the point of use and accept Leo’s existing communication."
+    ],
+    [
+      "Who and backup",
+      "The classroom lead checks the cue; the named colleague covers the group. Agree the actual backup adult and help signal through school procedures."
+    ],
+    [
+      "If risk, health or safeguarding concerns emerge",
+      "Summon the agreed trained support and maintain child/group supervision. Serious danger or suspected medical emergency follows the emergency/first-aid route immediately. Safeguarding concerns follow the safeguarding route without waiting for a routine review. This plan does not authorise physical intervention."
+    ],
+    [
+      "Review",
+      "After several ordinary transitions, ask whether the adult changes happened, whether Leo could communicate and whether participation was more comfortable. Seek help sooner if risk or concern increases."
+    ]
+  ],
+  "observationTitle": "Facts, possible explanations, next action",
+  "observationRows": [
+    [
+      "Observation",
+      "Six children reached the shelves together as chairs moved. Leo covered his ears and sat by the table. The adult stopped asking questions and moved the group on. With the adult nearby, Leo pointed towards the quieter spot."
+    ],
+    [
+      "Possible explanations",
+      "Noise, crowding or an unclear next step may have contributed. Another care or health need is also possible. This observation does not establish a cause or diagnosis."
+    ],
+    [
+      "Next adult action",
+      "Try staggered tidy-up and one familiar cue. Ask the family about Leo’s gestures. Check whether the change improves access, comfort and participation."
+    ],
+    [
+      "Better review question",
+      "Was the support available and used? Could the child communicate and join in? Fewer outbursts alone are not enough if the child is now withdrawn or excluded."
+    ]
+  ],
+  "blankTitle": "Plan one routine with your team",
+  "blankNote": "Discuss a fictional example, or print this blank guide and use only your approved secure school process for any real child plan. This page does not collect or save child information.",
+  "blankPrompts": [
+    "A strength and a familiar way to communicate",
+    "One difficult routine and observable early cue",
+    "One adult/environment change before it",
+    "One short first sentence and a safe support option",
+    "Group supervision, backup and urgent-help route",
+    "One skill to teach later and how to make it available",
+    "How the child/family will contribute; who reviews and when"
+  ],
+  "resourceTitle": "Choose an official tool for a clear purpose",
+  "resourceIntro": "Preview resources before using them with children. Free-to-download does not mean public domain. External materials may contain suggestions outside this course’s boundaries; use the safeguards and approved school procedures taught here. Do not copy, rebrand or translate protected artwork.",
+  "resources": [
+    {
+      "title": "Baby cues: picture guide",
+      "publisher": "Raising Children Network",
+      "url": "https://raisingchildren.net.au/babies/parenting-in-pictures/baby-toddler-cues",
+      "use": "Observe one invitation cue and one possible pause cue; discuss what you would check next.",
+      "access": "Free page and printable; several translated versions linked. Infant extension only."
+    },
+    {
+      "title": "Using visuals in the early learning environment",
+      "publisher": "NCPMI",
+      "url": "https://www.challengingbehavior.org/document/using-visuals-to-support-children-in-the-early-learning-environment/",
+      "use": "Choose a familiar daily routine and rehearse showing, using and updating its visual sequence.",
+      "access": "Free official page and PDF, June 2025. Use sequencing for access, never to withhold necessary care."
+    },
+    {
+      "title": "Having Big Feelings: educator guide",
+      "publisher": "Child Mind Institute",
+      "url": "https://childmind.org/wp-content/uploads/2024/01/hmtkprek-educator-guide-eng-having-big-feelings.pdf",
+      "use": "Plan one optional coping practice for a settled moment, with gesture/AAC and no-touch alternatives.",
+      "access": "Free three-page guide for preschool teaching; not an infant activity or a clinical programme."
+    },
+    {
+      "title": "Executive-function activity guides",
+      "publisher": "Harvard Center on the Developing Child",
+      "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
+      "use": "Choose a developmentally suitable game, an easier version and a child stop cue.",
+      "access": "Free age-banded guides, originally published in 2014. Games offer practice, not guaranteed wider effects."
+    },
+    {
+      "title": "It Takes Two: co-regulation",
+      "publisher": "ZERO TO THREE",
+      "url": "https://www.zerotothree.org/resource/it-takes-two-the-role-of-co-regulation-in-building-self-regulation-skills/",
+      "use": "Compare an infant’s cue-and-care support with a toddler’s adult-supported choices.",
+      "access": "Free professional guidance. Emerging self-soothing does not mean an infant should manage distress alone."
+    },
+    {
+      "title": "Feeling Faces",
+      "publisher": "Conscious Discipline",
+      "url": "https://consciousdiscipline.com/resources/feeling-faces/",
+      "use": "Preview an optional feelings conversation. Allow uncertainty, privacy and nonspoken communication.",
+      "access": "Official page and PDF were freely accessible. Branded artwork is linked, not copied. A face does not prove a feeling."
+    },
+    {
+      "title": "Visual Daily Schedule",
+      "publisher": "Conscious Discipline",
+      "url": "https://consciousdiscipline.com/resources/visual-daily-schedule/",
+      "use": "Explore one programme’s example of a visible sequence; compare it with the original now/next example above.",
+      "access": "Free account may be required. This branded resource is not independent evidence for all programme claims."
+    }
+  ]
+}

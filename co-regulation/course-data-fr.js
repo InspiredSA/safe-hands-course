@@ -1,6 +1,6 @@
 window.COURSE_FR={
   "title": "Aider les jeunes enfants à réguler leurs émotions – Niveau 1",
-  "version": "1.0",
+  "version": "1.1",
   "modules": [
     {
       "id": 1,
@@ -14,67 +14,79 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Distinguer l’autorégulation d’une obéissance apparente."
+              "text": "Adapter l’aide de l’adulte aux capacités actuelles de l’enfant, pas seulement à son âge ou à sa réussite de la veille."
             },
             {
               "type": "li",
-              "text": "Choisir une réponse de l’adulte adaptée aux capacités actuelles de l’enfant."
+              "text": "Distinguer la prévention, le soutien immédiat, le retour au calme et les apprentissages ultérieurs."
             },
             {
               "type": "h",
-              "text": "Qu’aidons-nous les enfants à apprendre ?"
+              "text": "Le lien soutient l’apprentissage"
             },
             {
               "type": "p",
-              "text": "L’autorégulation comprend la gestion de l’attention, des émotions et des actions pour atteindre un objectif. Les fonctions exécutives aident les enfants à garder des informations en tête, à freiner une impulsion et à changer d’approche. Ces compétences se développent par l’expérience et la pratique ; elles n’apparaissent pas d’un seul coup, pleinement acquises, le jour d’un anniversaire. Un enfant peut réussir une tâche dans un jeu familier et avoir besoin d’un soutien important lorsqu’il est fatigué, inquiet ou submergé."
+              "text": "L’autorégulation comprend la gestion de l’attention, des émotions et des actions pour atteindre un objectif. Les fonctions exécutives aident les enfants à se souvenir d’un projet, à freiner une impulsion et à changer d’approche. La corégulation est l’aide attentive et adaptée qu’apporte un adulte : repérer un signal, répondre à un besoin de soins, adapter l’environnement ou réaliser ensemble une prochaine étape à la portée de l’enfant. L’autonomie se développe avec une aide fiable, pas en retirant le réconfort."
             },
             {
               "type": "p",
-              "text": "La corégulation est l’aide attentive et adaptée qu’un adulte apporte pendant que ces capacités se développent. Il peut s’agir de repérer un signal, d’adapter l’environnement, de rassurer l’enfant ou de l’aider à franchir une prochaine étape à sa portée. L’autonomie se développe avec un soutien fiable. Elle n’exige pas que les adultes cessent de réconforter un enfant qui en a encore besoin."
+              "text": "Un enfant silencieux peut être en détresse ; un enfant énergique peut être à l’aise. Comparez avec sa manière habituelle de communiquer et de participer. « Maya s’est couvert les oreilles quand la musique a commencé » décrit une observation. « Maya fait des histoires » porte un jugement. Un seul incident ne permet pas d’établir une intention, un traumatisme, la qualité de l’éducation parentale ou un diagnostic."
             },
             {
               "type": "h",
-              "text": "Comprendre la situation avant de juger l’enfant"
+              "text": "Un même principe, des rôles différents pour l’adulte"
             },
             {
               "type": "p",
-              "text": "Un enfant silencieux n’est pas forcément à l’aise, et un enfant énergique n’est pas forcément en détresse. Observez sa manière habituelle de communiquer et de participer. Demandez-vous : que s’est-il passé ? Qu’est-ce qui pourrait être difficile ? Quel soutien est disponible ? Une observation comme « Maya s’est couvert les oreilles quand la musique a commencé » est plus utile que « Maya fait des histoires ». Une observation ouvre la voie à un changement que vous pouvez essayer."
-            },
-            {
-              "type": "p",
-              "text": "Évitez de considérer un seul incident comme une preuve de l’intention de l’enfant, de la qualité de l’éducation parentale, d’un traumatisme ou d’un diagnostic. Une attitude curieuse ne supprime pas les limites : les enfants ont toujours besoin que les adultes protègent chacun et les aident à réparer les torts causés. Elle permet de partir du soutien plutôt que du reproche."
-            },
-            {
-              "type": "h",
-              "text": "Votre capacité à rester posé est une responsabilité d’équipe"
-            },
-            {
-              "type": "p",
-              "text": "Repérez vos propres signaux d’alerte : un débit de parole plus rapide, des mains crispées ou l’envie de discuter pour avoir raison. Relâchez votre posture, raccourcissez votre prochaine phrase et demandez rapidement de l’aide à un collègue si nécessaire. Si vous devez vous éloigner, organisez un relais clair pour que la surveillance se poursuive. Le bien-être du personnel dépend aussi d’effectifs suffisants, de pauses, de préparation et d’un accompagnement pour réfléchir à ses pratiques, et pas seulement de la volonté individuelle."
-            },
-            {
-              "type": "p",
-              "text": "Vous n’avez pas à paraître dénué d’émotions. Pour réparer un faux pas, vous pouvez dire : « J’ai parlé trop fort. Je vais parler plus doucement. Reprenons. » Ne placez pas l’enfant dans le rôle de celui qui doit réconforter l’adulte ou l’aider à réguler ses émotions."
-            },
-            {
-              "type": "p",
-              "text": "Avant une période chargée, convenez d’un signal simple entre collègues pour demander de l’aide. Répétez l’organisation du relais lors d’un échange habituel entre membres du personnel : qui reste avec l’enfant, qui accompagne le groupe et comment l’adulte qui revient reçoit les informations essentielles. Un travail d’équipe clairement organisé facilite une réponse posée."
-            },
-            {
-              "type": "h",
-              "text": "À retenir"
+              "text": "Ces grands groupes servent à préparer le soutien, pas à tester des étapes du développement : les nourrissons, de la naissance à moins de 18 mois ; les tout-petits, de 18 mois à moins de 3 ans ; la maternelle et le début de scolarité, de 3 à 6 ans, enfants de six ans inclus. Le développement, la communication, le handicap, la familiarité, la fatigue et le contexte comptent davantage qu’un anniversaire. Les principales situations de classe concernent les 2–6 ans ; les applications aux nourrissons constituent un complément réservé au personnel dont le cadre de travail et les fonctions incluent leur prise en charge."
             },
             {
               "type": "li",
-              "text": "Les capacités varient selon le contexte."
+              "text": "Nourrissons : les adultes assurent l’essentiel du soutien à la régulation. Repérez les sons, les mouvements et les changements d’intérêt ; répondez aux besoins de soins et de réconfort. Se détourner peut inviter à une pause. Les premiers gestes d’auto-apaisement ne signifient pas qu’un bébé devrait se calmer seul ou commencer par identifier une émotion. Prévoyez des soins familiers et un adulte relais préparé."
             },
             {
               "type": "li",
-              "text": "Apporter du soutien avant d’attendre de l’autonomie."
+              "text": "Tout-petits : des envies fortes peuvent dépasser leur capacité à attendre ou à gérer une déception. Utilisez un objet réel ou un repère familier, quelques mots et une aide concrète. Un tout-petit peut répéter une règle lorsqu’il est serein, mais avoir besoin d’un adulte pour l’appliquer lorsqu’il est bouleversé. Un geste est un moyen de communication à part entière."
             },
             {
               "type": "li",
-              "text": "Les adultes peuvent réparer leurs propres faux pas."
+              "text": "Enfants de 3 à 6 ans : encouragez l’enrichissement du vocabulaire des émotions, les jeux de faire semblant et la recherche commune de solutions lorsque cela leur est accessible. Un enfant qui résout un problème de marionnette peut encore avoir besoin d’une aide directe dans une salle bondée. Renforcez de nouveau le soutien lorsque les exigences augmentent, au lieu de considérer ce besoin comme un échec."
+            },
+            {
+              "type": "h",
+              "text": "Quatre moments, quatre rôles pour l’adulte"
+            },
+            {
+              "type": "li",
+              "text": "Avant : faciliter l’accès et la participation. Réduire l’attente et les rassemblements serrés, annoncer la véritable prochaine étape et s’entraîner à une action utile dans un jeu serein."
+            },
+            {
+              "type": "li",
+              "text": "Pendant la détresse : vérifier les dangers et les besoins de soins, modifier une exigence concrète et proposer un soutien bref et accessible. L’aide ne dépend pas d’un mot, d’un regard ou d’une technique correctement exécutés."
+            },
+            {
+              "type": "li",
+              "text": "Retour au calme : vérifier le confort et les éventuelles blessures, rester disponible et proposer une reprise de l’activité sans pression. Le silence ne suffit pas à prouver que l’enfant est prêt à réfléchir à ce qui s’est passé."
+            },
+            {
+              "type": "li",
+              "text": "Plus tard : lorsque l’enfant peut participer, enseigner une autre façon de faire utile, accompagner toute réparation nécessaire et adapter le plan de l’adulte. Ce sont des décisions de l’adulte, pas des étapes fixes que les enfants doivent suivre."
+            },
+            {
+              "type": "p",
+              "text": "Un danger grave et immédiat, une suspicion d’urgence médicale ou une inquiétude relevant de la protection de l’enfance priment sur cette séquence d’apprentissage. Appliquez sans délai la procédure correspondante de l’établissement."
+            },
+            {
+              "type": "h",
+              "text": "Se préparer et préparer l’équipe"
+            },
+            {
+              "type": "p",
+              "text": "Repérez un débit de parole plus rapide, des mains crispées ou l’envie de discuter pour avoir raison. Ralentissez votre prochaine phrase et demandez rapidement de l’aide. Le relais doit être confirmé : « Peux-tu prendre le groupe ? Je reste avec Amira. » Maintenez la surveillance jusqu’à ce que la responsabilité de chacun soit claire. Les effectifs, les pauses et l’accompagnement des pratiques comptent autant que la maîtrise de soi individuelle."
+            },
+            {
+              "type": "p",
+              "text": "Un adulte peut réparer un faux pas : « J’ai parlé trop fort. Je vais parler plus doucement. » L’enfant ne devrait pas avoir à réconforter l’adulte. Une présence calme est utile ; elle ne peut pas garantir que la détresse cessera immédiatement."
             }
           ]
         },
@@ -90,27 +102,23 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "Reformuler l’étiquette"
+              "text": "S’entraîner à décider, pas seulement à parler"
             },
             {
               "type": "li",
-              "text": "Pensez à un exemple fictif décrit comme un enfant qui « cherche à attirer l’attention » ou « défie l’adulte »."
+              "text": "Décrivez deux faits : la tour est tombée ; Amira a balayé les cubes sur le sol et a dit « Je n’y arrive pas ! ». Distinguez-les des explications possibles, comme la fatigue ou la déception."
             },
             {
               "type": "li",
-              "text": "Écrivez uniquement ce qu’un observateur pourrait voir ou entendre."
+              "text": "Montrez votre première réponse à un collègue ou devant une chaise vide : vérifiez le sol et les personnes présentes, approchez-vous sans envahir l’espace, dites au plus deux phrases courtes, puis faites une pause. Ne mimez pas d’agression."
             },
             {
               "type": "li",
-              "text": "Nommez deux besoins possibles sans décider que l’un ou l’autre est la cause."
+              "text": "Choisissez ce qui convient maintenant : proposer de rester auprès de l’enfant et simplifier la tâche, ou expliquer trois façons de construire une tour plus solide. Expliquez pourquoi une leçon utile peut arriver au mauvais moment."
             },
             {
               "type": "li",
-              "text": "Choisissez une action utile de l’adulte qui serait sûre dans les deux cas."
-            },
-            {
-              "type": "p",
-              "text": "Comment votre ton change-t-il lorsque vous remplacez un jugement par une description de faits observables ?"
+              "text": "Décrivez un retour accompagné et un entraînement pour plus tard. Précisez qui assure la surveillance si vous avez besoin d’un autre adulte."
             },
             {
               "type": "h",
@@ -118,19 +126,19 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "« C’est tombé. Tu avais fait beaucoup d’efforts. »"
+              "text": "« C’est tombé. Tu t’es donné beaucoup de mal. » Si nécessaire : « On garde les cubes près du sol pour que personne ne soit blessé. » Proposez : « Je peux m’asseoir ici. » Réduisez le nombre de spectateurs et gérez les dangers en sécurité. Ne reconstruisez pas tout sans vérifier si Amira souhaite cette aide."
             },
             {
               "type": "p",
-              "text": "« On garde les cubes en bas pour que personne ne se blesse. »"
+              "text": "Lorsque l’envie de participer revient, proposez de poser un cube ensemble, de modifier la construction ou de faire une pause. Plus tard, montrez comment demander de l’aide ou essayer une autre base. La réussite de la veille est une information utile, pas la preuve qu’elle peut mobiliser cette compétence à cet instant."
+            },
+            {
+              "type": "h",
+              "text": "Vérifier l’adaptation selon l’âge"
             },
             {
               "type": "p",
-              "text": "« Je peux m’asseoir avec toi. Quand tu seras prête, nous pourrons essayer de poser un cube ensemble. »"
-            },
-            {
-              "type": "p",
-              "text": "Le premier rôle de l’adulte est d’assurer la sécurité et de maintenir le lien. Plus tard, proposez à Amira de choisir entre reconstruire, modifier sa construction ou faire une pause. Le but est de l’aider à participer, pas de lui donner l’air calme le plus vite possible."
+              "text": "La vérification rapide porte sur les signaux d’un bébé de huit mois. Contrairement à Amira, on ne demande pas à un bébé de choisir un projet de reconstruction ou d’expliquer une émotion. Dans les deux situations, l’adulte observe, adapte son action et reste attentif aux réactions. La manipulation et les soins des nourrissons exigent de suivre les procédures approuvées par l’établissement et d’avoir reçu la formation adaptée à ses fonctions."
             }
           ]
         }
@@ -148,67 +156,75 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Repérer une exigence de l’environnement qui peut être modifiée."
+              "text": "Montrer une séquence visuelle accessible, y compris lorsque le programme change."
             },
             {
               "type": "li",
-              "text": "Prévoir une adaptation inclusive sans exiger de diagnostic."
+              "text": "Supprimer une exigence évitable et préparer une possibilité de soutien sous surveillance."
             },
             {
               "type": "h",
-              "text": "Agir en amont"
+              "text": "Modifier la routine tout en soutenant l’enfant"
             },
             {
               "type": "p",
-              "text": "Avant de choisir une stratégie d’apaisement, examinez l’emploi du temps et l’environnement. Les longues attentes, les transitions dans la foule, les consignes peu claires et les changements soudains peuvent rendre une tâche ordinaire bien plus difficile. Analysez un moment exigeant du point de vue de l’enfant : que doit-il entendre, comprendre, arrêter de faire, retenir et tolérer ? Une petite adaptation peut être plus utile que de demander sans cesse davantage de maîtrise de soi."
-            },
-            {
-              "type": "p",
-              "text": "Prévoyez un déroulement prévisible tout en gardant de la souplesse. Montrez ce qui se passe maintenant et ensuite à l’aide d’objets, de photographies, de gestes ou de mots que l’enfant comprend. Avant une transition, prévenez-le d’une manière qui a du sens pour lui et indiquez les changements de programme. Un emploi du temps visuel n’aide que si les adultes l’utilisent avec l’enfant ; l’afficher en hauteur sur un mur ne suffit pas."
+              "text": "Repérez ce qu’une transition demande à l’enfant d’entendre, de comprendre, d’interrompre, de retenir et de tolérer. Les longues attentes, les chaises qui raclent le sol, les étagères encombrées et le manque de clarté sur la destination peuvent rendre une tâche ordinaire difficile. Modifiez une exigence, puis observez le confort et la participation. Un exercice d’apaisement ne peut ni supprimer une file d’attente ni expliquer une consigne inconnue."
             },
             {
               "type": "h",
-              "text": "Le soutien sensoriel est individuel"
+              "text": "Apprendre à utiliser un emploi du temps en situation"
             },
             {
               "type": "p",
-              "text": "Certains enfants ont besoin de moins de bruit, d’un peu plus d’espace personnel ou d’une autre place pour s’asseoir. Pour d’autres, des mouvements adaptés ou un trajet d’arrivée plus calme sont utiles. Demandez à l’enfant et à sa famille ce qui l’aide et observez sa réaction. Les recommandations du NICE pour les enfants autistes soulignent l’intérêt de supports visuels compréhensibles et d’adaptations aux sensibilités sensorielles. Ces idées invitent à adapter l’accompagnement avec discernement ; elles ne justifient pas de supposer que tous les enfants autistes ont les mêmes besoins."
-            },
-            {
-              "type": "p",
-              "text": "N’imposez pas le contact visuel, l’immobilité des mains, le contact physique ou la participation à une activité sensorielle inconfortable pour que l’enfant prouve son engagement. Des mouvements répétitifs sans danger peuvent l’aider à se sentir à l’aise. Si quelque chose pose un problème de sécurité, accompagnez la recherche d’une solution sûre avec l’enfant et l’équipe concernée. Ne prescrivez pas de traitements sensoriels et n’utilisez pas de matériel spécialisé sans évaluation appropriée, formation et plan convenu."
-            },
-            {
-              "type": "h",
-              "text": "Aménager un espace de régulation accueillant"
-            },
-            {
-              "type": "p",
-              "text": "Proposez un endroit calme et surveillé comme une possibilité, et non comme un lieu dont les enfants doivent mériter de sortir. Inscrivez-le dans les dispositions de surveillance de l’établissement, avec un adulte de confiance disponible. Expliquez son utilisation pendant un moment calme. Un enfant peut préférer rester près des jeux, avec moins de sollicitations, plutôt que de se rendre dans un espace séparé."
-            },
-            {
-              "type": "p",
-              "text": "Vérifiez l’accessibilité concrète : l’enfant peut-il désigner un symbole d’aide, atteindre une ressource familière et rejoindre le groupe avec du soutien ? Ne privez pas l’enfant de la satisfaction de ses besoins fondamentaux, de ses aides à la communication ou de relations réconfortantes à titre de sanction. Offrir la même possibilité peut nécessiter des adaptations différentes selon les enfants ; l’équité ne signifie pas un traitement identique."
-            },
-            {
-              "type": "p",
-              "text": "Invitez les membres du personnel à essayer eux-mêmes l’espace et à observer le bruit, la visibilité et l’accessibilité."
-            },
-            {
-              "type": "h",
-              "text": "À retenir"
+              "text": "Une image ne s’explique pas toute seule. Commencez par une séquence courte et familière et une représentation qui a du sens : un objet réel, une photographie reconnaissable, un repère tactile, un geste ou un système de communication déjà utilisé. Demandez à la famille et aux professionnels de la communication ce qui fonctionne déjà. Un affichage mural hors de portée peut nécessiter un équivalent portable."
             },
             {
               "type": "li",
-              "text": "Modifier l’exigence tout en soutenant l’enfant."
+              "text": "Montrez l’étape en cours pendant sa réalisation : pointez la photographie du sac et dites « Le sac ici ». Commencez par une étape si deux sont trop difficiles ; ne faites pas passer de test à l’enfant."
             },
             {
               "type": "li",
-              "text": "Les supports visuels doivent être compréhensibles et utilisés avec l’enfant."
+              "text": "Montrez que l’étape est terminée et indiquez ce qui va réellement suivre. L’adulte peut déplacer le repère ; manipuler une carte n’est pas une obligation."
             },
             {
               "type": "li",
-              "text": "Les espaces calmes apportent du soutien, sont surveillés et ne sont pas punitifs."
+              "text": "Répétez dans les routines ordinaires et observez si le repère aide. Gardez une cohérence entre les mots, les images et les événements."
+            },
+            {
+              "type": "li",
+              "text": "Montrez honnêtement un changement. Remplacez le repère du jardin par celui du jeu de mouvement à l’intérieur : « Il pleut aujourd’hui. On bouge ici. » Proposez d’observer ou de participer. Comprendre le changement ne fait pas forcément disparaître la déception."
+            },
+            {
+              "type": "p",
+              "text": "Le support « maintenant/ensuite » explique une séquence ; il ne fixe pas de condition pour recevoir des soins. Ne conditionnez jamais l’alimentation, l’eau, l’accès aux toilettes, le réconfort, la communication ou le mouvement nécessaire au silence ou à la réalisation d’une tâche. Adaptez les routines de soins difficiles selon le plan de soins concerné."
+            },
+            {
+              "type": "h",
+              "text": "Proposer un endroit plus calme avec du soutien"
+            },
+            {
+              "type": "p",
+              "text": "Présentez cette possibilité pendant un moment serein et montrez un adulte répondant à un signal de pause. Vérifiez la surveillance, la visibilité, une sortie dégagée, l’accessibilité pour les déplacements et des ressources sûres adaptées à l’âge. Vérifiez les risques d’étouffement et ceux liés aux équipements. Prévoyez de la place pour un adulte à proximité et une autre possibilité si l’espace est occupé. Un coin calme de classe n’est pas un dispositif de sommeil pour nourrissons."
+            },
+            {
+              "type": "p",
+              "text": "« Il y a du monde. C’est plus calme ici, ou je peux rester près de toi. » Si l’enfant refuse, réduisez le bruit ou les exigences là où il se trouve, lorsque c’est possible en sécurité. Aucun espace fermé à clé ou caché, aucun isolement, aucun temps imposé, aucune excuse ni séquence de respiration obligatoire. Proposez une petite reprise du jeu et maintenez le soutien ensuite. Des retraits fréquents doivent conduire à réexaminer l’activité, pas à supprimer le soutien."
+            },
+            {
+              "type": "p",
+              "text": "Les besoins sensoriels varient d’un enfant à l’autre et chez un même enfant. N’exigez pas de contact visuel, de mains immobiles, de contact physique ou d’activité inconfortable pour prouver sa participation. Des mouvements répétitifs sans danger peuvent être utiles. Mettez en place les aménagements ordinaires facilitant l’accès sans attendre un diagnostic ; un traitement ou un équipement sensoriel spécialisé nécessite une évaluation adaptée, une formation et un plan convenu."
+            },
+            {
+              "type": "h",
+              "text": "Complément sur les nourrissons : les signaux et les soins d’abord"
+            },
+            {
+              "type": "p",
+              "text": "Pour le personnel chargé de nourrissons : vérifiez le plan individuel de soins, les besoins d’alimentation, de repos et de change, le confort et les éventuels signes de maladie ou de douleur. Répondez rapidement aux besoins de soins nécessaires. Un bébé qui tend les bras ou émet des sons peut rechercher l’interaction ; se détourner ou s’agiter peut signaler un besoin de pause. Aucun signal isolé ne prouve une cause. Réduisez les voix ou jouets qui se cumulent, proposez un réconfort familier et observez de nouveau, au lieu d’enchaîner rapidement les stimulations."
+            },
+            {
+              "type": "p",
+              "text": "Suivez les procédures approuvées de manipulation, de sécurité pendant le sommeil et de santé. Ne secouez jamais un bébé et ne couvrez jamais son visage. Cette formation n’enseigne aucune technique de manipulation, d’alimentation ou de sommeil. Si vous vous sentez dépassé, organisez un relais confirmé qui maintient la surveillance. Une détresse nouvelle ou préoccupante exige le recours à la procédure de santé adaptée."
             }
           ]
         },
@@ -224,27 +240,23 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "Examiner une transition"
+              "text": "Montrer un rangement plus facile"
             },
             {
               "type": "li",
-              "text": "Choisissez l’arrivée, le rangement, le passage aux toilettes ou le déjeuner."
+              "text": "Nommez les obstacles observables : les chaises qui raclent le sol, les étagères encombrées et une prochaine étape peu claire. N’en déduisez pas un diagnostic."
             },
             {
               "type": "li",
-              "text": "Relevez une exigence sensorielle, une exigence de communication et une exigence liée à l’attente."
+              "text": "Utilisez un panier familier ou une photographie du lieu pour montrer une étape à une étagère plus calme : « Un cube ici. » Indiquez que c’est terminé, puis montrez la véritable activité suivante. Gardez l’aide et une pause disponibles."
             },
             {
               "type": "li",
-              "text": "Modifiez l’une d’elles en utilisant les ressources sûres déjà disponibles."
+              "text": "Entraînez-vous à un changement de programme : l’étagère habituelle est bloquée. Montrez la véritable autre possibilité au lieu de répéter l’ancien repère. Vérifiez que le nouveau trajet est accessible et surveillé."
             },
             {
               "type": "li",
-              "text": "Décidez de ce que vous observerez pour déterminer si la participation s’améliore."
-            },
-            {
-              "type": "p",
-              "text": "L’adaptation resterait-elle disponible lors d’une journée difficile, ou est-elle involontairement traitée comme une récompense ?"
+              "text": "Demandez à votre partenaire de montrer un signal de pause. Montrez qui répond et ce qui change. Si vous travaillez seul, énoncez à voix haute les deux rôles d’adultes."
             },
             {
               "type": "h",
@@ -252,19 +264,11 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "« Il y a beaucoup de bruit ici. »"
+              "text": "Réduisez d’abord le bruit évitable et le rassemblement : « Il y a du bruit. Nous pouvons attendre ici ensemble. » Indiquez un endroit plus calme sous surveillance et faites une pause. Rester près de l’activité en cours peut être plus facile que se déplacer. Ne demandez pas à Leo de nommer son émotion avant de l’aider."
             },
             {
               "type": "p",
-              "text": "« Nous pouvons attendre ici ensemble. » [Montrez un endroit plus calme, sous surveillance, puis marquez une pause.]"
-            },
-            {
-              "type": "p",
-              "text": "« Je reste près de toi. »"
-            },
-            {
-              "type": "p",
-              "text": "Ensuite, échangez avec la famille sur les signaux utiles et les préférences de l’enfant. Voyez si des groupes plus petits, un repère visuel familier ou un rangement échelonné peuvent aider. Consignez le changement et son effet plutôt que de coller une étiquette à Leo."
+              "text": "Pour la prochaine transition, échelonnez les groupes, évitez de déplacer les chaises près de Leo et apportez le repère qui a du sens là où il sera utilisé. Notez si les adultes ont appliqué ces changements et si Leo a pu communiquer et accéder à l’activité suivante. Le module 6 développe cet exemple en une observation et un plan complets."
             }
           ]
         }
@@ -282,67 +286,75 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Reconnaître que la détresse peut être bruyante ou silencieuse."
+              "text": "Montrer une première réponse brève et adapter son approche lorsque le soutien est refusé."
             },
             {
               "type": "li",
-              "text": "Observer, reconnaître le ressenti et proposer une prochaine étape à la portée de l’enfant."
+              "text": "Faire en sorte qu’un signal d’aide ou de pause entraîne une réponse fiable de l’adulte."
             },
             {
               "type": "h",
-              "text": "Repérer un changement plutôt que cocher une liste"
+              "text": "Repérer un changement, sans supposer une progression fixe"
             },
             {
               "type": "p",
-              "text": "Les premiers signaux peuvent être un changement dans la voix, des questions répétées, des mouvements plus rapides, un retrait du jeu ou une immobilité inhabituelle. Comparez-les aux habitudes de cet enfant. Évitez de vous appuyer sur une échelle fixe d’escalade : les enfants ne passent pas tous par les mêmes étapes, et un incident apparemment mineur peut survenir après plusieurs sollicitations antérieures."
-            },
-            {
-              "type": "p",
-              "text": "Approchez-vous d’une manière qui risque peu de surprendre l’enfant ou d’envahir son espace. Réduisez le nombre de personnes qui regardent lorsque c’est possible. Choisissez un adulte pour conduire la communication pendant que les collègues accompagnent le reste du groupe. Un ton calme est utile, mais il ne suffit pas si l’exigence, le bruit ou l’incertitude restent inchangés."
+              "text": "La détresse peut se manifester par une voix plus forte, des questions répétées, des mouvements plus rapides, un retrait ou une immobilité inhabituelle. Comparez avec le fonctionnement habituel de cet enfant ; tous les enfants ne passent pas par les mêmes étapes. Un enfant silencieux peut encore avoir besoin de soutien. Vérifiez les dangers, la douleur, une éventuelle maladie ou un besoin de soins non satisfait avant de traiter la situation comme un apprentissage de la régulation."
             },
             {
               "type": "h",
-              "text": "Une réponse brève à pratiquer"
-            },
-            {
-              "type": "p",
-              "text": "Essayez une séquence courte : décrivez ce que vous remarquez ; reconnaissez ce qui peut être difficile ; proposez une prochaine étape disponible. Parlez des émotions avec prudence : « Ça a l’air frustrant », plutôt que d’affirmer que vous savez ce que l’enfant vit intérieurement. Laissez-lui le temps de répondre par un geste, un regard, un symbole, un mouvement ou des mots. Le silence peut correspondre à un temps de traitement de l’information, pas à un refus."
-            },
-            {
-              "type": "p",
-              "text": "Exemples à répéter : « Tu voulais encore un tour. Je suis là. » « Ce changement était inattendu. Regardons l’image. » « Tu peux montrer le symbole d’aide. » « Je peux m’asseoir près de toi ou te laisser un peu plus d’espace. » Si deux choix sont trop difficiles à traiter, faites une seule proposition avec douceur et attendez. Ne répétez pas des questions de plus en plus pressantes."
-            },
-            {
-              "type": "p",
-              "text": "Vérifiez que vos paroles correspondent à la réalité. Dire « Tu es en sécurité » peut être prématuré si un danger subsiste ; « Je suis là et je demande de l’aide » décrit ce que vous faites réellement. Évitez de promettre un résultat ou un délai que vous ne maîtrisez pas. Un langage familier est généralement plus utile qu’une nouvelle formule."
-            },
-            {
-              "type": "h",
-              "text": "Maintenir la limite sans ajouter de honte"
-            },
-            {
-              "type": "p",
-              "text": "Valider le ressenti, c’est reconnaître une émotion ; ce n’est pas approuver un acte dangereux. Associez cette reconnaissance à une limite brève : « Tu es bouleversé. Je ne laisserai personne être blessé. Je demande de l’aide. » Veillez à ce que vos paroles correspondent aux actions que vous pouvez mener en sécurité dans le cadre de votre rôle. Évitez les menaces, les classements publics de comportement, le sarcasme ou le marchandage autour des besoins fondamentaux."
-            },
-            {
-              "type": "p",
-              "text": "Vous pouvez proposer de respirer, de compter, de boire ou d’utiliser un objet familier si cela convient, mais aucune stratégie n’est obligatoire. Un enfant qui refuse un exercice de respiration peut plutôt avoir besoin que l’on parle moins, de pouvoir bouger ou d’une personne de confiance. Ne transformez pas un outil de régulation en une exigence supplémentaire. Reprenez l’apprentissage lorsque l’enfant peut participer."
-            },
-            {
-              "type": "h",
-              "text": "À retenir"
+              "text": "Une première réponse à répéter"
             },
             {
               "type": "li",
-              "text": "Le retrait mérite lui aussi de l’attention."
+              "text": "Vérifiez la surveillance et utilisez si nécessaire le signal convenu entre collègues. Choisissez un adulte pour communiquer pendant que les autres accompagnent le groupe."
             },
             {
               "type": "li",
-              "text": "Utiliser moins de mots et laisser davantage de temps pour comprendre et répondre."
+              "text": "Réduisez un élément concret : le rassemblement, les voix qui se cumulent, l’attente, l’incertitude ou l’ampleur de la tâche. Un ton doux ne suffit pas à modifier une exigence trop lourde."
             },
             {
               "type": "li",
-              "text": "Les émotions ont leur place ; les adultes continuent d’assurer la sécurité."
+              "text": "Approchez-vous sans surprendre ni coincer l’enfant. Décrivez l’événement, reconnaissez une difficulté possible et proposez une prochaine étape disponible : « Ça a changé. Je peux rester ici. »"
+            },
+            {
+              "type": "li",
+              "text": "Faites une pause pour laisser place à un geste, un regard, un symbole, un mouvement ou des mots. Le silence peut être un temps de traitement de l’information. Si deux choix sont trop difficiles, faites une seule proposition et attendez."
+            },
+            {
+              "type": "li",
+              "text": "Observez la réaction. Si votre proposition ajoute de la pression, parlez moins, laissez davantage d’espace et adaptez-vous. Si le risque augmente, faites appel au soutien approprié et suivez le plan de sécurité."
+            },
+            {
+              "type": "p",
+              "text": "Parlez des émotions avec prudence : « Ça semble frustrant », plutôt que d’affirmer que vous savez. Faites des promesses honnêtes : « Je suis là et je demande de l’aide » décrit une action ; « Il ne se passera rien de mal » n’est pas une garantie fiable. Une limite nécessaire à la sécurité demeure : « Il faut que tout le monde soit en sécurité. Je demande de l’aide. » Reconnaître la difficulté n’approuve pas le fait de faire du mal."
+            },
+            {
+              "type": "h",
+              "text": "Lorsque le réconfort ou un outil est refusé"
+            },
+            {
+              "type": "p",
+              "text": "Un tout-petit qui repousse votre bras peut encore avoir besoin de votre présence. « Tu ne veux pas de câlin. Je peux m’asseoir ici. » Laissez-lui un espace confortable et attendez ; plus tard, un bras tendu ou un geste peut inviter au contact. N’imposez ni contact physique, ni regard, ni respiration, ni mot pour nommer une émotion, ni demande orale. Le refus d’un outil apporte une information ; ce n’est pas un défaut de coopération."
+            },
+            {
+              "type": "p",
+              "text": "Pour un enfant plus âgé, expliquer pourquoi la respiration aide peut ajouter de la pression au mauvais moment. Proposez un autre soutien adapté ou allégez les exigences, puis enseignez les possibilités plus tard. N’ignorez pas la détresse et ne privez pas l’enfant de soins. La cohérence consiste à offrir un soutien fiable et des limites nécessaires ; elle ne consiste pas à maintenir une exigence après avoir repéré une douleur ou une surcharge."
+            },
+            {
+              "type": "h",
+              "text": "Les demandes d’aide et de pause doivent modifier l’action des adultes"
+            },
+            {
+              "type": "p",
+              "text": "Utilisez les moyens de communication déjà établis de l’enfant, y compris la communication alternative et améliorée (CAA), au lieu de les remplacer par une carte générique. Décidez d’abord de la réponse. L’aide peut consister à montrer une étape ou à ouvrir un contenant. La pause peut consister à suspendre l’exigence et à accompagner l’enfant dans un lieu convenu sous surveillance. Précisez qui reste avec l’enfant et qui surveille le groupe."
+            },
+            {
+              "type": "p",
+              "text": "Pendant un jeu agréable, montrez le repère dans votre propre tâche et faites voir la réponse d’un collègue. Dans une vraie routine, répondez à la communication déjà présente : « C’est difficile à ouvrir. Je peux t’aider. » L’enfant n’a pas besoin d’exécuter parfaitement le signal ni d’arrêter de pleurer d’abord. Gardez les symboles et les appareils accessibles pendant toute la détresse."
+            },
+            {
+              "type": "p",
+              "text": "Si le lieu de pause préféré est occupé, proposez une autre possibilité sûre avec du soutien : « Cette chaise est utilisée. Nous pouvons nous asseoir ici. » Une demande ne doit pas devenir une tâche de plus laissée sans réponse. Réexaminez les effectifs et l’espace, pas seulement l’utilisation du signal par l’enfant."
             }
           ]
         },
@@ -358,27 +370,23 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "Dire moins, avec sincérité"
+              "text": "Répéter deux versions de l’arrivée"
             },
             {
               "type": "li",
-              "text": "Répétez à voix haute ou écrivez une réponse qu’un adulte pourrait donner à un enfant fictif qui ne trouve pas son jouet préféré. Si un collègue est disponible, faites l’exercice à tour de rôle."
+              "text": "Partez de la routine d’arrivée actuelle de Priya, convenue avec la famille. Montrez deux phrases courtes et un repère accessible, puis faites une pause. Ne promettez pas la présence d’un adulte familier indisponible."
             },
             {
               "type": "li",
-              "text": "Utilisez au maximum deux phrases courtes, puis marquez une pause."
+              "text": "Ajoutez une décision : Priya repousse la main que vous lui proposez. Montrez comment rester disponible sans remplacer la main par un autre contact imposé ou par des questions répétées."
             },
             {
               "type": "li",
-              "text": "Vérifiez vous-même ou demandez à un partenaire : le ressenti a-t-il été reconnu, la prochaine étape était-elle réalisable et du temps a-t-il été laissé pour répondre ?"
+              "text": "Convenez avec un collègue de qui surveille le groupe, de qui accompagne l’arrivée et de la manière de confirmer la prise de responsabilité. Personne ne rejoue la détresse d’un enfant réel."
             },
             {
               "type": "li",
-              "text": "Recommencez en répondant par un geste de désignation ou à l’aide d’une image plutôt que par la parole."
-            },
-            {
-              "type": "p",
-              "text": "Quels mots pourriez-vous supprimer sans perdre la chaleur de la réponse ni la limite de sécurité ?"
+              "text": "Nommez une action à mener plus tard, lorsque Priya peut participer, pour rendre la routine de remplacement plus familière."
             },
             {
               "type": "h",
@@ -386,19 +394,15 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "« C’est un autre adulte aujourd’hui. Je reste avec toi. »"
+              "text": "« C’est un autre adulte aujourd’hui. Nous pouvons d’abord regarder. » Montrez la photographie familiale ou l’activité connue si cela aide. Si le contact est refusé : « Je te laisse de la place. Je reste près de toi. » Maintenez les soins et la surveillance tout en laissant le temps de comprendre."
             },
             {
               "type": "p",
-              "text": "« Ta photo de famille est ici. »"
+              "text": "Un échange détaillé sur les émotions et un nouvel exercice pour y faire face peuvent tous deux être utiles plus tard, mais aucun ne résout immédiatement cette arrivée inattendue. Préparez avec l’adulte accompagnant et l’équipe un au revoir prévisible, une activité suivante connue et un adulte relais présenté au fil des interactions ordinaires. Ne vous appuyez pas sur la promesse qu’un même adulte sera toujours présent."
             },
             {
               "type": "p",
-              "text": "« Nous pouvons d’abord regarder les autres jouer. »"
-            },
-            {
-              "type": "p",
-              "text": "Convenez d’un rituel d’arrivée réalisable avec la personne qui accompagne l’enfant et l’équipe. Ne promettez pas qu’un adulte précis sera toujours disponible. Préparez une autre routine accessible pour que l’enfant ne dépende pas d’une garantie impossible à tenir."
+              "text": "Vérification par l’observateur : l’adulte a-t-il modifié une exigence, accepté une réponse non orale et respecté le refus du contact physique ? Des paroles chaleureuses sans ces actions ne constituent qu’une partie de la réponse."
             }
           ]
         }
@@ -416,11 +420,11 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Donner la priorité à la sécurité immédiate et aux procédures d’urgence locales."
+              "text": "Donner la priorité à la sécurité immédiate, aux besoins de santé urgents et à la protection de l’enfance avant l’apprentissage."
             },
             {
               "type": "li",
-              "text": "Distinguer le temps de récupération des apprentissages et de l’analyse de l’incident qui viendront ensuite."
+              "text": "Montrer un retour accompagné et un relais sûr entre membres du personnel."
             },
             {
               "type": "h",
@@ -428,55 +432,51 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Si un enfant risque de se blesser gravement ou de blesser quelqu’un d’autre, déclenchez rapidement la réponse prévue par l’établissement. Appelez les personnes désignées et formées pour apporter du soutien, maintenez la surveillance et éloignez les autres enfants ou les sources de danger lorsque cela peut être fait en sécurité. Utilisez des paroles brèves et non menaçantes, et évitez d’entourer l’enfant de trop près ou de le coincer. Continuez à évaluer la situation au lieu de supposer qu’une stratégie habituelle fonctionnera."
+              "text": "Si un enfant risque de se blesser gravement ou de blesser quelqu’un d’autre, déclenchez rapidement la réponse convenue dans l’établissement. Faites appel au personnel formé désigné, maintenez la surveillance et éloignez les autres enfants ou les dangers lorsque cela peut se faire en sécurité. Utilisez des phrases brèves et non menaçantes. Évitez d’entourer ou de coincer l’enfant et continuez à réévaluer la situation au lieu de supposer qu’une stratégie familière fonctionnera."
             },
             {
               "type": "p",
-              "text": "Une suspicion d’urgence médicale, une blessure grave, des difficultés respiratoires ou une perte de connaissance exigent l’application immédiate des dispositions de premiers secours et d’urgence de l’établissement. Contactez les services d’urgence locaux lorsque c’est nécessaire ; n’attendez pas un exercice d’apaisement ni l’arrivée des parents. Cette formation n’enseigne ni n’autorise les techniques de contention, de mise à l’isolement ou d’intervention physique. Ne les improvisez pas. Respectez la législation applicable, les procédures en vigueur dans votre établissement et les limites de votre formation."
+              "text": "Une suspicion d’urgence médicale, une blessure grave, une difficulté respiratoire ou une perte de connaissance exige l’application immédiate des procédures de premiers secours et d’urgence de l’établissement. Contactez les services d’urgence locaux si nécessaire ; n’attendez ni un exercice d’apaisement ni l’arrivée des parents. Cette formation n’enseigne ni n’autorise aucune technique de contention, d’isolement ou d’intervention physique. N’en improvisez pas. Respectez la législation applicable, les procédures locales en vigueur et les limites de votre formation."
             },
             {
               "type": "h",
-              "text": "La récupération fait partie de l’accompagnement"
+              "text": "Le retour au calme demande un autre accompagnement"
             },
             {
               "type": "p",
-              "text": "Lorsque le risque immédiat est écarté, réduisez les exigences et restez disponible. Vérifiez l’absence de blessure, le confort de l’enfant et la satisfaction de ses besoins fondamentaux. Il peut être épuisé, gêné ou ne pas être prêt à parler. Le silence ne prouve pas à lui seul qu’il a récupéré. Recherchez ses signes habituels d’un contact où il se sent à l’aise et proposez un retour sans précipitation à une activité familière."
+              "text": "Une fois le risque immédiat passé, allégez les exigences, vérifiez les blessures et les besoins essentiels, et restez disponible. L’enfant peut être épuisé ou ne pas être prêt à parler. Appuyez-vous sur ses signes habituels de participation confortable et ses moyens de communication établis ; le silence, la reprise de la parole ou un sourire ne suffisent pas à établir qu’il est prêt à revenir sur l’événement. Le retour au calme peut être irrégulier."
+            },
+            {
+              "type": "li",
+              "text": "Nourrissons : reprendre des soins attentifs et adaptés ainsi que les interactions familières lorsque l’intérêt revient. Les adultes examinent ce qui a aidé ; le bébé n’a pas besoin d’un échange d’apprentissage. Appliquer les procédures approuvées de soins aux nourrissons."
+            },
+            {
+              "type": "li",
+              "text": "Tout-petits : proposer une présence et une étape à leur portée pour reprendre un jeu familier. Montrer plus tard une action simple, comme apporter un jouet difficile à utiliser pour demander de l’aide, lorsque l’enfant peut participer."
+            },
+            {
+              "type": "li",
+              "text": "Enfants de 3 à 6 ans : proposer d’observer, de participer depuis un endroit plus calme ou de réaliser une petite action. Plus tard, explorer brièvement ce qui a aidé et répéter une prochaine étape accessible. Une longue explication orale n’est pas nécessaire."
             },
             {
               "type": "p",
-              "text": "N’exigez pas d’excuses, d’explication complète ou de mot désignant une émotion comme condition pour rejoindre le groupe. Lorsque les enfants sont prêts, accompagnez une réparation qui a du sens : vérifier que l’autre va bien, aider à remettre le matériel en état ou trouver une manière plus sûre de demander la prochaine fois. Accompagnez séparément toute personne blessée ou effrayée ; on ne doit pas attendre d’elle qu’elle réconforte l’enfant qui lui a fait du mal."
+              "text": "« Tu peux regarder à côté de moi, ou aider à poser une tasse. » Gardez les soutiens utiles disponibles après le retour. Aucune excuse, aucun mot pour nommer une émotion, aucun temps imposé, aucun contact physique ni exercice de respiration ne constitue un droit d’entrée. Prenez soin séparément de toute personne blessée ou effrayée ; on ne doit pas attendre d’elle qu’elle réconforte l’enfant qui lui a fait du mal ou accepte une marque d’affection."
             },
             {
               "type": "h",
-              "text": "Analyser l’incident sans chercher un coupable"
+              "text": "Plus tard : réparer et faire le point sans blâmer"
             },
             {
               "type": "p",
-              "text": "Consignez la succession des faits observables, le contexte, les personnes concernées, les mesures de sécurité, les blessures ou premiers secours et ce qui a aidé, dans le système sécurisé approuvé. Distinguez l’observation de l’interprétation. Respectez les exigences locales pour informer les responsables, les familles et les autres organismes. Ne partagez les informations qu’avec les personnes qui en ont besoin et protégez l’identité des autres enfants."
+              "text": "Lorsque les enfants peuvent participer, accompagnez une réparation à leur portée : vérifier qu’une personne va bien, remettre le matériel en place en sécurité ou préparer une demande plus sûre. « Les cubes ont touché Arun. Quelqu’un s’occupe de lui. Nous pouvons aider à reconstruire quand tout le monde sera prêt. » Des excuses peuvent avoir du sens lorsqu’elles sont spontanées ; elles ne prouvent pas le retour au calme."
             },
             {
               "type": "p",
-              "text": "Un retour d’expérience entre membres du personnel doit examiner ce qui peut changer avant la prochaine fois : l’environnement, le moment choisi, la réponse de l’adulte, l’aide à la communication ou l’organisation des effectifs. En cas d’inquiétude concernant une maltraitance, une négligence, une exploitation ou la conduite dangereuse d’un adulte, appliquez sans délai les procédures de protection de l’enfance. Ne menez pas vous-même d’enquête et n’attendez pas une réunion habituelle de suivi du plan d’accompagnement du comportement. La protection de l’enfance et les mesures d’urgence priment sur le déroulement de cette formation."
+              "text": "Utilisez le système sécurisé approuvé pour consigner le contexte, les actions observables, les personnes concernées, les mesures de sécurité, les blessures ou premiers secours, et ce qui a aidé. Séparez observation et interprétation. Suivez les exigences locales d’information de la famille et de la direction, protégez l’identité des autres enfants et partagez les informations uniquement avec les personnes qui doivent les connaître."
             },
             {
               "type": "p",
-              "text": "L’analyse vise à améliorer la sécurité et le soutien, pas à déterminer qui a gagné dans l’échange."
-            },
-            {
-              "type": "h",
-              "text": "À retenir"
-            },
-            {
-              "type": "li",
-              "text": "La sécurité immédiate passe avant l’apprentissage."
-            },
-            {
-              "type": "li",
-              "text": "Aucune contention ni mise à l’isolement improvisée."
-            },
-            {
-              "type": "li",
-              "text": "Le rétablissement du lien, la réparation et l’analyse factuelle viennent après la récupération."
+              "text": "Demandez-vous ce que les adultes peuvent modifier : le moment, l’accès à la communication, les exigences, l’environnement ou les effectifs. En cas de suspicion de maltraitance, de négligence, d’exploitation ou de conduite dangereuse d’un adulte, suivez sans délai les procédures de protection de l’enfance. Ne menez pas votre propre enquête et n’attendez pas la révision d’un plan de comportement. Les procédures d’urgence et de protection de l’enfance peuvent être menées en parallèle."
             }
           ]
         },
@@ -492,27 +492,23 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "Repérer les procédures de votre établissement"
+              "text": "Répéter la communication entre adultes, pas le danger"
             },
             {
               "type": "li",
-              "text": "Identifiez la personne ou la procédure permettant d’obtenir rapidement un soutien assuré par du personnel formé."
+              "text": "Retrouvez les procédures en vigueur pour obtenir un soutien urgent, assurer les premiers secours et répondre aux urgences. Identifiez les fonctions responsables et le relais si la personne habituelle est absente. Si vous ne les connaissez pas, interrogez votre responsable avant de vous appuyer sur cette formation dans la pratique."
             },
             {
               "type": "li",
-              "text": "Repérez la procédure de premiers secours et de contact des services d’urgence."
+              "text": "Discutez de qui accompagne Ben et de qui aide le groupe à se déplacer en sécurité. Dites à voix haute la demande et la confirmation du collègue. Ne soulevez jamais de meubles, ne simulez aucune contention et ne mettez en scène aucune agression pendant cet entraînement."
             },
             {
               "type": "li",
-              "text": "Repérez le responsable de la protection de l’enfance, ou la personne exerçant une fonction équivalente, ainsi que le circuit à suivre en cas d’indisponibilité."
+              "text": "Retrouvez la procédure de protection de l’enfance, y compris le recours prévu si le responsable habituel est indisponible, ainsi que le système sécurisé approuvé de consignation."
             },
             {
               "type": "li",
-              "text": "Vérifiez où les incidents et les inquiétudes sont consignés de manière sécurisée. Si vous ne le savez pas, demandez-le à votre responsable avant de vous appuyer sur cette formation dans la pratique."
-            },
-            {
-              "type": "p",
-              "text": "Que feriez-vous si le collègue habituellement sollicité était absent ?"
+              "text": "Une fois le risque immédiat du scénario passé, montrez une invitation à revenir sans pression. Puis nommez une action d’apprentissage distincte pour plus tard et un changement dans la manière de terminer les jeux."
             },
             {
               "type": "h",
@@ -520,19 +516,11 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "« Je suis là. Chacun a besoin d’espace. »"
+              "text": "« Je suis là. Chacun a besoin d’espace. » Au collègue, selon la procédure convenue : « Va chercher du soutien et aide le groupe à se déplacer en sécurité, s’il te plaît. » Le collègue confirme sa responsabilité. L’action réellement sûre dépend de l’environnement et des procédures locales, pas seulement de ces paroles."
             },
             {
               "type": "p",
-              "text": "[Au collègue, en suivant la procédure convenue :] « Peux-tu demander du renfort et aider le groupe à s’éloigner en sécurité ? »"
-            },
-            {
-              "type": "p",
-              "text": "Plus tard, lorsque l’enfant est prêt : « C’était difficile. Cherchons ce qui t’aidera quand le jeu se termine. »"
-            },
-            {
-              "type": "p",
-              "text": "L’action sûre dépend de l’environnement réel et des procédures locales. Entraînez-vous à communiquer entre adultes en discutant de la situation, jamais en faisant reproduire un comportement dangereux par des enfants. L’incident doit conduire à réexaminer le soutien apporté et le plan de sécurité."
+              "text": "Après les vérifications de sécurité et de soins, proposez une activité familière avec du soutien. Plus tard : « C’était difficile quand le jeu s’est terminé. Entraînons-nous à montrer qu’on a besoin d’aide avant le prochain changement. » Réexaminez l’annonce préalable, l’attente et l’accès au soutien. Ne demandez pas à Ben de s’expliquer tant que le danger persiste et ne considérez pas son silence comme la fin de la réponse de sécurité."
             }
           ]
         }
@@ -550,39 +538,63 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Prévoir un court moment d’apprentissage pendant une période calme."
+              "text": "Montrer comment une compétence utile est présentée, pratiquée et soutenue dans une vraie routine."
             },
             {
               "type": "li",
-              "text": "Repérer les progrès sans récompenser le fait de cacher ses émotions."
+              "text": "Adapter une courte occasion de jeu à la participation de l’enfant et à ses signaux d’arrêt."
             },
             {
               "type": "h",
-              "text": "Enseigner avant le moment difficile"
+              "text": "Enseigner une action, puis aider à l’utiliser ailleurs"
             },
             {
               "type": "p",
-              "text": "Choisissez une compétence utile et montrez comment l’utiliser. Il peut s’agir de demander de l’aide, de signaler « stop », de demander une pause ou d’essayer une autre idée. Entraînez-vous lorsque l’enfant est suffisamment à l’aise pour participer, en utilisant son mode de communication habituel. Une phrase prononcée, un signe, un geste ou un dispositif de communication peuvent remplir la même fonction."
+              "text": "« Montre-moi que tu as besoin d’aide avec le couvercle » est un petit objectif d’apprentissage. « Sois calme tout l’après-midi » n’en est pas un. Convenez avec la famille et l’équipe concernée des moyens de communication actuels de l’enfant. Les mots, gestes, signes, objets, symboles et appareils de communication peuvent tous avoir du sens. Une nouvelle carte ne doit pas remplacer un système déjà établi."
+            },
+            {
+              "type": "li",
+              "text": "Présenter : pendant un jeu serein et agréable, utilisez votre propre contenant. « Le mien est coincé. Je vais montrer que j’ai besoin d’aide. » Montrez le repère familier et la réponse de la personne qui aide. Ne retenez jamais la nourriture, une aide nécessaire ou un objet apprécié pour provoquer de la détresse."
+            },
+            {
+              "type": "li",
+              "text": "Inviter : proposez sans pression un tour avec une marionnette, une action ensemble ou l’observation. Simplifiez la tâche et arrêtez si elle devient pénible. Ne guidez pas les mains de l’enfant pour obtenir une exécution correcte."
+            },
+            {
+              "type": "li",
+              "text": "Faciliter l’usage : répétez brièvement dans des activités familières. Décrivez la communication et son effet : « Tu m’as passé la boîte ; j’ai compris que tu avais besoin d’aide. » Évitez de féliciter le silence ou de porter un jugement sur la valeur de l’enfant."
+            },
+            {
+              "type": "li",
+              "text": "Soutenir l’usage réel : placez le repère dans la routine, avec un adulte prêt à répondre. Face à une difficulté, proposez de l’aide et montrez l’usage si cela est utile. Répondez même si l’enfant utilise un autre signal compréhensible."
+            },
+            {
+              "type": "li",
+              "text": "Aider au transfert : lorsque le moyen est utile dans une situation familière, essayez un autre contenant ou un autre adulte familier tout en gardant le soutien disponible. Réduisez les indications uniquement si cela convient et réintroduisez-les lorsque les exigences augmentent."
             },
             {
               "type": "p",
-              "text": "Utilisez un cycle d’apprentissage simple : montrer ; inviter à essayer sans pression ; accompagner une occasion réelle d’utiliser la compétence ; donner un retour précis ; recommencer. Faites en sorte que la compétence puisse être utilisée tout au long de la journée. « Tu m’as montré le symbole d’aide et nous avons ouvert la boîte ensemble » apporte plus d’informations que de féliciter un enfant parce qu’il est sage ou silencieux. Évaluez l’accès au soutien et la participation, pas seulement la diminution du bruit."
+              "text": "Avant de décider que l’enfant doit s’entraîner davantage, vérifiez ce que les adultes ont mis en place : le repère avait-il du sens et était-il accessible, la tâche était-elle à sa portée et quelqu’un a-t-il répondu ? Réussir dans une séance calme ne garantit pas l’utilisation pendant la détresse. Des demandes d’aide plus nombreuses peuvent témoigner d’une meilleure communication ; moins de larmes ne suffit pas à établir le bien-être."
             },
             {
               "type": "h",
-              "text": "Trois mini-activités originales"
+              "text": "Jeux originaux adaptés à l’âge"
             },
             {
               "type": "p",
-              "text": "Le problème des marionnettes : une marionnette veut un jouet qu’une autre utilise. Proposez aux enfants de choisir entre un symbole d’aide, une attente accompagnée ou une autre activité. Laissez-les suggérer différentes réponses sûres. Le but est de s’entraîner, pas de tester qui sait réciter la formule préférée de l’adulte."
+              "text": "Ce sont de courtes occasions de s’exercer, pas des traitements ni des tests d’étapes du développement. Utilisez du matériel sûr pour l’âge, sans risque d’étouffement, une surveillance adaptée et des actions physiquement accessibles. Observer, faire une pause et arrêter sont des choix valables. Ne provoquez jamais de détresse pour tester une compétence."
             },
             {
-              "type": "p",
-              "text": "Bouger et s’arrêter : proposez un jeu de mouvement familier avec un signal d’arrêt visible. Gardez les tours courts, adaptez les mouvements aux besoins de mobilité et acceptez l’observation comme une forme de participation. Rendez le défi ludique et modulable. N’éliminez pas les enfants qui manquent un signal."
+              "type": "li",
+              "text": "Complément sur les nourrissons, de la naissance à moins de 18 mois : répondre, puis faire une pause. Pendant une interaction agréable, repérez un son ou un mouvement, répondez une fois et attendez. Pour simplifier, limitez-vous à un échange doux. Continuez uniquement tant que l’échange est bienvenu ; faites une pause si l’attention se détourne ou si un inconfort apparaît. Ne couvrez pas le visage ; n’exigez ni contact visuel ni nombre fixe de tours."
             },
             {
-              "type": "p",
-              "text": "Essayer autrement : construisez ensemble un petit pont. Lorsqu’il glisse, montrez comment faire une pause, demander de l’aide ou changer une pièce. Invitez l’enfant à choisir le prochain essai. Les jeux du quotidien offrent des occasions d’exercer l’attention, de garder un plan en mémoire et de penser avec souplesse, sans transformer la régulation en fiche d’exercices."
+              "type": "li",
+              "text": "Tout-petits, de 18 mois à moins de 3 ans : imiter et guider. Montrez un mouvement accessible, puis imitez l’action choisie par le tout-petit. Il peut s’agir d’une action assise, d’un mouvement de la main ou du déplacement d’un gros jouet. Une seule action simplifie le jeu ; ajoutez-en une autre uniquement si cela reste agréable. Suivez le jeu s’il change ou arrêtez lorsque l’intérêt diminue. Plus tard, utilisez le geste familier dans une routine partagée à la portée de l’enfant."
+            },
+            {
+              "type": "li",
+              "text": "Maternelle et début de scolarité, de 3 à 6 ans : deux fins pour une histoire de marionnettes. Les deux marionnettes veulent la même pelle. Jouez une demande d’aide, la recherche d’un autre outil ou des tours de rôle accompagnés ; invitez à proposer une autre fin sûre. Commencez par deux possibilités concrètes, acceptez les gestes ou l’observation et arrêtez si l’enfant se désengage. N’exigez pas de partage ni de marque d’affection sans l’accord de l’autre enfant."
             },
             {
               "type": "h",
@@ -590,31 +602,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Les histoires et les images peuvent ouvrir la discussion sur les émotions, mais les expressions du visage n’offrent pas de réponses universelles. Demandez ce qu’un personnage pourrait ressentir et acceptez plusieurs possibilités. Un enfant peut préférer un signal corporel, un geste ou un échange en privé à un tableau public des émotions. Respectez « Je ne sais pas » et « Je n’ai pas envie de le dire »."
-            },
-            {
-              "type": "p",
-              "text": "Réduisez progressivement l’aide lorsque l’enfant peut se débrouiller, et augmentez-la de nouveau au besoin. Si une stratégie n’est pas utile, réexaminez l’exigence, l’accessibilité et le moment choisi plutôt que d’intensifier les répétitions. Un progrès peut consister à accepter du soutien plus tôt, à faire un geste pour demander de l’aide ou à reprendre une activité appréciée avec un adulte."
-            },
-            {
-              "type": "p",
-              "text": "Choisissez des exemples liés aux centres d’intérêt de l’enfant pour que l’entraînement garde du sens."
-            },
-            {
-              "type": "h",
-              "text": "À retenir"
-            },
-            {
-              "type": "li",
-              "text": "Montrer et s’entraîner pendant les moments calmes."
-            },
-            {
-              "type": "li",
-              "text": "Garder les aides à la communication accessibles."
-            },
-            {
-              "type": "li",
-              "text": "Valoriser le lien, le pouvoir d’agir et la participation."
+              "text": "Demandez ce qu’un personnage d’histoire pourrait ressentir et ce qui pourrait l’aider. Plusieurs réponses, « je ne sais pas trop » et le choix de ne pas le dire sont acceptables. Les visages sont des indices, pas des corrigés universels. Gardez les échanges personnels confidentiels ; n’affichez pas de scores de détresse nominatifs et ne photographiez pas les moments difficiles pour un tableau des émotions. Pour les nourrissons, remplacez la leçon sur les émotions par une interaction attentive aux signaux et aux besoins de soins."
             }
           ]
         },
@@ -630,27 +618,23 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "Prévoir un entraînement de deux minutes"
+              "text": "Répéter le passage de l’apprentissage à la routine"
             },
             {
               "type": "li",
-              "text": "Choisissez une compétence pour demander de l’aide ou résoudre un problème."
+              "text": "Maintenant : montrez une réponse à la communication actuelle de Sofia. « Le couvercle est coincé. Je peux t’aider. » Ne retardez pas l’aide nécessaire pour aller chercher une carte et n’attendez pas qu’elle cesse de pleurer."
             },
             {
               "type": "li",
-              "text": "Précisez le moyen de communication accessible à l’enfant pour l’utiliser."
+              "text": "Plus tard : montrez l’usage avec votre propre boîte et la réponse d’un autre adulte au repère établi. Proposez d’observer ou de participer avec du soutien, sans tester Sofia."
             },
             {
               "type": "li",
-              "text": "Écrivez une phrase modèle et choisissez une routine réelle pour s’entraîner."
+              "text": "Transfert : placez le repère à portée de main au goûter et identifiez l’adulte qui le remarquera. Acceptez un geste ou la boîte tendue aussi bien que la carte. Montrez comment le même soutien fonctionnerait avec un remplaçant familier."
             },
             {
               "type": "li",
-              "text": "Choisissez un retour précis qui décrit l’action plutôt que la valeur de l’enfant."
-            },
-            {
-              "type": "p",
-              "text": "Comment rendrez-vous la compétence plus facile à utiliser lors d’une journée difficile ?"
+              "text": "Réexamen : demandez à votre observateur si le repère était disponible, si l’adulte a répondu et si Sofia a pu accéder au goûter. Choisissez une étape plus petite si l’entraînement ajoute de la pression."
             },
             {
               "type": "h",
@@ -658,19 +642,11 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "« Le couvercle est coincé. Je peux t’aider. »"
+              "text": "« Tu me l’as fait savoir. Nous l’avons ouverte ensemble. » Le changement utile associe aide immédiate, communication qui a du sens et réponse effective de l’adulte. Répéter simplement la leçon laisse le problème du tiroir sans solution."
             },
             {
               "type": "p",
-              "text": "[Montrez le symbole d’aide disponible.] « Tu peux montrer le symbole d’aide. »"
-            },
-            {
-              "type": "p",
-              "text": "« Nous l’avons ouverte ensemble. Tu m’as fait comprendre. »"
-            },
-            {
-              "type": "p",
-              "text": "L’équipe vérifie où les symboles ou dispositifs sont nécessaires, interroge l’équipe qui accompagne la communication de l’enfant sur les aides déjà en place et s’entraîne dans les routines ordinaires. Une séance réussie ne garantit pas une utilisation autonome en situation de stress."
+              "text": "Si Sofia repousse la carte, l’aide reste disponible. Allégez l’exigence, acceptez un autre signal et revenez plus tard sur le sens de l’outil. Dans la pratique réelle, consignez le niveau d’aide de l’adulte qui a fonctionné, pas seulement le caractère autonome de la demande. Ne saisissez aucune information sur un enfant réel dans cette formation."
             }
           ]
         }
@@ -688,67 +664,91 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Préparer un échange respectueux avec la famille, fondé sur des observations."
+              "text": "Distinguer les observations factuelles, les explications possibles et la prochaine action de l’adulte."
             },
             {
               "type": "li",
-              "text": "Élaborer un plan d’accompagnement simple avec des modalités claires de suivi et d’orientation."
+              "text": "Utiliser un plan détaillé pour répartir les responsabilités, examiner l’accès et choisir la bonne voie pour obtenir de l’aide."
             },
             {
               "type": "h",
-              "text": "Commencer par le partenariat"
+              "text": "Construire une compréhension commune avec les familles"
             },
             {
               "type": "p",
-              "text": "Les familles connaissent les centres d’intérêt de l’enfant, sa communication, ses habitudes et ce qui le réconforte à la maison. Invitez-les à partager ces connaissances sans laisser entendre que le milieu familial est à l’origine de la difficulté. Renseignez-vous sur la langue et les modalités de communication qui rendront l’échange accessible. Demandez ce qui compte pour la famille et pour l’enfant, tout en partageant les observations du personnel."
-            },
-            {
-              "type": "p",
-              "text": "Commencez par un point fort réel et une observation concrète. Expliquez les changements déjà entrepris par l’établissement. Demandez « Qu’est-ce qui l’aide ? » plutôt que « Que faites-vous quand il n’est pas sage ? ». Les différences entre la maison et l’école sont des informations utiles : les exigences, les relations et les environnements varient. Elles ne prouvent pas que le témoignage de l’une des personnes est erroné."
+              "text": "Les familles connaissent la communication, les intérêts, les sources de réconfort et les routines de leur enfant. Demandez quelle langue et quelles modalités faciliteraient l’échange. Commencez par un véritable point fort, une observation concrète et ce que le personnel modifie. « Qu’est-ce qui aide à la maison ? » est plus utile que le reproche. Des exigences différentes peuvent produire des expériences différentes ; les deux récits peuvent être exacts."
             },
             {
               "type": "h",
-              "text": "Élaborer un plan simple à mettre à l’essai"
+              "text": "Une observation complète : Leo pendant le rangement"
             },
             {
               "type": "p",
-              "text": "Gardez un plan suffisamment concret pour que chaque adulte concerné puisse l’utiliser. Incluez les points forts et les préférences de l’enfant ; une communication qui a du sens pour lui ; les contextes difficiles ; les premiers signaux ; les adaptations préventives ; une réponse brève de l’adulte ; les circuits de sécurité et de protection de l’enfance ; et un plan de retour à l’activité. Convenez de qui fait quoi et du moment où vous ferez le point."
+              "text": "Faits fictifs : à 11 h 45, six enfants se sont approchés ensemble des étagères de rangement pendant le déplacement des chaises. Leo s’est couvert les deux oreilles, a reculé et s’est assis près de la table. L’adulte a posé deux questions ; Leo a détourné la tête. L’adulte a cessé de parler et a fait avancer le groupe. Avec un adulte à proximité, Leo a montré la porte du doigt et a rejoint l’endroit plus calme où attendre."
             },
             {
               "type": "p",
-              "text": "Choisissez un ou deux objectifs observables, par exemple « un adulte donne le signal familier de transition avant le déjeuner » et « l’enfant peut obtenir de l’aide ou une pause ». Observez si le changement améliore le bien-être, la participation et la sécurité. Les fréquences et les durées peuvent aider à repérer des tendances, mais associez-les à l’expérience de l’enfant et au point de vue de la famille. N’affichez jamais les données sur la détresse d’un enfant comme un score public."
+              "text": "Explications possibles, et non conclusions : le bruit a pu être inconfortable ; le rassemblement a pu réduire l’espace ; la prochaine étape a pu manquer de clarté ; un autre besoin non satisfait a pu contribuer. L’observation seule ne permet pas d’établir un diagnostic ni la fonction d’un comportement."
             },
             {
               "type": "p",
-              "text": "Prévoyez un adulte de relais et les informations minimales dont un remplaçant a besoin. Vérifiez si le plan est réellement applicable au moment le plus chargé de la journée."
+              "text": "Prochain essai : échelonner le rangement, réduire le déplacement des chaises à proximité et montrer un repère familier. Vérifier auprès de la famille ce que signifient les gestes de Leo. Noter si les adultes ont appliqué le changement, comment Leo a communiqué et comment il a accédé à l’activité suivante. Une amélioration isolée ne prouve pas une cause."
             },
             {
               "type": "h",
-              "text": "Savoir quand l’équipe a besoin d’aide"
-            },
-            {
-              "type": "p",
-              "text": "Demandez conseil au responsable de l’inclusion ou des besoins particuliers de l’établissement et aux professionnels concernés lorsque la détresse persiste, augmente, présente une intensité inhabituelle, nuit à la participation ou pose des problèmes de sécurité malgré un soutien réfléchi. Un changement soudain, la perte de compétences auparavant utilisées, une douleur possible ou une autre inquiétude de santé justifient un échange rapide par le circuit de santé approprié. Le personnel observe et accompagne ; les professionnels qualifiés évaluent et posent les diagnostics."
-            },
-            {
-              "type": "p",
-              "text": "N’attendez pas de diagnostic pour mettre en place des adaptations ordinaires et sûres qui facilitent l’accès. Ne promettez pas qu’une stratégie guérira une difficulté et ne recommandez pas de traitement sans évaluation. Associez les familles à la préparation du soutien et de l’orientation, dans le respect des exigences de consentement et de partage d’informations. En cas d’inquiétude relevant de la protection de l’enfance, suivez immédiatement le circuit correspondant ; ne supposez pas que les procédures habituelles de consentement parental doivent retarder la protection."
-            },
-            {
-              "type": "h",
-              "text": "À retenir"
+              "text": "Plan de routine détaillé : Leo, 3 ans, le rangement"
             },
             {
               "type": "li",
-              "text": "Les connaissances des familles et les observations du personnel sont complémentaires."
+              "text": "Participation appréciée et connaissances familiales : Leo aime trier de gros cubes auprès d’un adulte familier. Dans ce plan fictif, sa famille indique que montrer un panier aide à la maison. L’objectif est de lui permettre de participer confortablement au rangement et à l’activité suivante, avec un moyen efficace d’obtenir de l’aide ou une pause."
             },
             {
               "type": "li",
-              "text": "Les plans doivent être concrets, individualisés et réévaluables."
+              "text": "Avant : le responsable du groupe échelonne l’accès aux étagères et évite de faire racler les chaises à proximité. L’adulte accompagnant montre le panier ou la photographie familière pour une étape, puis la véritable activité suivante. Garder les moyens établis de Leo pour demander de l’aide ou une pause à portée de main. Vérifier plutôt que supposer qu’un nouveau symbole a du sens."
             },
             {
               "type": "li",
-              "text": "Les circuits de soutien, d’orientation, de protection de l’enfance et d’urgence répondent à des besoins différents."
+              "text": "Pendant : repérer les oreilles couvertes, le recul ou un signal familier. Réduire les paroles et le rassemblement : « Il y a du bruit. Nous pouvons attendre ici. » Répondre à la demande d’aide ou de pause avec un soutien sous surveillance. Si l’espace habituel est occupé, proposer un autre endroit sûr. Ne pas exiger de paroles, de contact physique ou une apparence calme."
+            },
+            {
+              "type": "li",
+              "text": "Sécurité et retour : maintenir la surveillance, recourir au personnel formé convenu si le risque augmente et aux procédures d’urgence ou de protection de l’enfance si nécessaire. Lorsque Leo recommence à participer, proposer de ranger un cube ensemble, d’observer ou de rejoindre l’activité suivante. Garder les soutiens utiles disponibles."
+            },
+            {
+              "type": "li",
+              "text": "Apprentissage ultérieur : dans un jeu agréable, montrer le signal familier d’aide ou de pause et la réponse de l’adulte. Essayer avec un autre adulte familier. Ne pas refuser l’aide ni reproduire une transition bruyante pour le tester."
+            },
+            {
+              "type": "li",
+              "text": "Rôles et relais : le responsable du groupe modifie la transition ; l’adulte accompagnant répond à Leo. Désigner un relais selon l’organisation locale des effectifs. Transmission : « Le bruit était difficile. Parler moins l’a aidé. Son repère est ici ; nous pouvons attendre à cet endroit surveillé. » Obtenir une confirmation."
+            },
+            {
+              "type": "li",
+              "text": "Réexamen : la personne référente et la famille conviennent d’un point de suivi à court terme, par exemple après une semaine, plus tôt si l’inquiétude augmente. Consigner la disponibilité du repère, la réponse effective des adultes, le niveau de soutien, la communication de Leo, son confort et son accès aux activités. Si la mise en œuvre était irrégulière, la corriger avant de juger la stratégie. Moins de perturbations avec davantage de retrait ne constitue pas une réussite."
+            },
+            {
+              "type": "h",
+              "text": "Choisir la procédure adaptée"
+            },
+            {
+              "type": "li",
+              "text": "Poursuivre et réexaminer lorsque les aménagements ordinaires permettent une participation confortable. Associer les points de vue de l’enfant et de sa famille aux fréquences ou durées relevées ; ne pas afficher publiquement de scores de comportement."
+            },
+            {
+              "type": "li",
+              "text": "Demander rapidement conseil aux responsables de l’inclusion ou des besoins supplémentaires et aux professionnels concernés lorsque la détresse persiste, augmente, affecte la participation ou crée des inquiétudes récurrentes pour la sécurité. Partager les observations, les soutiens essayés et leurs effets. Aucun délai fixe ni diagnostic n’est nécessaire pour demander de l’aide."
+            },
+            {
+              "type": "li",
+              "text": "Suivre la procédure de santé adaptée en cas de changement soudain, de douleur possible, de maladie ou de perte de compétences auparavant utilisées. Le personnel observe et accompagne ; les professionnels qualifiés évaluent et posent les diagnostics."
+            },
+            {
+              "type": "li",
+              "text": "Agir immédiatement par la procédure de premiers secours et d’urgence en cas de danger grave et immédiat ou de suspicion d’urgence médicale. Appliquer sans délai les procédures de protection de l’enfance en cas d’inquiétude pour sa protection ; les démarches ordinaires de consentement ne doivent pas retarder la protection requise."
+            },
+            {
+              "type": "p",
+              "text": "Associez les familles à la préparation du soutien courant et des orientations vers des professionnels, en respectant les exigences de consentement et de partage d’informations. Conservez les dossiers réels dans les systèmes sécurisés approuvés et ne partagez que ce qui est nécessaire. Ce plan original ne constitue ni une évaluation diagnostique ni un traitement et ne remplace pas un plan individuel de soins ou de sécurité existant."
             }
           ]
         },
@@ -764,27 +764,23 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "Rédiger les trois premières lignes"
+              "text": "Construire le premier plan de Noah à partir de l’exemple détaillé"
             },
             {
               "type": "li",
-              "text": "Choisissez un enfant fictif et écrivez un point fort réel."
+              "text": "Commencez par un point fort, une observation factuelle en classe et une question ouverte. Gardez une explication comme « trop bruyant » au stade d’hypothèse tant qu’elle n’a pas été explorée."
             },
             {
               "type": "li",
-              "text": "Ajoutez une observation avec son contexte, sans étiquette diagnostique."
+              "text": "Choisissez un changement de l’adulte, comme chanter en plus petit groupe ou proposer une place plus calme sur le côté. Montrez un signal d’aide ou de pause qui a du sens et la réponse de l’adulte ; n’exigez pas la participation pour prouver un progrès."
             },
             {
               "type": "li",
-              "text": "Écrivez une question ouverte qui cherche à comprendre et un changement que les adultes essaieront."
+              "text": "Nommez la fonction responsable, le relais et le moment du réexamen. Précisez ce qui sera consigné sur les actions effectives des adultes, le confort de Noah, sa communication et son accès aux activités."
             },
             {
               "type": "li",
-              "text": "Précisez la fonction de la personne responsable du suivi et le circuit à utiliser pour les inquiétudes urgentes."
-            },
-            {
-              "type": "p",
-              "text": "Le plan demande-t-il aux adultes de modifier quelque chose de significatif, ou demande-t-il seulement à l’enfant de se comporter autrement ?"
+              "text": "Déterminez ce qui justifierait un avis plus précoce, une réponse de santé ou une action immédiate de protection de l’enfance ou d’urgence. N’utilisez pas la date de réexamen prévue comme raison d’attendre alors que l’inquiétude grandit."
             },
             {
               "type": "h",
@@ -792,19 +788,11 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "« Nous souhaitons que Noah prenne plaisir à participer d’une manière qui lui convienne. »"
+              "text": "« Noah aime les chansons qu’il choisit en petit groupe. Dans le grand groupe, il s’éloigne et manque parfois le chant. Comment cela se passe-t-il à la maison, et qu’est-ce qui l’aide ? » Expliquez ensuite ce que le personnel va essayer, invitez la famille à contribuer et convenez de la manière de comparer les observations."
             },
             {
               "type": "p",
-              "text": "« Pourrions-nous essayer un groupe plus petit et un moyen simple de signaler le besoin d’une pause ? »"
-            },
-            {
-              "type": "p",
-              "text": "« Comparons nos observations et faisons le point ensemble sur le plan la semaine prochaine. »"
-            },
-            {
-              "type": "p",
-              "text": "La date de suivi est un exemple, pas un délai clinique obligatoire. Convenez d’un moment adapté et sollicitez de l’aide plus tôt si le risque ou l’inquiétude augmente. Examinez si choisir une chanson, observer d’abord ou participer depuis un endroit plus calme facilite l’accès."
+              "text": "Si Noah devient plus silencieux mais passe davantage de temps en retrait, réexaminez le plan. S’il montre plus souvent le signal de pause et peut participer confortablement avec du soutien, cela peut être un progrès utile. Évaluez l’accès et le bien-être, pas la facilité de gestion de la classe pour les adultes. Mettez en pratique un changement réalisable de l’adulte et réexaminez-le avec l’équipe concernée."
             }
           ]
         }
@@ -813,28 +801,28 @@ window.COURSE_FR={
   ],
   "questions": [
     {
-      "q": "Un enfant parvient à attendre son tour le matin, mais a du mal après un après-midi chargé. Quelle est l’interprétation la plus utile ?",
+      "q": "Imani, huit mois, tend les bras vers un adulte familier, puis se détourne et s’agite lorsque deux adultes parlent et qu’un jouet musical se met en marche. Quelle est la meilleure première réponse ?",
       "options": [
-        "La réussite du matin prouve que le comportement de l’après-midi est délibéré.",
-        "La capacité de régulation peut varier selon le contexte et le soutien disponible.",
-        "L’enfant devrait être privé de jeu jusqu’à ce qu’il sache attendre de façon constante.",
-        "L’enfant n’a plus besoin du soutien d’un adulte."
+        "Proposer un autre jouet doux et continuer à solliciter son attention pour maintenir l’interaction.",
+        "Interrompre les sons qui se cumulent, rester attentif avec un réconfort familier et vérifier les besoins de soins et les signaux.",
+        "Montrer deux images d’émotions pour savoir de quel soutien elle a besoin.",
+        "Continuer encore un peu la chanson familière avant de modifier l’environnement."
       ],
       "answer": 1,
       "critical": false,
-      "why": "Les compétences dépendent du contexte. Examinez la fatigue, les exigences et le soutien disponible plutôt que de considérer une réussite antérieure comme la preuve des capacités présentes."
+      "why": "Le soutien de l’adulte à un nourrisson repose sur les signaux, les soins attentifs et adaptés, et des stimulations supportables. Se détourner peut inviter à une pause ; ce n’est pas une demande de test d’attention. Suivez les procédures approuvées de soins aux nourrissons et de santé."
     },
     {
-      "q": "Quelle description constitue l’observation la plus claire ?",
+      "q": "Quelle note distingue le plus clairement l’observation de l’interprétation ?",
       "options": [
-        "Il a été manipulateur au moment du rangement.",
-        "Elle voulait mettre tout le monde en colère.",
-        "Il a crié « non » et s’est placé derrière l’étagère quand la chanson du rangement a commencé.",
-        "Elle a une mauvaise attitude face au changement."
+        "Leo était submergé par un problème sensoriel et avait besoin d’échapper au rangement.",
+        "Leo semblait anxieux ; le personnel sait donc que la chanson a provoqué sa détresse.",
+        "Leo s’est couvert les oreilles pendant le déplacement des chaises ; le personnel a réduit le bruit. Le son est un facteur possible à explorer.",
+        "Leo a mieux réussi aujourd’hui parce qu’il faisait confiance au nouvel emploi du temps visuel."
       ],
       "answer": 2,
       "critical": false,
-      "why": "Les paroles et les actions observables donnent à l’équipe des éléments à examiner. Les étiquettes et les suppositions sur l’intention peuvent masquer des tendances utiles."
+      "why": "La meilleure note rapporte ce qui s’est passé et présente l’explication possible comme incertaine. Une interprétation plausible et une amélioration isolée ne permettent pas d’établir une cause."
     },
     {
       "q": "Vous remarquez que votre voix devient sèche pendant un échange difficile. Quelle est la meilleure prochaine étape ?",
@@ -849,28 +837,28 @@ window.COURSE_FR={
       "why": "La régulation de l’adulte compte, et la surveillance doit se poursuivre. Un relais organisé protège l’enfant et facilite une réponse posée."
     },
     {
-      "q": "Un enfant est en détresse chaque jour lors de la même transition encombrée. Quelle est la meilleure première mesure à prévoir ?",
+      "q": "Leo se couvre les oreilles et recule pendant un rangement dans un espace encombré. Quel plan permet le mieux de tester un aménagement de l’environnement ?",
       "options": [
-        "S’entraîner à rester silencieux plus longtemps.",
-        "Ajouter un tableau public de récompenses pour la transition.",
-        "Garder la routine inchangée pour enseigner la résilience.",
-        "Réduire les attentes et les regroupements évitables, puis observer si l’accès s’améliore."
+        "Pratiquer un jeu d’apaisement chaque matin en gardant le rangement inchangé pour simplifier la comparaison.",
+        "Proposer un outil sensoriel différent chaque jour et noter celui qui obtient le silence le plus rapidement.",
+        "Expliquer les règles de rangement dans une séance calme et vérifier si Leo peut les répéter.",
+        "Échelonner l’accès aux étagères, réduire le bruit des chaises et vérifier à la fois la mise en œuvre par les adultes et la participation de Leo."
       ],
       "answer": 3,
       "critical": false,
-      "why": "Modifier une exigence de l’environnement est une mesure préventive concrète. Examinez la réponse de l’enfant plutôt que de supposer qu’un exercice de régulation suffira à résoudre la difficulté."
+      "why": "Ce plan modifie les obstacles observés dans cette routine et vérifie la mise en œuvre aussi bien que l’expérience de l’enfant. Les jeux et les explications ne suffisent pas à supprimer le bruit ou les rassemblements serrés."
     },
     {
-      "q": "Qu’est-ce qui rend un support visuel utile ?",
+      "q": "La pluie remplace le jeu dehors par une activité de mouvement à l’intérieur. Un enfant utilise déjà un repère « maintenant/ensuite » qui a du sens pour lui. Que doit faire l’adulte ?",
       "options": [
-        "Il est coloré et affiché en hauteur sur le mur.",
-        "Il a du sens pour l’enfant, est disponible au moment nécessaire et est utilisé avec lui.",
-        "Il est identique pour tous les enfants.",
-        "Il est présenté uniquement pendant les moments de détresse."
+        "Garder l’image du jardin jusqu’à l’heure habituelle de transition pour préserver l’affichage familier.",
+        "Remplacer l’ancien repère par la nouvelle activité réelle, expliquer brièvement et proposer une prochaine étape accessible.",
+        "Demander à l’enfant de nommer correctement les deux images avant de les changer.",
+        "Montrer toutes les possibilités de la journée et demander à l’enfant de déduire ce qui va se passer."
       ],
       "answer": 1,
       "critical": false,
-      "why": "Un support visuel est un outil de communication. Son intérêt dépend du sens, de l’accessibilité et de la régularité de son utilisation, pas de la décoration."
+      "why": "Un emploi du temps est utile lorsqu’il correspond au programme réel et qu’il est utilisé avec l’enfant. Comprendre le changement n’exige pas que l’enfant cesse d’être déçu."
     },
     {
       "q": "Quelle utilisation d’un espace calme correspond à cette formation ?",
@@ -885,28 +873,28 @@ window.COURSE_FR={
       "why": "Le but est d’apporter du soutien et du réconfort. Un espace de régulation ne doit pas devenir un lieu d’isolement, d’exclusion ou une épreuve à réussir."
     },
     {
-      "q": "Un enfant habituellement bavard devient inhabituellement immobile et se met en retrait. Que devriez-vous faire ?",
+      "q": "Après une arrivée animée, un enfant habituellement bavard reste assis, immobile et silencieux de façon inhabituelle. Quelle réponse vérifie le mieux s’il est prêt à participer ?",
       "options": [
-        "Supposer que l’enfant régule désormais bien ses émotions parce qu’il est silencieux.",
-        "Attirer l’attention sur ce changement devant le groupe.",
-        "Repérer le changement, prendre de ses nouvelles avec délicatesse et examiner le soutien nécessaire.",
-        "Attendre un comportement perturbateur avant d’intervenir."
+        "Féliciter l’enfant de rester immobile et le guider doucement directement vers l’activité prévue.",
+        "Commencer un échange bienveillant sur les émotions pendant que la salle est plus calme.",
+        "Prendre de ses nouvelles sans envahir son espace, proposer ses moyens de communication établis et observer ses signes habituels de confort.",
+        "Proposer un nouveau jeu de respiration, car le silence en fait un bon moment d’apprentissage."
       ],
       "answer": 2,
       "critical": false,
-      "why": "La détresse peut être silencieuse. Comparez la situation aux habitudes de l’enfant et proposez un échange sans pression, sans tirer de conclusions hâtives."
+      "why": "Le silence ne suffit pas à montrer que l’enfant est à l’aise ou prêt à apprendre. Utilisez ses moyens de communication établis et allégez les exigences tout en vérifiant l’aide nécessaire."
     },
     {
-      "q": "Quelle réponse associe l’empathie à une limite ?",
+      "q": "À son arrivée, Priya, deux ans, se détourne et repousse une main tendue. Il n’y a pas de danger immédiat. Quelle réponse associe le mieux un soutien adapté et le respect de son signal ?",
       "options": [
-        "« Tu es bouleversé. Tout le monde doit être en sécurité. Je suis là pour aider. »",
-        "« Si tu regrettais vraiment, tu arrêterais de pleurer. »",
-        "« Tu peux faire tout ce que tu veux quand tu es en colère. »",
-        "« Il n’y a aucune raison de ressentir cela. »"
+        "Lui laisser un espace confortable, rester disponible avec peu de mots et soutenir la routine d’arrivée familière.",
+        "Proposer plutôt un câlin, car la main était peut-être une forme de réconfort inadaptée.",
+        "Expliquer gentiment pourquoi l’adulte d’accueil est digne de confiance avant de tendre de nouveau la main.",
+        "Montrer plusieurs nouvelles cartes de stratégies d’apaisement pour que Priya choisisse une autre façon de se calmer."
       ],
       "answer": 0,
       "critical": false,
-      "why": "Il est possible de reconnaître une émotion tout en assurant la sécurité. Valider le ressenti ne supprime pas les limites et n’exige pas de faire honte."
+      "why": "Refuser le contact physique ne signifie pas refuser tout soutien. Réduisez la pression, maintenez la surveillance et les soins, et laissez la communication du tout-petit guider la prochaine proposition."
     },
     {
       "q": "Un enfant refuse l’activité de respiration que vous utilisez habituellement. Quelle est la meilleure réponse ?",
@@ -957,28 +945,28 @@ window.COURSE_FR={
       "why": "ESSENTIEL POUR LA SÉCURITÉ : participer à cette formation ne constitue pas une formation aux interventions physiques. Une pratique sûre exige le respect du cadre local applicable et le soutien de personnes ayant une formation appropriée."
     },
     {
-      "q": "Un enfant récupère après un incident et ne peut pas encore expliquer ce qui s’est passé. Quelle approche est la plus appropriée ?",
+      "q": "L’incident présentant un risque immédiat avec Ben est terminé. Il est silencieux, mais se détourne lorsqu’on lui pose des questions. Que faut-il faire maintenant ?",
       "options": [
-        "Exiger des excuses avant que l’enfant puisse rejoindre le groupe.",
-        "Offrir du réconfort, vérifier les besoins et accompagner le retour ; revenir à l’apprentissage et à la réparation lorsque l’enfant sera prêt.",
-        "Interroger l’enfant devant ses camarades pour gagner du temps.",
-        "Supposer que le silence signifie que l’incident est résolu."
+        "Profiter du moment calme pour expliquer brièvement la règle avant que les souvenirs ne s’estompent.",
+        "Vérifier les blessures et les besoins de soins, rester disponible et proposer un retour sans pression ; reprendre l’apprentissage et la réparation plus tard.",
+        "Lui demander de choisir une image d’émotion pour que le personnel confirme qu’il est prêt à rejoindre le groupe.",
+        "Commencer à s’entraîner à l’autre réponse possible puisque le danger immédiat est passé."
       ],
       "answer": 1,
       "critical": false,
-      "why": "La récupération et la réflexion ultérieure sont deux étapes différentes. Le silence seul ne prouve pas que l’enfant est prêt, et des excuses ne doivent pas être le prix à payer pour retrouver sa place dans le groupe."
+      "why": "Le silence ou la fin du risque immédiat ne prouvent pas le retour au calme. Rétablissez le confort et une participation accompagnée avant d’attendre une réflexion ; une explication ou des excuses ne sont pas des conditions d’entrée."
     },
     {
-      "q": "À quel moment est-il le plus utile d’introduire une nouvelle compétence pour demander de l’aide ?",
+      "q": "Sofia utilise un repère d’aide dans un jeu serein, mais pas au goûter. Quelle séquence favorise le mieux le transfert ?",
       "options": [
-        "Uniquement pendant les moments de détresse les plus intenses.",
-        "Une fois que l’enfant n’a plus besoin de l’aide d’un adulte.",
-        "Pendant une activité calme et accessible, suivie d’un entraînement accompagné dans les routines réelles.",
-        "Uniquement dans une séance avec une fiche d’exercices."
+        "Répéter la leçon initiale jusqu’à ce qu’elle utilise le repère seule avant de réessayer au goûter.",
+        "Ajouter plusieurs repères d’aide pour qu’elle choisisse l’image qui lui plaît le plus lorsqu’elle est bouleversée.",
+        "Aider maintenant, placer le repère établi au goûter, montrer son utilisation si cela aide et veiller à ce que les adultes répondent à sa communication.",
+        "Déplacer le goûter à la table d’apprentissage pour une durée indéterminée afin que le repère n’ait jamais à fonctionner dans un autre contexte."
       ],
       "answer": 2,
       "critical": false,
-      "why": "Montrez et répétez la compétence avant qu’elle ne soit nécessaire en urgence, puis accompagnez son utilisation dans des contextes qui ont du sens."
+      "why": "Enseigner et utiliser dans une vraie routine sont deux tâches différentes. Vérifiez l’emplacement, le sens, la réponse de l’adulte et les exigences de la tâche ; l’aide reste disponible même si le repère appris n’est pas utilisé."
     },
     {
       "q": "Un enfant utilise des gestes plutôt que la parole. Qu’est-ce qui constitue une demande d’aide appropriée ?",
@@ -993,16 +981,16 @@ window.COURSE_FR={
       "why": "La communication doit être accessible. Appuyez-vous sur les aides habituelles de l’enfant et sur l’équipe compétente qui accompagne sa communication."
     },
     {
-      "q": "Quel retour décrit le mieux une compétence utile ?",
+      "q": "Un plan réduit les incidents bruyants, mais l’enfant passe davantage de temps seul et rejoint rarement les jeux qu’il apprécie. Quel réexamen est le plus utile ?",
       "options": [
-        "« Tu es sage quand tu ne fais pas de bruit. »",
-        "« Pourquoi n’y arrives-tu pas à chaque fois ? »",
-        "« Tu es l’enfant qui se comporte le mieux ici. »",
-        "« Tu m’as montré le symbole d’aide et nous avons résolu le problème ensemble. »"
+        "Continuer sans rien changer, car la diminution des incidents bruyants montre que l’autorégulation s’est améliorée.",
+        "Féliciter les périodes de silence plus longues et fixer un objectif de temps encore plus long sans aide de l’adulte.",
+        "Comparer uniquement la durée des incidents pour que le réexamen reste objectif.",
+        "Examiner le confort, la communication, le soutien des adultes et la participation avec l’enfant et sa famille avant de conclure que le plan aide."
       ],
       "answer": 3,
       "critical": false,
-      "why": "Un retour précis nomme l’action et son effet. Il évite de juger la valeur de l’enfant ou de récompenser le fait de cacher ses émotions."
+      "why": "La diminution des perturbations ne suffit pas à constituer un résultat satisfaisant. Examinez le bien-être et l’accès, notamment la réalisation des aménagements par les adultes et les témoignages de l’enfant et de sa famille."
     },
     {
       "q": "Une personne qui s’occupe de l’enfant dit ne pas observer la même difficulté à la maison. Quelle est la réponse la plus utile ?",
@@ -1029,16 +1017,16 @@ window.COURSE_FR={
       "why": "ESSENTIEL POUR LA SÉCURITÉ : les inquiétudes relevant de la protection de l’enfance ne doivent pas être réduites à la gestion du comportement. Suivez rapidement le circuit désigné et consignez les faits dans les systèmes approuvés."
     },
     {
-      "q": "Quel plan d’accompagnement est le plus utile ?",
+      "q": "Le plan de rangement de Leo a produit peu de changement, mais le personnel a souvent oublié le repère et la transition échelonnée. Quelle est la meilleure prochaine étape du réexamen ?",
       "options": [
-        "Une étiquette et une demande à l’enfant de faire davantage d’efforts.",
-        "Des observations individuelles, des adaptations de la part des adultes, une communication accessible, des responsabilités attribuées et un point de suivi.",
-        "Un tableau public des incidents de l’enfant.",
-        "Une stratégie appliquée de façon identique à tous les enfants."
+        "Choisir un nouvel outil d’apaisement, car le premier plan n’a pas modifié le comportement de Leo.",
+        "Rendre les actions des adultes réalisables et régulières, examiner leur mise en œuvre et l’accès de Leo, et demander conseil plus tôt si les inquiétudes le justifient.",
+        "Augmenter la pratique autonome du rangement pour compenser les actions des adultes qui n’ont pas été réalisées.",
+        "Attendre un nombre fixe d’incidents supplémentaires avant de discuter de la difficulté avec quiconque."
       ],
       "answer": 1,
       "critical": false,
-      "why": "Un plan concret indique aux adultes ce qu’ils doivent faire, comment assurer la sécurité de chacun et comment déterminer si le soutien améliore l’accès et le bien-être."
+      "why": "On ne peut pas juger équitablement un plan si les soutiens prévus n’ont pas été apportés. Corrigez la mise en œuvre tout en examinant le confort, la communication et l’accès ; ne retardez pas les conseils nécessaires en matière de santé, d’inclusion, de sécurité ou de protection de l’enfance."
     },
     {
       "q": "Quelle prochaine étape est appropriée lorsque les difficultés persistent malgré des adaptations réfléchies ?",
@@ -1059,11 +1047,15 @@ window.COURSE_FR={
       "blocks": [
         {
           "type": "p",
-          "text": "Enseignants, assistants pédagogiques et personnes qui s’occupent de jeunes enfants, en particulier de deux à six ans. Adaptez l’accompagnement aux besoins de développement et de communication plutôt qu’au seul âge chronologique."
+          "text": "Pour les enseignants, assistants pédagogiques et adultes accompagnants travaillant avec de jeunes enfants, en particulier de 2 à 6 ans. Le contenu sur les nourrissons étend les principes uniquement pour le personnel dont le cadre de travail et les fonctions incluent leurs soins ; il ne forme ni à leur manipulation ni aux soins. Les grands groupes de préparation sont la naissance à moins de 18 mois, 18 mois à moins de 3 ans et 3 à 6 ans, enfants de six ans inclus. Adaptez le soutien aux capacités et à la communication actuelles ; il ne s’agit pas de tests d’étapes du développement."
         },
         {
           "type": "p",
           "text": "Une ressource pédagogique éclairée par les données probantes, préparée pour le contexte d’Inspired ELS. Il ne s’agit ni d’une politique approuvée par Inspired, ni d’une qualification clinique, ni d’une formation à la protection de l’enfance ou aux interventions physiques. Appliquez les procédures en vigueur dans votre établissement en matière de protection de l’enfance, d’inclusion, de premiers secours et d’urgence, ainsi que les exigences légales locales. Un document de fin de formation atteste uniquement de la participation à la formation."
+        },
+        {
+          "type": "p",
+          "text": "Durée prévue de l’apprentissage principal : six modules de 10 minutes (60 minutes), environ 12 minutes pour l’évaluation finale et 3 minutes pour les engagements et la finalisation, soit environ 75 minutes au total. La lecture, les courts entraînements et les vérifications rapides sont inclus dans les estimations des modules. Les vidéos facultatives, l’exploration de la boîte à outils, les nouvelles tentatives et l’accompagnement ultérieur en équipe ajoutent du temps ; l’estimation ne constitue pas un relevé chronométré de présence."
         }
       ]
     },
@@ -1072,7 +1064,11 @@ window.COURSE_FR={
       "blocks": [
         {
           "type": "p",
-          "text": "La recherche soutient les relations attentives aux besoins, les environnements soigneusement aménagés et l’entraînement accompagné aux compétences. Les données sur les programmes spécifiques d’autorégulation dans la petite enfance sont limitées et inégales ; la recherche sur les interventions propres à la corégulation est encore en développement. Ces exemples pratiques sont des illustrations pédagogiques originales, et non un protocole de traitement validé ni une promesse de résultats particuliers."
+          "text": "Les relations attentives et adaptées, les environnements accessibles et la pratique accompagnée des compétences sont éclairés par la recherche et les recommandations professionnelles. Les données sur les interventions en petite enfance restent limitées et inégales, en particulier pour les plus jeunes et les approches précises de corégulation. Les guides des organismes et les ressources de marque sont des exemples pratiques utiles, pas des preuves indépendantes d’efficacité. Ces phrases, activités, outils et évaluations originaux n’ont pas été évalués indépendamment ni validés comme traitement. Aucun organisme cité ne cautionne cette formation."
+        },
+        {
+          "type": "p",
+          "text": "Le guide des sources distingue les recommandations professionnelles, un programme commercial identifié, une synthèse des données probantes et une évaluation observationnelle liée à un programme. Il indique ce que chaque source étaye et ses limites. Cette formation n’enseigne ni diagnostic d’états cérébraux, ni seuils fixes liés aux anniversaires, ni apaisement garanti, ni mécanismes neuronaux non étayés. Un questionnaire de formation ne peut pas établir la compétence pratique ; appuyez-vous sur l’accompagnement local, l’observation supervisée et les retours des familles."
         }
       ]
     },
