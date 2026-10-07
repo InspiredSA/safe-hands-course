@@ -213,7 +213,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Offer: “Quieter here, or I can stay nearby.” If the child stays, reduce noise or crowding there when safe. No locking in, being left alone or requiring an apology, breathing or a timer before leaving. Ask the teacher about changing activities the child often needs to leave."
+              "text": "Offer: “Quieter here, or I can stay nearby.” If the child stays, reduce noise or crowding there when safe. No locking in, being left alone or requiring an apology, a breathing exercise or a timer before leaving. Ask the teacher about changing activities the child often needs to leave."
             },
             {
               "type": "p",
@@ -344,7 +344,7 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "A toddler pushes your arm away. Stop the offered touch: “No cuddle. I can sit here.” They may still want company. Never require touch, eye contact, breathing, naming a feeling or speaking before helping. If a familiar activity does not help, try less talk, more space or another known support."
+              "text": "A toddler pushes your arm away. Stop the offered touch: “No cuddle. I can sit here.” They may still want company. Never require touch, eye contact, a breathing exercise, naming a feeling or speaking before helping. If a familiar activity does not help, try less talk, more space or another known support. Module 4 explains an optional gentle breathing exercise for interested preschool children; it is never a condition of care."
             },
             {
               "type": "h",
@@ -352,15 +352,15 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Ask which signs, pictures or device the child uses. AAC means communication alongside or instead of speech, such as signs or a talking device. Keep it available during upset; do not replace it with a new card without advice."
+              "text": "AAC stands for augmentative and alternative communication: ways to communicate alongside speech or instead of speech. It can include gestures, familiar signs, pointing to pictures, a communication book or a device that speaks when the child selects a message. AAC is more than a set of cards. Ask the teacher, family and, where involved, the speech and language therapist how the child’s established system works. Keep that system available during upset; do not replace it with a new card or require speech before helping."
             },
             {
               "type": "p",
-              "text": "Agree what adults do when the child asks. “Help” might mean showing how to open a box. “Break” might mean pausing the task and sitting nearby together. Agree who watches the group. If the usual seat is occupied, offer another safe place with adult support."
+              "text": "Agree what adults do when the child asks. “Help” might mean opening the lid of the child’s snackbox so they can eat. “Break” might mean pausing the activity and sitting nearby together. Agree who watches the group. If the usual seat is occupied, offer another safe place with adult support."
             },
             {
               "type": "p",
-              "text": "During comfortable play, use the child’s familiar help sign yourself and have a colleague help you. In a real difficulty, respond even if the child uses another gesture or is still crying. Asking for help must not become another test."
+              "text": "During comfortable play, show how to ask a colleague to open a lidded plastic container holding an adult’s demonstration toy. Use the child’s familiar help sign or picture, and have the colleague open it straight away. Module 5 gives the full example. In a real difficulty, respond even if the child uses another gesture or is still crying. Asking for help must not become another test."
             }
           ]
         },
@@ -459,7 +459,7 @@ window.COURSE={
             },
             {
               "type": "li",
-              "text": "18 months to under 3 years: offer company and one easy step into familiar play. Later, show a simple action, such as bringing a stuck toy for help."
+              "text": "18 months to under 3 years: offer company and one easy step into familiar play. For example, if a large toy car rolls under a table, respond when the child points and retrieve it safely. Later, during comfortable play, show pointing towards the car and saying “Help.” Do not put a child’s toy out of reach to create a practice problem."
             },
             {
               "type": "li",
@@ -468,6 +468,38 @@ window.COURSE={
             {
               "type": "p",
               "text": "Keep help available after rejoining. An apology, breathing exercise or feelings label is not required. Look after anyone hurt or frightened separately; they need not accept affection or comfort the child who hurt them."
+            },
+            {
+              "type": "h",
+              "text": "An optional gentle breathing exercise: what the adult does"
+            },
+            {
+              "type": "p",
+              "text": "Here, a breathing exercise means briefly practising a comfortable breath in and out with an adult. It is an optional activity for a preschool child aged 3–6 who is settled, comfortable and interested. It is not a treatment or a required step after distress. Check the child’s usual support and health plan; do not use an exercise for breathing difficulty or another medical concern."
+            },
+            {
+              "type": "li",
+              "text": "1. Choose an easy moment with little noise. Sit comfortably nearby and ask, “Would you like to watch me take a gentle breath, or try with me?” Accept a gesture or words. If the child declines or turns away, stop the offer."
+            },
+            {
+              "type": "li",
+              "text": "2. Show one ordinary, comfortable breath in, then let it out slowly and gently at a comfortable pace. Say, “Gently in … gently out.” The child can watch or join. Do not ask for a very deep breath, force a slower pace, hold the breath, close the eyes or keep going to a count."
+            },
+            {
+              "type": "li",
+              "text": "3. Pause and watch. If the child is comfortable and wants another turn, offer one more. Stop if they decline, seem uncomfortable or feel dizzy. Continue ordinary care and company. Offer less sound, more space or a familiar activity instead. Breathing difficulty needs the first-aid and emergency response, not more practice."
+            },
+            {
+              "type": "h",
+              "text": "Worked example: Anika can watch, try or stop"
+            },
+            {
+              "type": "p",
+              "text": "Four-year-old Anika is settled beside an adult, looking at a picture book in a quiet corner. The adult sits nearby and asks, “Would you like to watch a gentle breath, or try with me?” Anika nods and watches. The adult shows one comfortable breath in and a slow, gentle breath out, saying, “Gently in … gently out.” Anika tries once. When the adult offers another turn, she shakes her head. The adult stops: “Finished. We can look at the book.” They stay together and turn the page."
+            },
+            {
+              "type": "p",
+              "text": "At another time, Anika may decline even this familiar exercise. Staff can lower the sound nearby, offer company or give her space while keeping supervision and help available. Do not describe a child as refusing to breathe: they are declining a suggested exercise. No child has to do it to receive care or return to play."
             },
             {
               "type": "h",
@@ -511,28 +543,36 @@ window.COURSE={
             },
             {
               "type": "h",
-              "text": "Practise the staff conversation only"
+              "text": "Written activity: help Lina after noisy play"
+            },
+            {
+              "type": "p",
+              "text": "New fictional situation: four-year-old Lina’s block tower falls when two children run past. They are still running among the blocks. Lina cries and pushes away your offered hand. A colleague is beside the group. Later, after the area is safe and care needs have been checked, Lina points to a book but shakes her head when you offer the gentle breathing exercise she has tried before. Write your response before opening the suggested answer."
             },
             {
               "type": "li",
-              "text": "Find the school’s safety, first-aid, emergency and safeguarding procedures, including who to contact if the usual lead is absent. Ask your leader if any route is unclear."
+              "text": "1. What will you do first to make the area safer, and what clear job will you ask the colleague to take? Use the school’s existing safety procedures if needed. Do not act out the running or practise physical techniques."
             },
             {
               "type": "li",
-              "text": "Say who stays with Ben, who watches the group and how you ask for help. Have your colleague confirm their role. Do not lift furniture, stage aggression or practise physical techniques."
+              "text": "2. What will you say and do when Lina pushes your hand away? Include checking for injury or care needs, and use the school’s first-aid procedures if needed."
             },
             {
               "type": "li",
-              "text": "Describe a gentle return to play, one thing to teach later and one change before the next game ends. Find where the incident would be securely recorded."
+              "text": "3. How will you respond when Lina declines the breathing exercise and points to the book? Say how you will help her return to a familiar activity when she is ready."
+            },
+            {
+              "type": "li",
+              "text": "4. What might you practise during comfortable play later, and what will adults change before the next running game?"
             },
             {
               "type": "h",
-              "text": "Check your answer",
+              "text": "Suggested answer: one way to respond",
               "role": "feedback"
             },
             {
               "type": "p",
-              "text": "Getting trained help and protecting people must come first. Comfort, teaching and repair are different jobs. Follow the school’s approved procedures throughout; a good course answer does not authorise physical intervention."
+              "text": "Ask the colleague to stop the running game and guide the group to a clear play area, and wait for agreement. Stay available to Lina, stop the offered touch and say, “I’ll give you room. I’m here.” Check whether anyone is hurt and provide or get the needed care; use urgent trained help if there is serious danger. Once the area is safe, follow Lina’s pointing: “We can look at the book.” Stop the exercise offer and sit nearby if she wants company. Later, show how to ask for help with rebuilding, without requiring an apology. Agree with the teacher how to keep running play away from the block area. Follow existing school recording and reporting procedures; this course does not authorise physical intervention."
             }
           ]
         }
@@ -562,23 +602,23 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "During comfortable play, an adult uses their own box: “Mine is stuck. I’ll ask for help.” They show the child’s known help sign; a colleague opens it. The child can watch or try. This teaches one action; “be calm all afternoon” is too broad."
+              "text": "Use a lidded plastic container and a large, age-safe toy car set aside for the adults’ demonstration. Keep the lid easy for an adult to open. During comfortable play, one adult puts the toy car inside and says, “I want to get the car out. Can you help me open the lid?” They use the child’s established help sign or picture as they ask a colleague. The colleague opens the container straight away and passes them the car. The child can watch, join in or leave the activity. This shows exactly what asking for help leads to."
             },
             {
               "type": "li",
-              "text": "Ask the teacher which words, gestures, signs, pictures or device the child already uses. Use that method rather than adding a new card without advice."
+              "text": "Ask the teacher, family and, where involved, the speech and language therapist which words, gestures, signs, pictures or device the child already uses. Use that established method rather than introducing a new communication card without guidance."
             },
             {
               "type": "li",
-              "text": "Model with your own materials. Never withhold food, necessary help or a valued toy to make the child upset for practice."
+              "text": "Use the adults’ demonstration container and toy. Do not tighten a child’s lid, hide a toy they are using or create frustration to make them ask. Never delay food, care or necessary help for practice."
             },
             {
               "type": "li",
-              "text": "Offer watching, doing it together or a turn. Make it easier or stop if the child becomes uncomfortable. Do not move their hands to make them perform the sign."
+              "text": "Offer watching, doing it together or a turn with the demonstration container. Make it easier or stop if the child becomes uncomfortable. Do not move their hands to make them perform a sign."
             },
             {
               "type": "li",
-              "text": "Try again briefly during enjoyable routines. Describe what worked: “You passed me the box. That showed me you needed help.”"
+              "text": "When a real need for help occurs, respond straight away. You might say, “You passed me your snackbox. I’ll open the lid.” The child does not have to copy a sign or use a picture first."
             },
             {
               "type": "li",
@@ -586,7 +626,7 @@ window.COURSE={
             },
             {
               "type": "li",
-              "text": "Once familiar, try another box or another known adult. Keep support available and bring back reminders when needed."
+              "text": "Once the help request is familiar, show it with another easy-to-open demonstration container or another adult the child knows. Keep support available; do not make the task harder to test the child."
             },
             {
               "type": "p",
@@ -610,7 +650,7 @@ window.COURSE={
             },
             {
               "type": "li",
-              "text": "3–6 years: two puppets want one scoop. Show asking for help or finding another scoop. Invite another ending through words or gestures. Watching is welcome too. Stop if interest fades. Do not require sharing or affection against a child’s wishes."
+              "text": "3–6 years: use two puppets and two toy cars. One puppet is playing with a car; the other asks for that same car. Show the adult helping the second puppet find the spare car. Invite another ending through words or gestures. Children may watch or stop. Do not take a child’s toy or require sharing, touching or affection to perform the story."
             },
             {
               "type": "h",
@@ -630,15 +670,15 @@ window.COURSE={
             },
             {
               "type": "p",
-              "text": "Four-year-old Sofia uses a help card in a calm lesson. At snack, her box will not open. She cries and pushes it away. The card is still in a drawer."
+              "text": "Four-year-old Sofia uses a familiar help card during comfortable play. At snack time, she cannot open the lid of her snackbox, the container holding her food. She cries and pushes the snackbox away. The card is still in a drawer."
             },
             {
               "type": "p",
-              "text": "The adult responds now: “The lid is stuck. I can help.” They do not delay opening it while fetching the card. Later, they model asking for help with their own box. Sofia can watch or try."
+              "text": "The adult responds now: “The lid is stuck. I can help.” They open Sofia’s snackbox straight away so she can eat; they do not wait while fetching the card. Later, during comfortable play, two adults show the help request with their demonstration container and toy car, as described on the previous page. One adult asks and the colleague opens the lid. Sofia can watch or join without pressure."
             },
             {
               "type": "p",
-              "text": "At the next snack, staff put the familiar card within reach and agree who responds. Passing the box or pointing counts too. Show a familiar substitute the routine. Check whether Sofia gets help to eat, not just whether she stops crying."
+              "text": "At the next snack, staff put the familiar help card within Sofia’s reach and agree who will respond. Passing the snackbox or pointing counts too. Show a substitute adult who knows Sofia how to respond. Check whether Sofia gets help to eat and seems comfortable, not just whether she stops crying."
             },
             {
               "type": "h",
@@ -646,7 +686,7 @@ window.COURSE={
             },
             {
               "type": "li",
-              "text": "Say how you would help now. Then demonstrate asking for help with your own box and have a colleague respond."
+              "text": "Say and show how you would help Sofia open her snackbox now. Then use an adults’ demonstration container with an easy-to-open lid and a large toy car to show the familiar help request. Have a colleague open it straight away. Sofia’s food and toys stay available; do not create a difficulty for her to solve."
             },
             {
               "type": "li",
@@ -907,16 +947,16 @@ window.COURSE={
       "why": "Priya can decline touch and still need company. Stop the touch, stay available and keep care and supervision in place."
     },
     {
-      "q": "A child does not want to try a familiar breathing activity. What should you do?",
+      "q": "A four-year-old has previously tried the optional exercise of taking a comfortable breath in and letting it out gently with an adult. Today they shake their head when it is offered. What should you do?",
       "options": [
         "Repeat the instruction until the child does it.",
         "Take away the child’s communication aid.",
-        "Explain that breathing is the only way to calm down.",
-        "Offer another known support, make the task easier and give the child time."
+        "Explain that this breathing exercise is the only way to calm down.",
+        "Stop the exercise offer, reduce sound or pressure, and offer company, space or another familiar support."
       ],
       "answer": 3,
       "critical": true,
-      "why": "A calming activity is an offer. It is not something the child must do before receiving help. Use what fits this child now."
+      "why": "The child is declining an exercise, not ordinary breathing. Accept their “no,” keep care and supervision available, and offer help that suits them now. The exercise is never required before comfort, food or returning to play."
     },
     {
       "q": "A child is at immediate risk of seriously hurting someone. What comes first?",
@@ -967,16 +1007,16 @@ window.COURSE={
       "why": "The end of danger does not mean Ben is ready to discuss or learn. Restore comfort and help him return when ready. An explanation or apology is not a condition for joining again."
     },
     {
-      "q": "Sofia uses a help sign or picture during comfortable play but not at snack. How can staff help her use it at snack too?",
+      "q": "Sofia uses a familiar help sign or picture during comfortable play. At snack time she cannot open her snackbox and pushes it towards an adult. How can staff help now and make the request easier next time?",
       "options": [
         "Repeat the lesson until she uses it alone before trying snack again.",
         "Give her several new help pictures to choose from while upset.",
-        "Help now, put the familiar sign or picture at snack, show its use when helpful and make sure adults respond.",
+        "Open the snackbox now, keep the familiar picture within reach and make sure adults recognise and respond to her signs or gestures.",
         "Keep snack at the teaching table permanently so she never needs to use the sign elsewhere."
       ],
       "answer": 2,
       "critical": false,
-      "why": "A practice lesson and a real snack are different. Keep the familiar picture within reach and an adult ready to help. Respond to another understandable gesture too."
+      "why": "Sofia is already asking through her action. Help her open the snackbox so she can eat. Keep her established communication method available at snack, and show any substitute adult how to respond. Later, adults can demonstrate the help request with a separate toy container; never delay food for practice."
     },
     {
       "q": "A child mainly uses gestures rather than speech. What counts as asking for help?",

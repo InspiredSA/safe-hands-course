@@ -45,7 +45,7 @@
     {
       "q": "Three-year-old Leo covers his ears as chairs scrape and children crowd the tidy-up shelf. He backs away and mostly uses gestures. What would help first?",
       "o": [
-        "Explain a breathing picture while the room stays the same.",
+        "Ask him to copy a gentle breathing exercise while the noise and crowding continue.",
         "Take him to a feelings display to choose a word before helping.",
         "Reduce noise and crowding, stay with him in a quieter spot and use a familiar gesture or object to show one next step."
       ],
@@ -73,14 +73,14 @@
       "why": "Protect people and get the right help before teaching. The safe action depends on the room and current procedures. This course does not teach or authorise holding techniques. Practise the staff conversation, never the dangerous behaviour."
     },
     {
-      "q": "Four-year-old Sofia uses a help card during a calm lesson. At snack, her lid is stuck. She cries and pushes the box away; the card is in a drawer. What should staff do?",
+      "q": "Four-year-old Sofia uses a familiar help card during comfortable play. At snack time she cannot open her snackbox, the container holding her food. She cries and pushes it away; the card is in a drawer. What should staff do?",
       "o": [
-        "Help now, then put the familiar card at snack, show its use during easy practice and make sure adults respond.",
-        "Fetch the card and repeat the lesson before opening the box.",
+        "Open her snackbox now, then keep the familiar card within reach at snack and show adults how to respond.",
+        "Fetch the card and repeat the lesson before opening her snackbox.",
         "Replace it with several new cards and ask which she prefers."
       ],
       "a": 0,
-      "why": "Sofia is already showing she needs help. Open the box without waiting for the right card response. Later, put the card where it is needed and show a substitute adult how to respond. Check whether Sofia can get help and eat her snack."
+      "why": "Sofia is already showing she needs help. Open her snackbox straight away so she can eat. Keep her familiar help card where she needs it and show a substitute adult how to respond. During comfortable play later, adults can demonstrate asking for help with a separate lidded toy container; never create frustration or delay food."
     },
     {
       "q": "Five-year-old Noah moves away during large-group singing. His caregiver says he sings at home. Which opening would help staff and family make a useful plan?",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Agree how adults respond",
-      "text": "Know what happens when a child asks for help or a break. Practise a few words and a pause. Be ready to offer space or another support if touch or a tool is declined. Care must not depend on speaking, eye contact, breathing or looking calm."
+      "text": "Know what happens when a child asks for help or a break. Practise a few words and a pause. Be ready to offer space or another support if touch or an activity is declined. Care must not depend on speaking, eye contact, doing a breathing exercise or looking calm."
     },
     {
       "title": "Know urgent help and reporting routes",
@@ -131,9 +131,9 @@
     "intro": "For adults supporting children from 12 months through age 6. Use fictional examples with a colleague, or say both adult roles aloud. Co-regulation means helping a child through a difficult feeling with calm adult support. This guide supports practice and discussion; completing the online course does not prove practical skill.",
     "instructions": [
       "Read this example first: at tidy-up, Leo covers his ears. One adult agrees to watch the group; another stays nearby. Staff reduce noise and send fewer children to the shelf. The adult shows Leo his familiar basket: “One block here,” then shows the next activity. If he needs a pause, they stay together in the agreed quieter spot.",
-      "Choose Imani’s arrival at 14 months, Priya’s arrival, Leo’s tidy-up, Sofia’s snack or Noah’s singing. Say how the child shows what they need. For example, Imani turns away and pushes the noisy toy aside; the adult stops it and checks care needs.",
+      "Choose a fictional situation: Imani, 14 months, turns away from a noisy musical toy at arrival; Priya, 2, pushes away an unfamiliar adult’s hand; Leo, 3, covers his ears at a crowded tidy-up shelf; Sofia, 4, pushes her unopened snackbox towards the adult while her familiar help card is in a drawer; or Noah, 5, moves away from loud group singing. Say what you see, what the adult will change and what help the child needs now.",
       "Agree who speaks, who watches the group and how to get help. Show your words, a familiar object/picture/sign and one change, such as fewer children at the shelf. Never act out aggression, practise restraint or rehearse handling a child from this course.",
-      "Your partner adds a change: touch is declined, a picture is missing, the quieter seat is occupied or the usual adult is absent. Show another way to help. Anyone can pause the practice. If alone, describe both adults’ actions.",
+      "Your partner adds a change: the child declines touch, the familiar picture is missing, the quieter seat is occupied or the usual adult is absent. Show another way to help and say what you will watch for. For example, if Sofia’s help card is missing, say, “I can help,” and open her snackbox straight away. Anyone can pause the practice. If alone, describe both adults’ actions.",
       "Use the checks below. Name one action that helped and one to improve. With the teacher or relevant lead, agree a safe small change to try and when to review it through supervised practice. Keep real children’s details out of this course and use approved secure records."
     ],
     "criteria": [
@@ -149,8 +149,8 @@
         "area": "2. Offer help the child can use",
         "items": [
           "Says what they notice, uses a few warm words, pauses and gives the child space.",
-          "Accepts the child’s gesture, sign, picture, device or words. Shows the actual help or break that follows.",
-          "Stops an unwanted offer of touch, breathing or a tool and offers another way to help. Care, supervision and adult company remain available."
+          "Accepts the child’s gesture, sign, picture, device or words and provides help. For example, Sofia pushes her unopened snackbox towards the adult; the adult says, “I can help,” and opens the lid. A familiar card supports communication but is not a condition of help.",
+          "Stops an unwanted offer and keeps care, supervision and company available. If a preschool child declines the gentle breathing exercise, stop asking and offer less sound, company or space. The exercise means a comfortable breath in and a slow, gentle breath out, with no forced depth, holding or required count; only offer it during a settled, comfortable moment, and stop for discomfort."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "area": "4. Teach later and check what helped",
         "items": [
           "Offers a supported return without requiring an apology, explanation or repair first. Helps put things right later, when the child is ready.",
-          "Shows one useful action in comfortable play, offers a turn without pressure and puts the familiar support in the real routine with an adult ready to respond.",
+          "Shows asking for help during comfortable play with an adults’ lidded plastic container and a large toy car. One adult uses the familiar help sign or picture; a colleague opens the easy lid immediately. The child can watch, join or stop. Later, keep the familiar support available in the real routine and respond. Never tighten a child’s lid, hide their toy or delay food, care or help.",
           "Keeps facts and guesses separate, names what an adult will change and who will review it, and checks the child’s comfort, communication and enjoyment with the family."
         ]
       }
@@ -257,7 +257,7 @@
         },
         {
           "title": "Offer familiar support",
-          "text": "Offer a known toy, company or space. A child may not want breathing, touch or talking; offer another way to help.",
+          "text": "Offer a familiar toy, company or space. If a preschool child declines the optional exercise described in this module, stop the offer to copy a comfortable breath in and a gentle breath out. Reduce sound or offer another support. They may also decline touch or talking; care stays available.",
           "icon": "choice"
         },
         {
@@ -325,7 +325,7 @@
       "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
       "durationLabel": "6 minutes 26 seconds; optional adult viewing",
       "summary": "This episode is made for children aged 3–5; the optional course task is for adults. Main message: big feelings are allowed and a trusted adult can help. Try familiar ways to feel more comfortable during easy moments. Asking through a gesture or device counts, and no calming technique is compulsory.",
-      "prompt": "Choose one activity shown and say how you would offer it. Then explain what you would do if the child declined, and when you could practise later without pressure. Do not require breathing, speech or touch.",
+      "prompt": "Choose one activity shown and say how you would offer it without pressure during comfortable play. Explain what you would do if the child declined. If you choose a breathing activity, use Module 4’s gentle example: a comfortable breath in and a gentle breath out, with no forced depth or holding. Stop for discomfort or refusal and keep care available. Speech and touch are optional too.",
       "accessibility": "The official page links free resources for educators and caregivers. You can use this course summary for the adult task without watching. Playback and captions were not independently tested.",
       "verifiedHosting": "Official Child Mind Institute episode page, linked YouTube player and displayed 6:26 duration verified on 6 October 2026. Companion educator materials were read; playback was not independently tested.",
       "moduleId": "m5",
@@ -695,7 +695,7 @@
       "jurisdiction": "United States",
       "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
       "claim": "A branded example of adult-supported calming and teaching a space’s use before distress. Informs reflection on adult availability, not a mandatory sequence.",
-      "accessNote": "Official page or linked document checked on 6 October 2026. Public page read; video playback not tested. Safe Place and associated steps are branded materials, not independent efficacy evidence. No copied characters, wording, required breathing or touch."
+      "accessNote": "Official page or linked document checked on 6 October 2026. Public page read; video playback not tested. Safe Place and associated steps are branded materials, not independent efficacy evidence. No copied characters, wording, required breathing exercises or touch."
     },
     {
       "id": "cd-feelings",
@@ -714,6 +714,24 @@
       "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
       "claim": "Reports an association between implementation fidelity and spring executive-function scores across 45 participating classrooms in 2017–2018, adjusting for measured covariates.",
       "accessNote": "Officially linked 23-page report checked on 6 October 2026. It describes a local contract with Learn to Earn Dayton; linked by Conscious Discipline does not mean commissioned by the programme. This observational evaluation is not a randomised test of each practice, a trial of this course or proof of a brain mechanism."
+    },
+    {
+      "id": "asha-aac",
+      "title": "Augmentative and Alternative Communication (AAC)",
+      "publisher": "American Speech-Language-Hearing Association / National Joint Committee",
+      "jurisdiction": "United States",
+      "url": "https://www.asha.org/njc/aac/",
+      "claim": "Explains AAC as multiple ways to supplement or replace speech, including gestures, signs, pictures and speech-generating devices. Supports choosing communication methods with the person, family and professional team.",
+      "accessNote": "Official page read on 7 October 2026. Supports the AAC definition and individual communication guidance; it does not validate the course’s original classroom scripts."
+    },
+    {
+      "id": "nhs-gentle-breathing",
+      "title": "Breathing exercises for stress",
+      "publisher": "NHS",
+      "jurisdiction": "United Kingdom",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "claim": "General self-help guidance supports a comfortable position and gentle, regular breathing without forcing depth. The course uses an original brief, optional classroom example and makes no claim that it treats distress or works for every child.",
+      "accessNote": "Official page read on 7 October 2026. This general guidance is not a validated preschool protocol. Its longer duration and counting suggestions are not prescribed in this course."
     }
   ],
   "moduleSources": {
@@ -739,13 +757,15 @@
       "rcn-toddler-feelings",
       "cmi-coregulation",
       "ncpmi-routine-plan",
-      "ncpmi-teaching"
+      "ncpmi-teaching",
+      "asha-aac"
     ],
     "4": [
       "acecqa-discipline",
       "dfe-mental-health",
       "safeguarding",
-      "rcn-toddler-feelings"
+      "rcn-toddler-feelings",
+      "nhs-gentle-breathing"
     ],
     "5": [
       "cmi-skill-practice",
@@ -755,7 +775,8 @@
       "harvard-serve",
       "ncpmi-teaching",
       "rcn-preschool-play",
-      "cd-feelings"
+      "cd-feelings",
+      "asha-aac"
     ],
     "6": [
       "ncpmi-routine-plan",

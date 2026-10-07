@@ -45,7 +45,7 @@
     {
       "q": "Leo, trois ans, se bouche les oreilles quand les chaises raclent le sol et que les enfants se pressent devant l’étagère de rangement. Il recule et utilise surtout des gestes. Qu’est-ce qui l’aiderait d’abord ?",
       "o": [
-        "Expliquer une image de respiration sans rien changer dans la salle.",
+        "Lui demander de copier un exercice de respiration douce alors que le bruit et la foule continuent.",
         "L’emmener devant un affichage d’émotions pour choisir un mot avant de l’aider.",
         "Réduire le bruit et le nombre d’enfants autour, rester avec lui dans un endroit plus calme et utiliser un geste ou un objet connus pour montrer une étape suivante."
       ],
@@ -73,14 +73,14 @@
       "why": "Protégez les personnes et demandez la bonne aide avant d’enseigner. L’action sûre dépend de la salle et des règles actuelles. Cette formation n’enseigne ni n’autorise de techniques d’immobilisation. Entraînez-vous à la conversation entre adultes, jamais au comportement dangereux."
     },
     {
-      "q": "Sofia, quatre ans, utilise une carte d’aide pendant une leçon calme. Au goûter, son couvercle est coincé. Elle pleure et repousse la boîte ; la carte est dans un tiroir. Que doit faire le personnel ?",
+      "q": "Sofia, quatre ans, utilise une carte d’aide connue pendant un jeu agréable. Au goûter, elle n’arrive pas à ouvrir sa boîte à goûter, qui contient sa nourriture. Elle pleure et la repousse ; la carte est dans un tiroir. Que doit faire le personnel ?",
       "o": [
-        "Aider maintenant, puis mettre la carte connue au goûter, montrer son utilisation dans un entraînement facile et veiller à la réponse des adultes.",
-        "Aller chercher la carte et répéter la leçon avant d’ouvrir la boîte.",
+        "Ouvrir sa boîte à goûter maintenant, puis garder la carte connue à portée de main au goûter et montrer aux adultes comment répondre.",
+        "Aller chercher la carte et répéter la leçon avant d’ouvrir sa boîte à goûter.",
         "La remplacer par plusieurs nouvelles cartes et demander laquelle elle préfère."
       ],
       "a": 0,
-      "why": "Sofia montre déjà qu’elle a besoin d’aide. Ouvrez la boîte sans attendre une bonne réponse avec la carte. Plus tard, mettez la carte là où elle est nécessaire et montrez à un adulte remplaçant comment répondre. Vérifiez si Sofia peut recevoir de l’aide et manger son goûter."
+      "why": "Sofia montre déjà qu’elle a besoin d’aide. Ouvrez tout de suite sa boîte à goûter pour qu’elle puisse manger. Gardez sa carte d’aide connue là où elle en a besoin et montrez à un adulte remplaçant comment répondre. Plus tard, pendant un jeu agréable, les adultes peuvent montrer comment demander de l’aide avec une autre boîte à couvercle contenant un jouet. Ne créez jamais de frustration et ne retardez jamais la nourriture."
     },
     {
       "q": "Noah, cinq ans, s’éloigne quand le grand groupe chante. La personne qui s’occupe de lui dit qu’il chante à la maison. Quelle phrase d’ouverture aiderait le personnel et la famille à faire un plan utile ?",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Prévoir ensemble la réponse des adultes",
-      "text": "Sachez ce qui se passe quand l’enfant demande de l’aide ou une pause. Essayez quelques mots, puis attendez. Soyez prêt à donner de l’espace ou à proposer une autre aide s’il refuse le contact ou un outil. Les soins ne doivent dépendre ni de paroles, ni du regard dans les yeux, ni de respiration, ni d’une apparence calme."
+      "text": "Sachez ce qui se passe quand l’enfant demande de l’aide ou une pause. Essayez quelques mots, puis attendez. Soyez prêt à donner de l’espace ou à proposer une autre aide s’il refuse le contact ou une activité. Les soins ne doivent dépendre ni de paroles, ni du regard dans les yeux, ni d’un exercice de respiration, ni d’une apparence calme."
     },
     {
       "title": "Connaître les contacts d’urgence et de signalement",
@@ -131,9 +131,9 @@
     "intro": "Pour les adultes qui accompagnent les enfants de 12 mois à 6 ans. Utilisez des exemples inventés avec un collègue, ou dites les deux rôles à voix haute. La corégulation, c’est aider un enfant à traverser une émotion difficile grâce au soutien calme d’un adulte. Ce guide aide à s’entraîner et à discuter ; terminer la formation en ligne ne prouve pas une compétence pratique.",
     "instructions": [
       "Lisez d’abord cet exemple : au rangement, Leo se bouche les oreilles. Un adulte accepte de surveiller le groupe ; un autre reste près de lui. Le personnel réduit le bruit et envoie moins d’enfants à l’étagère. L’adulte montre à Leo son panier connu : « Un cube ici », puis l’activité suivante. S’il a besoin d’une pause, ils restent ensemble dans l’endroit plus calme prévu.",
-      "Choisissez l’arrivée d’Imani à 14 mois, l’arrivée de Priya, le rangement de Leo, le goûter de Sofia ou le chant de Noah. Dites comment l’enfant montre son besoin. Par exemple, Imani se détourne et repousse le jouet bruyant ; l’adulte l’arrête et vérifie les besoins de soin.",
+      "Choisissez une situation inventée : Imani, 14 mois, se détourne d’un jouet musical bruyant à l’arrivée ; Priya, 2 ans, repousse la main d’un adulte qu’elle connaît peu ; Leo, 3 ans, se bouche les oreilles près d’une étagère encombrée au rangement ; Sofia, 4 ans, pousse sa boîte à goûter fermée vers l’adulte alors que sa carte d’aide connue est dans un tiroir ; ou Noah, 5 ans, s’éloigne du groupe qui chante fort. Dites ce que vous voyez, ce que l’adulte changera et de quelle aide l’enfant a besoin maintenant.",
       "Prévoyez qui parle, qui surveille le groupe et comment demander de l’aide. Montrez vos mots, un objet, une image ou un signe connus et un changement, comme moins d’enfants à l’étagère. Ne jouez jamais une agression, n’essayez pas de contention et ne vous entraînez pas à porter ou déplacer un enfant à partir de cette formation.",
-      "Votre partenaire ajoute un changement : l’enfant refuse le contact, une image manque, le siège calme est occupé ou l’adulte habituel est absent. Montrez une autre façon d’aider. Chacun peut faire une pause. Si vous êtes seul, décrivez les actions des deux adultes.",
+      "Votre partenaire ajoute un changement : l’enfant refuse le contact, l’image connue manque, le siège au calme est occupé ou l’adulte habituel est absent. Montrez une autre aide et dites ce que vous observerez. Par exemple, si la carte d’aide de Sofia manque, dites « Je peux t’aider » et ouvrez tout de suite sa boîte à goûter. Chacun peut interrompre l’exercice. Si vous êtes seul, décrivez les actions des deux adultes.",
       "Utilisez les points ci-dessous. Nommez une action qui a aidé et une à améliorer. Avec l’enseignant ou le bon responsable, prévoyez un petit changement sûr à essayer et quand le revoir lors d’un entraînement supervisé. Gardez les détails sur les vrais enfants hors de cette formation et utilisez les dossiers sécurisés autorisés."
     ],
     "criteria": [
@@ -149,8 +149,8 @@
         "area": "2. Proposer une aide que l’enfant peut utiliser",
         "items": [
           "Dit ce qu’il remarque, utilise quelques mots bienveillants, attend et laisse de l’espace.",
-          "Accepte le geste, le signe, l’image, l’appareil ou les mots de l’enfant. Montre l’aide ou la pause qui suit réellement.",
-          "Arrête une proposition de contact, de respiration ou d’outil que l’enfant refuse et propose une autre aide. Les soins, la surveillance et la compagnie d’un adulte restent disponibles."
+          "Accepte le geste, le signe, l’image, l’appareil ou les mots de l’enfant et apporte de l’aide. Par exemple, Sofia pousse sa boîte à goûter fermée vers l’adulte ; il dit « Je peux t’aider » et ouvre le couvercle. Une carte connue aide à communiquer, mais l’enfant n’a pas à l’utiliser pour recevoir de l’aide.",
+          "Arrête une proposition que l’enfant refuse et maintient les soins, la surveillance et sa présence. Si un enfant de maternelle refuse l’exercice de respiration douce, arrête de le proposer et offre moins de bruit, de la compagnie ou de l’espace. L’exercice consiste à inspirer sans effort puis à souffler lentement et doucement. Il ne faut ni forcer la profondeur de la respiration, ni retenir l’air, ni continuer jusqu’à un nombre imposé. Propose cet exercice uniquement pendant un moment calme où l’enfant est à l’aise, et arrête au moindre inconfort."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "area": "4. Apprendre plus tard et vérifier ce qui a aidé",
         "items": [
           "Propose un retour avec de l’aide sans exiger d’abord d’excuses, d’explication ou de réparation. Aide à réparer plus tard, quand l’enfant est prêt.",
-          "Montre une action utile dans un jeu agréable, propose un tour sans pression et place l’aide connue dans la vraie activité, avec un adulte prêt à répondre.",
+          "Montre une demande d’aide pendant un jeu agréable, avec une boîte en plastique à couvercle réservée aux adultes et une grande voiture jouet. Un adulte utilise le signe ou l’image d’aide connus ; un collègue ouvre aussitôt le couvercle, qui doit être facile à ouvrir. L’enfant peut regarder, participer ou arrêter. Plus tard, garde le moyen connu disponible dans le vrai moment de la journée et répond aux demandes. Ne serre jamais le couvercle de la boîte de l’enfant, ne cache jamais son jouet et ne retarde jamais la nourriture, les soins ou l’aide.",
           "Sépare les faits des suppositions, dit ce que l’adulte changera et qui fera le point, et vérifie avec la famille le confort, la communication et le plaisir de l’enfant."
         ]
       }
@@ -257,7 +257,7 @@
         },
         {
           "title": "Proposer une aide connue",
-          "text": "Proposez un jouet connu, votre présence ou de l’espace. L’enfant peut ne vouloir ni respiration, ni contact, ni discussion ; proposez une autre aide.",
+          "text": "Proposez un jouet connu, votre présence ou de l’espace. Si un enfant de maternelle refuse l’exercice facultatif décrit dans ce module, arrêtez de lui proposer de copier une inspiration sans effort suivie d’une expiration douce. Réduisez le bruit ou proposez une autre aide. Il peut aussi refuser le contact ou la discussion ; les soins restent disponibles.",
           "icon": "choice"
         },
         {
@@ -325,7 +325,7 @@
       "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
       "durationLabel": "6 minutes 26 secondes ; visionnage facultatif pour les adultes",
       "summary": "Cet épisode est destiné aux enfants de 3–5 ans ; l’activité facultative de la formation s’adresse aux adultes. L’idée principale : les émotions fortes sont permises et un adulte de confiance peut aider. Explorez des façons familières de se sentir mieux pendant des moments faciles. Demander de l’aide avec un geste ou un appareil de communication compte aussi. Aucune technique d’apaisement n’est obligatoire.",
-      "prompt": "Choisissez une activité montrée dans la vidéo et expliquez comment vous la proposeriez. Dites ensuite ce que vous feriez si l’enfant refusait et à quel moment vous pourriez vous entraîner plus tard, sans pression. N’imposez ni exercice de respiration, ni parole, ni contact physique.",
+      "prompt": "Choisissez une activité montrée dans la vidéo et dites comment vous la proposeriez sans pression, pendant un jeu agréable. Expliquez ce que vous feriez si l’enfant refusait. Si vous choisissez un exercice de respiration, utilisez l’exemple doux du module 4 : inspirer sans effort, puis souffler doucement, sans forcer la profondeur de la respiration ni retenir l’air. Arrêtez si l’enfant refuse ou est mal à l’aise ; les soins restent disponibles. Parler et accepter le contact sont aussi facultatifs.",
       "accessibility": "La page officielle donne accès à des ressources gratuites pour les professionnels et les adultes qui accompagnent les enfants. Ce résumé permet de faire l’activité pour adultes sans regarder la vidéo. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement.",
       "verifiedHosting": "La page officielle de l’épisode du Child Mind Institute, le lecteur YouTube associé et la durée affichée de 6:26 ont été vérifiés le 6 octobre 2026. Les documents pour les professionnels ont été lus ; le fonctionnement de la vidéo n’a pas été testé directement.",
       "moduleId": "m5",
@@ -714,6 +714,24 @@
       "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
       "claim": "Dans 45 classes participantes en 2017–2018, le rapport observe un lien entre l’application du programme comme prévu et les résultats du printemps pour les capacités à se concentrer, à garder une consigne en tête et à adapter ses actions. L’analyse tient compte des autres facteurs mesurés.",
       "accessNote": "Le rapport de 23 pages, accessible par un lien officiel, a été vérifié le 6 octobre 2026. Il décrit un contrat local avec Learn to Earn Dayton. Le fait que Conscious Discipline y renvoie ne signifie pas que le programme l’a commandé. L’étude observe un lien : elle ne teste pas chaque pratique en répartissant les classes au hasard. Elle n’évalue pas cette formation et ne prouve pas un mécanisme dans le cerveau."
+    },
+    {
+      "id": "asha-aac",
+      "title": "Augmentative and Alternative Communication (AAC)",
+      "publisher": "American Speech-Language-Hearing Association / National Joint Committee",
+      "jurisdiction": "États-Unis",
+      "url": "https://www.asha.org/njc/aac/",
+      "claim": "Explique les différentes façons de compléter ou de remplacer la parole par la communication alternative et améliorée (CAA, appelée AAC en anglais), notamment avec des gestes, des signes, des images et des appareils qui parlent. Encourage à choisir les moyens de communication avec la personne, sa famille et les professionnels qui l’accompagnent.",
+      "accessNote": "Page officielle lue le 7 octobre 2026. Sert à définir la CAA et à expliquer comment adapter les moyens de communication à chaque personne. Elle ne valide pas les phrases originales proposées dans cette formation."
+    },
+    {
+      "id": "nhs-gentle-breathing",
+      "title": "Breathing exercises for stress",
+      "publisher": "NHS",
+      "jurisdiction": "Royaume-Uni",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "claim": "Conseils généraux pour soi-même : s’installer confortablement et respirer doucement, régulièrement, sans forcer la profondeur de la respiration. La formation propose son propre exemple, bref et facultatif, pour la classe. Elle n’affirme pas que cet exercice traite la détresse ni qu’il convient à tous les enfants.",
+      "accessNote": "Page officielle lue le 7 octobre 2026. Ces conseils généraux ne sont pas une méthode validée pour les enfants de maternelle. La formation ne prescrit ni la durée plus longue ni les façons de compter proposées par cette source."
     }
   ],
   "moduleSources": {
@@ -739,13 +757,15 @@
       "rcn-toddler-feelings",
       "cmi-coregulation",
       "ncpmi-routine-plan",
-      "ncpmi-teaching"
+      "ncpmi-teaching",
+      "asha-aac"
     ],
     "4": [
       "acecqa-discipline",
       "dfe-mental-health",
       "safeguarding",
-      "rcn-toddler-feelings"
+      "rcn-toddler-feelings",
+      "nhs-gentle-breathing"
     ],
     "5": [
       "cmi-skill-practice",
@@ -755,7 +775,8 @@
       "harvard-serve",
       "ncpmi-teaching",
       "rcn-preschool-play",
-      "cd-feelings"
+      "cd-feelings",
+      "asha-aac"
     ],
     "6": [
       "ncpmi-routine-plan",

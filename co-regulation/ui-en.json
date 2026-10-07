@@ -11,7 +11,6 @@
   "sideMeta": "About 75 minutes · 6 modules",
   "progress": "Your progress",
   "navLabel": "Course navigation",
-  "contactsNav": "Safeguarding contacts",
   "home": "Course overview",
   "assessment": "Final quiz",
   "results": "Results & certificate",
@@ -127,13 +126,6 @@
   "criticalQuestion": "Key safety question",
   "yourAnswer": "Your answer:",
   "bestAnswer": "Best choice:",
-  "contactRoutes": "School reporting routes",
-  "knowContact": "Know who to contact",
-  "contactLead": "Check who you should ask for everyday help, a child-safety concern or an emergency. Know the backup person too.",
-  "noIncident": "Do not report an incident through this course",
-  "contactNotice": "For a real concern, use your school’s child-safety reporting steps. For immediate danger, get urgent help through your school’s emergency arrangements. Do not report it in this course.",
-  "toConfirm": "To be confirmed",
-  "contactPlaceholders": "Contact placeholders are intentional. No unverified names, email addresses or telephone numbers have been added.",
   "storageError": "This browser cannot save progress. Keep this page open or download your review record.",
   "chooseFirst": "Choose a response first.",
   "draftFinal": "Draft saved · save your final response below",
@@ -213,32 +205,6 @@
   "emailGreeting": "Dear Head,",
   "emailIntro": "Please find my Helping Young Children Regulate – Level 1 results below. My written tasks were completed but not marked. The certificate records online learning only. I will follow the school’s rules and each child’s agreed plan when using what I have learned.",
   "emailReady": "Prepared email ready. It has NOT been sent. Open it in your email application, check the recipient and send. If your app cannot edit .eml files, attach the full results and certificate to a new email. Tap the link if the download did not start: ",
-  "contactCards": [
-    [
-      "Class teacher / ELS lead",
-      "Ask about everyday routines, what helps each child, who watches the group and how to speak with families."
-    ],
-    [
-      "Learning-support / inclusion lead",
-      "This person helps arrange extra support with learning, communication or other needs. Ask the teacher who to contact and what information to share."
-    ],
-    [
-      "Child-safety / safeguarding lead",
-      "Tell this person if you think a child has been harmed, is not getting needed care, tells you about harm, or an adult’s behaviour worries you."
-    ],
-    [
-      "Backup reporting person",
-      "Know who to tell if the usual lead is away, the concern is about that person, or the concern has not been acted on. Use the other reporting route named in school policy."
-    ],
-    [
-      "Head / staff support",
-      "Ask for help, a safe handover or further training when you need it. Concerns about an adult’s conduct follow the school’s reporting steps."
-    ],
-    [
-      "Emergency / first-aid help",
-      "Know how to call trained help straight away, who watches the other children and how to get emergency medical help."
-    ]
-  ],
   "courseLevel": "Level 1",
   "translationReviewTitle": "Translation awaiting review",
   "translationReviewNotice": "This draft translation needs review by a fluent speaker with early-years and safeguarding expertise. If wording is unclear, check the English source and ask your school lead before applying it.",
@@ -368,5 +334,7 @@
   "evidenceNotesTitle": "About the guidance",
   "resourceUse": "How to use it",
   "resourceAccess": "Before you use it",
-  "blankWriting": "Space to write after printing"
+  "blankWriting": "Space to write after printing",
+  "response4": "Use Lina’s story and the four questions above. Explain your first safety step, what you would say, how you would support her return, and what you would change or practise later.",
+  "response4Title": "Your answer about Lina"
 }

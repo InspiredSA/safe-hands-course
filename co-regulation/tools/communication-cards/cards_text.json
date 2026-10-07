@@ -1,0 +1,167 @@
+{
+  "version": "2026-10-07",
+  "card_order": [
+    "help",
+    "break",
+    "drink",
+    "toilet",
+    "hurt",
+    "stop",
+    "more",
+    "finished"
+  ],
+  "sources": [
+    {
+      "label": "ASHA: Augmentative and Alternative Communication",
+      "url": "https://www.asha.org/Practice-Portal/Professional-Issues/Augmentative-and-Alternative-Communication/"
+    },
+    {
+      "label": "NCPMI: Tips and Ideas for Making Visuals",
+      "url": "https://challengingbehavior.org/docs/tips_for_visuals.pdf"
+    }
+  ],
+  "en": {
+    "language": "English",
+    "filename": "communication-cards-en.pdf",
+    "title": "Communication cards",
+    "eyebrow": "ELS  |  CO-REGULATION",
+    "subtitle": "For school adults · Children aged 12 months and over",
+    "aac_heading": "What does AAC mean?",
+    "aac_text": "AAC means augmentative and alternative communication: gestures, pictures, signs or devices used alongside speech or instead of speech. These cards are one possible way to support a child's communication.",
+    "sections": [
+      {
+        "title": "Start with what the child already uses",
+        "text": "Ask the teacher, family and speech and language therapist (where involved) about the child's existing words, symbols, languages and way of accessing them. Match these. A familiar photo or object may be clearer than a drawing. These optional examples are not universal symbols or an individual AAC prescription."
+      },
+      {
+        "title": "Make communication available",
+        "text": "Keep the child's established cards and communication device available. Never replace or remove them with this pack. Show a relevant card and say the familiar word; allow time without testing or demanding a response. Notice and respond to looks, gestures, sounds and speech too. Never require a card before providing care, comfort, food, a drink or help."
+      },
+      {
+        "title": "Respond to the message",
+        "text": "A break means a pause with an adult available, following school supervision arrangements. It does not mean leaving alone. Acknowledge Stop and Finished, and explain any immediate safety limit simply. If the child indicates pain or seems unwell, attend to their needs and follow school health procedures; do not wait for a card."
+      },
+      {
+        "title": "Print and make it familiar",
+        "text": "Print A4 portrait, single-sided, at 100% / Actual size. An adult cuts and checks sturdy, smooth-edged cards. For younger children, use securely mounted or larger cards; avoid small loose pieces and cords. Page 2: eight messages. Page 3: optional Nappy and seven blanks. Add a familiar photo or drawing and word. Agree its meaning with the teacher and family; write it on the back, not incident details. Choose the toileting card that fits the child's routine."
+      }
+    ],
+    "translation_note": "",
+    "sources_heading": "Guidance checked 7 October 2026",
+    "art_note": "Original illustrations and templates: schools may print, copy and adapt for educational use. This permission excludes the Inspired logo. These are not a standardized symbol system.",
+    "cards_title": "Eight starter messages",
+    "cards_instruction": "Adult preparation: cut on the outer outlines. Match the child's existing communication.",
+    "custom_title": "Make it familiar",
+    "custom_instruction": "Optional Nappy card + 7 blanks. Add a familiar photo / drawing and word; agree the meaning.",
+    "photo_placeholder": "Photo / drawing",
+    "word_placeholder": "Word",
+    "footer": "ELS · Communication support · A4 / 100%",
+    "labels": {
+      "help": "Help",
+      "break": "Break",
+      "drink": "Drink",
+      "toilet": "Toilet",
+      "hurt": "Hurt",
+      "stop": "Stop",
+      "more": "More",
+      "finished": "Finished",
+      "nappy": "Nappy"
+    }
+  },
+  "fr": {
+    "language": "Français",
+    "filename": "communication-cards-fr.pdf",
+    "title": "Cartes de communication",
+    "eyebrow": "ELS  |  CO-RÉGULATION",
+    "subtitle": "Pour les adultes à l'école · Enfants de 12 mois et plus",
+    "aac_heading": "Que signifie AAC ?",
+    "aac_text": "AAC signifie en anglais « augmentative and alternative communication », soit « communication alternative et améliorée » (CAA) : gestes, images, signes ou appareils qui complètent ou remplacent la parole. Ces cartes en sont des exemples possibles.",
+    "sections": [
+      {
+        "title": "Partir de ce que l'enfant utilise déjà",
+        "text": "Demandez à l'enseignant, à la famille et à l'orthophoniste (le professionnel qui aide à communiquer), s'il y en a un, quels mots, symboles et langues l'enfant utilise, et comment il s'en sert. Gardez ces moyens connus. Une photo ou un objet familier peut être plus clair. Ces exemples facultatifs ne sont ni universels ni un système de communication choisi pour cet enfant."
+      },
+      {
+        "title": "Garder la communication accessible",
+        "text": "Laissez les cartes et l'appareil de communication habituels à disposition. Ce support ne doit jamais les remplacer ni servir à les retirer. Montrez une carte pertinente et dites le mot familier ; laissez du temps, sans tester ni exiger de réponse. Répondez aussi aux regards, gestes, sons et paroles. N'exigez jamais une carte avant de donner des soins, du réconfort, à manger, à boire ou de l'aide."
+      },
+      {
+        "title": "Répondre au message",
+        "text": "Une pause se fait avec un adulte disponible, selon les règles de surveillance de l'école. L'enfant ne part pas seul. Accueillez Stop et Fini ; expliquez simplement toute limite de sécurité immédiate. En cas de douleur ou de malaise, répondez aux besoins et suivez les procédures de santé de l'école, sans attendre une carte."
+      },
+      {
+        "title": "Imprimer et personnaliser",
+        "text": "Imprimez en A4 portrait, recto seul, à 100 % / Taille réelle. Un adulte découpe les cartes et vérifie qu'elles sont solides, avec des bords lisses. Pour les plus jeunes : cartes bien fixées ou plus grandes, sans petites pièces détachées ni cordons. Page 2 : huit messages. Page 3 : Couche facultative et sept cartes vierges. Ajoutez une image et un mot familiers. Convenez du sens avec la famille et l'enseignant ; notez-le au dos, sans détails d'incidents. Adaptez la carte Toilettes aux habitudes de l'enfant."
+      }
+    ],
+    "translation_note": "Traduction de travail : faire vérifier les mots et leur sens par une personne maîtrisant le français local et par l'équipe de l'enfant avant utilisation.",
+    "sources_heading": "Repères vérifiés le 7 octobre 2026",
+    "art_note": "Illustrations et modèles originaux : les écoles peuvent les imprimer, copier et adapter à des fins éducatives ; logo Inspired exclu. Ce n'est pas un système de symboles standardisé.",
+    "cards_title": "Huit premiers messages",
+    "cards_instruction": "Préparation adulte : découper les contours. Respecter la communication habituelle de l'enfant.",
+    "custom_title": "Personnaliser les cartes",
+    "custom_instruction": "Carte Couche facultative + 7 cartes vierges. Ajouter une image et un mot familiers ; convenir du sens.",
+    "photo_placeholder": "Photo / dessin",
+    "word_placeholder": "Mot",
+    "footer": "ELS · Soutien à la communication · A4 / 100 %",
+    "labels": {
+      "help": "Aide-moi",
+      "break": "Pause",
+      "drink": "Boire",
+      "toilet": "Toilettes",
+      "hurt": "J'ai mal",
+      "stop": "Stop",
+      "more": "Encore",
+      "finished": "Fini",
+      "nappy": "Couche"
+    }
+  },
+  "mfe": {
+    "language": "Kreol Morisien",
+    "filename": "communication-cards-mfe.pdf",
+    "title": "Kart pou kominike",
+    "eyebrow": "ELS  |  KO-REGILASION",
+    "subtitle": "Pou bann adilt dan lekol · Zanfan 12 mwa ek plis",
+    "aac_heading": "Ki vedir AAC ?",
+    "aac_text": "AAC vedir « augmentative and alternative communication » an angle : bann zes, zimaz, sign ouswa laparey ki ed enn dimounn kominike ansam avek laparol, ouswa dan plas laparol. Sa bann kart-la enn fason posib pou ed enn zanfan kominike.",
+    "sections": [
+      {
+        "title": "Koumans avek seki zanfan deza servi",
+        "text": "Demann ansegnan-la, fami-la ek, si ena enn ki swiv zanfan-la, enn spesialis ki ed li avek laparol ek langaz, ki bann mo, sinbol ek lang zanfan servi, ek kouma li servi zot. Gard sa mem fason-la. Enn foto ouswa enn lobze ki li kone kapav pli kler ki enn desin. Sa bann lexanp-la opsionel : zot pa iniversel ni enn sistem kominikasion ki finn adapte pou enn zanfan presi."
+      },
+      {
+        "title": "Gard kominikasion disponib",
+        "text": "Touletan les zanfan gagn akse avek so bann kart ek so laparey kominikasion abitie. Pa ranplas ni retir zot avek sa pake-la. Montre enn kart ki al avek sitiasion-la, dir mo ki li kone, ek les li letan san teste li ni exiz enn repons. Reponn osi so regar, zes, son ek laparol. Pa exiz enn kart avan donn swen, rekonfor, manze, bwar ouswa led."
+      },
+      {
+        "title": "Reponn mesaz-la",
+        "text": "Enn poz vedir enn moman pou arete avek enn adilt disponib, dapre reg lekol pou sirvey zanfan. Li pa vedir zanfan ale tousel. Rekonet Aret ek Fini ; explik sinpleman si ena enn limit pou sekirite imedia. Si zanfan gagn mal ouswa paret malad, okip so bezwen ek swiv bann letap lasante lekol ; pa atann enn kart."
+      },
+      {
+        "title": "Inprim ek adapte",
+        "text": "Inprim A4 an pozision portrait, enn sel kote, 100 % / Actual size. Enn adilt koup ek verifye bann kart solid avek bor lis. Pou bann pli tipti : kart bien fixe ouswa pli gran, san ti bout detase ni lakord. Paz 2 : wit mesaz. Paz 3 : Kous, opsionel, ek set kart vid. Azout enn zimaz ki zanfan kone ek enn mo. Met dakor avek fami ek profeser lor sans-la ; ekrir li deryer, pa detay insidan. Adapte kart twalet ar so labitid."
+      }
+    ],
+    "translation_note": "Tradiksion travay : avan servi, fer enn dimounn ki bien konn Kreol Morisien ek lekip zanfan verifye bann mo ek zot sans.",
+    "sources_heading": "Referans verifye le 7 oktob 2026",
+    "art_note": "Bann desin ek model orizinal : lekol kapav inprim, kopie ek adapte zot pou ledikasion ; sa pa inklir logo Inspired. Sa pa enn sistem sinbol standar.",
+    "cards_title": "Wit premie mesaz",
+    "cards_instruction": "Preparasion par enn adilt : koup lor kontour. Gard fason kominike ki zanfan deza servi.",
+    "custom_title": "Adapte pou zanfan",
+    "custom_instruction": "Kart Kous opsionel + 7 kart vid. Azout enn zimaz ek enn mo ki li kone ; met dakor lor sans-la.",
+    "photo_placeholder": "Foto / desin",
+    "word_placeholder": "Mo",
+    "footer": "ELS · Soutien pou kominikasion · A4 / 100 %",
+    "labels": {
+      "help": "Ed mwa",
+      "break": "Poz",
+      "drink": "Bwar",
+      "toilet": "Twalet",
+      "hurt": "Mo gagn mal",
+      "stop": "Aret",
+      "more": "Ankor",
+      "finished": "Fini",
+      "nappy": "Kous"
+    }
+  }
+}

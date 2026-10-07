@@ -46,7 +46,7 @@ window.COURSE_EXTRAS={
       {
         "q": "Three-year-old Leo covers his ears as chairs scrape and children crowd the tidy-up shelf. He backs away and mostly uses gestures. What would help first?",
         "o": [
-          "Explain a breathing picture while the room stays the same.",
+          "Ask him to copy a gentle breathing exercise while the noise and crowding continue.",
           "Take him to a feelings display to choose a word before helping.",
           "Reduce noise and crowding, stay with him in a quieter spot and use a familiar gesture or object to show one next step."
         ],
@@ -74,14 +74,14 @@ window.COURSE_EXTRAS={
         "why": "Protect people and get the right help before teaching. The safe action depends on the room and current procedures. This course does not teach or authorise holding techniques. Practise the staff conversation, never the dangerous behaviour."
       },
       {
-        "q": "Four-year-old Sofia uses a help card during a calm lesson. At snack, her lid is stuck. She cries and pushes the box away; the card is in a drawer. What should staff do?",
+        "q": "Four-year-old Sofia uses a familiar help card during comfortable play. At snack time she cannot open her snackbox, the container holding her food. She cries and pushes it away; the card is in a drawer. What should staff do?",
         "o": [
-          "Help now, then put the familiar card at snack, show its use during easy practice and make sure adults respond.",
-          "Fetch the card and repeat the lesson before opening the box.",
+          "Open her snackbox now, then keep the familiar card within reach at snack and show adults how to respond.",
+          "Fetch the card and repeat the lesson before opening her snackbox.",
           "Replace it with several new cards and ask which she prefers."
         ],
         "a": 0,
-        "why": "Sofia is already showing she needs help. Open the box without waiting for the right card response. Later, put the card where it is needed and show a substitute adult how to respond. Check whether Sofia can get help and eat her snack."
+        "why": "Sofia is already showing she needs help. Open her snackbox straight away so she can eat. Keep her familiar help card where she needs it and show a substitute adult how to respond. During comfortable play later, adults can demonstrate asking for help with a separate lidded toy container; never create frustration or delay food."
       },
       {
         "q": "Five-year-old Noah moves away during large-group singing. His caregiver says he sings at home. Which opening would help staff and family make a useful plan?",
@@ -116,7 +116,7 @@ window.COURSE_EXTRAS={
       },
       {
         "title": "Agree how adults respond",
-        "text": "Know what happens when a child asks for help or a break. Practise a few words and a pause. Be ready to offer space or another support if touch or a tool is declined. Care must not depend on speaking, eye contact, breathing or looking calm."
+        "text": "Know what happens when a child asks for help or a break. Practise a few words and a pause. Be ready to offer space or another support if touch or an activity is declined. Care must not depend on speaking, eye contact, doing a breathing exercise or looking calm."
       },
       {
         "title": "Know urgent help and reporting routes",
@@ -132,9 +132,9 @@ window.COURSE_EXTRAS={
       "intro": "For adults supporting children from 12 months through age 6. Use fictional examples with a colleague, or say both adult roles aloud. Co-regulation means helping a child through a difficult feeling with calm adult support. This guide supports practice and discussion; completing the online course does not prove practical skill.",
       "instructions": [
         "Read this example first: at tidy-up, Leo covers his ears. One adult agrees to watch the group; another stays nearby. Staff reduce noise and send fewer children to the shelf. The adult shows Leo his familiar basket: “One block here,” then shows the next activity. If he needs a pause, they stay together in the agreed quieter spot.",
-        "Choose Imani’s arrival at 14 months, Priya’s arrival, Leo’s tidy-up, Sofia’s snack or Noah’s singing. Say how the child shows what they need. For example, Imani turns away and pushes the noisy toy aside; the adult stops it and checks care needs.",
+        "Choose a fictional situation: Imani, 14 months, turns away from a noisy musical toy at arrival; Priya, 2, pushes away an unfamiliar adult’s hand; Leo, 3, covers his ears at a crowded tidy-up shelf; Sofia, 4, pushes her unopened snackbox towards the adult while her familiar help card is in a drawer; or Noah, 5, moves away from loud group singing. Say what you see, what the adult will change and what help the child needs now.",
         "Agree who speaks, who watches the group and how to get help. Show your words, a familiar object/picture/sign and one change, such as fewer children at the shelf. Never act out aggression, practise restraint or rehearse handling a child from this course.",
-        "Your partner adds a change: touch is declined, a picture is missing, the quieter seat is occupied or the usual adult is absent. Show another way to help. Anyone can pause the practice. If alone, describe both adults’ actions.",
+        "Your partner adds a change: the child declines touch, the familiar picture is missing, the quieter seat is occupied or the usual adult is absent. Show another way to help and say what you will watch for. For example, if Sofia’s help card is missing, say, “I can help,” and open her snackbox straight away. Anyone can pause the practice. If alone, describe both adults’ actions.",
         "Use the checks below. Name one action that helped and one to improve. With the teacher or relevant lead, agree a safe small change to try and when to review it through supervised practice. Keep real children’s details out of this course and use approved secure records."
       ],
       "criteria": [
@@ -150,8 +150,8 @@ window.COURSE_EXTRAS={
           "area": "2. Offer help the child can use",
           "items": [
             "Says what they notice, uses a few warm words, pauses and gives the child space.",
-            "Accepts the child’s gesture, sign, picture, device or words. Shows the actual help or break that follows.",
-            "Stops an unwanted offer of touch, breathing or a tool and offers another way to help. Care, supervision and adult company remain available."
+            "Accepts the child’s gesture, sign, picture, device or words and provides help. For example, Sofia pushes her unopened snackbox towards the adult; the adult says, “I can help,” and opens the lid. A familiar card supports communication but is not a condition of help.",
+            "Stops an unwanted offer and keeps care, supervision and company available. If a preschool child declines the gentle breathing exercise, stop asking and offer less sound, company or space. The exercise means a comfortable breath in and a slow, gentle breath out, with no forced depth, holding or required count; only offer it during a settled, comfortable moment, and stop for discomfort."
           ]
         },
         {
@@ -166,7 +166,7 @@ window.COURSE_EXTRAS={
           "area": "4. Teach later and check what helped",
           "items": [
             "Offers a supported return without requiring an apology, explanation or repair first. Helps put things right later, when the child is ready.",
-            "Shows one useful action in comfortable play, offers a turn without pressure and puts the familiar support in the real routine with an adult ready to respond.",
+            "Shows asking for help during comfortable play with an adults’ lidded plastic container and a large toy car. One adult uses the familiar help sign or picture; a colleague opens the easy lid immediately. The child can watch, join or stop. Later, keep the familiar support available in the real routine and respond. Never tighten a child’s lid, hide their toy or delay food, care or help.",
             "Keeps facts and guesses separate, names what an adult will change and who will review it, and checks the child’s comfort, communication and enjoyment with the family."
           ]
         }
@@ -258,7 +258,7 @@ window.COURSE_EXTRAS={
           },
           {
             "title": "Offer familiar support",
-            "text": "Offer a known toy, company or space. A child may not want breathing, touch or talking; offer another way to help.",
+            "text": "Offer a familiar toy, company or space. If a preschool child declines the optional exercise described in this module, stop the offer to copy a comfortable breath in and a gentle breath out. Reduce sound or offer another support. They may also decline touch or talking; care stays available.",
             "icon": "choice"
           },
           {
@@ -326,7 +326,7 @@ window.COURSE_EXTRAS={
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
         "durationLabel": "6 minutes 26 seconds; optional adult viewing",
         "summary": "This episode is made for children aged 3–5; the optional course task is for adults. Main message: big feelings are allowed and a trusted adult can help. Try familiar ways to feel more comfortable during easy moments. Asking through a gesture or device counts, and no calming technique is compulsory.",
-        "prompt": "Choose one activity shown and say how you would offer it. Then explain what you would do if the child declined, and when you could practise later without pressure. Do not require breathing, speech or touch.",
+        "prompt": "Choose one activity shown and say how you would offer it without pressure during comfortable play. Explain what you would do if the child declined. If you choose a breathing activity, use Module 4’s gentle example: a comfortable breath in and a gentle breath out, with no forced depth or holding. Stop for discomfort or refusal and keep care available. Speech and touch are optional too.",
         "accessibility": "The official page links free resources for educators and caregivers. You can use this course summary for the adult task without watching. Playback and captions were not independently tested.",
         "verifiedHosting": "Official Child Mind Institute episode page, linked YouTube player and displayed 6:26 duration verified on 6 October 2026. Companion educator materials were read; playback was not independently tested.",
         "moduleId": "m5",
@@ -696,7 +696,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "United States",
         "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
         "claim": "A branded example of adult-supported calming and teaching a space’s use before distress. Informs reflection on adult availability, not a mandatory sequence.",
-        "accessNote": "Official page or linked document checked on 6 October 2026. Public page read; video playback not tested. Safe Place and associated steps are branded materials, not independent efficacy evidence. No copied characters, wording, required breathing or touch."
+        "accessNote": "Official page or linked document checked on 6 October 2026. Public page read; video playback not tested. Safe Place and associated steps are branded materials, not independent efficacy evidence. No copied characters, wording, required breathing exercises or touch."
       },
       {
         "id": "cd-feelings",
@@ -715,6 +715,24 @@ window.COURSE_EXTRAS={
         "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
         "claim": "Reports an association between implementation fidelity and spring executive-function scores across 45 participating classrooms in 2017–2018, adjusting for measured covariates.",
         "accessNote": "Officially linked 23-page report checked on 6 October 2026. It describes a local contract with Learn to Earn Dayton; linked by Conscious Discipline does not mean commissioned by the programme. This observational evaluation is not a randomised test of each practice, a trial of this course or proof of a brain mechanism."
+      },
+      {
+        "id": "asha-aac",
+        "title": "Augmentative and Alternative Communication (AAC)",
+        "publisher": "American Speech-Language-Hearing Association / National Joint Committee",
+        "jurisdiction": "United States",
+        "url": "https://www.asha.org/njc/aac/",
+        "claim": "Explains AAC as multiple ways to supplement or replace speech, including gestures, signs, pictures and speech-generating devices. Supports choosing communication methods with the person, family and professional team.",
+        "accessNote": "Official page read on 7 October 2026. Supports the AAC definition and individual communication guidance; it does not validate the course’s original classroom scripts."
+      },
+      {
+        "id": "nhs-gentle-breathing",
+        "title": "Breathing exercises for stress",
+        "publisher": "NHS",
+        "jurisdiction": "United Kingdom",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+        "claim": "General self-help guidance supports a comfortable position and gentle, regular breathing without forcing depth. The course uses an original brief, optional classroom example and makes no claim that it treats distress or works for every child.",
+        "accessNote": "Official page read on 7 October 2026. This general guidance is not a validated preschool protocol. Its longer duration and counting suggestions are not prescribed in this course."
       }
     ],
     "moduleSources": {
@@ -740,13 +758,15 @@ window.COURSE_EXTRAS={
         "rcn-toddler-feelings",
         "cmi-coregulation",
         "ncpmi-routine-plan",
-        "ncpmi-teaching"
+        "ncpmi-teaching",
+        "asha-aac"
       ],
       "4": [
         "acecqa-discipline",
         "dfe-mental-health",
         "safeguarding",
-        "rcn-toddler-feelings"
+        "rcn-toddler-feelings",
+        "nhs-gentle-breathing"
       ],
       "5": [
         "cmi-skill-practice",
@@ -756,7 +776,8 @@ window.COURSE_EXTRAS={
         "harvard-serve",
         "ncpmi-teaching",
         "rcn-preschool-play",
-        "cd-feelings"
+        "cd-feelings",
+        "asha-aac"
       ],
       "6": [
         "ncpmi-routine-plan",
@@ -867,7 +888,7 @@ window.COURSE_EXTRAS={
       {
         "q": "Leo, trois ans, se bouche les oreilles quand les chaises raclent le sol et que les enfants se pressent devant l’étagère de rangement. Il recule et utilise surtout des gestes. Qu’est-ce qui l’aiderait d’abord ?",
         "o": [
-          "Expliquer une image de respiration sans rien changer dans la salle.",
+          "Lui demander de copier un exercice de respiration douce alors que le bruit et la foule continuent.",
           "L’emmener devant un affichage d’émotions pour choisir un mot avant de l’aider.",
           "Réduire le bruit et le nombre d’enfants autour, rester avec lui dans un endroit plus calme et utiliser un geste ou un objet connus pour montrer une étape suivante."
         ],
@@ -895,14 +916,14 @@ window.COURSE_EXTRAS={
         "why": "Protégez les personnes et demandez la bonne aide avant d’enseigner. L’action sûre dépend de la salle et des règles actuelles. Cette formation n’enseigne ni n’autorise de techniques d’immobilisation. Entraînez-vous à la conversation entre adultes, jamais au comportement dangereux."
       },
       {
-        "q": "Sofia, quatre ans, utilise une carte d’aide pendant une leçon calme. Au goûter, son couvercle est coincé. Elle pleure et repousse la boîte ; la carte est dans un tiroir. Que doit faire le personnel ?",
+        "q": "Sofia, quatre ans, utilise une carte d’aide connue pendant un jeu agréable. Au goûter, elle n’arrive pas à ouvrir sa boîte à goûter, qui contient sa nourriture. Elle pleure et la repousse ; la carte est dans un tiroir. Que doit faire le personnel ?",
         "o": [
-          "Aider maintenant, puis mettre la carte connue au goûter, montrer son utilisation dans un entraînement facile et veiller à la réponse des adultes.",
-          "Aller chercher la carte et répéter la leçon avant d’ouvrir la boîte.",
+          "Ouvrir sa boîte à goûter maintenant, puis garder la carte connue à portée de main au goûter et montrer aux adultes comment répondre.",
+          "Aller chercher la carte et répéter la leçon avant d’ouvrir sa boîte à goûter.",
           "La remplacer par plusieurs nouvelles cartes et demander laquelle elle préfère."
         ],
         "a": 0,
-        "why": "Sofia montre déjà qu’elle a besoin d’aide. Ouvrez la boîte sans attendre une bonne réponse avec la carte. Plus tard, mettez la carte là où elle est nécessaire et montrez à un adulte remplaçant comment répondre. Vérifiez si Sofia peut recevoir de l’aide et manger son goûter."
+        "why": "Sofia montre déjà qu’elle a besoin d’aide. Ouvrez tout de suite sa boîte à goûter pour qu’elle puisse manger. Gardez sa carte d’aide connue là où elle en a besoin et montrez à un adulte remplaçant comment répondre. Plus tard, pendant un jeu agréable, les adultes peuvent montrer comment demander de l’aide avec une autre boîte à couvercle contenant un jouet. Ne créez jamais de frustration et ne retardez jamais la nourriture."
       },
       {
         "q": "Noah, cinq ans, s’éloigne quand le grand groupe chante. La personne qui s’occupe de lui dit qu’il chante à la maison. Quelle phrase d’ouverture aiderait le personnel et la famille à faire un plan utile ?",
@@ -937,7 +958,7 @@ window.COURSE_EXTRAS={
       },
       {
         "title": "Prévoir ensemble la réponse des adultes",
-        "text": "Sachez ce qui se passe quand l’enfant demande de l’aide ou une pause. Essayez quelques mots, puis attendez. Soyez prêt à donner de l’espace ou à proposer une autre aide s’il refuse le contact ou un outil. Les soins ne doivent dépendre ni de paroles, ni du regard dans les yeux, ni de respiration, ni d’une apparence calme."
+        "text": "Sachez ce qui se passe quand l’enfant demande de l’aide ou une pause. Essayez quelques mots, puis attendez. Soyez prêt à donner de l’espace ou à proposer une autre aide s’il refuse le contact ou une activité. Les soins ne doivent dépendre ni de paroles, ni du regard dans les yeux, ni d’un exercice de respiration, ni d’une apparence calme."
       },
       {
         "title": "Connaître les contacts d’urgence et de signalement",
@@ -953,9 +974,9 @@ window.COURSE_EXTRAS={
       "intro": "Pour les adultes qui accompagnent les enfants de 12 mois à 6 ans. Utilisez des exemples inventés avec un collègue, ou dites les deux rôles à voix haute. La corégulation, c’est aider un enfant à traverser une émotion difficile grâce au soutien calme d’un adulte. Ce guide aide à s’entraîner et à discuter ; terminer la formation en ligne ne prouve pas une compétence pratique.",
       "instructions": [
         "Lisez d’abord cet exemple : au rangement, Leo se bouche les oreilles. Un adulte accepte de surveiller le groupe ; un autre reste près de lui. Le personnel réduit le bruit et envoie moins d’enfants à l’étagère. L’adulte montre à Leo son panier connu : « Un cube ici », puis l’activité suivante. S’il a besoin d’une pause, ils restent ensemble dans l’endroit plus calme prévu.",
-        "Choisissez l’arrivée d’Imani à 14 mois, l’arrivée de Priya, le rangement de Leo, le goûter de Sofia ou le chant de Noah. Dites comment l’enfant montre son besoin. Par exemple, Imani se détourne et repousse le jouet bruyant ; l’adulte l’arrête et vérifie les besoins de soin.",
+        "Choisissez une situation inventée : Imani, 14 mois, se détourne d’un jouet musical bruyant à l’arrivée ; Priya, 2 ans, repousse la main d’un adulte qu’elle connaît peu ; Leo, 3 ans, se bouche les oreilles près d’une étagère encombrée au rangement ; Sofia, 4 ans, pousse sa boîte à goûter fermée vers l’adulte alors que sa carte d’aide connue est dans un tiroir ; ou Noah, 5 ans, s’éloigne du groupe qui chante fort. Dites ce que vous voyez, ce que l’adulte changera et de quelle aide l’enfant a besoin maintenant.",
         "Prévoyez qui parle, qui surveille le groupe et comment demander de l’aide. Montrez vos mots, un objet, une image ou un signe connus et un changement, comme moins d’enfants à l’étagère. Ne jouez jamais une agression, n’essayez pas de contention et ne vous entraînez pas à porter ou déplacer un enfant à partir de cette formation.",
-        "Votre partenaire ajoute un changement : l’enfant refuse le contact, une image manque, le siège calme est occupé ou l’adulte habituel est absent. Montrez une autre façon d’aider. Chacun peut faire une pause. Si vous êtes seul, décrivez les actions des deux adultes.",
+        "Votre partenaire ajoute un changement : l’enfant refuse le contact, l’image connue manque, le siège au calme est occupé ou l’adulte habituel est absent. Montrez une autre aide et dites ce que vous observerez. Par exemple, si la carte d’aide de Sofia manque, dites « Je peux t’aider » et ouvrez tout de suite sa boîte à goûter. Chacun peut interrompre l’exercice. Si vous êtes seul, décrivez les actions des deux adultes.",
         "Utilisez les points ci-dessous. Nommez une action qui a aidé et une à améliorer. Avec l’enseignant ou le bon responsable, prévoyez un petit changement sûr à essayer et quand le revoir lors d’un entraînement supervisé. Gardez les détails sur les vrais enfants hors de cette formation et utilisez les dossiers sécurisés autorisés."
       ],
       "criteria": [
@@ -971,8 +992,8 @@ window.COURSE_EXTRAS={
           "area": "2. Proposer une aide que l’enfant peut utiliser",
           "items": [
             "Dit ce qu’il remarque, utilise quelques mots bienveillants, attend et laisse de l’espace.",
-            "Accepte le geste, le signe, l’image, l’appareil ou les mots de l’enfant. Montre l’aide ou la pause qui suit réellement.",
-            "Arrête une proposition de contact, de respiration ou d’outil que l’enfant refuse et propose une autre aide. Les soins, la surveillance et la compagnie d’un adulte restent disponibles."
+            "Accepte le geste, le signe, l’image, l’appareil ou les mots de l’enfant et apporte de l’aide. Par exemple, Sofia pousse sa boîte à goûter fermée vers l’adulte ; il dit « Je peux t’aider » et ouvre le couvercle. Une carte connue aide à communiquer, mais l’enfant n’a pas à l’utiliser pour recevoir de l’aide.",
+            "Arrête une proposition que l’enfant refuse et maintient les soins, la surveillance et sa présence. Si un enfant de maternelle refuse l’exercice de respiration douce, arrête de le proposer et offre moins de bruit, de la compagnie ou de l’espace. L’exercice consiste à inspirer sans effort puis à souffler lentement et doucement. Il ne faut ni forcer la profondeur de la respiration, ni retenir l’air, ni continuer jusqu’à un nombre imposé. Propose cet exercice uniquement pendant un moment calme où l’enfant est à l’aise, et arrête au moindre inconfort."
           ]
         },
         {
@@ -987,7 +1008,7 @@ window.COURSE_EXTRAS={
           "area": "4. Apprendre plus tard et vérifier ce qui a aidé",
           "items": [
             "Propose un retour avec de l’aide sans exiger d’abord d’excuses, d’explication ou de réparation. Aide à réparer plus tard, quand l’enfant est prêt.",
-            "Montre une action utile dans un jeu agréable, propose un tour sans pression et place l’aide connue dans la vraie activité, avec un adulte prêt à répondre.",
+            "Montre une demande d’aide pendant un jeu agréable, avec une boîte en plastique à couvercle réservée aux adultes et une grande voiture jouet. Un adulte utilise le signe ou l’image d’aide connus ; un collègue ouvre aussitôt le couvercle, qui doit être facile à ouvrir. L’enfant peut regarder, participer ou arrêter. Plus tard, garde le moyen connu disponible dans le vrai moment de la journée et répond aux demandes. Ne serre jamais le couvercle de la boîte de l’enfant, ne cache jamais son jouet et ne retarde jamais la nourriture, les soins ou l’aide.",
             "Sépare les faits des suppositions, dit ce que l’adulte changera et qui fera le point, et vérifie avec la famille le confort, la communication et le plaisir de l’enfant."
           ]
         }
@@ -1079,7 +1100,7 @@ window.COURSE_EXTRAS={
           },
           {
             "title": "Proposer une aide connue",
-            "text": "Proposez un jouet connu, votre présence ou de l’espace. L’enfant peut ne vouloir ni respiration, ni contact, ni discussion ; proposez une autre aide.",
+            "text": "Proposez un jouet connu, votre présence ou de l’espace. Si un enfant de maternelle refuse l’exercice facultatif décrit dans ce module, arrêtez de lui proposer de copier une inspiration sans effort suivie d’une expiration douce. Réduisez le bruit ou proposez une autre aide. Il peut aussi refuser le contact ou la discussion ; les soins restent disponibles.",
             "icon": "choice"
           },
           {
@@ -1147,7 +1168,7 @@ window.COURSE_EXTRAS={
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
         "durationLabel": "6 minutes 26 secondes ; visionnage facultatif pour les adultes",
         "summary": "Cet épisode est destiné aux enfants de 3–5 ans ; l’activité facultative de la formation s’adresse aux adultes. L’idée principale : les émotions fortes sont permises et un adulte de confiance peut aider. Explorez des façons familières de se sentir mieux pendant des moments faciles. Demander de l’aide avec un geste ou un appareil de communication compte aussi. Aucune technique d’apaisement n’est obligatoire.",
-        "prompt": "Choisissez une activité montrée dans la vidéo et expliquez comment vous la proposeriez. Dites ensuite ce que vous feriez si l’enfant refusait et à quel moment vous pourriez vous entraîner plus tard, sans pression. N’imposez ni exercice de respiration, ni parole, ni contact physique.",
+        "prompt": "Choisissez une activité montrée dans la vidéo et dites comment vous la proposeriez sans pression, pendant un jeu agréable. Expliquez ce que vous feriez si l’enfant refusait. Si vous choisissez un exercice de respiration, utilisez l’exemple doux du module 4 : inspirer sans effort, puis souffler doucement, sans forcer la profondeur de la respiration ni retenir l’air. Arrêtez si l’enfant refuse ou est mal à l’aise ; les soins restent disponibles. Parler et accepter le contact sont aussi facultatifs.",
         "accessibility": "La page officielle donne accès à des ressources gratuites pour les professionnels et les adultes qui accompagnent les enfants. Ce résumé permet de faire l’activité pour adultes sans regarder la vidéo. Le fonctionnement de la vidéo et des sous-titres n’a pas été testé directement.",
         "verifiedHosting": "La page officielle de l’épisode du Child Mind Institute, le lecteur YouTube associé et la durée affichée de 6:26 ont été vérifiés le 6 octobre 2026. Les documents pour les professionnels ont été lus ; le fonctionnement de la vidéo n’a pas été testé directement.",
         "moduleId": "m5",
@@ -1536,6 +1557,24 @@ window.COURSE_EXTRAS={
         "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
         "claim": "Dans 45 classes participantes en 2017–2018, le rapport observe un lien entre l’application du programme comme prévu et les résultats du printemps pour les capacités à se concentrer, à garder une consigne en tête et à adapter ses actions. L’analyse tient compte des autres facteurs mesurés.",
         "accessNote": "Le rapport de 23 pages, accessible par un lien officiel, a été vérifié le 6 octobre 2026. Il décrit un contrat local avec Learn to Earn Dayton. Le fait que Conscious Discipline y renvoie ne signifie pas que le programme l’a commandé. L’étude observe un lien : elle ne teste pas chaque pratique en répartissant les classes au hasard. Elle n’évalue pas cette formation et ne prouve pas un mécanisme dans le cerveau."
+      },
+      {
+        "id": "asha-aac",
+        "title": "Augmentative and Alternative Communication (AAC)",
+        "publisher": "American Speech-Language-Hearing Association / National Joint Committee",
+        "jurisdiction": "États-Unis",
+        "url": "https://www.asha.org/njc/aac/",
+        "claim": "Explique les différentes façons de compléter ou de remplacer la parole par la communication alternative et améliorée (CAA, appelée AAC en anglais), notamment avec des gestes, des signes, des images et des appareils qui parlent. Encourage à choisir les moyens de communication avec la personne, sa famille et les professionnels qui l’accompagnent.",
+        "accessNote": "Page officielle lue le 7 octobre 2026. Sert à définir la CAA et à expliquer comment adapter les moyens de communication à chaque personne. Elle ne valide pas les phrases originales proposées dans cette formation."
+      },
+      {
+        "id": "nhs-gentle-breathing",
+        "title": "Breathing exercises for stress",
+        "publisher": "NHS",
+        "jurisdiction": "Royaume-Uni",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+        "claim": "Conseils généraux pour soi-même : s’installer confortablement et respirer doucement, régulièrement, sans forcer la profondeur de la respiration. La formation propose son propre exemple, bref et facultatif, pour la classe. Elle n’affirme pas que cet exercice traite la détresse ni qu’il convient à tous les enfants.",
+        "accessNote": "Page officielle lue le 7 octobre 2026. Ces conseils généraux ne sont pas une méthode validée pour les enfants de maternelle. La formation ne prescrit ni la durée plus longue ni les façons de compter proposées par cette source."
       }
     ],
     "moduleSources": {
@@ -1561,13 +1600,15 @@ window.COURSE_EXTRAS={
         "rcn-toddler-feelings",
         "cmi-coregulation",
         "ncpmi-routine-plan",
-        "ncpmi-teaching"
+        "ncpmi-teaching",
+        "asha-aac"
       ],
       "4": [
         "acecqa-discipline",
         "dfe-mental-health",
         "safeguarding",
-        "rcn-toddler-feelings"
+        "rcn-toddler-feelings",
+        "nhs-gentle-breathing"
       ],
       "5": [
         "cmi-skill-practice",
@@ -1577,7 +1618,8 @@ window.COURSE_EXTRAS={
         "harvard-serve",
         "ncpmi-teaching",
         "rcn-preschool-play",
-        "cd-feelings"
+        "cd-feelings",
+        "asha-aac"
       ],
       "6": [
         "ncpmi-routine-plan",
@@ -1688,7 +1730,7 @@ window.COURSE_EXTRAS={
       {
         "q": "Leo, trwa an, kouver so zorey kan bann sez fer tapaz ek bann zanfan rasanble kot letazer pou ranze. Li rekile ek servi sirtou bann sign. Ki ti pou ed an premie?",
         "o": [
-          "Explik enn zimaz respirasion pandan ki lasal-la res parey.",
+          "Demann li kopie enn lexersis respirasion dous pandan ki tapaz ek lafoul kontigne.",
           "Amenn li kot bann zimaz lemosion pou swazir enn mo avan ed li.",
           "Diminie tapaz ek lafoul, res avek li dan enn plas pli trankil ek servi enn sign ouswa lobze ki li kone pou montre enn prosenn letap."
         ],
@@ -1716,14 +1758,14 @@ window.COURSE_EXTRAS={
         "why": "Protez bann dimounn ek gagn bon led avan ansegne. Aksion sir-la depann lor lasal-la ek bann letap aktiel. Sa formasion-la pa ansegn ni otoriz bann teknik pou tini enn zanfan. Pratik konversasion personel, zame konportman danzere-la."
       },
       {
-        "q": "Sofia, kat an, servi enn kart led dan enn leson trankil. Kan ler manze, so kouver bloke. Li plore ek pous bwat-la; kart-la dan enn tirwar. Ki personel bizin fer?",
+        "q": "Sofia, kat an, servi enn kart led ki li kone pandan enn zwe kot li alez. Kan ler pou manz enn ti zafer, li pa kapav ouver so bwat manze, kot so manze ete. Li plore ek pous li; kart-la dan enn tirwar. Ki personel bizin fer?",
         "o": [
-          "Ede aster, apre met kart ki li kone kot li manze, montre kouma servi li dan enn pratik fasil ek fer sir bann adilt reponn.",
-          "Al sers kart-la ek repet leson-la avan ouver bwat-la.",
+          "Ouver so bwat manze aster, apre gard kart ki li kone kot li kapav atrap li kan ler manze ek montre bann adilt kouma reponn.",
+          "Al sers kart-la ek repet leson-la avan ouver so bwat manze.",
           "Ranplas li avek plizier nouvo kart ek demann lekel li prefere."
         ],
         "a": 0,
-        "why": "Sofia deza pe montre ki li bizin led. Ouver bwat-la san atann enn bon repons avek kart-la. Pli tar, met kart-la kot li bizin li ek montre enn adilt ranplasan kouma reponn. Verifye si Sofia kapav gagn led ek manz so ti manze."
+        "why": "Sofia deza pe montre ki li bizin led. Ouver so bwat manze deswit pou li kapav manze. Gard kart led ki li kone kot li bizin li ek montre enn adilt ranplasan kouma reponn. Pli tar, pandan enn zwe kot li alez, bann adilt kapav montre kouma demann led avek enn bwat zwe apar ki ena enn kouver; pa zame kree fristrasion ouswa retard manze."
       },
       {
         "q": "Noah, sink an, elwagn li kan enn gran group pe sante. So paran dir ki li sante lakaz. Ki koumansman ti pou ed personel ek fami-la fer enn plan itil?",
@@ -1758,7 +1800,7 @@ window.COURSE_EXTRAS={
       },
       {
         "title": "Met zot dakor lor repons bann adilt",
-        "text": "Kone seki arive kan enn zanfan demann led ouswa enn poz. Pratik enn tigit mo ek enn poz. Pare pou donn lespas ouswa enn lot led si li refiz kontak ouswa enn zouti. Swen pa bizin depann lor koze, get dan lizie, enn lexersis respirasion ouswa paret kalm."
+        "text": "Kone seki arive kan enn zanfan demann led ouswa enn poz. Pratik de-trwa mo ek enn ti poz. Prepar ou pou propoz lespas ouswa enn lot led si zanfan-la refiz kontak fizik ouswa enn aktivite. Swen pa bizin depann lor koze, get dan lizie, fer enn lexersis respirasion ouswa paret kalm."
       },
       {
         "title": "Konn bann kontak led irzan ek signalman",
@@ -1774,9 +1816,9 @@ window.COURSE_EXTRAS={
       "intro": "Pou bann adilt ki ed bann zanfan depi 12 mwa ziska 6 an. Servi bann lexanp ki finn invante avek enn koleg, ouswa dir toulede rol adilt for. Ko-regilasion vedir ed enn zanfan avek enn lemosion difisil gras ar led enn adilt kalm. Sa gid-la ed ou pratike ek diskite; fini formasion an-lign pa prouve ki ou kapav fer tou sa an pratik.",
       "instructions": [
         "Lir sa lexanp-la avan: kan ler ranze, Leo kouver so zorey. Enn adilt dakor pou vey group-la; enn lot res pre. Personel diminie tapaz ek anvway mwins zanfan kot letazer-la. Adilt-la montre Leo so panye ki li kone: “Enn blok isi,” apre montre prosenn aktivite-la. Si li bizin enn poz, zot res ansam dan plas pli trankil ki finn dakor.",
-        "Swazir larive Imani a 14 mwa, larive Priya, ler ranze Leo, ler manze Sofia ouswa sante Noah. Dir kouma zanfan-la montre seki li bizin. Par exanp, Imani detourn li ek pous zwe ki fer tapaz; adilt-la aret li ek verifye bann swen neseser.",
+        "Swazir enn sitiasion ki finn invante: Imani, 14 mwa, detourn li ar enn zwe mizikal ki fer tapaz kan li arive; Priya, 2 an, pous lame enn adilt ki li pa kone; Leo, 3 an, kouver so zorey kot enn letazer ranze avek boukou zanfan otour; Sofia, 4 an, pous so bwat manze ki ankor ferme ver adilt-la pandan ki so kart led abitie dan enn tirwar; ouswa Noah, 5 an, elwagn li kan enn group pe sant for. Dir seki ou trouve, seki adilt-la pou sanze ek ki led zanfan-la bizin aster.",
         "Met zot dakor lor kisannla koze, kisannla vey group-la ek kouma gagn led. Montre ou bann mo, enn lobze/zimaz/sign ki zanfan-la kone ek enn sanzman, kouma mwins zanfan kot letazer-la. Pa zwe enn senn agresif, pa pratik restriksion fizik ek pa servi sa formasion-la pou pratik kouma port enn zanfan.",
-        "Ou partner azout enn sanzman: zanfan-la refiz kontak, enn zimaz manke, sez pli trankil-la okipe ouswa adilt abitie-la pa la. Montre enn lot fason ede. Nenport dimounn kapav met pratik-la an poz. Si ou tousel, dekrir aksion toulede adilt.",
+        "Ou partner azout enn sanzman: zanfan-la refiz kontak fizik, zimaz ki li kone manke, sez pli trankil-la okipe ouswa adilt abitie-la pa la. Montre enn lot fason pou ede ek dir seki ou pou obzerve. Par exanp, si kart led Sofia manke, dir: “Mo kapav ede,” ek ouver so bwat manze deswit. Nenport kisannla kapav fer enn poz dan pratik-la. Si ou tousel, dekrir aksion toulede adilt.",
         "Servi bann pwin anba pou verifye. Nom enn aksion ki finn ede ek enn pou amelyore. Avek ansegnan-la ouswa bon responsab-la, met zot dakor lor enn ti sanzman sir pou eseye ek kan pou regete pandan enn pratik avek sipervizion. Pa met bann vre detay zanfan dan sa formasion-la; servi bann dosie sir aprouve."
       ],
       "criteria": [
@@ -1792,8 +1834,8 @@ window.COURSE_EXTRAS={
           "area": "2. Propoz led ki zanfan-la kapav servi",
           "items": [
             "Dir seki li remarke, servi enn tigit mo bienveyan, atann enn moman ek donn zanfan-la lespas.",
-            "Aksepte zes, sign, zimaz, laparey ouswa bann mo zanfan-la. Montre vre led ouswa poz ki vini apre.",
-            "Aret enn propozision kontak, respirasion ouswa zouti ki zanfan-la pa anvi ek propoz enn lot fason ede. Swen, sirveyans ek prezans enn adilt res disponib."
+            "Aksepte zes, sign, zimaz, laparey ouswa bann mo zanfan-la ek donn led. Par exanp, Sofia pous so bwat manze ki ankor ferme ver adilt-la; adilt-la dir: “Mo kapav ede,” ek ouver kouver-la. Enn kart ki li kone ed li kominike me li pa enn kondisyon pou gagn led.",
+            "Aret enn propozision ki zanfan-la pa anvi ek gard swen, enn adilt pou veye ek prezans disponib. Si enn zanfan preskoler refiz lexersis respirasion dous-la, aret demande ek propoz mwins tapaz, ou prezans ouswa lespas. Lexersis-la vedir enn souf ki rantre san fors li ek sorti dousman, san fors li pran enn souf profon, tini so souf ouswa kontigne ziska enn sif presi; propoz li zis kan zanfan-la poze ek alez, ek arete si li pa alez."
           ]
         },
         {
@@ -1808,7 +1850,7 @@ window.COURSE_EXTRAS={
           "area": "4. Ansegn pli tar ek verifye seki finn ede",
           "items": [
             "Propoz enn retour avek led san demann enn pardon, enn explikasion ouswa enn reparasion avan. Ed remet bann zafer an ord pli tar, kan zanfan-la pare.",
-            "Montre enn aksion itil dan enn zwe kot zanfan-la alez, propoz enn tour san presion ek met led ki li kone dan vre routinn-la avek enn adilt pare pou reponn.",
+            "Montre kouma demann led pandan enn zwe kot zanfan-la alez, avek enn bwat plastik bann adilt ki ena enn kouver ek enn gran loto zwe. Enn adilt servi sign ouswa zimaz led ki zanfan-la kone; enn koleg ouver kouver fasil-la deswit. Zanfan-la kapav gete, partisipe ouswa arete. Pli tar, gard led ki li kone disponib dan vre routinn-la ek reponn. Pa zame ser kouver enn zanfan, kasiet so zwe ouswa retard manze, swen ouswa led.",
             "Gard bann fe ek sipozision separe, dir seki enn adilt pou sanze ek kisannla pou regete, ek verifye avek fami-la si zanfan-la alez, kapav kominike ek profit bann aktivite."
           ]
         }
@@ -1900,7 +1942,7 @@ window.COURSE_EXTRAS={
           },
           {
             "title": "Propoz led ki li kone",
-            "text": "Propoz enn zwe ki li kone, ou prezans ouswa lespas. Enn zanfan kapav pa anvi respirasion, kontak ouswa koze; propoz enn lot fason ede.",
+            "text": "Propoz enn zwe ki li kone, ou prezans ouswa lespas. Si enn zanfan preskoler refiz lexersis opsionel ki sa parti-la dekrir, aret propoz li kopie enn souf ki rantre san fors li ek sorti dousman. Diminie tapaz ouswa propoz enn lot led. Li kapav osi refiz kontak fizik ouswa koze; swen res disponib.",
             "icon": "choice"
           },
           {
@@ -1968,7 +2010,7 @@ window.COURSE_EXTRAS={
         "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
         "durationLabel": "6 minit 26 segonn; vizionaz opsionel pou adilt",
         "summary": "Sa epizod-la finn fer pou bann zanfan 3–5 an; travay opsionel formasion-la se pou bann adilt. Mesaz prinsipal: bann lemosion for akseptab ek enn adilt ki zanfan-la fer konfians kapav ede. Esey bann fason ki li kone pou santi li pli alez dan bann moman fasil. Demann avek enn sign ouswa enn laparey konte, ek okenn teknik pou kalme pa obligatwar.",
-        "prompt": "Swazir enn aktivite ki video-la montre ek dir kouma ou ti pou propoz li. Apre explik seki ou ti pou fer si zanfan-la refiz ek kan ou kapav pratik pli tar san presion. Pa obliz respirasion, laparol ouswa kontak.",
+        "prompt": "Swazir enn aktivite ki finn montre ek dir kouma ou ti pou propoz li san presion pandan enn zwe kot zanfan-la alez. Explik seki ou ti pou fer si li refize. Si ou swazir enn aktivite respirasion, servi lexanp dous dan Parti 4: enn souf ki rantre san fors li ek sorti dousman, san fors li pran enn souf profon ni tini so souf. Arete si li pa alez ouswa li refize, ek gard swen disponib. Koze ek kontak fizik osi se bann swa.",
         "accessibility": "Paz ofisiel-la donn bann lien ver bann resours gratis pou ansegnan ek bann dimounn ki okip zanfan. Ou kapav servi rezime sa formasion-la pou travay adilt-la san get video-la. Lektir video ek bann soutit pa finn teste dan enn fason indepandan.",
         "verifiedHosting": "Paz ofisiel Child Mind Institute, so lien YouTube ek dire afise 6:26 finn verifye le 6 Oktob 2026. Bann materyel pou ansegnan finn lir; lektir video-la pa finn teste dan enn fason indepandan.",
         "moduleId": "m5",
@@ -2338,7 +2380,7 @@ window.COURSE_EXTRAS={
         "jurisdiction": "Leta-Zini",
         "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
         "claim": "Enn lexanp enn mark presi kot enn adilt ed zanfan-la santi li pli alez ek montre enn plas avan enn moman difisil. Ed reflesi lor disponibilite adilt-la; li pa enn seri letap obligatwar.",
-        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz piblik finn lir; lektir video pa finn teste. Safe Place ek so bann letap bann materyel avek enn mark, pa bann prev indepandan lefikasite. Pena personaz ouswa fraz kopie, ni respirasion ouswa kontak fizik obligatwar."
+        "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz piblik finn lir; lektir video pa finn teste. Safe Place ek so bann letap bann materyel avek enn mark, pa bann prev indepandan lefikasite. Pena personaz ouswa fraz kopie, ni lexersis respirasion ouswa kontak fizik obligatwar."
       },
       {
         "id": "cd-feelings",
@@ -2357,6 +2399,24 @@ window.COURSE_EXTRAS={
         "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
         "claim": "Raport enn lien ant kouma bann klas finn swiv program-la ek bann rezilta bann test latansion, memwar ek kontrol aksion dan 45 klas an 2017–2018. Bann kalkil finn pran kont lezot zafer ki bann serser ti mezire.",
         "accessNote": "Rapor 23 paz ki ena enn lien ofisiel finn verifye le 6 Oktob 2026. Li dekrir enn kontra lokal avek Learn to Earn Dayton; enn lien depi Conscious Discipline pa vedir ki program-la finn komann rapor-la. Bann serser finn obzerv bann klas; zot pa finn tir osor bann group pou teste sak pratik. Sa pa enn test sa formasion-la ni enn prev enn lefe dan servo."
+      },
+      {
+        "id": "asha-aac",
+        "title": "Augmentative and Alternative Communication (AAC)",
+        "publisher": "American Speech-Language-Hearing Association / National Joint Committee",
+        "jurisdiction": "Leta-Zini",
+        "url": "https://www.asha.org/njc/aac/",
+        "claim": "Explik AAC kouma plizier fason pou azout avek ouswa ranplas laparol, inklir bann zes, sign, zimaz ek laparey ki koze. Ankouraz swazir bann fason kominike avek dimounn-la, so fami ek lekip profesionel.",
+        "accessNote": "Paz ofisiel finn lir le 7 Oktob 2026. Li donn enn baz pou definision AAC ek bann konsey lor kominikasion adapte pou sak dimounn; li pa enn validasion bann lexanp parol orizinal sa formasion-la pou klas."
+      },
+      {
+        "id": "nhs-gentle-breathing",
+        "title": "Breathing exercises for stress",
+        "publisher": "NHS",
+        "jurisdiction": "Rwayom-Ini",
+        "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+        "claim": "Bann konsey zeneral pou ed oumem ankouraz enn pozision alez ek enn respirasion dous, regilie, san fors enn souf profon. Formasion-la servi enn lexanp klas orizinal, kourt ek opsionel. Li pa dir ki sa tret bann moman difisil ni ki li marse pou tou zanfan.",
+        "accessNote": "Paz ofisiel finn lir le 7 Oktob 2026. Sa bann konsey zeneral-la pa enn seri letap ki finn valide pou bann zanfan preskoler. Sa formasion-la pa demann swiv so bann konsey pou enn pli long dire ouswa pou konte."
       }
     ],
     "moduleSources": {
@@ -2382,13 +2442,15 @@ window.COURSE_EXTRAS={
         "rcn-toddler-feelings",
         "cmi-coregulation",
         "ncpmi-routine-plan",
-        "ncpmi-teaching"
+        "ncpmi-teaching",
+        "asha-aac"
       ],
       "4": [
         "acecqa-discipline",
         "dfe-mental-health",
         "safeguarding",
-        "rcn-toddler-feelings"
+        "rcn-toddler-feelings",
+        "nhs-gentle-breathing"
       ],
       "5": [
         "cmi-skill-practice",
@@ -2398,7 +2460,8 @@ window.COURSE_EXTRAS={
         "harvard-serve",
         "ncpmi-teaching",
         "rcn-preschool-play",
-        "cd-feelings"
+        "cd-feelings",
+        "asha-aac"
       ],
       "6": [
         "ncpmi-routine-plan",

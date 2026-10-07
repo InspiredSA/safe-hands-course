@@ -11,7 +11,6 @@
   "sideMeta": "Anviron 75 minit · 6 modil",
   "progress": "Ou progre",
   "navLabel": "Navigasion dan formasion",
-  "contactsNav": "Kontak pou proteksion zanfan",
   "home": "Apersi formasion",
   "assessment": "Kestioner final",
   "results": "Rezilta ek sertifika",
@@ -127,13 +126,6 @@
   "criticalQuestion": "Kestion esansiel lor sekirite",
   "yourAnswer": "Ou repons:",
   "bestAnswer": "Meyer repons:",
-  "contactRoutes": "Bann prosedir lekol pou signale",
-  "knowContact": "Kone kisannla pou kontakte",
-  "contactLead": "Verifye kisannla pou demann led toulezour, kisannla pou averti si ou per pou sekirite enn zanfan ek kisannla pou apele dan enn ka irzan. Konn dimounn ki pran rele osi.",
-  "noIncident": "Pa servi sa formasion-la pou signale enn insidan",
-  "contactNotice": "Pou enn vre inkietid, swiv bann letap ou lekol pou signal enn problem ki konsern sekirite enn zanfan. Si ena enn danze imedia, rod led irzan dapre bann dispozision lekol. Pa servi sa formasion-la pou signal li.",
-  "toConfirm": "Ankor pou konfirme",
-  "contactPlaceholders": "Bann plas pou bann kontak finn les vid exprè. Okenn nom, ladres imel ouswa nimero telefonn ki pa finn verifye pa finn azoute.",
   "storageError": "Sa navigater-la pa kapav anrezistre ou progre. Gard sa paz-la ouver ouswa telesarz ou dokiman revizion.",
   "chooseFirst": "Swazir enn repons avan.",
   "draftFinal": "Brouyon anrezistre · anrezistre ou repons final anba",
@@ -213,32 +205,6 @@
   "emailGreeting": "Bonzour responsab lekol,",
   "emailIntro": "Silvouple trouv mo rezilta pou Ed bann tipti zanfan avek zot lemosion – Nivo 1 anba. Mo bann travay ekri finn termine me pa finn gagn not. Sertifika-la konsern zis laprantisaz an-lign. Mo pou swiv bann reg lekol ek plan ki finn dakor pou sak zanfan kan mo servi seki mo finn aprann.",
   "emailReady": "Imel ki finn prepare pare. Li PA finn anvwaye. Ouver li dan ou aplikasion imel, verifye destinater-la ek anvway li. Si ou aplikasion pa kapav modifie bann fisie .eml, atas bann rezilta konplet ek sertifika-la dan enn nouvo imel. Klik lor lien-la si telesarzman pa finn koumanse: ",
-  "contactCards": [
-    [
-      "Ansegnan klas / responsab ELS",
-      "Demann li lor bann routinn toulezour, seki ed sak zanfan, kisannla vey group-la ek kouma koz avek bann fami."
-    ],
-    [
-      "Responsab led pou aprann / inklizion",
-      "Sa dimounn-la organiz led anplis pou aprann, kominike ouswa lezot bezwen. Demann ansegnan-la kisannla pou kontakte ek ki linformasion pou partaze."
-    ],
-    [
-      "Responsab sekirite / proteksion zanfan",
-      "Averti sa dimounn-la si ou krwar enn zanfan finn gagn ditor, li pa pe gagn swen neseser, li dir ou enn dimounn finn fer li ditor ouswa konportman enn adilt trakase ou."
-    ],
-    [
-      "Dimounn ki pran rele pou bann signalman",
-      "Kone kisannla pou averti si responsab abitie-la pa la, inkietid-la konsern li ouswa personn pa finn azir lor inkietid-la. Servi lot kontak ki bann reg lekol donn ou."
-    ],
-    [
-      "Responsab lekol / soutien personel",
-      "Demann led, enn dimounn pou pran rele dan enn fason sir ouswa plis formasion kan ou bizin. Pou enn inkietid lor konportman enn adilt, swiv bann letap lekol pou signal li."
-    ],
-    [
-      "Led irzan / premie sekour",
-      "Kone kouma apel enn dimounn forme deswit, kisannla vey lezot zanfan ek kouma gagn led medikal irzan."
-    ]
-  ],
   "courseLevel": "Nivo 1",
   "translationReviewTitle": "Tradiksion brouyon ankor pou verifye",
   "translationReviewNotice": "Sa tradiksion-la enn brouyon ki pa finn aprouve. Li bizin enn revizion par enn dimounn ki metrize Kreol Morisien ek ki ena lexpertiz dan ledikasion tipti zanfan ek proteksion zanfan. Si enn fraz pa kler, verifye version angle ek demann responsab ou lekol konsey avan ou aplik li.",
@@ -368,5 +334,7 @@
   "evidenceNotesTitle": "Lor sa bann konsey-la",
   "resourceUse": "Kouma servi li",
   "resourceAccess": "Avan ou servi li",
-  "blankWriting": "Lespas pou ekrir apre inpresion"
+  "blankWriting": "Lespas pou ekrir apre inpresion",
+  "response4": "Servi zistwar Lina ek bann kat kestion lao. Explik ou premie letap pou sekirite, seki ou ti pou dir, kouma ou ti pou ed li revinn partisipe ek seki ou ti pou sanze ouswa pratik pli tar.",
+  "response4Title": "Ou repons lor Lina"
 }

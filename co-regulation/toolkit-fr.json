@@ -21,7 +21,7 @@
       "adultExpectation": "Attendez-vous à des envies fortes et à un besoin d’aide quand quelque chose se passe mal. Connaître une règle ne veut pas dire qu’un jeune enfant peut la suivre quand il est bouleversé.",
       "before": "Montrez ce qui va se passer ensuite. Proposez un petit choix que vous pourrez respecter, par exemple le panier à porter. Évitez une longue attente. Prévoyez un moyen connu de demander de l’aide.",
       "during": "Utilisez une phrase courte et une aide concrète. En cas de désaccord, protégez les deux enfants. Si l’enfant ne veut pas de câlin, restez près de lui sans imposer de contact.",
-      "after": "Aidez l’enfant à revenir au jeu. Plus tard, montrez une action utile, comme apporter un jouet coincé à un adulte. Expliquez brièvement.",
+      "after": "Aidez l’enfant à reprendre un jeu connu. Si une grande voiture jouet roule sous une table, remarquez que l’enfant la pointe et récupérez-la sans danger. Plus tard, montrez comment pointer vers la voiture en disant « Aide ». L’enfant n’a pas à vous l’apporter ni à utiliser un mot précis. Ne mettez pas son jouet hors de portée pour créer un problème à résoudre.",
       "script": "« Tu voulais ce camion. Je peux m’asseoir ici. » Plus tard : « Je peux t’aider. Tu peux me montrer. »",
       "activityTitle": "Aider le nounours",
       "activity": "Utilisez un nounours et un panier adaptés à l’âge. Montrez comment le nounours demande de l’aide avec un mot, un signe ou un geste connu de l’enfant. Aidez le nounours à ranger un jouet. Laissez l’enfant participer ou regarder. Ne retardez pas votre aide pour qu’il copie d’abord le signal."
@@ -197,7 +197,7 @@
     "Quel moment de la journée est difficile ? Que voyez-vous l’enfant faire ?",
     "Que peuvent changer les adultes avant ce moment ?",
     "Que direz-vous d’abord ? Quelle aide pouvez-vous proposer ?",
-    "Qui surveille le groupe ? Qui appelez-vous pour de l’aide ou une urgence ?",
+    "Comment les adultes assureront-ils la surveillance de l’enfant et du groupe ? Suivez l’organisation prévue par l’école pour demander de l’aide ou répondre à une urgence.",
     "Quelle petite action pourrez-vous montrer à l’enfant plus tard, quand il sera calme ?",
     "Que proposent l’enfant et sa famille ? Qui vérifiera le plan, et quand ?"
   ],
@@ -253,5 +253,26 @@
       "use": "Regardez l’exemple d’images montrant les activités de la journée. Comparez-le avec l’exemple simple « maintenant / ensuite » ci-dessus.",
       "access": "Un compte gratuit peut être nécessaire. Cette ressource de marque ne constitue pas une preuve indépendante de toutes les promesses du programme."
     }
-  ]
+  ],
+  "communicationTitle": "La CAA : d’autres façons de communiquer",
+  "communicationIntro": "La communication alternative et améliorée (CAA) est appelée AAC en anglais, pour « augmentative and alternative communication ». Ce sont des moyens de communiquer en plus de la parole ou à sa place. Un enfant peut utiliser des gestes, des images, des signes ou un appareil qui parle. La CAA ne se limite pas aux cartes illustrées.",
+  "communicationSteps": [
+    "Demandez à l’enseignant, à la famille et, s’il intervient, à l’orthophoniste, le professionnel qui aide l’enfant à communiquer, quels mots, signes, images ou appareil l’enfant utilise déjà et comment y répondre. Gardez ces moyens habituels à portée de main pendant le jeu, les soins et les moments difficiles.",
+    "Utilisez le moyen connu de l’enfant tout en l’aidant. Par exemple, montrez son image habituelle pour demander de l’aide et dites « Aide » pendant que vous ouvrez un couvercle qu’il n’arrive pas à ouvrir. Il peut regarder. Ne prenez pas sa main pour le faire pointer.",
+    "Répondez aussi quand l’enfant tend la main, regarde, pointe, fait des sons ou parle. N’exigez ni carte, ni bon mot, ni regard dans les yeux, ni démonstration avant l’aide, l’eau, la nourriture, l’aide aux toilettes ou le réconfort.",
+    "Une pause signifie interrompre l’activité avec un adulte qui continue à surveiller et reste prêt à aider. Si un endroit est dangereux ou occupé, expliquez-le brièvement et proposez un autre endroit sûr où aller ensemble."
+  ],
+  "communicationWarning": "Ces exemples de cartes n’ont peut-être pas encore de sens pour l’enfant. Choisissez-les ou adaptez-les avec l’enseignant, la famille ou le professionnel qui aide l’enfant à communiquer. Gardez tout appareil ou moyen de communication habituel disponible ; ne le remplacez pas par ces cartes.",
+  "printCardsTitle": "Cartes de communication à imprimer",
+  "printCardsIntro": "Téléchargez un ensemble au format A4 avec des cartes simples, illustrées et accompagnées d’un mot, pour demander de l’aide, une pause ou répondre aux besoins du quotidien. Des espaces vierges permettent de créer des cartes familières pour votre école. Lisez d’abord le guide pour l’adulte. L’enfant n’a pas à utiliser une carte avant de recevoir votre aide.",
+  "printCardsButton": "Télécharger les cartes de communication (PDF A4)",
+  "printCardsNote": "Imprimez à taille réelle (100 %). Ces images originales sont des exemples pour les écoles accueillant des enfants dès 12 mois. Elles ne forment pas un système de communication complet ou adapté à un enfant en particulier.",
+  "breathingTitle": "Un exercice de respiration douce, facultatif : de 3 à 6 ans",
+  "breathingIntro": "Il s’agit d’inspirer puis de souffler une fois, sans effort, avec un adulte. Proposez-le pendant un moment calme où l’enfant de maternelle est à l’aise et intéressé. Vérifiez les aides et les consignes de santé prévues pour lui. Ce n’est ni un traitement, ni une réponse de sécurité, ni une manière obligatoire de se calmer.",
+  "breathingSteps": [
+    "Asseyez-vous confortablement près de l’enfant, dans un endroit plus calme. Demandez : « Tu veux me regarder respirer doucement, ou essayer avec moi ? » Il peut regarder, participer ou refuser par des mots ou un geste.",
+    "Montrez une respiration ordinaire, sans effort : inspirez, puis laissez sortir l’air lentement et doucement, à un rythme confortable. Dites : « On inspire doucement… on souffle doucement. » Ne demandez pas de respirer très profondément, n’imposez pas un rythme plus lent et ne demandez ni de retenir sa respiration, ni de fermer les yeux, ni de continuer jusqu’à un nombre imposé.",
+    "Faites une pause. Proposez une autre respiration seulement si l’enfant est à l’aise et intéressé. Arrêtez s’il se détourne, dit non, semble mal à l’aise ou a la tête qui tourne. Dites : « C’est fini. On peut regarder le livre. » Moins de bruit, votre présence, de l’espace ou une activité connue peuvent mieux l’aider."
+  ],
+  "breathingWarning": "L’enfant a le droit de refuser cet exercice. Les soins, les moyens de communication, la surveillance et l’aide restent disponibles. Ne l’exigez jamais avant le réconfort ou le retour au jeu. Une difficulté à respirer ou une autre possible urgence médicale exige immédiatement les premiers secours et la réponse d’urgence de l’école, pas un exercice de respiration."
 }

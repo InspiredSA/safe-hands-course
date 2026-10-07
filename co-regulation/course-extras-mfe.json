@@ -45,7 +45,7 @@
     {
       "q": "Leo, trwa an, kouver so zorey kan bann sez fer tapaz ek bann zanfan rasanble kot letazer pou ranze. Li rekile ek servi sirtou bann sign. Ki ti pou ed an premie?",
       "o": [
-        "Explik enn zimaz respirasion pandan ki lasal-la res parey.",
+        "Demann li kopie enn lexersis respirasion dous pandan ki tapaz ek lafoul kontigne.",
         "Amenn li kot bann zimaz lemosion pou swazir enn mo avan ed li.",
         "Diminie tapaz ek lafoul, res avek li dan enn plas pli trankil ek servi enn sign ouswa lobze ki li kone pou montre enn prosenn letap."
       ],
@@ -73,14 +73,14 @@
       "why": "Protez bann dimounn ek gagn bon led avan ansegne. Aksion sir-la depann lor lasal-la ek bann letap aktiel. Sa formasion-la pa ansegn ni otoriz bann teknik pou tini enn zanfan. Pratik konversasion personel, zame konportman danzere-la."
     },
     {
-      "q": "Sofia, kat an, servi enn kart led dan enn leson trankil. Kan ler manze, so kouver bloke. Li plore ek pous bwat-la; kart-la dan enn tirwar. Ki personel bizin fer?",
+      "q": "Sofia, kat an, servi enn kart led ki li kone pandan enn zwe kot li alez. Kan ler pou manz enn ti zafer, li pa kapav ouver so bwat manze, kot so manze ete. Li plore ek pous li; kart-la dan enn tirwar. Ki personel bizin fer?",
       "o": [
-        "Ede aster, apre met kart ki li kone kot li manze, montre kouma servi li dan enn pratik fasil ek fer sir bann adilt reponn.",
-        "Al sers kart-la ek repet leson-la avan ouver bwat-la.",
+        "Ouver so bwat manze aster, apre gard kart ki li kone kot li kapav atrap li kan ler manze ek montre bann adilt kouma reponn.",
+        "Al sers kart-la ek repet leson-la avan ouver so bwat manze.",
         "Ranplas li avek plizier nouvo kart ek demann lekel li prefere."
       ],
       "a": 0,
-      "why": "Sofia deza pe montre ki li bizin led. Ouver bwat-la san atann enn bon repons avek kart-la. Pli tar, met kart-la kot li bizin li ek montre enn adilt ranplasan kouma reponn. Verifye si Sofia kapav gagn led ek manz so ti manze."
+      "why": "Sofia deza pe montre ki li bizin led. Ouver so bwat manze deswit pou li kapav manze. Gard kart led ki li kone kot li bizin li ek montre enn adilt ranplasan kouma reponn. Pli tar, pandan enn zwe kot li alez, bann adilt kapav montre kouma demann led avek enn bwat zwe apar ki ena enn kouver; pa zame kree fristrasion ouswa retard manze."
     },
     {
       "q": "Noah, sink an, elwagn li kan enn gran group pe sante. So paran dir ki li sante lakaz. Ki koumansman ti pou ed personel ek fami-la fer enn plan itil?",
@@ -115,7 +115,7 @@
     },
     {
       "title": "Met zot dakor lor repons bann adilt",
-      "text": "Kone seki arive kan enn zanfan demann led ouswa enn poz. Pratik enn tigit mo ek enn poz. Pare pou donn lespas ouswa enn lot led si li refiz kontak ouswa enn zouti. Swen pa bizin depann lor koze, get dan lizie, enn lexersis respirasion ouswa paret kalm."
+      "text": "Kone seki arive kan enn zanfan demann led ouswa enn poz. Pratik de-trwa mo ek enn ti poz. Prepar ou pou propoz lespas ouswa enn lot led si zanfan-la refiz kontak fizik ouswa enn aktivite. Swen pa bizin depann lor koze, get dan lizie, fer enn lexersis respirasion ouswa paret kalm."
     },
     {
       "title": "Konn bann kontak led irzan ek signalman",
@@ -131,9 +131,9 @@
     "intro": "Pou bann adilt ki ed bann zanfan depi 12 mwa ziska 6 an. Servi bann lexanp ki finn invante avek enn koleg, ouswa dir toulede rol adilt for. Ko-regilasion vedir ed enn zanfan avek enn lemosion difisil gras ar led enn adilt kalm. Sa gid-la ed ou pratike ek diskite; fini formasion an-lign pa prouve ki ou kapav fer tou sa an pratik.",
     "instructions": [
       "Lir sa lexanp-la avan: kan ler ranze, Leo kouver so zorey. Enn adilt dakor pou vey group-la; enn lot res pre. Personel diminie tapaz ek anvway mwins zanfan kot letazer-la. Adilt-la montre Leo so panye ki li kone: “Enn blok isi,” apre montre prosenn aktivite-la. Si li bizin enn poz, zot res ansam dan plas pli trankil ki finn dakor.",
-      "Swazir larive Imani a 14 mwa, larive Priya, ler ranze Leo, ler manze Sofia ouswa sante Noah. Dir kouma zanfan-la montre seki li bizin. Par exanp, Imani detourn li ek pous zwe ki fer tapaz; adilt-la aret li ek verifye bann swen neseser.",
+      "Swazir enn sitiasion ki finn invante: Imani, 14 mwa, detourn li ar enn zwe mizikal ki fer tapaz kan li arive; Priya, 2 an, pous lame enn adilt ki li pa kone; Leo, 3 an, kouver so zorey kot enn letazer ranze avek boukou zanfan otour; Sofia, 4 an, pous so bwat manze ki ankor ferme ver adilt-la pandan ki so kart led abitie dan enn tirwar; ouswa Noah, 5 an, elwagn li kan enn group pe sant for. Dir seki ou trouve, seki adilt-la pou sanze ek ki led zanfan-la bizin aster.",
       "Met zot dakor lor kisannla koze, kisannla vey group-la ek kouma gagn led. Montre ou bann mo, enn lobze/zimaz/sign ki zanfan-la kone ek enn sanzman, kouma mwins zanfan kot letazer-la. Pa zwe enn senn agresif, pa pratik restriksion fizik ek pa servi sa formasion-la pou pratik kouma port enn zanfan.",
-      "Ou partner azout enn sanzman: zanfan-la refiz kontak, enn zimaz manke, sez pli trankil-la okipe ouswa adilt abitie-la pa la. Montre enn lot fason ede. Nenport dimounn kapav met pratik-la an poz. Si ou tousel, dekrir aksion toulede adilt.",
+      "Ou partner azout enn sanzman: zanfan-la refiz kontak fizik, zimaz ki li kone manke, sez pli trankil-la okipe ouswa adilt abitie-la pa la. Montre enn lot fason pou ede ek dir seki ou pou obzerve. Par exanp, si kart led Sofia manke, dir: “Mo kapav ede,” ek ouver so bwat manze deswit. Nenport kisannla kapav fer enn poz dan pratik-la. Si ou tousel, dekrir aksion toulede adilt.",
       "Servi bann pwin anba pou verifye. Nom enn aksion ki finn ede ek enn pou amelyore. Avek ansegnan-la ouswa bon responsab-la, met zot dakor lor enn ti sanzman sir pou eseye ek kan pou regete pandan enn pratik avek sipervizion. Pa met bann vre detay zanfan dan sa formasion-la; servi bann dosie sir aprouve."
     ],
     "criteria": [
@@ -149,8 +149,8 @@
         "area": "2. Propoz led ki zanfan-la kapav servi",
         "items": [
           "Dir seki li remarke, servi enn tigit mo bienveyan, atann enn moman ek donn zanfan-la lespas.",
-          "Aksepte zes, sign, zimaz, laparey ouswa bann mo zanfan-la. Montre vre led ouswa poz ki vini apre.",
-          "Aret enn propozision kontak, respirasion ouswa zouti ki zanfan-la pa anvi ek propoz enn lot fason ede. Swen, sirveyans ek prezans enn adilt res disponib."
+          "Aksepte zes, sign, zimaz, laparey ouswa bann mo zanfan-la ek donn led. Par exanp, Sofia pous so bwat manze ki ankor ferme ver adilt-la; adilt-la dir: “Mo kapav ede,” ek ouver kouver-la. Enn kart ki li kone ed li kominike me li pa enn kondisyon pou gagn led.",
+          "Aret enn propozision ki zanfan-la pa anvi ek gard swen, enn adilt pou veye ek prezans disponib. Si enn zanfan preskoler refiz lexersis respirasion dous-la, aret demande ek propoz mwins tapaz, ou prezans ouswa lespas. Lexersis-la vedir enn souf ki rantre san fors li ek sorti dousman, san fors li pran enn souf profon, tini so souf ouswa kontigne ziska enn sif presi; propoz li zis kan zanfan-la poze ek alez, ek arete si li pa alez."
         ]
       },
       {
@@ -165,7 +165,7 @@
         "area": "4. Ansegn pli tar ek verifye seki finn ede",
         "items": [
           "Propoz enn retour avek led san demann enn pardon, enn explikasion ouswa enn reparasion avan. Ed remet bann zafer an ord pli tar, kan zanfan-la pare.",
-          "Montre enn aksion itil dan enn zwe kot zanfan-la alez, propoz enn tour san presion ek met led ki li kone dan vre routinn-la avek enn adilt pare pou reponn.",
+          "Montre kouma demann led pandan enn zwe kot zanfan-la alez, avek enn bwat plastik bann adilt ki ena enn kouver ek enn gran loto zwe. Enn adilt servi sign ouswa zimaz led ki zanfan-la kone; enn koleg ouver kouver fasil-la deswit. Zanfan-la kapav gete, partisipe ouswa arete. Pli tar, gard led ki li kone disponib dan vre routinn-la ek reponn. Pa zame ser kouver enn zanfan, kasiet so zwe ouswa retard manze, swen ouswa led.",
           "Gard bann fe ek sipozision separe, dir seki enn adilt pou sanze ek kisannla pou regete, ek verifye avek fami-la si zanfan-la alez, kapav kominike ek profit bann aktivite."
         ]
       }
@@ -257,7 +257,7 @@
         },
         {
           "title": "Propoz led ki li kone",
-          "text": "Propoz enn zwe ki li kone, ou prezans ouswa lespas. Enn zanfan kapav pa anvi respirasion, kontak ouswa koze; propoz enn lot fason ede.",
+          "text": "Propoz enn zwe ki li kone, ou prezans ouswa lespas. Si enn zanfan preskoler refiz lexersis opsionel ki sa parti-la dekrir, aret propoz li kopie enn souf ki rantre san fors li ek sorti dousman. Diminie tapaz ouswa propoz enn lot led. Li kapav osi refiz kontak fizik ouswa koze; swen res disponib.",
           "icon": "choice"
         },
         {
@@ -325,7 +325,7 @@
       "url": "https://childmind.org/healthyminds/pre-k-having-big-feelings-video/",
       "durationLabel": "6 minit 26 segonn; vizionaz opsionel pou adilt",
       "summary": "Sa epizod-la finn fer pou bann zanfan 3–5 an; travay opsionel formasion-la se pou bann adilt. Mesaz prinsipal: bann lemosion for akseptab ek enn adilt ki zanfan-la fer konfians kapav ede. Esey bann fason ki li kone pou santi li pli alez dan bann moman fasil. Demann avek enn sign ouswa enn laparey konte, ek okenn teknik pou kalme pa obligatwar.",
-      "prompt": "Swazir enn aktivite ki video-la montre ek dir kouma ou ti pou propoz li. Apre explik seki ou ti pou fer si zanfan-la refiz ek kan ou kapav pratik pli tar san presion. Pa obliz respirasion, laparol ouswa kontak.",
+      "prompt": "Swazir enn aktivite ki finn montre ek dir kouma ou ti pou propoz li san presion pandan enn zwe kot zanfan-la alez. Explik seki ou ti pou fer si li refize. Si ou swazir enn aktivite respirasion, servi lexanp dous dan Parti 4: enn souf ki rantre san fors li ek sorti dousman, san fors li pran enn souf profon ni tini so souf. Arete si li pa alez ouswa li refize, ek gard swen disponib. Koze ek kontak fizik osi se bann swa.",
       "accessibility": "Paz ofisiel-la donn bann lien ver bann resours gratis pou ansegnan ek bann dimounn ki okip zanfan. Ou kapav servi rezime sa formasion-la pou travay adilt-la san get video-la. Lektir video ek bann soutit pa finn teste dan enn fason indepandan.",
       "verifiedHosting": "Paz ofisiel Child Mind Institute, so lien YouTube ek dire afise 6:26 finn verifye le 6 Oktob 2026. Bann materyel pou ansegnan finn lir; lektir video-la pa finn teste dan enn fason indepandan.",
       "moduleId": "m5",
@@ -695,7 +695,7 @@
       "jurisdiction": "Leta-Zini",
       "url": "https://consciousdiscipline.com/memberships/free-resources/shuberts-home/toddler-bedroom/safe-place/",
       "claim": "Enn lexanp enn mark presi kot enn adilt ed zanfan-la santi li pli alez ek montre enn plas avan enn moman difisil. Ed reflesi lor disponibilite adilt-la; li pa enn seri letap obligatwar.",
-      "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz piblik finn lir; lektir video pa finn teste. Safe Place ek so bann letap bann materyel avek enn mark, pa bann prev indepandan lefikasite. Pena personaz ouswa fraz kopie, ni respirasion ouswa kontak fizik obligatwar."
+      "accessNote": "Paz ofisiel ouswa dokiman lie finn verifye le 6 Oktob 2026. Paz piblik finn lir; lektir video pa finn teste. Safe Place ek so bann letap bann materyel avek enn mark, pa bann prev indepandan lefikasite. Pena personaz ouswa fraz kopie, ni lexersis respirasion ouswa kontak fizik obligatwar."
     },
     {
       "id": "cd-feelings",
@@ -714,6 +714,24 @@
       "url": "https://consciousdiscipline.s3.us-west-1.amazonaws.com/Articles/Preschool-Promise-FINAL-Technical-Report.pdf",
       "claim": "Raport enn lien ant kouma bann klas finn swiv program-la ek bann rezilta bann test latansion, memwar ek kontrol aksion dan 45 klas an 2017–2018. Bann kalkil finn pran kont lezot zafer ki bann serser ti mezire.",
       "accessNote": "Rapor 23 paz ki ena enn lien ofisiel finn verifye le 6 Oktob 2026. Li dekrir enn kontra lokal avek Learn to Earn Dayton; enn lien depi Conscious Discipline pa vedir ki program-la finn komann rapor-la. Bann serser finn obzerv bann klas; zot pa finn tir osor bann group pou teste sak pratik. Sa pa enn test sa formasion-la ni enn prev enn lefe dan servo."
+    },
+    {
+      "id": "asha-aac",
+      "title": "Augmentative and Alternative Communication (AAC)",
+      "publisher": "American Speech-Language-Hearing Association / National Joint Committee",
+      "jurisdiction": "Leta-Zini",
+      "url": "https://www.asha.org/njc/aac/",
+      "claim": "Explik AAC kouma plizier fason pou azout avek ouswa ranplas laparol, inklir bann zes, sign, zimaz ek laparey ki koze. Ankouraz swazir bann fason kominike avek dimounn-la, so fami ek lekip profesionel.",
+      "accessNote": "Paz ofisiel finn lir le 7 Oktob 2026. Li donn enn baz pou definision AAC ek bann konsey lor kominikasion adapte pou sak dimounn; li pa enn validasion bann lexanp parol orizinal sa formasion-la pou klas."
+    },
+    {
+      "id": "nhs-gentle-breathing",
+      "title": "Breathing exercises for stress",
+      "publisher": "NHS",
+      "jurisdiction": "Rwayom-Ini",
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "claim": "Bann konsey zeneral pou ed oumem ankouraz enn pozision alez ek enn respirasion dous, regilie, san fors enn souf profon. Formasion-la servi enn lexanp klas orizinal, kourt ek opsionel. Li pa dir ki sa tret bann moman difisil ni ki li marse pou tou zanfan.",
+      "accessNote": "Paz ofisiel finn lir le 7 Oktob 2026. Sa bann konsey zeneral-la pa enn seri letap ki finn valide pou bann zanfan preskoler. Sa formasion-la pa demann swiv so bann konsey pou enn pli long dire ouswa pou konte."
     }
   ],
   "moduleSources": {
@@ -739,13 +757,15 @@
       "rcn-toddler-feelings",
       "cmi-coregulation",
       "ncpmi-routine-plan",
-      "ncpmi-teaching"
+      "ncpmi-teaching",
+      "asha-aac"
     ],
     "4": [
       "acecqa-discipline",
       "dfe-mental-health",
       "safeguarding",
-      "rcn-toddler-feelings"
+      "rcn-toddler-feelings",
+      "nhs-gentle-breathing"
     ],
     "5": [
       "cmi-skill-practice",
@@ -755,7 +775,8 @@
       "harvard-serve",
       "ncpmi-teaching",
       "rcn-preschool-play",
-      "cd-feelings"
+      "cd-feelings",
+      "asha-aac"
     ],
     "6": [
       "ncpmi-routine-plan",

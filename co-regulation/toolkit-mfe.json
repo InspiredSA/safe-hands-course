@@ -21,7 +21,7 @@
       "adultExpectation": "Atann ki zanfan-la anvi sertin zafer bien for ek ki li bizin led kan bann zafer pa pase kouma li anvi. Konn enn reg pa vedir ki enn tipti zanfan kapav swiv li kan li boulverse.",
       "before": "Montre seki pou vini apre. Propoz enn ti swa ki ou kapav respekte, par exanp ki panye li pou sarye. Evit fer li atann lontan ek gard enn fason ki li kone pou demann led.",
       "during": "Servi enn fraz kourt ek ed li an pratik. Gard toulede zanfan an sekirite si ena enn dezakor. Si zanfan-la pa anvi enn kallin, res pre san fors li pou gagn kontak fizik.",
-      "after": "Ed zanfan-la retourn zwe. Pli tar, montre enn aksion itil, par exanp amenn enn zwe ki finn bloke kot enn adilt. Gard explikasion-la kourt.",
+      "after": "Ed zanfan-la retourn dan enn zwe ki li kone. Si enn gran loto zwe roul anba enn latab, remark kan zanfan-la montre li avek ledwa ek repran li dan enn fason sir. Pli tar, montre kouma montre loto-la avek ledwa ek dir “Led”. Li pa bizin amenn li kot ou ni servi enn mo spesial. Pa met zwe enn zanfan kot li pa kapav atrap li pou kree enn problem zis pou pratike.",
       "script": "“To ti anvi sa kamion-la. Mo kapav asiz isi.” Pli tar: “Mo kapav ede. To kapav montre mwa.”",
       "activityTitle": "Ed nounours-la",
       "activity": "Servi enn nounours ek enn panye ki an sekirite pou laz zanfan-la. Montre kouma nounours-la demann led avek enn mo ouswa enn sign ki zanfan-la kone. Ed nounours-la met enn zwe ladan. Les zanfan-la partisipe ouswa gete. Pa refiz led pandan ki ou pe atann zanfan-la kopie sign-la."
@@ -197,7 +197,7 @@
     "Ki moman lazourne difisil? Ki ou trouv zanfan-la fer?",
     "Ki bann adilt kapav sanze avan sa moman-la?",
     "Ki ou pou dir an premie? Ki led ou kapav propoze?",
-    "Kisannla vey group-la? Kisannla ou apele pou led ouswa enn ka irzan?",
+    "Kouma bann adilt pou kontign vey zanfan-la ek group-la an sekirite? Swiv bann dispozision lekol ki deza ena pou led ek bann ka irzan.",
     "Ki ti zafer ou kapav montre zanfan-la pli tar, kan li alez?",
     "Ki zanfan-la ek so fami propoze? Kisannla pou verifye plan-la, ek kan?"
   ],
@@ -253,5 +253,26 @@
       "use": "Get lexanp bann zimaz ki montre bann aktivite lazourne. Konpar li avek lexanp sinp aster/apre lao.",
       "access": "Kapav bizin enn kont gratis. Sa resours enn mark presi la pa enn prev indepandan pou tou bann rezilta ki program-la dir li amene."
     }
-  ]
+  ],
+  "communicationTitle": "AAC: plis fason pou kominike",
+  "communicationIntro": "AAC se bann inisial pou “augmentative and alternative communication”. Sa vedir bann fason pou kominike ansam avek ouswa dan plas laparol. Enn zanfan kapav servi bann zes, zimaz, sign ouswa enn laparey ki koze. Sa pa vedir zis bann kart zimaz.",
+  "communicationSteps": [
+    "Demann ansegnan-la, fami-la ek, si ena enn ladan, spesialis ki ed zanfan-la avek laparol ek langaz ki bann mo, sign, zimaz ouswa laparey li deza servi ek kouma reponn. Gard so fason abitie pou kominike kot li kapav servi li pandan zwe, swen ek bann moman difisil.",
+    "Servi fason ki zanfan-la kone pandan ki ou ede. Par exanp, montre so zimaz led abitie ek dir “Led” pandan ki ou ouver enn kouver ki li pa kapav ouver. Li kapav gete. Pa pran so lame pou fors li montre avek ledwa.",
+    "Reponn osi kan li avans so lame, gete, montre avek ledwa, fer bann son ouswa koze. Li pa bizin enn kart, enn mo korek, get dan lizie ouswa fer enn demonstrasion avan gagn led, bwar, manze, led pou al twalet ouswa rekonfor.",
+    "Enn poz vedir arete enn moman pandan ki enn adilt kontign veye ek res disponib pou ede. Si enn plas pa sir ouswa okipe, explik sa dan de-trwa mo ek propoz enn lot plas sir kot zot kapav al ansam."
+  ],
+  "communicationWarning": "Sa bann lexanp kart-la kapav pa ankor vedir nanye pou enn zanfan. Swazir ouswa adapte zot avek ansegnan-la ek fami zanfan-la ouswa spesialis ki ed li kominike. Gard so laparey ouswa fason abitie pou kominike disponib; pa ranplas li avek sa pake kart-la.",
+  "printCardsTitle": "Bann kart pou kominike ki ou kapav inprime",
+  "printCardsIntro": "Telecharg enn pake A4 avek bann kart sinp ki ena enn mo ek enn zimaz pou led, enn poz ek bann bezwen toulezour, ek lespas pou fer bann kart ki bann zanfan ou lekol kone. Lir gid pou bann adilt an premie. Zanfan-la pa bizin servi enn kart avan ou ede.",
+  "printCardsButton": "Telecharg bann kart pou kominike (PDF A4)",
+  "printCardsNote": "Inprim dan vre grander (100%). Sa bann zimaz-la se bann lexanp orizinal pou servi dan lekol avek bann zanfan depi 12 mwa; zot pa enn sistem kominikasion konple ni enn sistem adapte pou enn zanfan presi.",
+  "breathingTitle": "Enn lexersis respirasion dous ki zanfan-la kapav swazir: 3–6 an",
+  "breathingIntro": "Sa vedir pratik enn souf ki rantre ek sorti avek enn adilt, san fors li. Propoz li pandan enn moman kot zanfan preskoler-la poze ek alez, si li interese. Verifye so plan abitie pou led ek lasante. Li pa enn tretman, enn repons pou enn danze ni enn fason obligatwar pou kalme.",
+  "breathingSteps": [
+    "Asiz alez pre li dan enn plas pli trankil. Demande: “To anvi get mwa pran enn souf dousman, ouswa esey avek mwa?” Zanfan-la kapav gete, partisipe ouswa dir non avek bann mo ouswa enn zes.",
+    "Montre enn souf ordiner ki rantre san fors li, apre les li sorti dousman, dan enn ritm ki alez: “Rantre dousman … sorti dousman.” Pa demann bann souf bien profon, pa fors enn ritm pli lant, pa demann li tini so souf, ferm so lizie ouswa kontigne ziska enn sif presi.",
+    "Pran enn poz. Propoz enn ankor zis si zanfan-la alez ek interese. Arete si li detourn li, dir non, paret pa alez ouswa so latet pe tourne. Dir: “Fini. Nou kapav get liv-la.” Dan so plas, mwins tapaz, ou prezans, lespas ouswa enn aktivite ki li kone kapav ede."
+  ],
+  "breathingWarning": "Zanfan-la gagn drwa refiz sa lexersis-la. Gard swen, kominikasion, enn adilt pou veye ek led disponib. Pa zame demann li fer li avan gagn rekonfor ouswa retourn zwe. Si li ena difikilte pou respire ouswa enn lot posib ka medikal irzan, servi bann letap premie sekour ek ka irzan lekol deswit, pa enn lexersis respirasion."
 }

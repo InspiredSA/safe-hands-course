@@ -21,7 +21,7 @@
       "adultExpectation": "Expect strong wishes and a need for help when things go wrong. Knowing a rule does not mean a young child can follow it while upset.",
       "before": "Show what will happen next. Offer a small choice you can keep, such as which basket to carry. Avoid a long wait and have a familiar way for the child to ask for help.",
       "during": "Use a short sentence and practical help. Keep both children safe if there is a disagreement. If the child does not want a cuddle, stay nearby without forcing touch.",
-      "after": "Help the child return to play. Later, show one useful action, such as bringing a stuck toy to an adult. Keep the explanation short.",
+      "after": "Help the child return to familiar play. If a large toy car rolls under a table, notice the child pointing and retrieve it safely. Later, show pointing towards the car and saying “Help.” They do not have to carry it over or use a special word. Do not put a child’s toy out of reach to create a practice problem.",
       "script": "“You wanted that truck. I can sit here.” Later: “I can help. You can show me.”",
       "activityTitle": "Help the teddy",
       "activity": "Use an age-safe teddy and basket. Show how teddy asks for help using the child’s familiar word, sign or gesture. Help teddy put one toy in. Let the child join or watch. Do not withhold help while waiting for the child to copy the signal."
@@ -197,7 +197,7 @@
     "Which part of the day is hard? What do you see the child do?",
     "What can adults change before that part of the day?",
     "What will you say first? What help can you offer?",
-    "Who watches the group? Who do you call for help or an emergency?",
+    "How will adults keep the child and group safely supervised? Follow the school’s existing help and emergency arrangements.",
     "What small skill can you show the child later, when settled?",
     "What do the child and family suggest? Who will check the plan, and when?"
   ],
@@ -253,5 +253,26 @@
       "use": "Look at the example of pictures showing a day’s activities. Compare it with the simple now/next example above.",
       "access": "Free account may be required. This branded resource is not independent evidence for all programme claims."
     }
-  ]
+  ],
+  "communicationTitle": "AAC: more ways to communicate",
+  "communicationIntro": "AAC stands for augmentative and alternative communication. It means ways to communicate alongside speech or instead of speech. A child might use gestures, pictures, signs or a device that speaks. It does not mean picture cards only.",
+  "communicationSteps": [
+    "Ask the teacher, family and speech and language therapist, if involved, which words, signs, pictures or device the child already uses and how to respond. Keep the usual system within reach during play, care and upset.",
+    "Use the child’s familiar way while you help. For example, point to their usual help picture and say “Help” while opening a lid they cannot open. They can watch. Do not take their hand and make them point.",
+    "Respond to reaching, looking, pointing, sounds and speech too. No card, correct word, eye contact or demonstration is required before help, drink, food, toileting or comfort.",
+    "A break means a pause with an adult still watching and available to help. If one place is unsafe or occupied, explain briefly and offer a safe alternative together."
+  ],
+  "communicationWarning": "These sample cards may not be meaningful to a child yet. Choose or adapt them with the teacher and the child’s family or communication professional. Keep any existing communication device or system available; do not replace it with this pack.",
+  "printCardsTitle": "Printable communication cards",
+  "printCardsIntro": "Download an A4 pack with simple word-and-picture cards for help, a break and everyday needs, plus space to make familiar cards for your school. Read the adult guide first. The child does not have to use a card before you help.",
+  "printCardsButton": "Download communication cards (A4 PDF)",
+  "printCardsNote": "Print at actual size (100%). These are original sample pictures for school use with children from 12 months; they are not a complete or personalised communication system.",
+  "breathingTitle": "An optional gentle breathing exercise: ages 3–6",
+  "breathingIntro": "This means practising one comfortable breath in and out with an adult. Offer it during a settled, comfortable moment if the preschool child is interested. Check their usual support and health plan. It is not a treatment, a safety response or a required way to calm down.",
+  "breathingSteps": [
+    "Sit comfortably nearby in a quieter place. Ask: “Would you like to watch me take a gentle breath, or try with me?” The child can watch, join or decline through words or a gesture.",
+    "Show one ordinary, comfortable breath in, then let it out slowly and gently at a comfortable pace: “Gently in … gently out.” Do not ask for very deep breaths, force a slower pace, hold the breath, close the eyes or keep going to a count.",
+    "Pause. Offer one more only if the child is comfortable and interested. Stop if they turn away, say no, seem uncomfortable or feel dizzy. Say: “Finished. We can look at the book.” Less sound, company, space or a familiar activity may help instead."
+  ],
+  "breathingWarning": "Declining this exercise is allowed. Keep care, communication, supervision and help available. Never require it before comfort or returning to play. Breathing difficulty or another possible medical emergency needs the school’s first-aid and emergency response immediately, not a breathing exercise."
 }

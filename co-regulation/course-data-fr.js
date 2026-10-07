@@ -213,7 +213,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Proposez : « C’est plus calme ici, ou je peux rester près de toi. » S’il reste où il est, réduisez le bruit ou le nombre de personnes autour, si c’est possible sans danger. Ne l’enfermez pas, ne le laissez pas seul et n’exigez ni excuses, ni respiration, ni fin d’un minuteur avant qu’il parte. Si l’enfant quitte souvent une activité, demandez à l’enseignant comment la modifier."
+              "text": "Proposez : « C’est plus calme ici, ou je peux rester près de toi. » S’il reste où il est, réduisez le bruit ou le nombre de personnes autour, si c’est possible sans danger. Ne l’enfermez pas, ne le laissez pas seul et n’exigez ni excuses, ni exercice de respiration, ni fin d’un minuteur avant qu’il parte. Si l’enfant quitte souvent une activité, demandez à l’enseignant comment la modifier."
             },
             {
               "type": "p",
@@ -344,7 +344,7 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Un tout-petit repousse votre bras. Arrêtez le contact proposé : « Pas de câlin. Je peux m’asseoir ici. » Il peut encore vouloir votre présence. N’exigez jamais de contact, de regard dans les yeux, de respiration, de mot sur l’émotion ou de parole avant de l’aider. Si une activité connue n’aide pas, essayez moins de paroles, plus d’espace ou une autre aide connue."
+              "text": "Un tout-petit repousse votre bras. Arrêtez le contact proposé : « Pas de câlin. Je peux m’asseoir ici. » Il peut encore vouloir votre présence. N’exigez jamais de contact, de regard dans les yeux, d’exercice de respiration, de mot sur l’émotion ou de parole avant de l’aider. Si une activité connue n’aide pas, essayez moins de paroles, plus d’espace ou une autre aide connue. Le module 4 explique un exercice de respiration douce, facultatif, pour les enfants de maternelle intéressés. Cet exercice n’est jamais une condition pour recevoir des soins ou de l’aide."
             },
             {
               "type": "h",
@@ -352,15 +352,15 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Demandez quels signes, images ou appareil l’enfant utilise. La communication alternative et améliorée (CAA) ajoute d’autres moyens à la parole ou la remplace, par exemple avec des signes ou un appareil qui parle. Gardez ces moyens disponibles quand l’enfant est bouleversé ; ne les remplacez pas par une nouvelle carte sans conseil."
+              "text": "La communication alternative et améliorée (CAA) est appelée AAC en anglais, pour « augmentative and alternative communication ». Ce sont des moyens de communiquer en plus de la parole ou à sa place : des gestes, des signes connus, des images que l’on pointe, un cahier de communication ou un appareil qui parle quand l’enfant choisit un message. La CAA ne se limite pas aux cartes. Demandez à l’enseignant, à la famille et, s’il intervient, à l’orthophoniste, le professionnel qui aide l’enfant à communiquer, comment fonctionne le moyen utilisé par cet enfant. Gardez-le disponible quand l’enfant est bouleversé. Ne le remplacez pas par une nouvelle carte et n’exigez pas de parole avant d’aider."
             },
             {
               "type": "p",
-              "text": "Mettez-vous d’accord sur la réponse des adultes. « Aide » peut vouloir dire montrer comment ouvrir une boîte. « Pause » peut vouloir dire interrompre la tâche et s’asseoir ensemble à proximité. Prévoyez qui surveille le groupe. Si le siège habituel est occupé, proposez un autre endroit sûr avec l’aide d’un adulte."
+              "text": "Mettez-vous d’accord sur la réponse des adultes. « Aide » peut vouloir dire ouvrir le couvercle de la boîte à goûter de l’enfant pour qu’il puisse manger. « Pause » peut vouloir dire interrompre l’activité et s’asseoir ensemble à proximité. Prévoyez qui surveille le groupe. Si le siège habituel est occupé, proposez un autre endroit sûr avec l’aide d’un adulte."
             },
             {
               "type": "p",
-              "text": "Pendant un jeu agréable, utilisez vous-même le signe d’aide connu de l’enfant et faites-vous aider par un collègue. Dans une vraie difficulté, répondez même si l’enfant utilise un autre geste ou pleure encore. Demander de l’aide ne doit pas devenir une épreuve supplémentaire."
+              "text": "Pendant un jeu agréable, montrez comment demander à un collègue d’ouvrir une boîte en plastique avec un couvercle. Elle contient un jouet réservé à la démonstration des adultes. Utilisez le signe ou l’image d’aide connus de l’enfant ; le collègue ouvre tout de suite la boîte. Le module 5 donne l’exemple complet. Dans une vraie difficulté, répondez même si l’enfant utilise un autre geste ou pleure encore. Demander de l’aide ne doit pas devenir une épreuve supplémentaire."
             }
           ]
         },
@@ -459,7 +459,7 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "De 18 mois à moins de 3 ans : proposez votre présence et une étape facile vers un jeu connu. Plus tard, montrez une action simple, comme apporter un jouet coincé pour demander de l’aide."
+              "text": "De 18 mois à moins de 3 ans : proposez votre présence et une étape facile vers un jeu connu. Par exemple, une grande voiture jouet roule sous une table. Remarquez que l’enfant la pointe et récupérez-la sans danger. Plus tard, pendant un jeu agréable, montrez comment pointer vers la voiture en disant « Aide ». Ne mettez pas son jouet hors de portée pour créer un problème à résoudre."
             },
             {
               "type": "li",
@@ -468,6 +468,38 @@ window.COURSE_FR={
             {
               "type": "p",
               "text": "Gardez l’aide disponible après le retour au groupe. Il n’est pas nécessaire de s’excuser, de faire un exercice de respiration ou de nommer une émotion. Occupez-vous séparément des personnes blessées ou effrayées ; elles n’ont pas à accepter de gestes d’affection ni à réconforter l’enfant qui leur a fait du mal."
+            },
+            {
+              "type": "h",
+              "text": "Un exercice de respiration douce, facultatif : ce que fait l’adulte"
+            },
+            {
+              "type": "p",
+              "text": "Ici, un exercice de respiration consiste à s’exercer brièvement à inspirer puis à souffler sans effort, avec un adulte. C’est une activité facultative pour un enfant de 3 à 6 ans qui est calme, à l’aise et intéressé. Ce n’est ni un traitement ni une étape obligatoire après un moment difficile. Vérifiez les aides et les consignes de santé prévues pour cet enfant. N’utilisez pas cet exercice s’il a du mal à respirer ou présente un autre problème de santé."
+            },
+            {
+              "type": "li",
+              "text": "1. Choisissez un moment facile, avec peu de bruit. Asseyez-vous confortablement à proximité et demandez : « Tu veux me regarder respirer doucement, ou essayer avec moi ? » Acceptez une réponse par geste ou par mots. Si l’enfant refuse ou se détourne, arrêtez la proposition."
+            },
+            {
+              "type": "li",
+              "text": "2. Montrez une respiration ordinaire, sans effort : inspirez, puis laissez sortir l’air lentement et doucement, à un rythme confortable. Dites : « On inspire doucement… on souffle doucement. » L’enfant peut regarder ou essayer. Ne demandez pas de respirer très profondément, n’imposez pas un rythme plus lent et ne demandez ni de retenir sa respiration, ni de fermer les yeux, ni de continuer jusqu’à un nombre imposé."
+            },
+            {
+              "type": "li",
+              "text": "3. Faites une pause et observez. Si l’enfant est à l’aise et veut recommencer, proposez une autre respiration. Arrêtez s’il refuse, semble mal à l’aise ou a la tête qui tourne. Continuez à lui apporter les soins nécessaires et votre présence. Proposez plutôt moins de bruit, plus d’espace ou une activité connue. Une difficulté à respirer exige les premiers secours et la réponse d’urgence, pas davantage d’entraînement."
+            },
+            {
+              "type": "h",
+              "text": "Exemple : Anika peut regarder, essayer ou arrêter"
+            },
+            {
+              "type": "p",
+              "text": "Anika, quatre ans, est calme à côté d’un adulte et regarde un livre d’images dans un coin tranquille. L’adulte s’assied près d’elle et demande : « Tu veux me regarder respirer doucement, ou essayer avec moi ? » Anika hoche la tête et regarde. L’adulte inspire sans effort, puis souffle lentement et doucement en disant : « On inspire doucement… on souffle doucement. » Anika essaie une fois. Quand l’adulte propose de recommencer, elle fait non de la tête. L’adulte arrête : « C’est fini. On peut regarder le livre. » Ils restent ensemble et tournent la page."
+            },
+            {
+              "type": "p",
+              "text": "À un autre moment, Anika peut refuser cet exercice, même si elle le connaît. Le personnel peut réduire le bruit, proposer sa présence ou lui laisser plus d’espace, tout en maintenant la surveillance et l’aide. Ne dites pas que l’enfant « refuse de respirer » : il refuse un exercice proposé. Aucun enfant n’a à le faire pour recevoir des soins ou retourner jouer."
             },
             {
               "type": "h",
@@ -511,28 +543,36 @@ window.COURSE_FR={
             },
             {
               "type": "h",
-              "text": "S’entraîner seulement à la conversation entre adultes"
+              "text": "Activité écrite : aider Lina après un jeu bruyant"
+            },
+            {
+              "type": "p",
+              "text": "Nouvelle situation inventée : la tour de cubes de Lina, quatre ans, tombe quand deux enfants passent en courant. Ils continuent à courir parmi les cubes. Lina pleure et repousse la main que vous lui proposez. Un collègue se trouve près du groupe. Plus tard, quand l’espace est sûr et que les besoins de soin ont été vérifiés, Lina pointe vers un livre. Mais elle fait non de la tête quand vous proposez l’exercice de respiration douce qu’elle a déjà essayé. Écrivez votre réponse avant d’ouvrir l’exemple de réponse."
             },
             {
               "type": "li",
-              "text": "Trouvez les règles de l’école pour la sécurité, les premiers secours, les urgences et la protection de l’enfance, y compris la personne à contacter si le responsable habituel est absent. Demandez au responsable si un contact ou une étape n’est pas clair."
+              "text": "1. Que ferez-vous d’abord pour rendre l’espace plus sûr ? Quelle tâche précise demanderez-vous au collègue ? Suivez les règles de sécurité de l’école si nécessaire. Ne jouez pas la scène de course et n’essayez pas de techniques physiques."
             },
             {
               "type": "li",
-              "text": "Dites qui reste avec Ben, qui surveille le groupe et comment demander de l’aide. Faites confirmer son rôle par votre collègue. Ne soulevez pas de meubles, ne jouez pas une agression et n’essayez pas de techniques physiques."
+              "text": "2. Que direz-vous et que ferez-vous quand Lina repousse votre main ? Pensez à vérifier les blessures et les besoins de soin. Suivez les règles de premiers secours de l’école si nécessaire."
             },
             {
               "type": "li",
-              "text": "Décrivez un retour au jeu en douceur, une chose à apprendre plus tard et un changement à faire avant la fin du prochain jeu. Trouvez où l’incident serait noté de manière sécurisée."
+              "text": "3. Comment répondrez-vous quand Lina refuse l’exercice de respiration et pointe vers le livre ? Expliquez comment vous l’aiderez à reprendre une activité connue quand elle sera prête."
+            },
+            {
+              "type": "li",
+              "text": "4. Que pourriez-vous montrer ou essayer avec elle plus tard, pendant un jeu agréable ? Que changeront les adultes avant le prochain jeu de course ?"
             },
             {
               "type": "h",
-              "text": "Vérifiez votre réponse",
+              "text": "Exemple de réponse : une façon de réagir",
               "role": "feedback"
             },
             {
               "type": "p",
-              "text": "Demander l’aide de personnes formées et protéger les personnes passent d’abord. Réconforter, apprendre et réparer sont des tâches différentes. Suivez les règles autorisées de l’école à chaque étape ; une bonne réponse dans cette formation n’autorise pas une intervention physique."
+              "text": "Demandez au collègue d’arrêter le jeu de course et de guider le groupe vers un espace de jeu dégagé ; attendez son accord. Restez disponible pour Lina, arrêtez le contact proposé et dites : « Je te laisse de la place. Je suis là. » Vérifiez si quelqu’un est blessé et apportez les soins nécessaires ou demandez-les. Appelez sans attendre les personnes formées prévues si le danger est grave. Quand l’espace est sûr, suivez ce que Lina pointe : « On peut regarder le livre. » Arrêtez de proposer l’exercice et asseyez-vous près d’elle si elle veut votre présence. Plus tard, montrez comment demander de l’aide pour reconstruire, sans exiger d’excuses. Prévoyez avec l’enseignant comment éloigner les jeux de course du coin des cubes. Suivez les règles de l’école pour noter et signaler ce qui s’est passé. Cette formation n’autorise pas d’intervention physique."
             }
           ]
         }
@@ -562,23 +602,23 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Pendant un jeu agréable, un adulte utilise sa propre boîte : « Ma boîte est coincée. Je vais demander de l’aide. » Il montre le signe d’aide connu de l’enfant ; un collègue ouvre la boîte. L’enfant peut regarder ou essayer. Cela apprend une action précise ; « rester calme tout l’après-midi » est trop large."
+              "text": "Utilisez une boîte en plastique avec un couvercle et une voiture jouet de grande taille, adaptée à l’âge. Réservez-les à la démonstration des adultes. Le couvercle doit rester facile à ouvrir pour un adulte. Pendant un jeu agréable, un adulte met la voiture dans la boîte et dit à un collègue : « Je veux sortir la voiture. Tu peux m’aider à ouvrir le couvercle ? » Il utilise en même temps le signe ou l’image d’aide que l’enfant connaît déjà. Le collègue ouvre aussitôt la boîte et lui donne la voiture. L’enfant peut regarder, participer ou quitter l’activité. Cela montre précisément ce qui se passe quand on demande de l’aide."
             },
             {
               "type": "li",
-              "text": "Demandez à l’enseignant quels mots, gestes, signes, images ou appareil l’enfant utilise déjà. Utilisez ce moyen au lieu d’ajouter une nouvelle carte sans conseil."
+              "text": "Demandez à l’enseignant, à la famille et, s’il intervient, à l’orthophoniste, le professionnel qui aide l’enfant à communiquer, quels mots, gestes, signes, images ou appareil l’enfant utilise déjà. Utilisez ce moyen connu au lieu d’ajouter une nouvelle carte sans conseil."
             },
             {
               "type": "li",
-              "text": "Montrez avec votre propre matériel. Ne retenez jamais la nourriture, l’aide nécessaire ou un jouet apprécié pour mettre l’enfant en difficulté afin de s’entraîner."
+              "text": "Utilisez la boîte et le jouet réservés à la démonstration des adultes. Ne serrez pas le couvercle de la boîte d’un enfant, ne cachez pas un jouet qu’il utilise et ne créez pas de frustration pour le faire demander. Ne retardez jamais la nourriture, les soins ou l’aide nécessaire pour un exercice."
             },
             {
               "type": "li",
-              "text": "Proposez de regarder, de faire ensemble ou d’essayer à son tour. Simplifiez ou arrêtez si l’enfant est mal à l’aise. Ne déplacez pas ses mains pour lui faire faire le signe."
+              "text": "Proposez de regarder, de faire ensemble ou d’essayer à son tour avec la boîte de démonstration. Simplifiez ou arrêtez si l’enfant est mal à l’aise. Ne déplacez pas ses mains pour lui faire faire le signe."
             },
             {
               "type": "li",
-              "text": "Recommencez brièvement dans des moments agréables de la journée. Dites ce qui a marché : « Tu m’as passé la boîte. Ça m’a montré que tu avais besoin d’aide. »"
+              "text": "Quand un vrai besoin d’aide se présente, répondez tout de suite. Vous pouvez dire : « Tu m’as donné ta boîte à goûter. Je vais ouvrir le couvercle. » L’enfant n’a pas à copier un signe ni à utiliser une image avant de recevoir de l’aide."
             },
             {
               "type": "li",
@@ -586,7 +626,7 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Quand cela devient familier, essayez une autre boîte ou avec un autre adulte connu. Gardez l’aide disponible et redonnez des rappels si besoin."
+              "text": "Quand la demande d’aide devient familière, montrez-la avec une autre boîte facile à ouvrir, réservée à la démonstration, ou avec un autre adulte connu. Gardez l’aide disponible ; ne rendez pas la tâche plus difficile pour tester l’enfant."
             },
             {
               "type": "p",
@@ -610,7 +650,7 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "De 3 à 6 ans : deux marionnettes veulent la même pelle. Montrez comment demander de l’aide ou trouver une autre pelle. Invitez les enfants à proposer une autre fin avec des mots ou des gestes. Ils peuvent aussi regarder. Arrêtez si l’intérêt diminue. N’exigez pas de partage ou d’affection contre la volonté de l’enfant."
+              "text": "De 3 à 6 ans : utilisez deux marionnettes et deux voitures jouets. Une marionnette joue avec une voiture ; l’autre demande la même. Montrez l’adulte qui aide la deuxième marionnette à trouver la voiture disponible. Invitez les enfants à proposer une autre fin avec des mots ou des gestes. Ils peuvent regarder ou arrêter. Ne prenez pas le jouet d’un enfant et n’imposez ni partage, ni contact, ni affection pour jouer l’histoire."
             },
             {
               "type": "h",
@@ -630,15 +670,15 @@ window.COURSE_FR={
             },
             {
               "type": "p",
-              "text": "Sofia, quatre ans, utilise une carte d’aide pendant une leçon calme. Au goûter, sa boîte ne s’ouvre pas. Elle pleure et la repousse. La carte est toujours dans un tiroir."
+              "text": "Sofia, quatre ans, utilise une carte d’aide connue pendant un jeu agréable. Au goûter, elle n’arrive pas à ouvrir le couvercle de sa boîte à goûter, qui contient sa nourriture. Elle pleure et repousse la boîte. La carte est toujours dans un tiroir."
             },
             {
               "type": "p",
-              "text": "L’adulte répond tout de suite : « Le couvercle est coincé. Je peux t’aider. » Il n’attend pas d’aller chercher la carte pour ouvrir la boîte. Plus tard, il montre comment demander de l’aide avec sa propre boîte. Sofia peut regarder ou essayer."
+              "text": "L’adulte répond tout de suite : « Le couvercle est coincé. Je peux t’aider. » Il ouvre aussitôt la boîte à goûter de Sofia pour qu’elle puisse manger, sans attendre d’aller chercher la carte. Plus tard, pendant un jeu agréable, deux adultes montrent la demande d’aide avec leur boîte de démonstration et une voiture jouet, comme à la page précédente. L’un demande et le collègue ouvre le couvercle. Sofia peut regarder ou participer, sans pression."
             },
             {
               "type": "p",
-              "text": "Au goûter suivant, le personnel met la carte connue à portée de main et prévoit qui répond. Passer la boîte ou pointer compte aussi. Montrez cette habitude à un remplaçant connu. Vérifiez si Sofia reçoit l’aide nécessaire pour manger, pas seulement si elle arrête de pleurer."
+              "text": "Au goûter suivant, le personnel met la carte d’aide connue à portée de main de Sofia et prévoit qui répond. Passer la boîte à goûter ou pointer compte aussi. Montrez à un adulte remplaçant qui connaît Sofia comment répondre. Vérifiez si Sofia reçoit l’aide nécessaire pour manger et semble à l’aise, pas seulement si elle arrête de pleurer."
             },
             {
               "type": "h",
@@ -646,7 +686,7 @@ window.COURSE_FR={
             },
             {
               "type": "li",
-              "text": "Dites comment vous aideriez maintenant. Montrez ensuite comment demander de l’aide avec votre propre boîte et faites répondre un collègue."
+              "text": "Dites et montrez comment vous aideriez Sofia à ouvrir sa boîte à goûter maintenant. Ensuite, montrez la demande d’aide connue avec une boîte réservée aux adultes, un couvercle facile à ouvrir et une grande voiture jouet. Un collègue ouvre la boîte aussitôt. La nourriture et les jouets de Sofia restent disponibles ; ne créez pas de difficulté qu’elle devrait résoudre."
             },
             {
               "type": "li",
@@ -907,16 +947,16 @@ window.COURSE_FR={
       "why": "Priya peut refuser le contact et avoir encore besoin de compagnie. Arrêtez le contact, restez disponible et maintenez les soins et la surveillance."
     },
     {
-      "q": "Un enfant ne veut pas essayer un exercice de respiration connu. Que devez-vous faire ?",
+      "q": "Un enfant de quatre ans a déjà essayé cet exercice facultatif avec un adulte : inspirer sans effort, puis souffler doucement. Aujourd’hui, il fait non de la tête quand on le lui propose. Que devez-vous faire ?",
       "options": [
         "Répéter la consigne jusqu’à ce qu’il le fasse.",
         "Retirer son aide à la communication.",
-        "Expliquer que respirer est le seul moyen de se calmer.",
-        "Proposer une autre aide connue, simplifier la tâche et lui laisser du temps."
+        "Expliquer que cet exercice de respiration est le seul moyen de se calmer.",
+        "Arrêter de proposer l’exercice, réduire le bruit ou la pression et proposer votre présence, de l’espace ou une autre aide connue."
       ],
       "answer": 3,
       "critical": true,
-      "why": "Une activité de retour au calme est une proposition. L’enfant n’a pas à la faire pour recevoir de l’aide. Utilisez ce qui convient à cet enfant maintenant."
+      "why": "L’enfant refuse un exercice ; il ne refuse pas de respirer normalement. Acceptez son « non », maintenez les soins et la surveillance et proposez une aide adaptée à ce moment. Cet exercice n’est jamais obligatoire avant le réconfort, la nourriture ou le retour au jeu."
     },
     {
       "q": "Un enfant risque immédiatement de blesser gravement quelqu’un. Quelle est la priorité ?",
@@ -967,16 +1007,16 @@ window.COURSE_FR={
       "why": "La fin du danger ne veut pas dire que Ben est prêt à discuter ou à apprendre. Redonnez-lui du confort et aidez-le à revenir quand il est prêt. Une explication ou des excuses ne sont pas une condition pour rejoindre le groupe."
     },
     {
-      "q": "Sofia utilise un signe ou une image d’aide pendant un jeu agréable, mais pas au goûter. Comment l’aider à l’utiliser aussi au goûter ?",
+      "q": "Sofia utilise un signe ou une image d’aide connus pendant un jeu agréable. Au goûter, elle n’arrive pas à ouvrir sa boîte et la pousse vers un adulte. Comment le personnel peut-il l’aider maintenant et faciliter sa prochaine demande ?",
       "options": [
         "Répéter la leçon jusqu’à ce qu’elle l’utilise seule avant de réessayer le goûter.",
         "Lui proposer plusieurs nouvelles images d’aide quand elle est bouleversée.",
-        "Aider maintenant, mettre le signe ou l’image connus au goûter, montrer leur utilisation quand c’est utile et veiller à la réponse des adultes.",
+        "Ouvrir la boîte à goûter maintenant, garder l’image connue à portée de main et veiller à ce que les adultes reconnaissent ses signes ou gestes et y répondent.",
         "Garder définitivement le goûter à la table d’apprentissage pour qu’elle n’ait jamais besoin du signe ailleurs."
       ],
       "answer": 2,
       "critical": false,
-      "why": "Une leçon d’entraînement et un vrai goûter sont différents. Gardez l’image connue à portée de main et un adulte prêt à aider. Répondez aussi à un autre geste compréhensible."
+      "why": "Sofia demande déjà de l’aide par son geste. Ouvrez sa boîte à goûter pour qu’elle puisse manger. Gardez son moyen de communication habituel disponible au goûter et montrez à tout adulte remplaçant comment répondre. Plus tard, les adultes peuvent montrer la demande d’aide avec une autre boîte contenant un jouet. Ne retardez jamais la nourriture pour un exercice."
     },
     {
       "q": "Un enfant utilise surtout des gestes plutôt que la parole. Qu’est-ce qui compte comme une demande d’aide ?",

@@ -12,7 +12,6 @@ window.COURSE_UI={
     "sideMeta": "About 75 minutes · 6 modules",
     "progress": "Your progress",
     "navLabel": "Course navigation",
-    "contactsNav": "Safeguarding contacts",
     "home": "Course overview",
     "assessment": "Final quiz",
     "results": "Results & certificate",
@@ -128,13 +127,6 @@ window.COURSE_UI={
     "criticalQuestion": "Key safety question",
     "yourAnswer": "Your answer:",
     "bestAnswer": "Best choice:",
-    "contactRoutes": "School reporting routes",
-    "knowContact": "Know who to contact",
-    "contactLead": "Check who you should ask for everyday help, a child-safety concern or an emergency. Know the backup person too.",
-    "noIncident": "Do not report an incident through this course",
-    "contactNotice": "For a real concern, use your school’s child-safety reporting steps. For immediate danger, get urgent help through your school’s emergency arrangements. Do not report it in this course.",
-    "toConfirm": "To be confirmed",
-    "contactPlaceholders": "Contact placeholders are intentional. No unverified names, email addresses or telephone numbers have been added.",
     "storageError": "This browser cannot save progress. Keep this page open or download your review record.",
     "chooseFirst": "Choose a response first.",
     "draftFinal": "Draft saved · save your final response below",
@@ -214,32 +206,6 @@ window.COURSE_UI={
     "emailGreeting": "Dear Head,",
     "emailIntro": "Please find my Helping Young Children Regulate – Level 1 results below. My written tasks were completed but not marked. The certificate records online learning only. I will follow the school’s rules and each child’s agreed plan when using what I have learned.",
     "emailReady": "Prepared email ready. It has NOT been sent. Open it in your email application, check the recipient and send. If your app cannot edit .eml files, attach the full results and certificate to a new email. Tap the link if the download did not start: ",
-    "contactCards": [
-      [
-        "Class teacher / ELS lead",
-        "Ask about everyday routines, what helps each child, who watches the group and how to speak with families."
-      ],
-      [
-        "Learning-support / inclusion lead",
-        "This person helps arrange extra support with learning, communication or other needs. Ask the teacher who to contact and what information to share."
-      ],
-      [
-        "Child-safety / safeguarding lead",
-        "Tell this person if you think a child has been harmed, is not getting needed care, tells you about harm, or an adult’s behaviour worries you."
-      ],
-      [
-        "Backup reporting person",
-        "Know who to tell if the usual lead is away, the concern is about that person, or the concern has not been acted on. Use the other reporting route named in school policy."
-      ],
-      [
-        "Head / staff support",
-        "Ask for help, a safe handover or further training when you need it. Concerns about an adult’s conduct follow the school’s reporting steps."
-      ],
-      [
-        "Emergency / first-aid help",
-        "Know how to call trained help straight away, who watches the other children and how to get emergency medical help."
-      ]
-    ],
     "courseLevel": "Level 1",
     "translationReviewTitle": "Translation awaiting review",
     "translationReviewNotice": "This draft translation needs review by a fluent speaker with early-years and safeguarding expertise. If wording is unclear, check the English source and ask your school lead before applying it.",
@@ -369,7 +335,9 @@ window.COURSE_UI={
     "evidenceNotesTitle": "About the guidance",
     "resourceUse": "How to use it",
     "resourceAccess": "Before you use it",
-    "blankWriting": "Space to write after printing"
+    "blankWriting": "Space to write after printing",
+    "response4": "Use Lina’s story and the four questions above. Explain your first safety step, what you would say, how you would support her return, and what you would change or practise later.",
+    "response4Title": "Your answer about Lina"
   },
   "fr": {
     "courseTitle": "Aider les jeunes enfants à réguler leurs émotions – Niveau 1",
@@ -384,7 +352,6 @@ window.COURSE_UI={
     "sideMeta": "Environ 75 minutes · 6 modules",
     "progress": "Votre progression",
     "navLabel": "Navigation de la formation",
-    "contactsNav": "Contacts pour la sécurité des enfants",
     "home": "Vue d’ensemble",
     "assessment": "Questionnaire final",
     "results": "Résultats et attestation",
@@ -500,13 +467,6 @@ window.COURSE_UI={
     "criticalQuestion": "Question essentielle à la sécurité",
     "yourAnswer": "Votre réponse :",
     "bestAnswer": "Meilleure réponse :",
-    "contactRoutes": "Procédures de signalement de l’établissement",
-    "knowContact": "Sachez qui contacter",
-    "contactLead": "Vérifiez qui contacter pour une aide quotidienne, une inquiétude concernant la sécurité d’un enfant ou une urgence. Sachez aussi qui remplace cette personne.",
-    "noIncident": "Ne signalez aucun incident par l’intermédiaire de cette formation",
-    "contactNotice": "Pour une inquiétude réelle, suivez les étapes de signalement de votre école pour la sécurité des enfants. En cas de danger immédiat, demandez une aide urgente selon les règles de l’école. Ne signalez pas l’incident dans cette formation.",
-    "toConfirm": "À confirmer",
-    "contactPlaceholders": "Les emplacements réservés aux contacts sont intentionnels. Aucun nom, adresse électronique ou numéro de téléphone non vérifié n’a été ajouté.",
     "storageError": "Ce navigateur ne peut pas enregistrer votre progression. Gardez cette page ouverte ou téléchargez votre dossier de formation.",
     "chooseFirst": "Choisissez d’abord une réponse.",
     "draftFinal": "Brouillon enregistré · enregistrez votre réponse définitive ci-dessous",
@@ -586,32 +546,6 @@ window.COURSE_UI={
     "emailGreeting": "À l’attention de la direction,",
     "emailIntro": "Veuillez trouver ci-dessous mes résultats pour Aider les jeunes enfants à réguler leurs émotions – Niveau 1. Mes exercices écrits sont terminés mais ne sont pas notés. L’attestation porte seulement sur l’apprentissage en ligne. Pour utiliser ce que j’ai appris, je suivrai les règles de l’école et le plan d’aide convenu pour chaque enfant.",
     "emailReady": "Le courriel préparé est prêt. Il n’a PAS été envoyé. Ouvrez-le dans votre messagerie, vérifiez le destinataire puis envoyez-le. Si votre application ne permet pas de modifier les fichiers .eml, joignez les résultats complets et l’attestation à un nouveau courriel. Appuyez sur le lien si le téléchargement n’a pas démarré : ",
-    "contactCards": [
-      [
-        "Enseignant de la classe / responsable ELS",
-        "Demandez comment se passe la journée, ce qui aide chaque enfant, qui surveille le groupe et comment parler avec les familles."
-      ],
-      [
-        "Responsable de l’aide aux apprentissages / de l’inclusion",
-        "Cette personne organise une aide supplémentaire pour les apprentissages, la communication ou d’autres besoins. Demandez à l’enseignant qui contacter et quelles informations transmettre."
-      ],
-      [
-        "Responsable de la sécurité / de la protection des enfants",
-        "Prévenez cette personne si vous pensez qu’un enfant a subi du mal, ne reçoit pas les soins nécessaires, vous raconte qu’on lui a fait du mal, ou si le comportement d’un adulte vous inquiète."
-      ],
-      [
-        "Autre personne à prévenir",
-        "Sachez qui prévenir si le responsable habituel est absent, si l’inquiétude le concerne ou si personne n’a donné suite. Utilisez l’autre contact prévu par les règles de l’école."
-      ],
-      [
-        "Direction / aide au personnel",
-        "Demandez de l’aide, un relais sûr ou une formation supplémentaire quand vous en avez besoin. Suivez les étapes de signalement de l’école pour toute inquiétude sur le comportement d’un adulte."
-      ],
-      [
-        "Urgences / premiers secours",
-        "Sachez comment appeler tout de suite une personne formée, qui surveille les autres enfants et comment obtenir une aide médicale urgente."
-      ]
-    ],
     "courseLevel": "Niveau 1",
     "translationReviewTitle": "Traduction provisoire en attente de révision",
     "translationReviewNotice": "Cette traduction est un brouillon non approuvé. Elle doit être relue par une personne maîtrisant couramment le français et possédant une expertise en petite enfance et en protection de l’enfance. Si une formulation n’est pas claire, consultez la source anglaise et demandez conseil au responsable de votre école avant de l’appliquer.",
@@ -741,7 +675,9 @@ window.COURSE_UI={
     "evidenceNotesTitle": "À propos des conseils",
     "resourceUse": "Comment l’utiliser",
     "resourceAccess": "Avant de l’utiliser",
-    "blankWriting": "Espace pour écrire après impression"
+    "blankWriting": "Espace pour écrire après impression",
+    "response4": "Appuyez-vous sur l’histoire de Lina et les quatre questions ci-dessus. Expliquez votre première action pour la sécurité, ce que vous diriez, comment vous l’aideriez à reprendre une activité et ce que vous changeriez ou lui montreriez plus tard.",
+    "response4Title": "Votre réponse pour Lina"
   },
   "mfe": {
     "courseTitle": "Ed bann tipti zanfan avek zot lemosion – Nivo 1",
@@ -756,7 +692,6 @@ window.COURSE_UI={
     "sideMeta": "Anviron 75 minit · 6 modil",
     "progress": "Ou progre",
     "navLabel": "Navigasion dan formasion",
-    "contactsNav": "Kontak pou proteksion zanfan",
     "home": "Apersi formasion",
     "assessment": "Kestioner final",
     "results": "Rezilta ek sertifika",
@@ -872,13 +807,6 @@ window.COURSE_UI={
     "criticalQuestion": "Kestion esansiel lor sekirite",
     "yourAnswer": "Ou repons:",
     "bestAnswer": "Meyer repons:",
-    "contactRoutes": "Bann prosedir lekol pou signale",
-    "knowContact": "Kone kisannla pou kontakte",
-    "contactLead": "Verifye kisannla pou demann led toulezour, kisannla pou averti si ou per pou sekirite enn zanfan ek kisannla pou apele dan enn ka irzan. Konn dimounn ki pran rele osi.",
-    "noIncident": "Pa servi sa formasion-la pou signale enn insidan",
-    "contactNotice": "Pou enn vre inkietid, swiv bann letap ou lekol pou signal enn problem ki konsern sekirite enn zanfan. Si ena enn danze imedia, rod led irzan dapre bann dispozision lekol. Pa servi sa formasion-la pou signal li.",
-    "toConfirm": "Ankor pou konfirme",
-    "contactPlaceholders": "Bann plas pou bann kontak finn les vid exprè. Okenn nom, ladres imel ouswa nimero telefonn ki pa finn verifye pa finn azoute.",
     "storageError": "Sa navigater-la pa kapav anrezistre ou progre. Gard sa paz-la ouver ouswa telesarz ou dokiman revizion.",
     "chooseFirst": "Swazir enn repons avan.",
     "draftFinal": "Brouyon anrezistre · anrezistre ou repons final anba",
@@ -958,32 +886,6 @@ window.COURSE_UI={
     "emailGreeting": "Bonzour responsab lekol,",
     "emailIntro": "Silvouple trouv mo rezilta pou Ed bann tipti zanfan avek zot lemosion – Nivo 1 anba. Mo bann travay ekri finn termine me pa finn gagn not. Sertifika-la konsern zis laprantisaz an-lign. Mo pou swiv bann reg lekol ek plan ki finn dakor pou sak zanfan kan mo servi seki mo finn aprann.",
     "emailReady": "Imel ki finn prepare pare. Li PA finn anvwaye. Ouver li dan ou aplikasion imel, verifye destinater-la ek anvway li. Si ou aplikasion pa kapav modifie bann fisie .eml, atas bann rezilta konplet ek sertifika-la dan enn nouvo imel. Klik lor lien-la si telesarzman pa finn koumanse: ",
-    "contactCards": [
-      [
-        "Ansegnan klas / responsab ELS",
-        "Demann li lor bann routinn toulezour, seki ed sak zanfan, kisannla vey group-la ek kouma koz avek bann fami."
-      ],
-      [
-        "Responsab led pou aprann / inklizion",
-        "Sa dimounn-la organiz led anplis pou aprann, kominike ouswa lezot bezwen. Demann ansegnan-la kisannla pou kontakte ek ki linformasion pou partaze."
-      ],
-      [
-        "Responsab sekirite / proteksion zanfan",
-        "Averti sa dimounn-la si ou krwar enn zanfan finn gagn ditor, li pa pe gagn swen neseser, li dir ou enn dimounn finn fer li ditor ouswa konportman enn adilt trakase ou."
-      ],
-      [
-        "Dimounn ki pran rele pou bann signalman",
-        "Kone kisannla pou averti si responsab abitie-la pa la, inkietid-la konsern li ouswa personn pa finn azir lor inkietid-la. Servi lot kontak ki bann reg lekol donn ou."
-      ],
-      [
-        "Responsab lekol / soutien personel",
-        "Demann led, enn dimounn pou pran rele dan enn fason sir ouswa plis formasion kan ou bizin. Pou enn inkietid lor konportman enn adilt, swiv bann letap lekol pou signal li."
-      ],
-      [
-        "Led irzan / premie sekour",
-        "Kone kouma apel enn dimounn forme deswit, kisannla vey lezot zanfan ek kouma gagn led medikal irzan."
-      ]
-    ],
     "courseLevel": "Nivo 1",
     "translationReviewTitle": "Tradiksion brouyon ankor pou verifye",
     "translationReviewNotice": "Sa tradiksion-la enn brouyon ki pa finn aprouve. Li bizin enn revizion par enn dimounn ki metrize Kreol Morisien ek ki ena lexpertiz dan ledikasion tipti zanfan ek proteksion zanfan. Si enn fraz pa kler, verifye version angle ek demann responsab ou lekol konsey avan ou aplik li.",
@@ -1113,6 +1015,8 @@ window.COURSE_UI={
     "evidenceNotesTitle": "Lor sa bann konsey-la",
     "resourceUse": "Kouma servi li",
     "resourceAccess": "Avan ou servi li",
-    "blankWriting": "Lespas pou ekrir apre inpresion"
+    "blankWriting": "Lespas pou ekrir apre inpresion",
+    "response4": "Servi zistwar Lina ek bann kat kestion lao. Explik ou premie letap pou sekirite, seki ou ti pou dir, kouma ou ti pou ed li revinn partisipe ek seki ou ti pou sanze ouswa pratik pli tar.",
+    "response4Title": "Ou repons lor Lina"
   }
 };

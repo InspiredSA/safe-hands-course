@@ -11,7 +11,6 @@
   "sideMeta": "Environ 75 minutes · 6 modules",
   "progress": "Votre progression",
   "navLabel": "Navigation de la formation",
-  "contactsNav": "Contacts pour la sécurité des enfants",
   "home": "Vue d’ensemble",
   "assessment": "Questionnaire final",
   "results": "Résultats et attestation",
@@ -127,13 +126,6 @@
   "criticalQuestion": "Question essentielle à la sécurité",
   "yourAnswer": "Votre réponse :",
   "bestAnswer": "Meilleure réponse :",
-  "contactRoutes": "Procédures de signalement de l’établissement",
-  "knowContact": "Sachez qui contacter",
-  "contactLead": "Vérifiez qui contacter pour une aide quotidienne, une inquiétude concernant la sécurité d’un enfant ou une urgence. Sachez aussi qui remplace cette personne.",
-  "noIncident": "Ne signalez aucun incident par l’intermédiaire de cette formation",
-  "contactNotice": "Pour une inquiétude réelle, suivez les étapes de signalement de votre école pour la sécurité des enfants. En cas de danger immédiat, demandez une aide urgente selon les règles de l’école. Ne signalez pas l’incident dans cette formation.",
-  "toConfirm": "À confirmer",
-  "contactPlaceholders": "Les emplacements réservés aux contacts sont intentionnels. Aucun nom, adresse électronique ou numéro de téléphone non vérifié n’a été ajouté.",
   "storageError": "Ce navigateur ne peut pas enregistrer votre progression. Gardez cette page ouverte ou téléchargez votre dossier de formation.",
   "chooseFirst": "Choisissez d’abord une réponse.",
   "draftFinal": "Brouillon enregistré · enregistrez votre réponse définitive ci-dessous",
@@ -213,32 +205,6 @@
   "emailGreeting": "À l’attention de la direction,",
   "emailIntro": "Veuillez trouver ci-dessous mes résultats pour Aider les jeunes enfants à réguler leurs émotions – Niveau 1. Mes exercices écrits sont terminés mais ne sont pas notés. L’attestation porte seulement sur l’apprentissage en ligne. Pour utiliser ce que j’ai appris, je suivrai les règles de l’école et le plan d’aide convenu pour chaque enfant.",
   "emailReady": "Le courriel préparé est prêt. Il n’a PAS été envoyé. Ouvrez-le dans votre messagerie, vérifiez le destinataire puis envoyez-le. Si votre application ne permet pas de modifier les fichiers .eml, joignez les résultats complets et l’attestation à un nouveau courriel. Appuyez sur le lien si le téléchargement n’a pas démarré : ",
-  "contactCards": [
-    [
-      "Enseignant de la classe / responsable ELS",
-      "Demandez comment se passe la journée, ce qui aide chaque enfant, qui surveille le groupe et comment parler avec les familles."
-    ],
-    [
-      "Responsable de l’aide aux apprentissages / de l’inclusion",
-      "Cette personne organise une aide supplémentaire pour les apprentissages, la communication ou d’autres besoins. Demandez à l’enseignant qui contacter et quelles informations transmettre."
-    ],
-    [
-      "Responsable de la sécurité / de la protection des enfants",
-      "Prévenez cette personne si vous pensez qu’un enfant a subi du mal, ne reçoit pas les soins nécessaires, vous raconte qu’on lui a fait du mal, ou si le comportement d’un adulte vous inquiète."
-    ],
-    [
-      "Autre personne à prévenir",
-      "Sachez qui prévenir si le responsable habituel est absent, si l’inquiétude le concerne ou si personne n’a donné suite. Utilisez l’autre contact prévu par les règles de l’école."
-    ],
-    [
-      "Direction / aide au personnel",
-      "Demandez de l’aide, un relais sûr ou une formation supplémentaire quand vous en avez besoin. Suivez les étapes de signalement de l’école pour toute inquiétude sur le comportement d’un adulte."
-    ],
-    [
-      "Urgences / premiers secours",
-      "Sachez comment appeler tout de suite une personne formée, qui surveille les autres enfants et comment obtenir une aide médicale urgente."
-    ]
-  ],
   "courseLevel": "Niveau 1",
   "translationReviewTitle": "Traduction provisoire en attente de révision",
   "translationReviewNotice": "Cette traduction est un brouillon non approuvé. Elle doit être relue par une personne maîtrisant couramment le français et possédant une expertise en petite enfance et en protection de l’enfance. Si une formulation n’est pas claire, consultez la source anglaise et demandez conseil au responsable de votre école avant de l’appliquer.",
@@ -368,5 +334,7 @@
   "evidenceNotesTitle": "À propos des conseils",
   "resourceUse": "Comment l’utiliser",
   "resourceAccess": "Avant de l’utiliser",
-  "blankWriting": "Espace pour écrire après impression"
+  "blankWriting": "Espace pour écrire après impression",
+  "response4": "Appuyez-vous sur l’histoire de Lina et les quatre questions ci-dessus. Expliquez votre première action pour la sécurité, ce que vous diriez, comment vous l’aideriez à reprendre une activité et ce que vous changeriez ou lui montreriez plus tard.",
+  "response4Title": "Votre réponse pour Lina"
 }

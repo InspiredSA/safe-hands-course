@@ -22,7 +22,7 @@ window.COURSE_TOOLKIT={
         "adultExpectation": "Expect strong wishes and a need for help when things go wrong. Knowing a rule does not mean a young child can follow it while upset.",
         "before": "Show what will happen next. Offer a small choice you can keep, such as which basket to carry. Avoid a long wait and have a familiar way for the child to ask for help.",
         "during": "Use a short sentence and practical help. Keep both children safe if there is a disagreement. If the child does not want a cuddle, stay nearby without forcing touch.",
-        "after": "Help the child return to play. Later, show one useful action, such as bringing a stuck toy to an adult. Keep the explanation short.",
+        "after": "Help the child return to familiar play. If a large toy car rolls under a table, notice the child pointing and retrieve it safely. Later, show pointing towards the car and saying “Help.” They do not have to carry it over or use a special word. Do not put a child’s toy out of reach to create a practice problem.",
         "script": "“You wanted that truck. I can sit here.” Later: “I can help. You can show me.”",
         "activityTitle": "Help the teddy",
         "activity": "Use an age-safe teddy and basket. Show how teddy asks for help using the child’s familiar word, sign or gesture. Help teddy put one toy in. Let the child join or watch. Do not withhold help while waiting for the child to copy the signal."
@@ -198,7 +198,7 @@ window.COURSE_TOOLKIT={
       "Which part of the day is hard? What do you see the child do?",
       "What can adults change before that part of the day?",
       "What will you say first? What help can you offer?",
-      "Who watches the group? Who do you call for help or an emergency?",
+      "How will adults keep the child and group safely supervised? Follow the school’s existing help and emergency arrangements.",
       "What small skill can you show the child later, when settled?",
       "What do the child and family suggest? Who will check the plan, and when?"
     ],
@@ -254,7 +254,28 @@ window.COURSE_TOOLKIT={
         "use": "Look at the example of pictures showing a day’s activities. Compare it with the simple now/next example above.",
         "access": "Free account may be required. This branded resource is not independent evidence for all programme claims."
       }
-    ]
+    ],
+    "communicationTitle": "AAC: more ways to communicate",
+    "communicationIntro": "AAC stands for augmentative and alternative communication. It means ways to communicate alongside speech or instead of speech. A child might use gestures, pictures, signs or a device that speaks. It does not mean picture cards only.",
+    "communicationSteps": [
+      "Ask the teacher, family and speech and language therapist, if involved, which words, signs, pictures or device the child already uses and how to respond. Keep the usual system within reach during play, care and upset.",
+      "Use the child’s familiar way while you help. For example, point to their usual help picture and say “Help” while opening a lid they cannot open. They can watch. Do not take their hand and make them point.",
+      "Respond to reaching, looking, pointing, sounds and speech too. No card, correct word, eye contact or demonstration is required before help, drink, food, toileting or comfort.",
+      "A break means a pause with an adult still watching and available to help. If one place is unsafe or occupied, explain briefly and offer a safe alternative together."
+    ],
+    "communicationWarning": "These sample cards may not be meaningful to a child yet. Choose or adapt them with the teacher and the child’s family or communication professional. Keep any existing communication device or system available; do not replace it with this pack.",
+    "printCardsTitle": "Printable communication cards",
+    "printCardsIntro": "Download an A4 pack with simple word-and-picture cards for help, a break and everyday needs, plus space to make familiar cards for your school. Read the adult guide first. The child does not have to use a card before you help.",
+    "printCardsButton": "Download communication cards (A4 PDF)",
+    "printCardsNote": "Print at actual size (100%). These are original sample pictures for school use with children from 12 months; they are not a complete or personalised communication system.",
+    "breathingTitle": "An optional gentle breathing exercise: ages 3–6",
+    "breathingIntro": "This means practising one comfortable breath in and out with an adult. Offer it during a settled, comfortable moment if the preschool child is interested. Check their usual support and health plan. It is not a treatment, a safety response or a required way to calm down.",
+    "breathingSteps": [
+      "Sit comfortably nearby in a quieter place. Ask: “Would you like to watch me take a gentle breath, or try with me?” The child can watch, join or decline through words or a gesture.",
+      "Show one ordinary, comfortable breath in, then let it out slowly and gently at a comfortable pace: “Gently in … gently out.” Do not ask for very deep breaths, force a slower pace, hold the breath, close the eyes or keep going to a count.",
+      "Pause. Offer one more only if the child is comfortable and interested. Stop if they turn away, say no, seem uncomfortable or feel dizzy. Say: “Finished. We can look at the book.” Less sound, company, space or a familiar activity may help instead."
+    ],
+    "breathingWarning": "Declining this exercise is allowed. Keep care, communication, supervision and help available. Never require it before comfort or returning to play. Breathing difficulty or another possible medical emergency needs the school’s first-aid and emergency response immediately, not a breathing exercise."
   },
   "fr": {
     "title": "Quoi faire. Quoi dire.",
@@ -279,7 +300,7 @@ window.COURSE_TOOLKIT={
         "adultExpectation": "Attendez-vous à des envies fortes et à un besoin d’aide quand quelque chose se passe mal. Connaître une règle ne veut pas dire qu’un jeune enfant peut la suivre quand il est bouleversé.",
         "before": "Montrez ce qui va se passer ensuite. Proposez un petit choix que vous pourrez respecter, par exemple le panier à porter. Évitez une longue attente. Prévoyez un moyen connu de demander de l’aide.",
         "during": "Utilisez une phrase courte et une aide concrète. En cas de désaccord, protégez les deux enfants. Si l’enfant ne veut pas de câlin, restez près de lui sans imposer de contact.",
-        "after": "Aidez l’enfant à revenir au jeu. Plus tard, montrez une action utile, comme apporter un jouet coincé à un adulte. Expliquez brièvement.",
+        "after": "Aidez l’enfant à reprendre un jeu connu. Si une grande voiture jouet roule sous une table, remarquez que l’enfant la pointe et récupérez-la sans danger. Plus tard, montrez comment pointer vers la voiture en disant « Aide ». L’enfant n’a pas à vous l’apporter ni à utiliser un mot précis. Ne mettez pas son jouet hors de portée pour créer un problème à résoudre.",
         "script": "« Tu voulais ce camion. Je peux m’asseoir ici. » Plus tard : « Je peux t’aider. Tu peux me montrer. »",
         "activityTitle": "Aider le nounours",
         "activity": "Utilisez un nounours et un panier adaptés à l’âge. Montrez comment le nounours demande de l’aide avec un mot, un signe ou un geste connu de l’enfant. Aidez le nounours à ranger un jouet. Laissez l’enfant participer ou regarder. Ne retardez pas votre aide pour qu’il copie d’abord le signal."
@@ -455,7 +476,7 @@ window.COURSE_TOOLKIT={
       "Quel moment de la journée est difficile ? Que voyez-vous l’enfant faire ?",
       "Que peuvent changer les adultes avant ce moment ?",
       "Que direz-vous d’abord ? Quelle aide pouvez-vous proposer ?",
-      "Qui surveille le groupe ? Qui appelez-vous pour de l’aide ou une urgence ?",
+      "Comment les adultes assureront-ils la surveillance de l’enfant et du groupe ? Suivez l’organisation prévue par l’école pour demander de l’aide ou répondre à une urgence.",
       "Quelle petite action pourrez-vous montrer à l’enfant plus tard, quand il sera calme ?",
       "Que proposent l’enfant et sa famille ? Qui vérifiera le plan, et quand ?"
     ],
@@ -511,7 +532,28 @@ window.COURSE_TOOLKIT={
         "use": "Regardez l’exemple d’images montrant les activités de la journée. Comparez-le avec l’exemple simple « maintenant / ensuite » ci-dessus.",
         "access": "Un compte gratuit peut être nécessaire. Cette ressource de marque ne constitue pas une preuve indépendante de toutes les promesses du programme."
       }
-    ]
+    ],
+    "communicationTitle": "La CAA : d’autres façons de communiquer",
+    "communicationIntro": "La communication alternative et améliorée (CAA) est appelée AAC en anglais, pour « augmentative and alternative communication ». Ce sont des moyens de communiquer en plus de la parole ou à sa place. Un enfant peut utiliser des gestes, des images, des signes ou un appareil qui parle. La CAA ne se limite pas aux cartes illustrées.",
+    "communicationSteps": [
+      "Demandez à l’enseignant, à la famille et, s’il intervient, à l’orthophoniste, le professionnel qui aide l’enfant à communiquer, quels mots, signes, images ou appareil l’enfant utilise déjà et comment y répondre. Gardez ces moyens habituels à portée de main pendant le jeu, les soins et les moments difficiles.",
+      "Utilisez le moyen connu de l’enfant tout en l’aidant. Par exemple, montrez son image habituelle pour demander de l’aide et dites « Aide » pendant que vous ouvrez un couvercle qu’il n’arrive pas à ouvrir. Il peut regarder. Ne prenez pas sa main pour le faire pointer.",
+      "Répondez aussi quand l’enfant tend la main, regarde, pointe, fait des sons ou parle. N’exigez ni carte, ni bon mot, ni regard dans les yeux, ni démonstration avant l’aide, l’eau, la nourriture, l’aide aux toilettes ou le réconfort.",
+      "Une pause signifie interrompre l’activité avec un adulte qui continue à surveiller et reste prêt à aider. Si un endroit est dangereux ou occupé, expliquez-le brièvement et proposez un autre endroit sûr où aller ensemble."
+    ],
+    "communicationWarning": "Ces exemples de cartes n’ont peut-être pas encore de sens pour l’enfant. Choisissez-les ou adaptez-les avec l’enseignant, la famille ou le professionnel qui aide l’enfant à communiquer. Gardez tout appareil ou moyen de communication habituel disponible ; ne le remplacez pas par ces cartes.",
+    "printCardsTitle": "Cartes de communication à imprimer",
+    "printCardsIntro": "Téléchargez un ensemble au format A4 avec des cartes simples, illustrées et accompagnées d’un mot, pour demander de l’aide, une pause ou répondre aux besoins du quotidien. Des espaces vierges permettent de créer des cartes familières pour votre école. Lisez d’abord le guide pour l’adulte. L’enfant n’a pas à utiliser une carte avant de recevoir votre aide.",
+    "printCardsButton": "Télécharger les cartes de communication (PDF A4)",
+    "printCardsNote": "Imprimez à taille réelle (100 %). Ces images originales sont des exemples pour les écoles accueillant des enfants dès 12 mois. Elles ne forment pas un système de communication complet ou adapté à un enfant en particulier.",
+    "breathingTitle": "Un exercice de respiration douce, facultatif : de 3 à 6 ans",
+    "breathingIntro": "Il s’agit d’inspirer puis de souffler une fois, sans effort, avec un adulte. Proposez-le pendant un moment calme où l’enfant de maternelle est à l’aise et intéressé. Vérifiez les aides et les consignes de santé prévues pour lui. Ce n’est ni un traitement, ni une réponse de sécurité, ni une manière obligatoire de se calmer.",
+    "breathingSteps": [
+      "Asseyez-vous confortablement près de l’enfant, dans un endroit plus calme. Demandez : « Tu veux me regarder respirer doucement, ou essayer avec moi ? » Il peut regarder, participer ou refuser par des mots ou un geste.",
+      "Montrez une respiration ordinaire, sans effort : inspirez, puis laissez sortir l’air lentement et doucement, à un rythme confortable. Dites : « On inspire doucement… on souffle doucement. » Ne demandez pas de respirer très profondément, n’imposez pas un rythme plus lent et ne demandez ni de retenir sa respiration, ni de fermer les yeux, ni de continuer jusqu’à un nombre imposé.",
+      "Faites une pause. Proposez une autre respiration seulement si l’enfant est à l’aise et intéressé. Arrêtez s’il se détourne, dit non, semble mal à l’aise ou a la tête qui tourne. Dites : « C’est fini. On peut regarder le livre. » Moins de bruit, votre présence, de l’espace ou une activité connue peuvent mieux l’aider."
+    ],
+    "breathingWarning": "L’enfant a le droit de refuser cet exercice. Les soins, les moyens de communication, la surveillance et l’aide restent disponibles. Ne l’exigez jamais avant le réconfort ou le retour au jeu. Une difficulté à respirer ou une autre possible urgence médicale exige immédiatement les premiers secours et la réponse d’urgence de l’école, pas un exercice de respiration."
   },
   "mfe": {
     "title": "Ki pou fer. Ki pou dir.",
@@ -536,7 +578,7 @@ window.COURSE_TOOLKIT={
         "adultExpectation": "Atann ki zanfan-la anvi sertin zafer bien for ek ki li bizin led kan bann zafer pa pase kouma li anvi. Konn enn reg pa vedir ki enn tipti zanfan kapav swiv li kan li boulverse.",
         "before": "Montre seki pou vini apre. Propoz enn ti swa ki ou kapav respekte, par exanp ki panye li pou sarye. Evit fer li atann lontan ek gard enn fason ki li kone pou demann led.",
         "during": "Servi enn fraz kourt ek ed li an pratik. Gard toulede zanfan an sekirite si ena enn dezakor. Si zanfan-la pa anvi enn kallin, res pre san fors li pou gagn kontak fizik.",
-        "after": "Ed zanfan-la retourn zwe. Pli tar, montre enn aksion itil, par exanp amenn enn zwe ki finn bloke kot enn adilt. Gard explikasion-la kourt.",
+        "after": "Ed zanfan-la retourn dan enn zwe ki li kone. Si enn gran loto zwe roul anba enn latab, remark kan zanfan-la montre li avek ledwa ek repran li dan enn fason sir. Pli tar, montre kouma montre loto-la avek ledwa ek dir “Led”. Li pa bizin amenn li kot ou ni servi enn mo spesial. Pa met zwe enn zanfan kot li pa kapav atrap li pou kree enn problem zis pou pratike.",
         "script": "“To ti anvi sa kamion-la. Mo kapav asiz isi.” Pli tar: “Mo kapav ede. To kapav montre mwa.”",
         "activityTitle": "Ed nounours-la",
         "activity": "Servi enn nounours ek enn panye ki an sekirite pou laz zanfan-la. Montre kouma nounours-la demann led avek enn mo ouswa enn sign ki zanfan-la kone. Ed nounours-la met enn zwe ladan. Les zanfan-la partisipe ouswa gete. Pa refiz led pandan ki ou pe atann zanfan-la kopie sign-la."
@@ -712,7 +754,7 @@ window.COURSE_TOOLKIT={
       "Ki moman lazourne difisil? Ki ou trouv zanfan-la fer?",
       "Ki bann adilt kapav sanze avan sa moman-la?",
       "Ki ou pou dir an premie? Ki led ou kapav propoze?",
-      "Kisannla vey group-la? Kisannla ou apele pou led ouswa enn ka irzan?",
+      "Kouma bann adilt pou kontign vey zanfan-la ek group-la an sekirite? Swiv bann dispozision lekol ki deza ena pou led ek bann ka irzan.",
       "Ki ti zafer ou kapav montre zanfan-la pli tar, kan li alez?",
       "Ki zanfan-la ek so fami propoze? Kisannla pou verifye plan-la, ek kan?"
     ],
@@ -768,6 +810,27 @@ window.COURSE_TOOLKIT={
         "use": "Get lexanp bann zimaz ki montre bann aktivite lazourne. Konpar li avek lexanp sinp aster/apre lao.",
         "access": "Kapav bizin enn kont gratis. Sa resours enn mark presi la pa enn prev indepandan pou tou bann rezilta ki program-la dir li amene."
       }
-    ]
+    ],
+    "communicationTitle": "AAC: plis fason pou kominike",
+    "communicationIntro": "AAC se bann inisial pou “augmentative and alternative communication”. Sa vedir bann fason pou kominike ansam avek ouswa dan plas laparol. Enn zanfan kapav servi bann zes, zimaz, sign ouswa enn laparey ki koze. Sa pa vedir zis bann kart zimaz.",
+    "communicationSteps": [
+      "Demann ansegnan-la, fami-la ek, si ena enn ladan, spesialis ki ed zanfan-la avek laparol ek langaz ki bann mo, sign, zimaz ouswa laparey li deza servi ek kouma reponn. Gard so fason abitie pou kominike kot li kapav servi li pandan zwe, swen ek bann moman difisil.",
+      "Servi fason ki zanfan-la kone pandan ki ou ede. Par exanp, montre so zimaz led abitie ek dir “Led” pandan ki ou ouver enn kouver ki li pa kapav ouver. Li kapav gete. Pa pran so lame pou fors li montre avek ledwa.",
+      "Reponn osi kan li avans so lame, gete, montre avek ledwa, fer bann son ouswa koze. Li pa bizin enn kart, enn mo korek, get dan lizie ouswa fer enn demonstrasion avan gagn led, bwar, manze, led pou al twalet ouswa rekonfor.",
+      "Enn poz vedir arete enn moman pandan ki enn adilt kontign veye ek res disponib pou ede. Si enn plas pa sir ouswa okipe, explik sa dan de-trwa mo ek propoz enn lot plas sir kot zot kapav al ansam."
+    ],
+    "communicationWarning": "Sa bann lexanp kart-la kapav pa ankor vedir nanye pou enn zanfan. Swazir ouswa adapte zot avek ansegnan-la ek fami zanfan-la ouswa spesialis ki ed li kominike. Gard so laparey ouswa fason abitie pou kominike disponib; pa ranplas li avek sa pake kart-la.",
+    "printCardsTitle": "Bann kart pou kominike ki ou kapav inprime",
+    "printCardsIntro": "Telecharg enn pake A4 avek bann kart sinp ki ena enn mo ek enn zimaz pou led, enn poz ek bann bezwen toulezour, ek lespas pou fer bann kart ki bann zanfan ou lekol kone. Lir gid pou bann adilt an premie. Zanfan-la pa bizin servi enn kart avan ou ede.",
+    "printCardsButton": "Telecharg bann kart pou kominike (PDF A4)",
+    "printCardsNote": "Inprim dan vre grander (100%). Sa bann zimaz-la se bann lexanp orizinal pou servi dan lekol avek bann zanfan depi 12 mwa; zot pa enn sistem kominikasion konple ni enn sistem adapte pou enn zanfan presi.",
+    "breathingTitle": "Enn lexersis respirasion dous ki zanfan-la kapav swazir: 3–6 an",
+    "breathingIntro": "Sa vedir pratik enn souf ki rantre ek sorti avek enn adilt, san fors li. Propoz li pandan enn moman kot zanfan preskoler-la poze ek alez, si li interese. Verifye so plan abitie pou led ek lasante. Li pa enn tretman, enn repons pou enn danze ni enn fason obligatwar pou kalme.",
+    "breathingSteps": [
+      "Asiz alez pre li dan enn plas pli trankil. Demande: “To anvi get mwa pran enn souf dousman, ouswa esey avek mwa?” Zanfan-la kapav gete, partisipe ouswa dir non avek bann mo ouswa enn zes.",
+      "Montre enn souf ordiner ki rantre san fors li, apre les li sorti dousman, dan enn ritm ki alez: “Rantre dousman … sorti dousman.” Pa demann bann souf bien profon, pa fors enn ritm pli lant, pa demann li tini so souf, ferm so lizie ouswa kontigne ziska enn sif presi.",
+      "Pran enn poz. Propoz enn ankor zis si zanfan-la alez ek interese. Arete si li detourn li, dir non, paret pa alez ouswa so latet pe tourne. Dir: “Fini. Nou kapav get liv-la.” Dan so plas, mwins tapaz, ou prezans, lespas ouswa enn aktivite ki li kone kapav ede."
+    ],
+    "breathingWarning": "Zanfan-la gagn drwa refiz sa lexersis-la. Gard swen, kominikasion, enn adilt pou veye ek led disponib. Pa zame demann li fer li avan gagn rekonfor ouswa retourn zwe. Si li ena difikilte pou respire ouswa enn lot posib ka medikal irzan, servi bann letap premie sekour ek ka irzan lekol deswit, pa enn lexersis respirasion."
   }
 };
