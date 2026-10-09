@@ -54,3 +54,11 @@ New files are isolated to `/boarding-mentors/`; the existing safeguarding, intim
 The pilot passed 87 deterministic regression checks on 9 October 2026. Coverage includes missing details, recipient checks, required responses, edited-response invalidation, all module gates, 80% threshold, every critical-question failure, retries, attempt history, browser-state reload, corrupt/version-mismatched state, quota failures, certificate identity, Unicode text, HTML escaping, email draft wording, reset confirmation/cancellation and all course routes. JavaScript syntax checks passed. The certificate was rendered with the actual bundled PDF library, local fonts and native canvas; normal and maximum-length names were visually inspected.
 
 These deterministic tests do not replace real browser checks. Live browser QA follows pilot deployment before the link is handed over for review. The source handbook review and final school approval remain separate.
+
+## Live browser verification
+
+The published pilot was exercised in the cloud Chromium browser on 9 October 2026. Verified: all eight modules; missing-field and recipient-mismatch messages; saved form/response/assessment choices on reload; required written responses; wrong-decision feedback; critical-question failure even at 95%; retry and exact 80% pass; declarations; actual full-answer and named PDF downloads; Unicode and literal angle brackets in the exported staff data; stable completion references on reload; and edited-response invalidation/re-comparison. The actual downloaded one-page PDF was rendered and visually inspected.
+
+The responsive layout and navigation were tested at a 388-CSS-pixel viewport using browser zoom, with no horizontal overflow. This is a responsive desktop-browser check, not a physical-phone test. The Head email draft's encoded recipient/body and manual-attachment wording were verified. A real outbound email was not sent. Opening a mailto draft depends on the learner's configured email application; copyable email text provides a fallback.
+
+Both companion handbook downloads were verified byte-for-byte against the approved local files. Reset cancellation preserved the record; confirmed reset cleared this course and stayed cleared after reload.
