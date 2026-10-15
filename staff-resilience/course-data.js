@@ -994,7 +994,7 @@ window.COURSE = {
       {
         "title": "Préserver son attention",
         "bullets": [
-          "Convenez des moments où consulter les informations professionnelles. Désactivez les commentaires non essentiels. Une limite personnelle ne ferme pas les voies de réclamation, de protection de l’enfance ou d’alerte protégée."
+          "Convenez des moments où consulter les informations professionnelles. Désactivez les notifications non essentielles. Une limite personnelle ne ferme pas les voies de réclamation, de protection de l’enfance ou d’alerte protégée."
         ]
       },
       {
